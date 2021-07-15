@@ -26,7 +26,7 @@ def search(num, df, res_container):
             res_container.write (f"Victim: {names[j]}")
             res_container.write(f"{sent2}")
             res_container.write(f"")
-            res_container.write (f" Degree off Similarity: {score}")
+            res_container.write (f" Degree of Similarity: {score}")
             res_container.write(f"")
             res_container.write(f"")
             x=x+1
