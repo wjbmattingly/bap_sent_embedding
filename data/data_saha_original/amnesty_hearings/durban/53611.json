@@ -1,0 +1,2153 @@
+{
+    "header": {
+        "type": "AMNESTY HEARINGS",
+        "starting date": "1999-08-16",
+        "location": "DURBAN",
+        "day": "4",
+        "names": [
+            "S G DU PREEZ"
+        ],
+        "case number": "AM4130/96",
+        "matter": "MURDER OF BLESSING NINELA",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=53611&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/9908100903_dbn_990816db.htm",
+        "speakers": [
+            "ADV BOSMAN",
+            "CHAIRPERSON",
+            "MR LAX",
+            "MR RORICH",
+            "MR VISSER",
+            "MS GABRIEL",
+            "MS THABETHE",
+            "S G DU PREEZ"
+        ],
+        "original_speakers": [
+            "CHAIRPERSON",
+            "MR VISSER",
+            "MR RORICH",
+            "MS GABRIEL",
+            "S G DU PREEZ",
+            "MR DU PREEZ",
+            "ADV BOSMAN",
+            "MR LAX",
+            "MS THABETHE"
+        ]
+    },
+    "testimony": [
+        [
+            "CHAIRPERSON",
+            "Yes, are we ready to begin?  Mr Visser I've no doubt you appear for all three of the applicants.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "Two.  Good morning, Mr Chairman, we appear for Wasserman and du Preez.  There's appearance for the third applicant, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MR RORICH",
+            "Mr Chairman, I appear for Ben Mwelase in this matter.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MR RORICH",
+            "It's Sean Rorich.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you very much.  Ms Gabriel?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Mr Chairman, I appear on behalf of the Ninela family, that is the family of the victim.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.  Are we ready to proceed?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Mr Chairman, before we proceed, may I have leave to hand up documents?  I believe that they have been made available to the applicants and to members of the Committee and these relate to an inquest.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "They have not been made available to us.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "I apologise, Mr Chairman.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, what documents are these that you're handing in?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Mr Chairman, I'm told that they will be brought to members of the Committee.  These relate to an inquest concerning the death of a male in February in 1989 and it will form part of the evidence that will be led by the Ninela family.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "The name of the male you don't have?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Pardon me, Mr Chairman?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "The inquests relating to the death of a male, you don't have his name?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Yes, I do.  Zweletini Inshman Bhengu.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "How do you spell the second name?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "I-N-S-H-M-A-N Bhengu, B-H-E-N-G-U.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Alright that document will go in as Exhibit A.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "We have an Exhibit A which is carried over, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What was that?",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "That was the general background document.  Could we perhaps retain that as Exhibit A also for purposes of reference in this hearing?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's just place that on record.  Exhibit A will be?",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "'Algemene Agtergrond tot Amnestie Aansoeke', Chairperson.  It's the same document which was previously handed, we've handed copies to the newcomers.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, I understand, thank you.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, Ms Gabriel, you've handed in the inquest.  What else?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Mr Chairman, may the inquest report be then Exhibit B?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "As well we request leave to hand up two further statements, the first being a statement from Sefiso Sempiwhe Kunene.  May that be called Exhibit C then?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.  What is the date of that statement?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "It's dated the 12th August 1999.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, that will be Exhibit C.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "And the final document is a further statement from Moketsi Kevin Chris Qhobosheane.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can you spell that surname please?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Yes. Q-H-O-B-O-S-H-E-A-N-E and the date of this statement is today, the 16th of August 1999.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Very well.  Where are they?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "May I have a small indulgence, Mr Chairman, just to ensure that these documents...",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Very well, I understand copies are being made of those documents.  Yes.  Yes, Mr Visser?",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "Thank you, Mr Chairman.  Mr Chairman, we have two bundles.  There was the original bundle that we all got earlier on and a second bundle called an additional bundle, was handed to us when we started.  I trust that you have those bundles before you?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, we do.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "Perhaps for the sake of convenience, might we refer to them as bundles 1 and 2, Chairperson?  The original one being bundle 1 and the additional one being bundle 2.  It might make it easier for sake of reference.\n\tMr Chairman then in bundle 2 we would direct your attention to page 4 where you will find the statement of Mr du Preez in amplification of his amnesty application.  Mr du Preez is present, ready to take the oath, he has no objection to taking the oath and he prefers to give his evidence in Afrikaans.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "(sworn states)",
+            "Unknown"
+        ],
+        [
+            "EXAMINATION BY MR VISSER",
+            "Thank you, Mr Chairman.  Mr du Preez last week before this Committee you gave evidence, is that correct?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Do you repeat the evidence that you gave before this Committee with special regard to the introduction and the contents thereof?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Your amnesty application appears in bundle 1 from page 11 to pages 23.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Do you confirm the contents of the said document, subject to elaborations and further evidence which you will give today?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "The application entails the abduction or kidnapping of Mr Blessing Ninela, his unlawful detention and his murder?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Will you please proceed to page 5, that is page 2 before you of bundle 2.  You have already dealt last week with the introduction which appears on page 2 before you, namely your bad memory and the confusion of the incidents.  Is that not so?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Will you please tell the Committee what you can recall of the current incident and what your role was therein?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "I can recall that I was contacted by Col Taylor and received instruction to meet with him at a certain shooting range.  I had to bring Wasserman with me.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "It does not say that in the statement.  Can you recall what date it was when it happened?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, I cannot recall the date.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Can you give us a year?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, I am not sure about the year.  From other people's evidence I've seen it there, but it may be the correct date.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Was that June 1988, the date which you saw?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Please continue.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Wasserman and I arrived at the place where we met Taylor and certain askaris.  Taylor informed us that Ninela was an ANC terrorist who was trained in the handling of limpet mines and hand-grenades.  According to Taylor he had been responsible in the past for explosions in the Durban vicinity.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Where did this meeting between Wasserman and yourself and Taylor and the askaris take place?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "We met at a shooting range on the South Coast.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Close to which place?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "I do not recall the name, it's on the other side of Amanzimtoti.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Please continue.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "I was told that Ninela had provided explosive devices to two other persons, which had to be detonated in the Durban area.  One of the explosive devices was detonated and this caused the death of one person and had caused that one person had been killed and another seriously injured and had to be taken to a hospital.  Col Taylor received information from last-named person that they had received explosive devices from Ninela.  He then arranged that the askaris abduct Ninela and they had to...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Who was the person who arranged it?  You said he arranged it?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "The askaris.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "No, who arranged for the askaris to abduct Ninela?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Col Taylor.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Very well.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "And they had to present themselves as MK members who would help him escape from the police.  Taylor told us that he was satisfied that Ninela could not be turned and that if he was to be released, he would continue with his acts of terror and that there was no evidence on which grounds he could be charged.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Why could he not have been charged?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is what Taylor told me.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I mean, you heard from Taylor that this man had given explosives to two people, one explosive had in fact gone off and killed somebody and yet he tells you that the man can't be charged.  Didn't it occur to you to find out now why he can't be charged?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "Chairperson, at that stage there were many such cases where people were charged and were freed on small technical points, so I realised that if Taylor said that he did not have enough evidence and that it was possible that this person could be released on technical points.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "On that point Mr du Preez, you in the Durban vicinity, did you also experience the effect of intimidation?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is certainly so, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And you don't know, but what would the chances be that the person who was injured and who had been taken up in hospital, could be used as a witness against Mr Ninela?  What would you think in terms of the general background?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You know, I think that that's not a fair question.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "Perhaps it's a question for argument.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Because he doesn't even know the individual, unless he says he knows the individual and had a talk with him.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "Yes.  Yes, perhaps you're right, Mr Chairman, it may be too argumentative.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Mr Visser, may I just enter here?  I don't know whether I lost the evidence somewhere.  Mr du Preez, you said that you experienced intimidation here as well.  To which intimidation do you refer?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "I mean in general.  The witnesses or the people or persons who would give evidence in court for us, were murdered or they just disappeared.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Yes, that clears it up.  So in other words, what you're trying to tell us is that matters could not continue because witnesses were intimidated.",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Thank you.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "Thank you, Mr Chairman.  Please continue Mr du Preez.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "I had no personal knowledge with regard to Ninela's circumstances or his activities and I don't know where and when he was arrested?",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Can you please pause there for one moment?  Documentation became available which included copies of certain letters which the same Mr Ninela had written to the Minister of Law and Order during his detention in 1987.  You'll find that in bundle 2.   There are quite a number of them Mr Chairman, but perhaps I should just refer you to page 77.  What Mr Ninela says, Mr Ninela says on the 23rd January 1987 he was detained and then he was taken to CR Swart Square where he was severely assaulted and tortured by a group of white members of the Security Branch.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Sorry, Mr Visser, there's just a technical problem with the translation and the sound system, if you can just hold on a few minutes while he sorts it out.  Is it fixed up now Ian?  Let's try again.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "I will repeat.  Mr Ninela, in one of his letters to the Minister of Law and Order, wrote that on the 23rd of January 1987 he was arrested at his workplace, where he was employed by Shell Chemicals in Reunion and he was taken to CR Swart Square where he was severely assaulted and tortured by a group of white members of the Security Branch and that you were one of them, or he says a Mr du Preez was among them.  Can you shed any light on this?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Chairperson, after I had read these documents on Thursday and I recall that I was the person who arrested Mr Ninela at his workplace and had taken him to CR Swart.  I was not involved with his interrogation.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Did you have any further dealings with him, except for his arrest?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Did you thereafter have any dealings with him ever, before now that we know that the day that you met with Mr Taylor?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Chairperson, not that I can recall.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Can you please tell the Committee, did you assault him or torture him that you can recall?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Very well, if we may then return to page 3, page 6 in the bundle.  When you say that you had no personal knowledge with regard to Mr Ninela's activities and circumstances, to what have you referred here?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "To this arrest or these events where he was involved, where the person was blown up.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And you say that you did not deal with him in the past except for this arrest?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Can you recall what he was arrested for?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "From the statement which I have read, it seemed that it was activities, union activities.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And in 1987, would that have been in terms of the state of emergency?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Excuse me, may I just interpose here?  I would just like some clarity.  You have referred to statements which you have read.  Are these statements which you have read recently, or are you referring to statements which you read back then?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, these are statements which I had read on Thursday, which the Evidence Leader had given to us from his family and about circumstances in which he was arrested.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Thank you, you may continue.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "So the short of it all is you referred to the past Thursday, last week Thursday, the 12th, when you say these statements for the first time?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Please continue.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "I accepted that Mr Ninela was unlawfully detained and on the - Col Taylor told me and Wasserman to eliminate Ninela.  Col Taylor was senior to both Wasserman and I and we were obliged to carry out his instructions.  I was satisfied that the elimination of Ninela was in regard to combating the onslaught of MK on the RSA and I had no reason to doubt the information which Taylor gave to me.  During the discussion Taylor mentioned to us that Ninela was caught by the askaris while in possession of a limpet mine.  Wasserman and I took over Ninela along with the limpet mine and we drove to Bulwer.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "So he gives you Ninela and the limpet mine?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And he tells you this is the limpet mine which they found in Ninela's possession when he was abducted?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.\nWe got close to a place near a railway line, which I pointed out to the TRC.  We then took Ninela from the vehicle and took him to the railway line.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Was Mr Taylor there?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Mr Taylor was not present at this event.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "You are aware that in bundle 1 from page 1 the amnesty application of Mr Taylor is embodied and on page 4,\nMr Taylor says that he accompanied you to the railway line in the vicinity of Bulwer, that is along with you and Wasserman.  What is your comment?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, I read it as such but it was not the case and I am certain that Mr Taylor must have confused this with another event.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Was there any other incident which also took place at a railway line in the vicinity and where other persons were killed?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "There was a similar incident at a railway line, but not in that vicinity, that was in Durban.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "So this was at Verulam?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And you specifically referred to the incident which had been heard before the previous Amnesty Committee under the Chairmanship of Justice Wilson, the kwaMashu 3 incident, was heard?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And that included the person Sibusiso Ndlovo, Manzi Vilakazi and Elias Gift Mtjale, is that correct?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Was Col Taylor present at that event?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And was this also an instance where the remains of the persons were blown up?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Very well.  Please continue.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Mr Wasserman shot Ninela in the head with his 9mm service pistol and he died instantly.  I then placed Ninela's hands and head on the limpet mine and activated the limpet mine.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Was this on the railway line, or close the  railway line, or where was it?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "It was next to the railway line.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Very well.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "We waited until we heard the explosion and then we departed.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And we've already dealt with the next paragraph.   Please continue with the paragraph after that.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "The acts and omissions which I have committed, I committed in the execution of my official duties under instruction or from a higher officer whose instructions I was obliged to execute.  I did it as part of the opposition of the struggle and my acts were aimed at the supporters of the liberation movements.  What I had done, I did to protect the government and the interests of the National Party and to combat the revolutionary onslaught.  As such I bona fide believed that what I had done fell within the ambit of my sworn or explicit instructions.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And you then request amnesty in so far as you have associated yourself with the fact that Mr Ninela had been abducted, as Col Taylor told you, and you also accepted that he was kept in detention unlawfully and you associated yourself with that and the murder of Mr Ninela and the blowing up of his body or any other lesser offence including defeating the ends of justice by you not reporting the incident or any lesser offence or omission which might flow from the fact, is that correct?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Thank you, Mr Chairman, that's the evidence.\nNO FURTHER QUESTIONS BY MR VISSER",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Have you any questions to put to this applicant?",
+            "Unknown"
+        ],
+        [
+            "MR RORICH",
+            "Nothing, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Gabriel?",
+            "Unknown"
+        ],
+        [
+            "CROSS-EXAMINATION BY MS GABRIEL",
+            "Mr Du Preez, is it okay if I ask you questions in English?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's fine.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You don't have to ask his permission.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Well, I'm doing the gentlewomanly thing.  Mr du Preez, I want to summarise for you up front the problems that the family has with your evidence and with you application thus far.  You've admitted to killing Mr Blessing Ninela and you've admitted to doing so under very gruesome circumstances.  The process that you have followed to seek amnesty has been through 2 submissions, 2 written submissions.  The first initial one being a statement that you signed on the 11th of December 1996 and the second, the one that is dated the 2nd of July 1999.  Those appear respectively in bundles 1 and 2 and I will return to those.\n\tOn reading your submissions, members of the Ninela family realise that there were many unanswered questions concerning the death of the victim and so it's their contention that you, I want to summarise our arguments up front.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "What about putting questions?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "I will, once Mr du Preez knows the angle that we are operating from and that is that there has not been a full disclosure in this case.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I deny that, Mr Chairperson.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Let's then begin with bundle 1 and I want to refer you to page 4 of bundle 1 and that would be the written submission of Mr Taylor.  At that point you submitted a contemporaneous submission and I refer you to page 19.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Of the same bundle?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Of the same bundle.  Can you explain to the family members why it is that you did not decide to distinguish Taylor's evidence at that point in time?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "My Chairperson, at that stage I had not read Taylor's statement or discussed the matter with him.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "A few minutes please, Mr Chair.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Certainly.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "So at that point you were basically applying for amnesty without fully understanding the reasons why you were applying for amnesty?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I'm not sure - we knew what the reasons were.  Are you referring to this specific case?",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "I'm referring to this specific submission and specifically to paragraph 9(a)(4).  Incident 3.\n\"The particulars of this incident are very vague due to a lack in memory, or loss in memory.  I am currently busy doing research in order to be able to disclose the details in as full a manner as possible.\"",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct.  At that stage I could not recall all the details of this incident.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "So subsequent to making this submission, you then went out and researched the death of Mr Ninela, is that correct?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "After that I discussed it with Wasserman again and then long after this I read Taylor's statement.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Did you discuss it with Taylor?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I did discuss it with Taylor.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "What kinds of research did you do to familiarise yourself with the elimination of Mr Ninela?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I only spoke to Wasserman and Taylor about this matter.  That was the only work I had done.  I did not go back any further, I did not have any documentary things to research.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Can you explain why that was?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "Well, there was no documentary evidence made about this.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "But you have just admitted that there are indeed documents available, implicating Mr Ninela, that were provided by members of Mr Ninela's family.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "These documents, as I have already said, I saw for the first time last Thursday.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Didn't you think it was necessary to conduct further investigation?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, the fact of the matter is that all he did was he consulted the people with whom he had been involved, that was Wasserman and Taylor.  That's as far as it went.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Well, it's the family's belief that you deliberately withheld information from this Committee.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did you tell them, what information did he withhold?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "I'm going to run through very quickly with you the evidence that will be led by the family.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are you talking about evidence that he withheld, isn't it?  Not some general statement that members of the family are going to make.  I think you are confining yourself to non-disclosure by him and you're going to put to him, this is what you failed to disclose, a, b, c, d, that he failed to disclose.  I trust that's what you are about to do?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "I'm going to try to confine it to those specific points, Mr Chair.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, yes please.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Mr Chair, there has been a large, a lengthy period of investigation that has been carried out by the deceased's family and it has come through in bits and pieces and we will present that evidence to show that there was a definite relationship between the Security Branch and Mr Ninela and that very specific events were of vital importance in the relationship that were not revealed in the amnesty applications.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Very well.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "The first sets of evidence that we will lead, relate to statements from Sefiso Kunene, Sebelo Ngobese and Kevin Qhobosheane and these relate to Mr Ninela's union activities and specifically to a house in Inanda at which weapons were found.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I cannot remember the incident in this nature.  At this stage Mr Chairperson, I was working in the terrorist section and the activities of the unions was not my business.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "You see Mr du Preez, it's as a result of those weapons that Mr Ninela was actually detained in terms of the Internal Security Act.  May I refer you to bundle 2, and specifically to pages 71, 72, 74, 78(a), these documents refer to your involvement in the interrogation of Mr Ninela as a result of those events.  Now is this something that you would likely forget or would have this Committee believe that you forgot?",
+            "Female"
+        ],
+        [
+            "MR VISSER",
+            "With respect Mr Chairman, the witness did say he did not interrogate Mr Ninela.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "But it's now been put specifically.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Can you offer any reason as to why Mr Ninela would want to implicate you falsely in a very lengthy series of documents?  You don't deny that he is referring to you?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I did see that he was using my name and I was the person who arrested him.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Well the family wants to know why it is that you forgot to put this in your application, why it is that you did not deem it important enough to research, for the purposes of your amnesty application?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "Mr Chairperson, it did not relate to this matter.  I did not remember it in the first place and in the second place, it did not relate at all to my amnesty application.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Well, it's our argument that this was the beginning of Mr Ninela's relationship with the Security Branch, with Taylor and with yourself, and that you actually knew a lot more about his activities than you would have this Committee believe.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "This is not the case, Mr Chairperson.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "The family will also lead evidence from a Mr Senzo Bhengu and this relates to a limpet mine explosion in or around the 8th June 1988 at which a young man was killed, details of which are set out in Exhibit D, and we will go through this when we lead the family's evidence, but Exhibit D clearly implicates Bheki Ninela as having given the brothers this limpet mine.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Blessing Ninela.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Blessing Ninela.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "This is what Taylor had also told me.  This is what Taylor told me, I did not have any personal knowledge of this.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "And you did not deem these events important enough to be researched and included in your amnesty application?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Of what?  Of what Taylor tells him?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Well, relating to the eventual execution of Mr Ninela.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think that we've got to confine ourselves.  If he's to do research on all the things that Taylor did and didn't do, then the ambit of these inquiries can go on for many, many days.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Understood.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "I will move on to a different line of questioning.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, please.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Mr du Preez, Gratina Ninela will also lead evidence that, and Eric Ninela, that their investigations show that Mr Ninela was not in any way involved in military activities for the ANC.  Will you be in a position to dispute that?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "This is not what Taylor had told me and I believed what Taylor told me.  I had no reason not to believe Taylor.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Gabriel, what do you - the word union activities has been mentioned, do you know what union they're talking about, just for the purposes of the record?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "Yes, I believe it was SAWU, the South African Workers' Union.",
+            "Female"
+        ],
+        [
+            "MR LAX",
+            "...(indistinct- mike not on) Workers' Union.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, do carry on.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "So it's the family's basic contention that there is a lot more in the history of Mr Ninela's killing than you have been willing to disclose in your amnesty application.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "Not that I know of, Mr Chairperson.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "The problem that the family has is that if you haven't investigated this matter and that if, as you say, you acted purely on the instructions of Taylor, then you're not really in a position to dispute any of the evidence that they present before this Commission.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "Mr Chairperson, it wouldn't have surprised me after Ninela was murdered, to investigate the circumstances.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "But why, was this just another death, didn't you think that the family was entitled to the reasons and the details and given that Taylor had since died, aren't they entitled to the truth?  Isn't that the purpose of amnesty?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That would be so, Mr Chairperson and it would appear as if they had done the investigation.  My part in the death of Ninela was by taking him to the railway line and by blowing him up and this is what I'm leading evidence in.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "But you see, that presupposes that Taylor then was confused in his initial amnesty application and of course, him being dead, there is no way that anybody could dispute that.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I do not know.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "How is it possible, do you think, that Mr Taylor could have confused an event relating to the killing of three people with a very specific event at which he wasn't even present, on your version?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "Mr Chairperson at the time when Mr Taylor had made this statement, he had cancer and ...(intervention)",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "So what you're saying is he wasn't ...(indistinct - mike not on) senses when he made his initial amnesty application?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I would not say this, but Mr Taylor had forgotten a lot of things at the time of his application for amnesty because he was sick and he could not remember things of the past.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "May I just interrupt.  Mr Visser, there was a gap in the hearing last time about Mr Taylor.  Can you just look through the record, tell me when was it that Mr Taylor passed away, when did he die?",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "Mr Chairman, normally my attorney's memory is far better than mine.  He recalls it was in the second half of 1997.  You will recall that I pointed out to you that he had made, Wagener had made an appointment to see Taylor in order to fill in missing gaps in his application where it related to applicants for whom he appeared and before that could come about, Mr Taylor had died and he says that was in the second half towards the end of the year, 1987, 1997.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  I'm sorry, Ms Gabriel, I wanted to know this.  Mention had been made about Taylor having died and we didn't know when it was.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "It's an important part of this case, Mr Chairman.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, please carry on.",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "So, Mr du Preez, what you are saying then is that, page 4 and specifically the paragraph that has not been blocked out of Taylor's initial amnesty application, is really quite suspect.  Is that what you would have this Committee believe?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Mr Chairperson, I said that he was wrong in saying that he had accompanied us on this occasion.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Was he wrong in saying that you had interrogated Ninela together, or rather questioned him?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That would be correct, Mr Chairperson, he was wrong there.  We did not interrogate Ninela along with him.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "And he was wrong when he said there was no - that you collectively realised that there was no evidence on which he could be convicted in a court of law?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Mr Chairperson.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "And he was wrong when he said that you drove to the railway line together?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "So then presumably he was wrong also when he gave the instruction, when he says that he gave you the instruction to kill him and blow him up, given that everything else in Taylor's evidence so far is wrong?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Mr Chairperson, he did give us the order.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "They're not doubting that Taylor gave you the order, it's being put to you that Taylor was wrong in giving such an order.  Isn't that what you're trying to say?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "...(indistinct - microphone not on)",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "I'm sorry. Well put your question then?",
+            "Unknown"
+        ],
+        [
+            "MS GABRIEL",
+            "My question is, you want us to believe selective bits of Mr Taylor's evidence and specifically the bits that qualify you for amnesty and you seek to distinguish everything else that you find undesirable in Taylor's evidence.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "Mr Chairperson I said which parts of Taylor's statement I do not agree with.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Well this is one of the reasons why the family believes that you have not made a full disclosure, Mr du Preez, it's because you seek to strategically distinguish bits of Taylor's evidence that you intend to rely on in your amnesty application and the bits that you seek to distinguish actually point, in their view and on the evidence that they will lead, to a much more complicated picture of the killing of Mr Ninela and his relationship with the Security Branch than you would have this Committee believe.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "This is not the case, Mr Chairperson.  I can just add that the family's knowledge and the long history along with the Security Branch might be one of the reasons which forced Taylor to make up his mind about this person but I cannot give evidence on behalf of Taylor.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "If I might just interpose for a moment.  What other involvements of this family with the Security Branch are you referring to?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "I'm referring to the statements of the family that for long periods he was detained previously and he was involved in houses where weapons were found.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "That's not his family, that's himself, the deceased.  It's not his family who were involved with the Security Branch per se.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Pardon, I did not mean his family, I didn't mean the family was involved.  I said the family said that he was involved with the Security Branch.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Can you offer any explanation as to why Mr Ninela would have written about you?  Do  you suggest that he was similarly confused?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Mr Chairperson, he possibly used my name because I was the person who arrested him.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "He specifically mentions several times that you questioned him, that he was interrogated by you.",
+            "Female"
+        ],
+        [
+            "MR VISSER",
+            "No, I've got to object to that Mr Chairman, could my learned friend point out to you and to us where she gets that evidence from, on the papers before us?  Because on the papers before us we gave the specific reference at page 77 from which it definitely does not appear that du Preez interrogated him.  He may have, the allegation there is that du Preez tortured him.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Well, excuse me, I will substitute interrogate for torture.  But can you offer us any explanation as to why he would want to say these things about you if you didn't do those?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Mr Chairperson.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Can you offer any explanation as to why it is that you couldn't remember this to include in your amnesty application?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "Mr Chairperson, at the time, as I've already said, when I made the statement I remembered the incidents of the - I did not remember the earlier arrests of Mr Ninela but after I had read the statement, I recalled these incidents and also when he mentioned the names of other persons that had been arrested.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "So you can offer no satisfactory explanation as to why Ninela would have written about you?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Mr Chairperson.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Mr du Preez, is it your contention then that you remember absolutely nothing else about the killing of Mr Ninela?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "Not that I can remember at the moment, Mr Chairperson.  What I said in my statement is what I can remember.",
+            "Male"
+        ],
+        [
+            "MS GABRIEL",
+            "Mr Chairperson, I have no further questions.\nNO FURTHER QUESTIONS BY MS GABRIEL",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  Do you have any questions to put?",
+            "Unknown"
+        ],
+        [
+            "MS THABETHE",
+            "Just a few Mr Chair.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MS THABETHE",
+            "Thank you.",
+            "Female"
+        ],
+        [
+            "CROSS-EXAMINATION BY MS THABETHE",
+            "Mr du Preez, I want to understand what was the intention of you taking Mr Ninela to the railway line?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "Sorry, Mr Chairman?",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "The intention of you taking Mr Ninela to the railway lines?  What was your intention?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "To the railway line?",
+            "Unknown"
+        ],
+        [
+            "MS THABETHE",
+            "Yes.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "The intention was to eliminate him.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "And after he was shot by Mr Wasserman, that was your evidence, isn't it?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "Yes.  Why did you activate the limpet mine to blow off on him?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "It was to obscure his identity.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "Why was it necessary for you to do that, to obscure his identity?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "So that nobody would know who the person was, who the deceased was.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "I'm just trying to find out, why was it necessary that he not be identified, who he was, after he was killed?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I did not know the exact circumstances of how he was arrested and whether he could refer back to Taylor and the askaris, that they had apprehended him.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "That answer doesn't convey anything to me.  Maybe you're trying to say something, but I don't understand.  Please just clear that up.  The question is, having killed a man, why was it necessary to blow him up?  And you said that it was perhaps because \"we did not want the identity of the man to be known\".  The question is, why did you not want his identity to be known?  Have you any explanation or reason why that was done?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "Chairperson, the reason why he was blown up was probably multiple and the reason why his face was blown off, so that people would not be able to identify him as Ninela and no inquiries would be made with regard to Ninela's disappearance.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "How did you know no inquiries would be made about his disappearance?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "How did I know?  I did not know.  I don't know whether any inquiries would be done.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You see, you've just told us that one of your assumptions that if you blew up his face, no inquiries would be made about his disappearance.  What I'm asking you\nis why did you come to that assumption?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Chairperson what I mean is, if Ninela had only been shot there, he would have been identified and people would have inquired about the person, who he was seen with last.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "Can I proceed, Mr Chair?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, please.",
+            "Unknown"
+        ],
+        [
+            "MS THABETHE",
+            "Thank you.  You've indicated in your evidence that Mr Taylor was not there when you went to the railway line, is that correct?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "But he gave you the order that Mr Ninela should be killed, is that correct?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "When he gave you the order, did he specify how he should be killed?",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, he did not.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "Then who made a decision as to how he should be killed, or maybe let me be more specific.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "I would say it was my decision.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "That he should be blown up.",
+            "Female"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MS THABETHE",
+            "Okay.  No further questions, Mr Chair.  Thank you.\nNO FURTHER QUESTIONS BY MS THABETHE",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Visser, any re-examination?",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "Just one question, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "RE-EXAMINATION BY MR VISSER",
+            "When did you leave the service of the police, Mr du Preez?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "In 1995.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "And afterwards, did you have access to documentation in the possession of the police?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Thank you, Mr Chairman.\nNO FURTHER QUESTIONS BY MR VISSER",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Mr du Preez, I recall that you mentioned the activities of the Security Police was such that you did not have knowledge of everything, is that correct?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Could you please explain to us how this division came about and where you slotted in?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "Since 1981 up to approximately 1990, I was attached to the terrorist division under Andy Taylor and after 1987 or 88 we established MK Intelligence Unit and I was part of that under Hentie Botha, who was directly under Taylor.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Am I correct to say that you, when you were involved with the elimination of Ninela, had been taken out of your normal work sphere?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "I dealt with MK activities, Chairperson.  My work was work dealing with the investigation into MK activities and MK members.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "But that still does not answer my question.  You were asked to go and eliminate somebody, to go and kill someone while you were attached to the Intelligence Division.  Was that the normal course?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, that was not normal.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Can you explain why it came about that you were actually in a work environment outside your usual work?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "Chairperson, we worked closely with Mr Taylor and he was the person who would give us our instructions.  He was the person who gave us the instruction to do it.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "I am not trying to trap you with my questions Mr du Preez, I am just trying to get clarity for myself.  Did you think that it was beyond the norm that you were asked to do something actively with an elimination?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "Chairperson, the killing of any person is definitely beyond any normal instruction and I think it was because we were a small close group and it was in regard to trusted positions that we had amongst each other.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "You still have not answered my question.  My question is whether you regarded or you experienced it as out of the norm?  Is your answer that you did not think it was extra ordinary because you were such a small group?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "I would say definitely it is extra ordinary to execute such an act.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "But Mr du Preez, you do not understand me properly.  My question is not whether you thought the act was extra ordinary, my question is did you not think that it was extra ordinary that you were asked to participate so actively?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, because I don't know of anybody else whom Taylor would have asked to do it.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Why do you say that Mr du Preez?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "Because Taylor and I had a very long working relationship and he trusted us.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Do I understand correctly that your normal activities were within the Intelligence Unit?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "But that Mr Taylor applied you for the more illegal activities?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "ADV BOSMAN",
+            "Thank you, Chairperson.",
+            "Unknown"
+        ],
+        [
+            "MR LAX",
+            "Thank you, Chairperson, just one small aspect if I may.  Mr du Preez, you've told us that the decision to blow up the deceased was your decision.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "And did you do that of your own initiative?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Now my only difficulty with the proposition is why did Taylor then give you the limpet mine to do that if it was your decision?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "The fact that Taylor gave me the limpet mine, I think this brought the idea about.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Well you see, here was the very evidence you would use to charge the man, in your hand, isn't that so?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "And this limpet mine that had been taken off him was there for everybody to see.  It's not as if it was reliant on someone else's evidence, there was the item itself right there in your own hands.  Didn't that make a mockery of the assertion that there was no evidence to charge him with?  The evidence was right there in front of you on that day, in your own hand.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Chairperson, I did not know the circumstances and previous incidents, many persons were taken to go and point out explosives and I just assumed that Taylor had forced this person to expose his explosives, so I don't know what the circumstances were and how they found him with the limpet mine.  In my statement I mentioned that he was found along with the limpet mine, but I am not aware of the specific circumstances as to how it took place and I am convinced that if Taylor found him with the explosives and with the limpet mine in his possession, he would have charged him.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You see from your own statement and I refer you to paragraph 11, you say,\n\"Taylor mentioned to us that Ninela was caught by the askaris while in possession of a limpet mine.  Wasserman and I took over Ninela from Taylor along with the limpet mine.\"",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "It's not any limpet mine, it's that limpet mine.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Now it's clear from that statement, that paragraph, that your information was that he was found in possession of that mine and that that mine was handed to him.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "It's not as if this happened in some other environment and that here's direct evidence, direct knowledge in your own hand.  Are you with me?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Yes, I'm with you Chairperson, but I cannot comment as to what Taylor thought or what he knew and in reality I might be testifying incorrectly as to how Taylor came into possession of this limpet mine, I don't know.  I don't know what the circumstances were when the person was apprehended.  Was he caught first and he had to point out the limpet mine or was he caught with the limpet mine in his possession, I don't know.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Why did you take him so far away, to Bulwer.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Because it fell outside our immediately - or I was an explosive expert myself and it was not appropriate to investigate your own incident, so we took it out of our explosives jurisdiction.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You see it's clear from what Taylor says that this was meant to look like the man just blew himself up.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That was one of the considerations, that's correct and we also wanted it to serve as a deterrent for other persons who would want to place explosive devices or limpet mines.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You see that's precisely the next point I was coming to.  If it was to be a deterrent to others, then the man's identity would have been quite important, because if it was just some unknown person, how would that be a deterrent to anybody?  Whereas if it was known that Blessing Ninela blew himself up with a land mine, that would be a very good deterrent to everybody because he was a known quantity.  Do you follow?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "It didn't come to my attention at that stage.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Now the last aspect that I wanted to cover with  you was, and it arises out of what you've just told me with regard to going to Bulwer.  The fact is that for example in the kwaMashu matter, those people got blown up within your jurisdiction.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "So what was the big deal about having to take it out of your jurisdiction?  That happened right there within your jurisdiction?  It doesn't seem to make sense to me in the light of that.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Chairperson, in Ninela's instance it was the decision that was taken in the kwaMashu 3.  In the kwaMashu 3 instance it was a target which they were planning to blow up anyway, in contrast to Ninela's position, it was never known that Ninela was going to use a specific target.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "But you see the information, on of the reasons that grounds the whole basis upon which he was killed, is the fact that he was a highly trained person who had been involved in other explosions and whose job it was to place explosives.  His direct target may not have been known, for sure, it doesn't change it though very much, does it?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "I am not certain what the question is now.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "What I'm saying to you is, in the kwaMashu matter I understand it looked like they blew themselves up.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Having gone to a particular place to place explosives.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "This one in Bulwer would have looked exactly the same.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "What's the difference?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "It might have been just one of the many reasons why you killed this man.",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "I don't understand, Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I see.  Alright.  When you took this man to Bulwer, you knew beforehand that he was going to be blown up.  You've given some explanation, one of the reasons was you were hoping that his identity would not be found out.  If it were found out, there'd be inquiries as to who he was last seen with.",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Then you were asked, why was he taken to Bulwer?",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, you said, it was outside your jurisdiction.  If it were within your jurisdiction you would have been called upon to investigate the explosion yourself.",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now you were told by my colleague, there doesn't seem to be any logic in this because in the kwaMashu killing, that took place within your jurisdiction.  How did you agree to that?  Why did you allow that to happen?  You would have had to investigate that yourself.",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson, but it was more a question of what our plan was at that stage.  Certainly I could have done it in the Durban area, but it was just a decision that was taken on that day, that it would be done outside.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "How did you go to Bulwer?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "In a vehicle, a Nissan Skyline.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Just you and Wasserman and Ninela?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Nobody else?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "When did you become aware of Ninela's activities as a trade unionist, or did you never become aware of that?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, I was never aware of it Chairperson.  As I've already said, after reading these statements last Thursday, it was the first time I recalled that I had arrested him before this incident.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What was it that you had arrested him for?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "Chairperson, I cannot recall exactly.  I think it was for Trade Union activities.  I am not certain. As far as I can recall it was in the Sibelo Ngobe matter.\nMay I just mention, during that time there were many arrests executed and persons who were detained and the reason why I would have arrested him was in many cases would be a whole series of arrests and everybody would be involved.  A list of names would be given out and those people had to be arrested.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you know the people who had eventually arrested him and brought him to Taylor?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "No, Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Have you never found out who did it?",
+            "Unknown"
+        ],
+        [
+            "S G DU PREEZ",
+            "I never asked.   During consultation with the attorney and the advocate I read one of the statements and he said he was the person who had arrested him, I did not know this beforehand.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Sorry Chair, just one thing for the record.  Mr Visser suggested to you, Mr du Preez, that this person was detained in terms of the emergency regulations.  It is clear from the documents that he was detained in terms of Section 29.  Now that would have placed him in a very different category of persons, had he been detained in terms of Section 29.  You'd be very familiar with that section, I'm sure.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "And that Section pertains to activities in terms of the Internal Security Act, but activities which, to use the old terminology, would have been terrorism.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "Not necessarily, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "I defer to your better knowledge because my recollection is a bit vague of that specific section.  Was that not the section that dealt with people involved in armed activities of one kind or another, of was it a general section?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "It was not necessarily arms struggle.  It could be usurpation of the government as well.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Yes, I'll leave it at that.  I just thought for the record it's better to be clear that it was a Section 29 rather emergency detention.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Mr Chairman, would you allow me, flowing from the questions by the Panel, to attempt to clarify two issues?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Certainly.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "But before I do so, may I just say, Mr Chairman, our understanding of the provisions of Section 29 of the Internal Security Act was that it was to arrest and detain a person, whom there was a reasonable suspicion that he had information, about\nanything.  It could have been terrorism, it could have been all sorts of things, as long as it fell within the ambit of the Internal Security Act.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "Mr du Preez, the fact of the matter is, you testified that Mr Ninela was shot in the head by Wasserman.",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "So he had a hole in his head?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That's correct, Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "The case with the kwaMashu 3, and I would not like to run through the whole thing again, but in the case of the kwaMashu 3, was this a case where the persons were sent to a specified place with an instruction to go and blow it up?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "That is correct.  It is a place that they decided upon.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "Can you recall who was the person who sent them?",
+            "Male"
+        ],
+        [
+            "S G DU PREEZ",
+            "I am not certain.",
+            "Male"
+        ],
+        [
+            "MR VISSER",
+            "That's part of the record in the Ncwini case.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, we don't want to burden this record with that.",
+            "Unknown"
+        ],
+        [
+            "MR VISSER",
+            "That is correct, Chairperson.  Thank you, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you very much, you are excused.\nWITNESS EXCUSED",
+            "Unknown"
+        ]
+    ]
+}

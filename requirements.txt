@@ -1,1 +1,10 @@
+numba==0.55.1
+numpy==1.21.5
 sentence_transformers
+top2vec
+googledrivedownloader
+requests
+gdown
+numba==0.55.1
+numpy==1.21.5
+streamlit

@@ -1,0 +1,111 @@
+{
+    "header": {
+        "type": "AMNESTY HEARING",
+        "starting date": "1998-10-20",
+        "location": "DURBAN",
+        "day": "2",
+        "names": [
+            "BHEKI ALFIUS NZAMA"
+        ],
+        "case number": "AM2789/96",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=52922&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98101922_dbn_dbn1_2.htm",
+        "speakers": [
+            "ADV POTGIETER",
+            "ADV PRIOR",
+            "BHEKI ALFIUS NZAMA",
+            "CHAIRPERSON",
+            "MR SAMUEL"
+        ],
+        "original_speakers": [
+            "MR SAMUEL",
+            "ADV POTGIETER",
+            "BHEKI ALFIUS NZAMA",
+            "MR NZAMA",
+            "CHAIRPERSON",
+            "ADV PRIOR"
+        ]
+    },
+    "testimony": [
+        [
+            "MR SAMUEL",
+            "I would like Mr Nzama to confirm his affidavit and the evidence of Mr Jeke.",
+            "Male"
+        ],
+        [
+            "ADV POTGIETER",
+            "Are your full names, Bheki Alfius Nzama?",
+            "Unknown"
+        ],
+        [
+            "BHEKI ALFIUS NZAMA",
+            "(sworn states)",
+            "Unknown"
+        ],
+        [
+            "EXAMINATION BY MR SAMUEL",
+            "Thank you, M'Lord.\n\tMr Nzama, you applied for amnesty to this Committee and you submitted an affidavit, do you confirm the contents of that affidavit?",
+            "Male"
+        ],
+        [
+            "BHEKI ALFIUS NZAMA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR SAMUEL",
+            "Mr Nzama, you heard the evidence of Mr Jeke who testified before you, do you confirm what he said to this Committee?",
+            "Male"
+        ],
+        [
+            "BHEKI ALFIUS NZAMA",
+            "Yes, I do.",
+            "Male"
+        ],
+        [
+            "MR SAMUEL",
+            "What political organisation did you belong to in 1993?",
+            "Male"
+        ],
+        [
+            "BHEKI ALFIUS NZAMA",
+            "The ANC.",
+            "Male"
+        ],
+        [
+            "MR SAMUEL",
+            "What position did you hold with the ANC?",
+            "Male"
+        ],
+        [
+            "BHEKI ALFIUS NZAMA",
+            "I was in the Youth League.",
+            "Male"
+        ],
+        [
+            "MR SAMUEL",
+            "I have no further questions, M'Lord.\nNO FURTHER QUESTIONS BY MR SAMUEL",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Prior?",
+            "Unknown"
+        ],
+        [
+            "ADV PRIOR",
+            "I have no questions, Mr Chairman.\nNO QUESTIONS BY ADV PRIOR",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "No questions from the Committee.",
+            "Unknown"
+        ],
+        [
+            "MR SAMUEL",
+            "Thank you, Mr Nzama, you may be seated.\nWITNESS EXCUSED",
+            "Male"
+        ]
+    ]
+}

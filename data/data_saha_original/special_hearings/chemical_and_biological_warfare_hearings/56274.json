@@ -1,0 +1,3277 @@
+{
+    "header": {
+        "type": "Chemical and Biological Warfare Hearings",
+        "starting date": "1998-06-08",
+        "location": "Cape Town",
+        "day": "2",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=56274&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/special/cbw/cbw5.htm",
+        "speakers": [
+            "ADV POTGIETER",
+            "CHAIRPERSON",
+            "DR ORR",
+            "DR RANDERA",
+            "MIKE ODENDAL",
+            "MR ARENDSE",
+            "MR DU PLESSIS",
+            "MR POLSEN",
+            "MR VALLY",
+            "MR VAN ZYL"
+        ],
+        "original_speakers": [
+            "MR VALLY",
+            "CHAIRPERSON",
+            "MR POLSEN",
+            "MIKE ODENDAL",
+            "MR ODENDAL",
+            "MR ARENDSE",
+            "DR ORR",
+            "MR DU PLESSIS",
+            "DR RANDERA",
+            "ADV POTGIETER",
+            "MR VAN ZYL"
+        ]
+    },
+    "testimony": [
+        [
+            "MR VALLY",
+            "That's correct Mr Chair.  The next witness we are calling is Dr Mike Odendal.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Polsen, you are representing Dr Mike Odendal as well?",
+            "Unknown"
+        ],
+        [
+            "MR POLSEN",
+            "Yes, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you very much.  Advocate Potgieter is going to swear Mr Mike Odendal in.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "(Duly sworn in, states)",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you, Mr Potgieter.  Mr Odendal, may I just remind you that if you are comfortable in Xhosa or Afrikaans or Sotho, but certainly in Afrikaans, we will have a translating facility, you are welcome to make use of it.\nMr Vally?\nEXAMINATION BY MR VALLY",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "Thank you, Mr Chairperson.  Dr Odendal, do you have any statement you wish to read into the record?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What are your qualifications?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I'm a Veterinarian.  I qualified in 1974 with a BSc from the University of Pretoria.  In 1983 I got my MED degree in Bacteriology and then I could register as a specialist, as a Veterinarian.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Is it correct to say you are both a Microbiologist as well as a Veterinarian?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "How did you come to be employed at the Roodeplaat Research Laboratories?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I and Dr Daan Goosen, we were colleagues, we studied together, we qualified at the same time.  We worked at the same research institute at the Faculty of Medicine at the University of Pretoria.  We were together for three years before he went to RRL and he offered me a job there too.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What were you employed as - sorry, before that, when was this?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "This was in 1985.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And how long did you work at RRL?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I worked there for 8 1/2  years, then I resigned, and then I went to Onderstepoort.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What were you employed to do at RRL?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Initially I had to establish microbiological capacities for the South African Defence Force.  I knew it was a French organisation.  I was trained as a Veterinarian and I worked with - we didn't work with viruses.  I'm a trained Veterinarian working in microbiology and I concentrated on microbiology and my brief was to investigate the various organisms which could be used against our country, how to identify them, diagnose them, and also develop a limited offensive capability which could be used if it became necessary, because at that stage there was a war waging against the Angolans.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You were aware that RRL was a front company?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you aware that it was controlled by the military?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Who was in charge of RRL?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "When I joined them Dr Danie Goosen was the Managing Director.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What I want to know, is specifically what research you did at RRL?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "We had three types of projects, those were hard projects in which the Defence Force was interested.  There were soft projects, that was for a commercial view, and there was also in-house projects.\n One of my briefs was to develop technology, that meant that any technology had to be developed which could be used to develop a defensive capability, as I've already said, a limited defensive capability.  All the capability was my responsibility regarding microbiology.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You mentioned hard projects, can you advise us what is meant by the term hard projects?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Hard projects, one of those hard projects in which the Defence Force was interested was the development of a system which would entail all the organisms to be used in chemical warfare.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So you developed various cultures?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's look at TRC 48, I believe you have that document.  Do you have it in front of you?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, I have.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Now, this seems to be a list of all the projects that - or some of the projects, rather, that RRL was involved in.  Do you recognise this list at all?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Mr Chairman, I just want to make sure that we're on the right place, are you speaking of page 1355?",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "You see, at Roodeplaat, we had different departments and the one department was physiology and that is this department, and I was only involved in microbiology, so the projects listed here one this page, I recognise some of them, but that's all.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you involved in any of these projects on this page?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, not at all.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What do you recognise there?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, the Bovine Embryos, some aspects of quality assurance ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Yes, just let's just stop there, you're talking about, did you say baboon embryo's?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, Bovine.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Bovine, I beg your pardon.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, that's the first one, 10034.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Alright.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Vally, where are we?",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "We're looking at TRC 48, the first page.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Oh, very well.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "What do you know about that research?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, nothing.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "But you know such research was done.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Go on.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "To the next page ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "No, I want to know which other projects you are aware of on page 1355.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, to be quite honest, I don't know anything of anything of those projects.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I thought the witness was saying that he had nothing to do with physiology?",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "He did, Mr Chairperson, but he said he recognised some of the projects there.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Oh, you are just asking for him to recognise any, if there are any.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "That's correct.  Let's move on to the next page, page 1356 which refers to biochemistry, what projects are you aware of there?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "There is only one project, the R1039, it's halfway down the list.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I'm sorry, I missed that.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "The purification, R0139, the purification of the toxins.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Will you please tell us about that?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "This project was a biochemistry project, but this regarding the purification of toxins.  These toxins involved with the enzymes here whereof the specific group, this is one of the groups of organisms causing fatal diseases, because these clostridian profusions have five types, and you must just stop me if it becomes too technical ...(intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can I just establish if the Ministry of Foreign Affairs does have these documents, given their role?  Mr Arendse?",
+            "Unknown"
+        ],
+        [
+            "MR ARENDSE",
+            "Chairperson, I've got the document available in front of me, and apparently, or I'm told that we don't object if it's relevant ...(intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Alright I just wanted to ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "MR ARENDSE",
+            "If the Committee feels it's important or Mr Vally feels it's important for this to come out, then we don't have any objections.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "No, I just wanted to look after your interests.",
+            "Unknown"
+        ],
+        [
+            "MR ARENDSE",
+            "Very pleased to hear that.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Dr Odendal, without going into the technical detail, this involved the purification of certain toxins.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Just give us some examples of the toxins.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "A produces an alpha toxin, now this is the cause of gas gangrene in people and also a condition such as red derm ...(indistinct), this has veterinary and medical implications.   The other toxin is a better toxin (b), the other one, is gibsolon toxin of a type\n(c) which is responsible for a condition in sheep which we called poult kidney in sheep.  So the reason for the purification of these toxins was to establish diagnostic tools to make a diagnoses, because we were not sure whether these toxins could be used for biological warfare or not.  It is listed in the International Biohazardous Key, but we just did it in any case.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on to the third page of this document.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Would that be 001357?",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "That's correct, Mr Chairperson.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Well sorry, I should turn over - there isn't much there - we go on to 13 - I assume it's 1358, the 8 is missing.  This is where your name appears, Dr Odendal.  Is that your name up there?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That's correct, yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Well, let's talk about some of the items referred to herein.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "If we start at the first one, NO34, Warmaconers(?) stands for the organism or the name of Hormonous Resina.  It is a fungus type of organism which grows in aeroplane fuel and it causes a great deal of problems in the spraying aeroplanes of the Air Force, because polluted fuel can cause the aeroplane to crash, and we looked at methods of decreasing these organisms.  The following one, or the next one is a project Septic Shock.  In conjunction with an overseas researcher who came to do research at RRL quite often, I think he still comes on an annual basis to sister companies or another company, he developed a shock lung model in baboons which he used to develop certain therapeutic to test these measures, that is why he came to our country so often to do testing on baboons, and he developed this model.  All that we did is that we took E-coli organisms and we grew this and gave it to him which he injected into the baboons, and they then developed this shock model ...(intervention)",
+            "Male"
+        ],
+        [
+            "DR ORR",
+            "Sorry, may I interrupt before we carry on.  We had some confusion when we were speaking to Dr van Rensburg about the \"begrooting\" column, whether it was rands and cents, or rands.  Could you perhaps clarify that for us?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, I think that would be R22 500,00.",
+            "Male"
+        ],
+        [
+            "DR ORR",
+            "Thank you very much.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "And at the end there it would been \"totale inkomste vir RNL\" that would be R10 million.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I think that would be for RNL as a company.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, but then is would be R10 million.  Mr Vally?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Shall I go on to the following project?",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Just before you go on to the next one, a septic shock lung I think you called it, these experiments were done on the premises?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "With baboons?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And they would be injected with the live culture?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And the results would be examined?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "For what purposes?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, this very prominent overseas research worker or scientist was developing a model for specifically for application in humans for the treatment of lung shock, because after an accident normal, let's say a car accident, the first thing that happens is the patient goes into shock situation and this model was used to simulate the condition in humans.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on to the next one.",
+            "Male"
+        ],
+        [
+            "MR DU PLESSIS",
+            "SKB Tande, that was just the company, Roodeplaat Breeding Enterprises, they had over a thousand Alsatian dogs and during one of their vaccination trials, the dogs developed an enamel hypoplasia and to prove this we had to repeat the trial to demonstrate to the commercial company which supplied the vaccine that enamel hypoplasia took place, and this was the project.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on, while I'm there, you know, you have project numbers there, some with \"N's\" before them, some with \"R's\" before them, some with \"L's\" before them, do those have any significance?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, the \"N\" project would be the projects, the commercial projects.  The \"R\" project would be the hard project.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I see, and the \"R\"?  The \"N\" is commercial, the \"R\" is hard, ...(intervention)",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "And the \"L\" would be an in-house development project.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I see, sorry, please go on.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Okay, the translocation 181, that was a similar project to the septic shock, the one was the production of the E-coli Endotoxin.  With translocation the scientist tried to re-isolate the organisms from the different organs to sort of, to check the distribution of the gram negative organism, so we gave it another number, and we did it apart from the other one.  Translocation means the movement from the organism from the bloodstream into the different organs.  So after the experiment, this animal was euthenased and we did the isolations.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "R0012 was our culture collection in which the Defence Force had an interest.  They requested us to develop and to establish a well rung culture collection.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's just go back to the one before ...(intervention)",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Oh yes, 186, sorry, Pasteurella.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "This was Pasteurella Humalitica is an organism that causes pneumonia in cattle.  It's one of the most devastating diseases, especially in fetlock cattle, and we developed a vaccine which was completely new to this country, the first type of vaccine of that nature in this country were developed, and it was done for a private veterinarian which contracted us to do this research work for him, and at this stage it is a registered vaccine in South Africa.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Fine, we will come back to R0012 in more detail, that's a \"versameling\", a collection of various cultures as you put it.  Let's go on to R0091.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Okay, that's Bacillus Anthraces, which is Anthrax.  Anthrax is one of the most common organisms used in biological warfare.  I think the Americans, the British, Sadam Hussein, all the people have Anthrax in their collection, and the purpose of this project was to establish whether one could produce a strain of Anthrax that would be resistant to penicillin.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "We're going to come back to that as well in a short while.  The next one, that's \"L\" with question marks.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Okay, that aims - that stands for the aims test.  The aims test is a test to test certain substances for carcinogenicity.  This project didn't really get off the ground and we didn't give it any attention, but it was in our plan.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "L183, Gamoglobulin P and SKP is for horses, perde, en skape.  We also had a project to isolate and purify the gamoglobulins from hyper immunised horse and sheep serum.  This we did for a specific disease referring back to one of the sheep diseases or the Epsilon toxin in sheep, because we wanted to test one of our new theories, and that is of passive immunisation in sheep as a means of protection.  This is one of our commercial projects which, it worked quite well, and we produced quite a lot of this gamoglobulin in sheep.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on.  You have a N204.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "RTO, Roodeplaat Teel Ondernemings, that's the synonym for Roodeplaat Breeding Enterprises.  Rooiderm in English we would say red gut in dogs, because they had 1000 dogs in one place, there was - they had a very unique syndrome called Haemorrhagic Necrotic Enteritis in the dogs, and my being a veterinary bacteriologist it stimulated my interest because my - the Clostridia group of organisms was my field of interest because I did my masters thesis on Clostridium profingens, and we tackled this problem of looking into the causes this disease in these dogs.  Quite a number of these dogs died as a result of this disease.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on, R47.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Okay, this is the freeze-dry process of certain pathogens.  Certain of these, I think it's fair to say that not all the organisms in the culture collection was pathogenic.  Some were more pathogenic than others, and we got the order from the Defence Force to select certain pathogens and freeze-dry them in larger quantities that what we normally would have done.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And which would these be?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "These would be Salmonella, it would be Anthrax, it would be Cholera, and also ...(indistinct)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Tell me, when you say you got the order from the Defence Force, who specifically gave you the order?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Our structures - all my orders I received from Dr Andre Immelman.  Although Dr Schalk van Rensburg was my direct Department Head all the Defence Force projects came through Dr Andre Immelman and Dr Schalk van Rensburg didn't really have inside knowledge of these projects.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on, L95.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Bacillus Anthraces in muis.  We did a lot of LD 50 tests, that means that we used a lot of mice to determine the pathogenicity of - we have about 45 different strains of Anthrax in our collection, and because the Kruger National Park is a basic endemic area for Anthrax, we met closely with them and to look at some of the problems that is associated with Anthrax in wild animals, so we obtained a number of isolates and we tested their pathogenicity in mice, and this project was all about that.  These results, I can just mention, I wrote it up and I published it in a scientific journal, The Onderstepoort Journal of Veterinary Science, 1992.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Alright, thanks, the last two, 170 and 168, were these also both in-house projects?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.  170 was also Bacillus Anthraces.  The biochemical characterisation of all these different isolates which we obtained from the Kruger Park.  We did biochemical profiles on each of them, and these results I also published in The Onderstepoort Journal of Veterinary Science.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And the last one?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That's Campilabacta Dejornai, in bitches, tewe.  In these ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "That's fine, you don't have to give us the details of that.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "Dr Odendal, can I just ask, in terms of your categorisation of \"N\", \"R\" and \"L\", this is for 1990/1991.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "Is there a possibility that whereas in one year, let's just take your L0170, it's the one that you were talking in terms Anthrax in the Kruger National Park, could that be converted to an \"R\" in the next year, because - or for example the septic shock one, whereas you say the idea was to develop treatment modalities on a model that would cause toxic shock.  Given that you were involved in biological warfare, and biological warfare to me means in it's simplest terms means killing human beings.  Could that experimentation not be converted towards what you were primarily involved in, which was biological warfare work?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "You see, we did not have any background on Anthrax.  We didn't have any working experience with the organism.  So what we had to do is we had to work with the organisms.  We had the proper facilities for that, you know, we created a P3 facility, and if the Committee wants me to expand on that, I will do so gladly, but you need specific laboratories to work with pathogenic organisms, which we had.  So, the experience you get with working with an organism obviously gives you experience, it gives you on-hands expertise.  So that experience you can use for whichever purpose is possible.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "Thank you.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Vally?",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "Thank you, Mr Chair.  You mentioned that the Defence Force asked you to, or asked RRL to create facilities for the large-scale freeze-drying of I think you mentioned Salmonella, Anthrax, Cholera and a fourth item, I forget what is was, what is the fourth one?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yersinia.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Yersinia.  Very briefly, what quantities are we talking about here?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well the quantities that was mentioned in one of these documents which seemed to corroborate the volumes which we produced, which was not very large.  It was normally in 10ml volumes in a 30ml McCarthy glass vile.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Would it be very easy to produce much, much more from the vials that you had once you had the cultures?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "With the facilities we had, no.  You can, but over a very lengthy period of time.",
+            "Male"
+        ],
+        [
+            "DR ORR",
+            "Sorry, can I just ask, how many organisms, for instance if you have 10ml of Cholera in a bottle, how many Cholera organisms would be in that bottle?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, normally we would make a count afterwards, and we would be satisfied with 10 to the power of 8 per millilitre.",
+            "Male"
+        ],
+        [
+            "DR ORR",
+            "And that is 100 million, if I'm counting my 0's correctly?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, it's quite a lot of 0's.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "And the potential of harm from that?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, it's difficult to say, you know, it's easy to play with numbers, but I very soon realised that it's not so easy to judge from what you have what it will be, because in the pathogenic status I have been involved with animals in my - as part of my veterinary training, it's not always easy to cause a specific disease they way you wanted to.  I think Dr Schalk van Rensburg mentioned the 3 Russians were infected and only one died.  You know, I was quite surprised one died because I don't think - you know, to my mind they shouldn't die because it doesn't normally work that way.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "But you would still have a certain figure in mind.  I mean you've given all these confounders.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, some of these diseases would rather cause disease or incapacitation rather than mortality, and I think the organisms were involved in, apart from Anthrax, perhaps, all the other organisms will just cause slight - I won't say slight, but, incapacitation.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "Sorry to push you on this one, but, given that you had a vile of Clostridium, let's take that as an example, whether we've talking about morbidity or mortality, you must have done certain calculations to say 1ml of the substance of the culture can affect so many thousands or so many hundreds of people, that's what I'm asking you.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "You see, we didn't really do those calculations because 10 to the power of 8 is the maximum number of organisms we can grow in a culture.  We can't grow any more, so we opted for the optimum number of organisms per millilitre.  So we didn't have any figures because that's not really available, how many organisms can incapacitate you, if I've answered your question.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Vally?",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "If we could go on.  If you were just having these cultures for testing purpose or for laboratory purposes, why would you be asked to keep larger quantities of these particular items, Salmonella, the Anthrax, the Cholera and the Yersinia.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I was, I didn't keep them in my collection.  Those that were prepared in larger quantities I handed over to Dr Andre Immelman.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Why do you hypothesise that the Defence Force asked you to produce these in larger quantities?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Mr Chairman, I'm not sure if I understand you?",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "If you only required these items to prepare defences against them, Salmonella, Anthrax, Cholera, Yersinia, you advised us that these were the items that you were asked to freeze-dry in large quantities.  What do you think was the reason why these particular items had to be freeze-dried in large quantities?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, one of the reasons that was given to me, was that Dr Jan Lourens from Protechnic wanted to test them for filter purposes because he was testing new protective - new types of protective clothing, and that was one of the reasons.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "That's one of the reasons that you were given?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "But I thought all the testing was done at RRL?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, Mr Chairman, I'm not sure if I understand you correctly, but we didn't do any testing.  We just took the organisms, put them in bottles, and that's it.  We didn't do any testing on them.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I see.  Well, maybe you can tell me about TRC 52?\nThis is the so-called \"verkopelys\".  Now, do you see the document, do you have it with you?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, I have it in front of me.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Now, you'll see there are a number of items on this list.  Let me refer you to some of them, we seem to involve some of the items in your field, \"The botulism in the bierblik - 21st of June 1989\", do you see it, about three quarter of the way down?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, I see it.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you responsible for producing the botulism?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, we did produce that.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you put it in the beer tin?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Do you know how it got there?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I got - it was also one of the, I would say, requests I had from the Defence Force to produce Botsilium type A toxin, which I produced in a 5ml glass freeze-dried vile and this I prepared a number of these glass vials and I handed it over to Dr Andre Immelman.  What happened after that to the toxin I wasn't informed.  The know ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Need to know.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "The must know system also applied to me.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did Dr Immelman never discuss these issues with you that he was using it to put into a tin of beer?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, this was one of the things that came to light, and I also did some tests on liquor, beer, whisky, milk, water.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Well, let's go out firstly with botulism.  What effect does it have on a human person.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, it causes paralysis because it inhibits the transmittance of your nerve impulse in your muscles, so eventually you would die of asphyxia.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And how long does it take to work?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That's difficult to say.  In humans we don't know, I don't think those figures are available at all.  On the - the only figures we have is figures which - studies we've done on mice, because mice is the most popular experimental laboratory animal which is commonly used not only to type these Botsilium toxins into the different types because there are basically eight, let's say seven different types of Botsilium.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Potentially it could kill?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And you tested these on primates such as baboons?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, we didn't test it in primates, we only used mice as an experimental ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Only mice?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you test - you said you tested it's ability to be mixed with alcohol and it's effectiveness thereafter?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Why do you think you were doing that?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, the reason once again that was offered to me was, it could land in one of our own people's drinks and that's to test the quality of the drink, of the drink, or of the liquid.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you seriously believe that?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Not really, because I know it's one of their most common or popular biological weapons as well, it could also be used offensively.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Tell me about Salmonella.  Did you do tests on mixing sugar and Salmonella together?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No we didn't do any tests.  We just provided the Salmonella and if you mix it with anything, tea or sugar, you know, you hope it will work, if it would work.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You did tests on mixing this item with various ...(intervention)",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, we did no tests on Salmonella.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Which - and botulism, did you do such tests on botulism?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, we did.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What did you mix it with?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, we mixed it with milk, with water, with whisky, with beer, all types of liquid that could possibly aid the ingestion of the toxin.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I want to talk about the Cholera.  Do you see on the 4th of August 1989, the first item on the second page of TRC 52?  Do you see that item?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, I see it.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Can you describe the effect of Cholera on the human being?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, it causes quite a severe diarrhoea, quite a severe dehydration and that's basically the most important effect.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And who are the most vulnerable people regarding Cholera?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, humans.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And will - amongst humans, are children not the most vulnerable, and older people?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, they are.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So Cholera would be most effective in killing children and older people?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I assume so, yes, because that's what the literature says.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And you're talking about sixteen bottles, how much cholera are we talking?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Once again, if I remember correctly, they were small bottles, 30ml McCarthy vials and you put in at least 10ml, so that would mean, it would be quite a lot.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What would you ...(indistinct) if you had to use it for offensive purposes?  You see on that same page, about three quarter way down, there's 10 bottles and the top of the page was 16 bottles, so that's 26 bottles altogether.  Firstly, were you the person who put this cholera together, who isolated it, or cultured it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I prepared the cultures, yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You prepared them?  You produced 26 bottles of cholera of 30ml a bottle, I believe you said.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, 10ml.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I beg your pardon, 10ml a bottle, which gives you 260ml of cholera.  What damage - I'm sorry, I'm told there's another 6ml also involved.  I assume that you produced that as well?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So we've got 26 plus 6, is 32 bottles which gives you 220ml of cholera.  Can you give us an indication of whether this could cause a serious epidemic?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I assume that it could cause an epidemic, yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I used the words \"serious epidemic\".",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you aware that you were producing a substance which could potentially cause a serious epidemic?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I wouldn't - when I got the request to produce these organisms, you must remember that the idea stuck in my mind, that in the first case it was to be used for testing purposes, and in the second one, you know, there were hints that this could be used in the war situation in Angola, and it never crossed my mind for one moment that it could be used internally in our own country, because to use organisms or to spread organisms in your own country is a very risky thing, and it's not the - it doesn't go along with the convention of biological warfare that you do not produce these things to use on your own territory.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You felt it was acceptable to use cholera as a weapon in Angola?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, to my - with the information that was available to me, that these guys were using it on us, so why don't we use it on them.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And who told you this?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "This was information that was probably passed to me by Dr Immelman.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So Dr Immelman indicated to you that it was acceptable to visit a cholera epidemic on possibly Angolans?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Who else was involved in this project?  I'm talking specifically about production of cholera and for the purposes you produced it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, there was a specific technician, I only had one technician that was allocated to these projects which produced all these organisms in large quantities.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Was there any advisor or consultant to this project?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Anthrax, what effect does Anthrax have on a person?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Anthrax cause three different clinical symptoms in humans.  The one is, when you inhale it, it is extremely dangerous.  That is the most dangerous form of Anthrax.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What happens to the person?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, you go into shock, into septic shock and you can die within a very short period.  The other one is when you ingest it orally.  In most cases nothing will happen, but if you happen to have an ulcer of some sorts, and the organism is absorbed into the bloodstream, that person will probably also die because their death is very acute.  And then the third form is aquataneous form which was referred to in the earlier days as Wilsorter's disease, and that causes an abscess, which can heal by itself, or if you instigate treatment, you can recover.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "If you go back to TRC 52, the second page, third item, it talks about five \"sigarette - B - Anthrax\", do you see it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Are you aware of these cigarettes prepared with Anthrax?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, I was asked to do that.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So you personally put drops of Anthrax onto these cigarettes?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, I was given a packet of Camel cigarettes, and I was requested to drop some of the drops onto the filter of the cigarettes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And what would it have - what would have happened to the person who smoked these cigarettes?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, it's difficult to speculate, but I can imagine that it might have fatal results.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you aware of that at the time you did it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you aware of who it was intended for?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, once again this was put to me that it was going to be used to test some of the filters that Dr Lourens was developing at Protechnic.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Surely you didn't believe that, I mean you don't test the filter by putting Anthrax on the cigarette?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Perhaps I did not believe it, but I had my own thoughts about the situation.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Well, let's go on.  Did you do experiments with the mixing of chocolate with Anthrax?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you, directly under the items with cigarettes and Anthrax, it says \"koffie, sjokolade\" and Anthrax.  Did you do that mixture as well?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, I only provided the toxin to Dr Immelman, and what he did with the toxin, he did not tell me, he did not inform me.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Are there any other items on this \"verkope\" list that - firstly, I want to know if you prepared the toxins, and secondly, I want to know if you were responsible for the final product, for example the cigarettes, or the peppermint chocolate with Anthrax.  But, firstly, let's see, regarding the shopping list, which toxins were you personally responsible for producing?  If you start on the first page, 19th of March '89 and move downwards.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "There's one, the 9th of June '89, \"Spore en brief\".  Those were Anthrax spores and they were supposedly put onto the glue part of the envelope.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So, did you prepare the envelope?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, I did not prepare the envelope, but I provided the spores.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you aware what they were going to be for?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Where you aware whether it could be done or not, whether spores could be put onto the gum of an envelope?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I suppose it could be done, but I don't think it's a very good idea to immobilise or the incapacitate someone, because I doubt whether it will be effective.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "We're talking kill.  Will it kill someone?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I've got my doubts, but strictly speaking, it could happen.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Depending on the quantity?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, and depending on many factors.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Would it be detectable?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I don't think so, no.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on.  What else on the first page?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "\"Bierblik Botsilium\", I produced the Botsilium toxin, but how it got into the beer tin, I won't know.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "And the same with the following one.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Right.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "And then with the \"suiker en Salmonella\".",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What did you do there?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I only supplied the Salmonella.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Salmonella, let's briefly talk about.  What effect does it have on a person?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "It causes a nausea, and gastro enteritis.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on.  The ...(indistinct)",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You've mentioned the cholera at the top of the second page, 16 bottles, let's go on.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "The cigarettes, yes, I did that.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Right, that's cigarettes at (b) with Anthrax.  You say five, volume - five, was it five cigarettes, five packets, five cartons?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I'm not sure, I think it was, if I remember correctly, it was one cigarette per packet and it was five packets.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Five different packets?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on.  The coffee, \"sjokolade\", were you responsible for both, or just the botulism?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Just the botulism, and just the Anthrax, and not to inoculate the chocolate.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go one.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Okay, the cholera, and the Brucella Maletenses.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Well, let's talk about that.  That's the third last item at the bottom.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, that's also an important ...(indistinct).",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Tell us what effect it has on human beings.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That causes flu-like symptoms which I would say, it could be quite severe, and it could have long lasting effects.  So, it's not lethal, it can only incapacitate from that ingested.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Do you know what's relapsing fever?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Does it cause chronic relapsing fever?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "It actually causes multi fever, because relapsing fever is Brucella Abortus.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I see, is that in the list as well?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, Abortus is not in the list.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you produce it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You didn't produce it.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Maletenses is one step more pathogenic that Abortus.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I see, and when you say the fever you described, does it incapacitate a person for the rest of their lives?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Not necessarily.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "For how long?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, let's say you get quite severe fever symptoms, muscle pains, joint pains, and then that can incapacitate you for - it's difficult to say, for a couple of days.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And does it recur?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, it can recur.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "For how many years?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, this is difficult to say, but for many years, 10 years, 5 years, 10 years.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And to call it flu-like symptoms is to underplay it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, it's sever flu-like symptoms.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I means doesn't it totally incapacitate you, that period, when it recurs?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I've been fortunate enough not to contract this disease, but I ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Surely you read about it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, but from the people that have had it, it's not a disease that I'd like to get.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So you could take a healthy person, and they would be rendered ...(intervention)",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, you can make them quite ill.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "For a long, long time.  What does the literature say one it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, you get acute and you get chronic cases.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's talk acute.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Acute for a couple of days,",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Right.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "And it can pass.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And chronic?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "With treatment.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Chronic, it'll come back, you treat it, it'll come back.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "For how many years?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "At least ten years.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And this was the more serious type of Maletenses?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, that's correct.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Which would probably induce the chronic symptoms you described?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Now, the quantity you got there, 1 by 50, how much are we talking about?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "If I remember correctly, that must be 15ml.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Per bottle?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, that was only one bottle, and that was all.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So, one bottle of 50.  And how would you - how would this be transmitted to people?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Orally.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Can you introduce it into the drinking water?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Or milk?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Or alcohol?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "We didn't do any test on that, so I can't say alcohol, but it's a possibility.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And 50ml will affect how many people?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That is difficult to say.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Usually these items, you use millilitres to in fact affect people, very minute amounts.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, we normally cultivated, these organisms to at least 10 to the power of 8 organisms per millilitre.  So, if you had to reconstitute it and if you freeze-dried, say for instance, 50ml and you can reconstitute it with less volume, and then your concentration will be a bit higher.  So you can increase your concentration slightly, but it can strictly speaking, it can make a lot of people sick.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "When you say a lot of people, what are you talking about?  Give me numbers please.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, that's difficult to say, you know.  It will be pure speculation really.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Speculate for me.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Two hundred, three hundred.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Is it true that it is very difficult to diagnose?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, it's very often missed by the medical practitioners, because they don't normally look for it, and a lot veterinarians suffer from this disease, because it's not diagnosed properly, so it is difficult to diagnose.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Is that one of the reasons why you were keen on - your research institute was keen on producing this substance?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, it is also listed in the international lists of biohazard agents for biochemical or biological warfare is this organism, because we get to this specific reason.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think the question, however, is still a pointed one.  Is that the quality that your research laboratory was looking for, and was that the reason that they wanted to produce that ...(indistinct)?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on to the last page.  Were you responsible for those two items?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, the Maletenses and the ...(indistinct), but ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's start off with the Maletenses first.  How much of this was produced in this particular batch?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I'm afraid, Mr Chairman, I can't remember that, you have to ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Was it possibly the same amount as the previous one?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "This organism wasn't very popular really, because I think it was just for us to give to the people just to have it on hand, whether it was ever used or not, I can't say, but I can only assume that it must have been the same quantity.  I can't say for certain, I'm sorry.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And the last item?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Typhemorium, Salmonella Typhemorium is one of the Salmonellas which can also incapacitate you.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you produce this?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I produced it, yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Does it cause typhoid?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Para-typhoid.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Para-typhoid.  Can you describe the symptoms, what effect it has on people?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "It also causes gastro enteritis.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Does it cause dysentery?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, not really.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Does it cause severe internal haemorrhaging?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you put it into the deodorant?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, I can't understand if someone would want to infect someone with Salmonella, why you would put it in a deodorant, it wasn't me, no.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "How would you transmit the Salmonella in order to affect someone?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "It's also an oral ingestion.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Only ingestion, not through the skin?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And not through inhalation?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Do you understand why this was done?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, it doesn't make sense to me.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Have you seen this list before?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Are you aware of the fact that your products, that these items that you produced were in fact being given to people?  I don't mean the recipients, I don't mean the victims, I mean the middleman who'd collect it from RRL or it would be delivered to such a person?  Were you aware of that?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, because we did not see the people for whom the products were intended for.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "When you say \"we\" you're talking about yourself?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "And Dr Immelman - or, no - sorry, I'm talking about myself.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I think you are.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I need to ask you, were you given certain specifications?  I need, for example, a product to introduce into a cap of the ANC, which I want to produce at in fact, for example, foodworths, were you given such specifications?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, I was just asked to compile a list and to produce a number of these organisms in the freeze-dried form so that it could be kept in stock in Dr Immelmann's fridge in his walk-in safe for - and he would distribute it for his own purposes, whatever the case may be, for the filtration experiments or for utilisation by some other people.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you told what is the most effective toxin to be used in whatever circumstances, were you ever given instructions of that sort?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, I had to produce a potpourri of products and they made their own choices.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And the potpourri was of your own volition, or were you given directions as to what should be part of the potpourri?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I had a list of organisms, you know, from international literature which gave me guidelines on the organisms which would be the most pathogenic.  I went according to those instructions.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So you took what the world community said were the most ...(intervention)",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Potent organisms that could be used in the event of biological warfare, yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And then went and produced those.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What in fact did any of these items have on the environment, for example?  Let's talk about Anthrax.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I think Anthrax, it would be grossly irresponsible if you use Anthrax in your own country, because you will contaminate the soil and the environment for a least 70 years.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So for 70 years it would be highly dangerous for any living creature to be in that area?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.  Well, the experiments that I have been performed so far indicate that, you know, this is the maximum time that, but probably it can be a bit longer, but 70 years is the experimental time which has been quoted in the literature.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "In fact when British experiments in ...(intervention)",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Green old Ireland.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "They had to abandon the island for many years.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You were aware of this?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did you think that this was being produced for use on neighbouring territories, because you say it would have been very senseless for it to be produced for one's own country?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I think the quantities that we produced of Anthrax spores were so small that you cannot really, you know, it was incomprehensible for me to realise that this could have been used in a warfare situation, because you need many spores, especially if you want to rely on the inhalation method of inactivating your enemy.  You'd have to rely on the inhalation of the spores, and therefore you'd need tons of spores, and we only produced, I think, limited quantities.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Maybe whilst I still have you, Dr Odendal, just so I don't forget, you see, I see that all of this work was produced by you towards the end of ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "Sorry, Chairperson, I've just been asked if we could just stop at this point.  It's moving towards aspects of - which involve serious proliferation and I think we just, we need to consult on our side.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.  Well I don't know if there has been any basis that has been laid for, certainly the question that I am going to be asking.  I'm not going to be asking about - I'm going to be asking about cholera.  Can I just get an indication from the principals if I'm going to be asking the questions on cholera that have been heard, whether that is going to be traversing.  Mike seems to say, you know, I can go ahead.\n You see, Dr Odendal, most of the substance is cultures that you talk about.  You produced towards the end of 1989, during '89, on the list, at least sitting on the list, all the cholera.  I've seen that one was, you know, had a date in September in 1989.  Do you agree?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I think what one should also realise is that I produced these organisms and in a freeze-dried form they can stay alive for many months, and even perhaps years,",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "So it could have happened that I could have produced those organisms in 1988 for instance, and they were only distributed in 1989.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.  Okay, let's talk distribution.  It seems to me, if you look at these dates where those distribution dates or where those dates relevant to the day on which you released them to whoever was placing an order for them.  What does the dates signify here?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, the dates - I did not know when these cultures were handed out by whom, to whom.  I assume it must have been Dr Immelman that handed them out to someone who came and collected it, but there is no connection with the distribution date the preparation date of the organisms.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, at list, it says in one column it says \"datum gelewer\".  What does that mean?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That I would understand, would mean to me this was given to an operative or someone, or an agent or someone that came and collected it.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That's what it would mean to me.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes the point that I am making is that you are talking about 1989.  These toxic substances are being delivered as you say, possible to agents, in 1989, and all your understanding had been that this would have been in furtherance of a war situation.  Do you agree?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I assume so, yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, now in 1989 there hardly was any war that was being fought by the South African Defence Force, do you agree?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, Mr Chairman, you've got a good recollection,",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "If anything, there was a peace process in Namibia where the South Africans had been involved in a war that have even taken them to Angola.  Do you realise that?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, that's true.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "1989 we're actually talking elections in Namibia.  Do you realise that?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now talking about cholera, how would it have been administered, these cholera cultures?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "There's only one basic - there's basically only one way I would think, and that would be to contaminate drinking water.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Contaminate drinking water.  And you, for instance, in peace time, in the election time in Namibia, these doses could have been administered in drinking water in Namibia.  What effect would it have had on the election process?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I think to start off with, I think the Department of Health would basically agree with me that if you have this organism in your environment, it can have a devastating effect on the health services.  It can lead to disruption because you need urgent medical attention to the people that are affected.  You can disrupt a whole area.  It can cause wide spread disruption.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You are talking about the disruption of an election process, possibly even leading to some deaths.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Certainly.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And you agree that the quantities of this cholera culture that you produced was sufficient to have been able to produce an epidemic, certainly that would have affected a population of 1 million plus in Namibia at this time, had there been a plan to do so?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That's possible, yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did it not worry you that in peace time you were being asked to produce toxins of those proportions?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "You see, at this stage, and as I mentioned it to you, there was a stage that we produced these organisms and that could have been in 1988 even.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, but I'm talking what you are agreeing on.  Here in 1989, which is peace time, you now know that certain of these toxins were being collected, certainly were being delivered to agents as you called them, did that not worry you - or let me not talk that time.  Now, with the benefit of hindsight, doesn't it raise a number of questions in you head that these things were being delivered through Dr Immelman to whoever, CCB maybe, Armed - Special Forces, you were aware that these projects where they were  associated with the South African Defence Force and linked in some ways to Special Forces, were you not?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "It is disturbing, yes, but at that time it wasn't, you know, we had a lot of projects going, and when you get an order or a directive to produce something, you had to produce it.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "At that time you were aware that your projects were associated in some ways with Special Forces ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, not at the time when we produced it.  Afterwards I realised that that could have been the possibility.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And when you realised it, didn't you think that some of the toxins that you were producing, they're actually destined for operations by Special Forces?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I sort of realised that, you know, but it was too late to do anything at that stage, because in those cases it would have been - the results would have been evident.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I see.  There were things you could have done, but then, that's not my function at this stage.  Mr Vally?",
+            "Unknown"
+        ],
+        [
+            "ADV POTGIETER",
+            "Mr Chairperson, can I just before we loose the point on the cholera thing, do I understand this correctly, the cholera example, isn't that a particularly, isn't the one that particularly exemplifies a certain degree of callousness, because on what you say cholera renders children, young children and the elderly most vulnerable to it's effects, so really, it would affect that section of the population most, not so?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, that's true.",
+            "Male"
+        ],
+        [
+            "ADV POTGIETER",
+            "The innocent really?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "ADV POTGIETER",
+            "And that underlines the callousness, if you will, to use that - those organisms in a sort of an offensive way?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I think even more so if you were to use those organisms in your own country.  I think, you know, it's completely irresponsible, it's grossly irresponsible to do that.",
+            "Male"
+        ],
+        [
+            "ADV POTGIETER",
+            "Wherever you apply it, you going to affect children and the elderly most.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Okay, if you're in a war-like situation, then I think, you know, your target would be, let's say adult men,",
+            "Male"
+        ],
+        [
+            "ADV POTGIETER",
+            "Exactly.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "But otherwise, I think, you know, to target the other populations of - would be callous.",
+            "Male"
+        ],
+        [
+            "ADV POTGIETER",
+            "So even in the war situation, it doesn't really gel with one's sense.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well I think even in a war situation, you know, to go and contaminate specific villages for that purpose would be - I would agree to that, yes.",
+            "Male"
+        ],
+        [
+            "ADV POTGIETER",
+            "Thank you.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Dr Randera?",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Just make it clear for us, you started work at Roodeplaat in 1985.  You say you worked there for 8 1/2  years, that takes you to 1993, midway through 1993.  When did you stop producing, what we're looking at is stuff that may have been produced in '88, '89, '90, possibly right up till 1993?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I think at the end of 1990, and I can just go through my project list to corroborate those facts, but we did stop when the political initiatives became more prominent and then more constructive.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "It is possible that you may have actually been producing cultures right up till 1993.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, I can assure you that we didn't do it up to 1993, because for the simple reason, there were a lot of other commercial ventures in which we became involved.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Vally, I think there has been an indication by the Ministry that we may well be going into areas of proliferation.  I don't want an argument, I am just indicating that it is so, and it happens to be at a stage where I thought it would have been convenient to have an adjournment.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "We could adjourn, but I think that was a mistake on Mr Arendse's part.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, that's why I said I'm not going to have an argument.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "What we're talking about happened in 1942 already.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you, for the record gentlemen, Mr Valley can we make an arrangement that we start at well, at 08h30 tomorrow, seeing it's a long a day and there are two witnesses that are going to stand over for cross-examination?  I'm in your hands, if you want ...(indistinct)",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "I would like to finish, it all depends on the cross-examination.  I'd like to finish and at the very most I'd be twenty - twenty five minutes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Vally then we'll take it 08h30 tomorrow morning.  Some of the members of the panel have got other commitments.  And may I just indicate that maybe we should now endeavour to pace ourselves in the sense that we should devote and provide for so much time for each witness.  We have been fairly liberal, but we have wanted to conduct the hearing over five days, and we must either choose whether we want to have all the witnesses called, or have half a hearing.  I'm just wanting you see how you can accommodate each other, otherwise you'll have to have place structures with the panel that beyond a certain hour a certain witness can no longer continue to be heard.  You have an experience of that sort of thing in the - last year in Gauteng, and I'm sure I am not speaking a language you are not familiar with.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "There's two items here, or three items here.  Hopefully the complaint by Mr Arendse has fallen away, so that's gone away.  The other item is the witness presently before us and I respectfully suggest that we be allowed to finish him.  I think if we allow to finish him we would have more time for other witnesses.  It think it's unnecessary to call him back tomorrow, and I'll promise to go fast and cut ...(intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Vally, we would have come tomorrow in any event for cross-examination.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "If we can get an indication if there's going to be cross-examination.",
+            "Male"
+        ],
+        [
+            "ADV POTGIETER",
+            "Mr Chairman, I can just put it at this point in time I don't have any questions to ask the witness.  Mr Vally indicated there is some more evidence, but at this point in time I won't have any questions for him.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Valley, I'm seriously considering allowing you only for the next 10 minutes.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "I'll restrain myself, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "10 minutes.  Mr Vally?",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "Thank you, Mr Chairman.  Dr Odendal, besides Anthrax are there any other items that were produced by you that would have an impact on the environment?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "The organisms that produce gastro enteritis will have a limited impact, although something like the organisms that we mentioned as - could have a sort of a - if it lands in the rivers and in the estuaries and in the environment, it may have a, and we're talking of months, you know, an effect of months on the environment ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Which items are we talking about?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Cholera for instance.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Alright.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Perhaps Salmonella.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So cholera could stay in the environment for months?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Yes, perhaps Salmonella?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Salmonella, yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Botulism?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, that's a toxin and it will disappear in 24 - 48 hours from the environment if you happened to contaminate the water supplies or the environment.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Any of the other items?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "No.  Alright, just very briefly, when you started making these items, which year?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, when I arrived at Roodeplaat in 1985 it took us about two years to get ourselves organised.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So shall we say from 1987 until the end of 1993?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, I don't think it lasted all that long, although we had - I was responsible for the culture collection until the company dissolved in 1993, but we did not produce larger quantities than normal in the latter of, or in the beginning of the 90's.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You see, we only have one \"verkope\" list that we have.  I assume that simply because we have this list covering the period 19th of March 1989 to 21st of October 1989, that there may be many other lists, with many other deliveries, is - the items listed here, would that be just a minority of the total amount of substances produced by you?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "You see, Dr Immelman had in his large safe in his office, he had a small bar-room fridge in which he kept all these freeze-dried cultures, so it was not really possible to - we weren't geared to produce large quantities and we were not geared to hold large quantities of these organisms, so it didn't mean that we went into a large-scale production of these organisms to ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "The point I'm making is very simple, this shopping list starts on the 19th of March 1989 and goes on to the 11th of October '89.  You started in '87.  There would have been many more items produced from '87 to February '98, and subsequently from mid October '89 till towards the end of 1993.  Is that a factually correct statement to make?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, I don't think so.  I think we did not continuously produce these organisms, for the simple reason, it takes quite a time to produce them, and we were also involved in many other projects, so I think, you know, in all fairness, we did not - this was not the only type of work we were involved in.  This was only a very small portion of our activities.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go on to another issue, is the treatment for Anthrax if someone has been infected by Anthrax, is the treatment - a person being treated by antibiotics, is that how you would treat it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "There's only one antibiotic which will have guaranteed efficiency, and that would be penicillin.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Right, so when you were trying to develop an antibiotic resistant Anthrax, were you trying to ensure there was no treatment for the Anthrax?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, that could have been the one.  The other reason is that we wanted to see if those strains could be induced because that would be one of the first things that we would treat with, and if we don't find any obvious effect, you know, what could the possible causes be.  So, if we make a diagnoses of Anthrax in the laboratory, one of the cultural characteristics of this organism is it's susceptibility to penicillin.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "We've passed this stage about the defensive side.  Once you've started putting Anthrax on cigarettes it was a different ball game, it wasn't a test situation any longer.  Where you trying to produce a culture which was not treatable?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, it goes both ways, yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You carried out various tests and if you look at your documents, I'm trying to get through them quickly, so I won't go through them all, but if you look at documents 98 - Anthrax, 99 - Brucella, 100 - Cholera, 101 - typhoid, 102 - para-typhoid, sorry can you just quickly tell us the difference between para-typhoid and typhoid?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I think the typhoid is more specific - typhoid affects humans more specifically, whereas Typhemorium is a cross species type organism.  It can infect cattle, sheep, humans, chickens ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I see, so it goes in animals.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes and typhoid is more restricted to humans.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And the first item you talked about, is it - can the disease be spread from animals to humans and vice versa?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Typhemorium, yes.  It's ...(indistinct)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you also responsible for paraoxon?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Alright, if you look at - let's talk about Brucella, document 99.  Now, this kind of report, was this done by you?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, with each batch of organisms I produced I had to supply sort of a list of instructions and of safety precautions that had to be taken when this organism was handled.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Fine, and this was done for all these items I've mentioned?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, that's correct.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You had in there, if you look at 2.5 of 99, TRC 99, do you have it in front of you?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "\"Any liquid which is suitable for\noral intake will be suitable for the\nsuspension of the organisms.  5 - \n10ml will be sufficient.\"\nSufficient for what?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "To suspend the organisms into a suspension, to dissolve the freeze-dried clot or little pellet that you have in the container.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Fine, and then you go on, \"this includes water, milk, etc\".  You envisaged that it would be reconstituted in items other that just water?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "I submit to you that that's possibly because you wanted to put it in items other than water.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, that's possible, yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "If you look at 2.11 it gives you the symptoms if you are infected with it, so you could determine which poisons were more effective and which ones were not?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Mr Chairman, I'm not sure if I understand you correctly.  We did not, you know, infect humans or animals with these organisms.  I just prepared them and put them in a bottle and I put in all the literature, all the information I thought necessary to ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Alright, sorry, I withdraw that question.  Look at 2.7, sorry, I'm trying to rush, you're talking about dosage, dosage for what?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That would mean if you had to ingest that amount of organisms you will get sick.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "So, sick or more serious than just sick?",
+            "Male"
+        ],
+        [
+            "MR DU PLESSIS",
+            "You see it all depends, I don't think the actual dose has been established for humans.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Well, look, go one back.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "So, it will basically on my part it will be speculation if I had to tell you, now this will cause disease, hopefully it will, hopefully, you know, ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Hopefully it will.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, depending on the type of action you\nintended it for.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Let's go one back, to TRC 98.  Look at 1.7 there.\nLook at the second paragraph, this deals with the Anthracite, \n\"one drop of this taken in all over is a fatal dose and\nwill be approximately 10 to the power 8, or contain \n10 to the power 8 organism.\"\nIn a lot of these items you were in a position to determine what dosage would be deadly.",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, that was speculation.  I can assure you ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "But this is what you say here, a fatal dose.  You were just speculating?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Because that was the concentration I had in the vile.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And you do that with a lot of these items?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Alright, now ...(intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Excuse me, Mr Valley, I'm very sorry, but what do you mean by this?  It's a speculation to say each drop of this if it is taken, is a deadly dosage, what do you mean by that?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Strictly speaking, if you ingest one spore or one organism, that may also be deadly.  If it goes into your intestinal canal and if it is absorbed, specifically through an ulcer, or a broken part of your intestinal muculical membrane, then strictly speaking, one spore will also be deadly, because it will enter the body and it will multiply and multiply and the incubation period will only be a bit longer.  So, I assumed that if you ingest this 10 to the power 8 organism, I assume that it will be deadly, because it's a lot of organisms.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Were you specifically asked by any person to determine what would be the fatal doses?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I was asked to include this information leaflet, or to make it as complete as possible for the simple reason is that this was part of our - of a request we had from the Defence Force that we must include all the information, including the dosages and all the information, well, I could say all the relevant information.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Who specifically asked you to determine what doses of these items would be deadly?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Dr Immelman, let me put it to you this way, he asked for all the - he requested me to put in all the information, but again, you know, I would like to re-iterate we did not test or do any tests apart form the mouse test, that was the only laboratory test we did on Anthrax.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And all the baboons and dogs and the chimpanzee you had besides, I'm not talking about field farm, I'm talking about the baboons and the chimpanzee and the dogs that you had for experimentation purposes at RRL, where they never used on those animals?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, I did not have - well, although I had access, I could have had access to the experimental animals if I wished, but I did not use experimental animals to test the efficiency or the doses of these bugs.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What was the role of Dr Wouter Basson in the work you were doing?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Dr Wouter Basson was our main contact with the Defence Force.  He visited us once a year I saw him and he would come along to us and he would discuss certain things, projects they were interested in, and we had to make - we had to submit all our projects to him and he would decide which of those projects he was interested in for funding, from the Defence Force.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What did Dr Wouter Basson know about your project?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "That's difficult to say, I'm not sure.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "When you met with him once a year, did he indicate that he was aware that you were making these items?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, he was aware, and I think he also knew that these organisms are basis standard organisms that are used by all the countries involved in biological warfare.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Yes, but specifically he had knowledge you were making these items at Roodeplaat?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "What did General Knobel know about your project?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Mr Chairman, you'll have to excuse me, I did not know Dr Knobel, I did not meet him, I honestly, I cannot answer this question.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "These documents, 98, 99, etc, dealing the Anthrax, Brucella, Cholera, Typhoid, Bella-typhoid, Botulism, were all these items, these reports submitted to the Defence Force?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And who would they have gone to?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I submitted my report to Dr Immelman, and I presume he gave them to Wouter Basson, but I never saw those reports again, and I never heard anything about those organisms either.  So what happened after that, after I gave it to Dr Immelman, I really don't know.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Dr Odendal, you worked together with Dr Immelman for a long time, how many hears?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Let's say 8 1/2  years while I was a Roodeplaat.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "He tells you, and I assume you socialised with him also?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "He orders 16 bottles of Cholera.  Surely at some point you said, what did you call him, whatever, Dr Immelman, that is a large quantity you asked me to produce, yesterday, what did you do with it by the way?  Surely you must have asked him?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I did not ask him the Cholera, but I did ask him about the Salmonella.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And what did he say?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, he gave me some - that was the only incident where I had some feedback, where he told me that they used it in sugar to disrupt an ANC meeting.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Where was this?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I'm not sure.  I presume it was in Johannesburg, Soweto, some or other place.  He didn't elaborate on that occasion.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And when was this?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "It's difficult, I have to make a wild guess, but it would be '89/'88, I'm not sure.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Are you aware of whether anyone suffered any illnesses as a result of this?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, apparently they became very ill, but no-one died.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You didn't make any informal enquiries about any of the other items you produced?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, they couldn't tell me, and even, I don't think - even if he wanted to, he couldn't tell me because ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you ask?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, because ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And what did he say?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "He told me he doesn't know.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did he say what he did with it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, he told me he gave them to the Defence Force and what happened to that he didn't know and he couldn't tell me.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you feel free to leave your job at RRL, or did you feel threatened that you'd be killed if you left?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "At the time we left, it was rather a tumultuous time because a month after I left, the whole company collapsed and I think everything collapsed, and it was liquidated a short while after that and no, I didn't - by that time another Managing Director had taken over for the previous 18 months.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you feel in fear of your life if you felt like leaving before that?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "My very last question, did Dr Immelman ever indicate to you what he did with these substances, who he gave them to?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No, he didn't.  He only identified them as operatives, agents ...(intervention)",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And what did you understand by that?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, I understood covert operations.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did you know specifically which branch?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "You saw them as state agents?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "And that's all you knew about it?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did he mention CCB?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Did he mention Special Forces?",
+            "Male"
+        ],
+        [
+            "MIKE ODENDAL",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR VALLY",
+            "Thank you, Dr Odendal.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Dr Wendy Orr?",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "Dr Odendal, when you were asked to contaminate five cigarettes with Anthrax and told that they were going to be used to test filters which Dr Jan Lourens was making, did you honestly believe that?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "You must remember at that stage, you know, it was sometimes difficult to believe what you were told, so - and we were also in a situation at that stage that I was brought to the understanding that they were to be used across the borders to disrupt, let's say an army camp, or whatever the case is, or to remove some people in neighbouring countries.  You know, I sort of realised that could have been the possibility, or the alternative possibility.",
+            "Male"
+        ],
+        [
+            "DR ORR",
+            "I imagine if you were asked to contaminate one cigarette in a packet in five different packets, it was hardly for mass use in a camp, it sounds more to me as if was for use against particular individuals who were going to be given those cigarettes.  Would you accept that?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Dr Randera?",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Dr Odendal, I just want to first of all perhaps rapport when you spoke about some of the bacteria and the effects, the impression I got was that when you spoke about gastro enteritis for example, that it was just a fairly mild condition, I think we need to be aware that two million child die in our continent every year from gastro, and also as far as I'm aware still, it's the major cause of mortality, infant mortality in South Africa to this day.  When we talk about gastro, it's not just some mild condition, it can responsible for severe immobility as well as mortality.  I hope you agree with that.",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Yes, no, certainly.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "Dr, you know, in the last two days we've been trying, I suppose part of our responsibility is to understand what the responsibility of scientists is, where does it begin, where does it stop.  In your - in this particular case, I just want to ask, clearly what I'm understanding from you is that this differentiation between defensive and offensive was purely academic really.  On the one side perhaps you were developing this bacteria to understand what treatment modalities can come out of it in a war situation, but on the other side, you were handing over cultures with toxins that could kill to, in this situation, to Dr Immelman, and you really don't know to this day what actually happened to those cultures?  Earlier on when you were asked that question, you said that when the freeze-dry bacteria, that they can survive from a few days to several years.  So am I right in assuming, given that you don't know, you know that you put it into a bar-fridge into Dr Immelmann's safe at one stage, but beyond that you don't know what happened to these cultures?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "Well, perhaps I can latch on to what Dr Schalk van Rensburg said, I know at some stage when there was a scare that someone was going to come and inspect the place, a lot of specimens were destroyed, but I had no control over that, and I think the only person that would be able to answer you correctly on this matter would be Dr Immelman himself.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "But it comes back to my original point, was is the responsibility of scientists like yourself, I mean in retrospect now, what would you recommend so that these situations don't arise again?",
+            "Unknown"
+        ],
+        [
+            "MIKE ODENDAL",
+            "I think in retrospect many things could be decided on, and I think this is something that I will certainly apply to myself and I think that hopefully such a situation will never prevail again in this country that it would be necessary for any scientist to do the same sort of work that has been done.  I don't think - I think your ideas change over the time, and as you get a bit older, I think you get a bit wiser, and I think even my ideas have changed of the number of years.  So I would agree with you that I think one can certainly look into that and change your ideas.  But I think you must remember one thing, and this - we did not - the majority of our time we spent on more productive projects, and I think that a lot of good work came from our efforts at this laboratory.  We were responsible for a Bovine vaccine, which  has been registered at Onderstepoort.  We've done a lot of, let's say defensive type of work as well, you know I would say in our case, I think Dr Schalk van Rensburg quoted 66% were toxic, by that was for the toxicology people.  In our case it was just the complete opposite.   I can show you my project lists where at least a third of the projects we did were so-called hard projects, and the other projects were soft projects and commercial, with a commercial implication.  So I think to a certain extent we were not satisfied with the type of management at Roodeplaat.  We did, I've got documents to state my point, that we did not like the way we were being managed, and we did make efforts to rectify the matter, but that wasn't really to any avail.  But nevertheless, I think more good eventually on the whole more good came out of the whole venture that the bad things.  Bad things were wrong, I will not, I will agree to that and for that I am very sorry and I think I will, if this is the reason for this Commission then I would, that's why I'm here to - because I wouldn't like to see this happen again.",
+            "Male"
+        ],
+        [
+            "DR RANDERA",
+            "Well, unfortunately it's the duty of this Commission to look into the bad things that were done, but I'm sure UNESCO would look at the other things, the good things that were done, you might even be considered for an award, but our duty is to the little that was done, even if it was 10% of the whole work that was done, it ought not to have been done.  We'd have been pleased if 100% of your time had been spent on good things, because the 10% of the time that was spent on these sort of things, you know, blots entirely even the good work that was done.  I'm sure you appreciate that.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "That seems to bring us to the end of our questions today.  We shall adjourn until, well Hanif has some ideas, could you meet at 08h30 and we start at 09h00.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "08h30 or 09h00 is fine by us, Mr Chair.  08h30 would suite us.  I just want to ask that if we could just ask the attorneys to remain behind, legal representatives rather, once we adjourn, just to arrange the rest of the programme in view of potential court challenges, so we understand when the challenges will be brought, and as well as arranging our schedule accordingly.  By this I mean we can tell people to be on standby so that we don't waste any time.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And of course you'll remember that one of the arrangements that you should possible be looking at is how much time each witness is going to be given.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "Certainly.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "08h30 tomorrow morning.",
+            "Unknown"
+        ],
+        [
+            "ADV POTGIETER",
+            "Mr Chairman, may this witness be excused please?",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "I would assume so.  Mr van Zyl, you ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "MR VAN ZYL",
+            "I've got no questions, thank you, Mr Chair.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You are excused Dr Odendal.\nHEARING ADJOURNS",
+            "Unknown"
+        ]
+    ]
+}

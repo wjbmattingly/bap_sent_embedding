@@ -1,0 +1,71 @@
+{
+    "header": {
+        "type": "AMNESTY HEARING",
+        "starting date": "1998-12-01",
+        "location": "JISS CENTRE, JOHANNESBURG",
+        "day": "4",
+        "names": [
+            "SIDNEY NEMAORANI"
+        ],
+        "case number": "AM 7503/97",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=53084&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/9811241202_jhb_981201ji.htm",
+        "speakers": [
+            "CHAIRPERSON",
+            "MR NEMAORANI",
+            "MR MABOTE"
+        ],
+        "original_speakers": [
+            "CHAIRPERSON",
+            "MR NEMAORANI",
+            "MR MABOTE"
+        ]
+    },
+    "testimony": [
+        [
+            "CHAIRPERSON",
+            "Mr Nemaorani, have you heard what your attorney has said about your position?",
+            "Unknown"
+        ],
+        [
+            "MR NEMAORANI",
+            "Yes I heard.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you agree therewith?",
+            "Unknown"
+        ],
+        [
+            "MR NEMAORANI",
+            "Yes I do agree with him.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.   Mr Mabote, have you heard what your attorney has said?",
+            "Unknown"
+        ],
+        [
+            "MR MABOTE",
+            "Yes I did.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you agree with him?",
+            "Unknown"
+        ],
+        [
+            "MR MABOTE",
+            "Yes I do.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes thank you.\nWITNESS EXCUSED",
+            "Unknown"
+        ]
+    ]
+}

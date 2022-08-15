@@ -1,0 +1,1370 @@
+{
+    "header": {
+        "type": "AMNESTY COMMITTEE",
+        "starting date": "1999-11-03",
+        "location": "EAST LONDON",
+        "day": "3",
+        "names": [
+            "MFANELO DAN MATSHAYA"
+        ],
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=53835&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99110103_el_991103.htm",
+        "speakers": [
+            "ADV SIBANYONI",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "JUDGE POTGIETER",
+            "MFANELO DAN MATSHAYA",
+            "MR HERMANS",
+            "MR MALUSI",
+            "MR MAPOMA",
+            "MR MGIDLANA",
+            "MR MGXAJI"
+        ],
+        "original_speakers": [
+            "CHAIRPERSON",
+            "JUDGE POTGIETER",
+            "ADV SIBANYONI",
+            "MR MAPOMA",
+            "MR MGXAJI",
+            "MR MALUSI",
+            "MR MGIDLANA",
+            "MR HERMANS",
+            "MR MATSHAYA",
+            "MFANELO DAN MATSHAYA",
+            "INTERPRETER"
+        ]
+    },
+    "testimony": [
+        [
+            "CHAIRPERSON",
+            "Good morning everybody.  I am Judge Pillay and I want to ask my colleagues and the various representatives, to do the same and announce themselves on the record, for the purposes of identification on the record.",
+            "Unknown"
+        ],
+        [
+            "JUDGE POTGIETER",
+            "My name is Denzil Potgieter.",
+            "Unknown"
+        ],
+        [
+            "ADV SIBANYONI",
+            "I am J.B. Sibanyoni, a member of the Committee.",
+            "Unknown"
+        ],
+        [
+            "MR MAPOMA",
+            "I am Zuko Mapoma, the Evidence Leader.",
+            "Male"
+        ],
+        [
+            "MR MGXAJI",
+            "I am Sitembele Mgxaji, representing the victims, specifically the Mapipa family.",
+            "Male"
+        ],
+        [
+            "MR MALUSI",
+            "I am Tembekile Malusi, representing the victims with regard to the death of the APLA 5 in Port St Johns.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "I am Tanwasika Mgidlana for the applicants in respect of the incidents that took place at Port St Johns.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "For the benefit of the public, I am told that the translations are as follows - on channel 1, it would be translated into Sotho, channel 2, English and channel 3, Xhosa.   Yes, Mr Mgidlana.",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Chairperson, will begin by indicating that I have been instructed by one of the applicants who appears in the bundle of documents, who is applicant number 6, Pumulele Civilian Hermans, who is sitting next to me, that he had indicated in his application that he was accused of being involved in the killing of the APLA 5 as well as the killing of the late Mr Mapipa.  He indicates that he was not there and I am instructed therefore to withdraw the application in respect of himself regarding those incidents.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "All of the incidents?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "All of those incidents.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I assume you have explained to him what the implications thereof are?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Yes, I did Judge.  I did.  As it turns out, he says that he was not there at all, it is just that he has been cited criminally in respect of those incidents.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Hermans, have you heard what your Attorney has said?",
+            "Unknown"
+        ],
+        [
+            "MR HERMANS",
+            "Yes sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you understand what he has told us?",
+            "Unknown"
+        ],
+        [
+            "MR HERMANS",
+            "That is correct sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are you satisfied with what he told us?",
+            "Unknown"
+        ],
+        [
+            "MR HERMANS",
+            "Yes sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And I understand him to say that you are withdrawing your application in respect of all the incidents which we are going to discuss in this application?",
+            "Unknown"
+        ],
+        [
+            "MR HERMANS",
+            "That is correct sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Very well.  Then your application is then withdrawn.  You are excused.",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "As it pleases you Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes Mr Mgidlana?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "As it pleases you Chairperson, I will then call Mfanelo Dan Matshaya who appears as applicant 5 in the bundle of documents to come over and take the stand.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Mgidlana, let us just get something straight, as I understand it having read the papers, we are going to discuss in the course of this hearing, three incidents, are we agreed?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Yes, we are agreed.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "One of them being a shoot-out at which at some time, members of the South African Police Services were involved?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "The second one is an attack in which five members of APLA were killed?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I am not saying that is the order in which we are doing it, I am just identifying the incidents.  What is the third one?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "The third one is the killing of the late Mr Mapipa.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.   Which one are we going to start with?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "The one that I intend starting with Judge, is the one involving the shoot-out at the Voter Education Workshop at a high school, which as you indicated, also involves the involvement of the, also the involvement of the police as well as the Transkei Defence Force members.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Where would we find this applicant's application, on what page?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "It is on pages 57 to 66 of the bundle.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "May I proceed Judge?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Oh, I am sorry.  Mr Matshaya, what language would you prefer to use?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I am going to use Xhosa.",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "(sworn states)",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Please be seated.  Yes, Mr Mgidlana.",
+            "Unknown"
+        ],
+        [
+            "EXAMINATION BY MR MGIDLANA",
+            "As it pleases you Judge.  Mr Matshaya, can you give us your full names and where you reside?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I am Mfanelo Dan Matshaya, residing in 31 Spruit Street in Umtata in the former Transkei.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Are you a member of any political organisation or State organ?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I am a member of the African National Congress.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Since when have you been a member of the African National Congress?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Since 1980.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Were you a member of any of the organs of the African National Congress?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, I was an Umkhonto weSizwe member.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Since when did you join Umkhonto weSizwe?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Since 1982.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Did you undergo any military training as a member of MK?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I got military training in Angola in 1984 and I proceeded to Yugoslavia in 1985.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "When did you return to South Africa?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I came back in 1987.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Did you continue being a member of the ANC as well as Umkhonto weSizwe?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, I continued.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Tell me, of your fellow applicants, were they also members of the ANC or any of them?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "One of them, they were all ANC members sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, and any of them trained, members of MK trained?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Only one of them which is Mr Mdlulwa.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Was he trained?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, he was trained.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, carry on.",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Do you know where he was trained so that we could just finalise that point?  Do you know where he was trained?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I do not know, but I just only met him in Angola.   As to where he did his further training, I do not know.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "It is common cause that the ANC was unbanned in 1990, you recall that?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "That is correct sir.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "And after its unbanning, where were you based?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I was based here in the Transkei.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "And did you continue with your activities as a member of MK?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Please explain your question.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "What I mean, were you as a trained member of MK, were you sometimes called upon to do some work on behalf of the organisation?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "That is correct sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You know why you are here today?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, I am aware sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Tell us in respect of the shoot-out at the school, at the Workshop, what happened there?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "At that time, I was in the Security Branch of the ANC in Umtata.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What time was that.  When was that?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "It was in 1994.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Myself and comrade Dumisa Mdlulwa, we were on duty on that day.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "As what?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "As security officers.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "We got a report from the ANC office, or rather an order to go to St Johns, where there was a Voter Education that was going on and there has been a shooting.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "From whom did you get that report?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "It was from our Head, Joe Jongile.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Did you proceed to Port St Johns?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "We left Umtata, myself and comrade Mdlulwa and a third comrade that we found at the office, which was comrade Zukhuru.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "He is not one of the applicants?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No, I haven't seen him here.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Was this Zukhuru his - what are his full names?  Is Zukhuru his full name or one of his name or is this a pseudonym?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I do not know him that well.  Commander Joe Jongile would be the one who could give us those details.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, carry on.",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "And then what did you use to travel to Port St Johns, did you use public transport of private transport?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "We were driving in a car that we normally used for security purposes at the office, the three of us, myself, comrade Mdlulwa and comrade Zukhuru.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Were you carrying any firearms with you?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, we were heavily armed.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Having reached Port St Johns, what did you do?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "On our arrival at Port St Johns, we reported at the ANC office there, and we met the Chairperson there and we were given the directions where the shooting was taking place, which is the school.  We proceeded in that direction and we found a person who guided us to the shooting place.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Do you know that person's name?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No, I do not know that person's name.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Is he not amongst the applicants who are here in respect of the incidents that took place at Port St Johns?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No, I haven't seen him.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Proceed.  You then proceeded to the school?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "On our arrival at the school, as soon as we entered the gate, we heard gunfiring, they were shooting at our car.    There were already chaos and there were adult people because there was Voter Education that was going on.  There were lots of people in the school.  After having been shot at, we alighted the car and we took cover and - we took cover and we positioned ourselves appropriately.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Yes, and what happened?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "The shooting continued and we could see from what direction it came from.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Yes?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "We divided ourselves and we gave each other the task of evacuating all the adult people who were in the premises and to try and stop all this.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Was there still this gunfiring?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Sorry?",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Was there still shooting?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, the gunfiring was continuous.  Fortunately for us, there was a comrade who was residing in Port St Johns and they joined us in.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "You say how many were they?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "They were many in number, but the other one who was carrying a firearm, he is the one that we worked with closely.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who is he?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I think he is present here in the hall.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who is he, I am not asking if he is present.",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I do not know his name.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is he a fellow applicant?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, he is a fellow applicant.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who may that be Mr Mgidlana?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "It is Guleni, Fundisele Guleni.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Guleni, Fundisele Guleni?",
+            "Unknown"
+        ],
+        [
+            "INTERPRETER",
+            "Could the applicant kindly bring the microphone closer?",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Carry on.",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "We deployed ourselves and we fired back, and the firing was just going on continuously.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, carry on, what happened next?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Thereafter we heard that there was a soldier that was reported to be dead, and the people were evacuated and...",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did you return fire?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, we did.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "You said the firing continued for some time (indistinct)",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "The firing continued and we tried to suppress them, but they outnumbered us.   The process of evacuating the people was quite difficult, because we were trying to use backdoors and windows.  There were cars that were being shot at.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Was the building, the school building, then being attacked?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So you had proceeded from the gate where you were shot upon, to the school building?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, we managed because the terrain was bushy, so it was easy.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Okay, carry on.",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "At about five o'clock in the afternoon, there were no more policemen and soldiers at that time, and when we realised that it was becoming dark, and the police Commander, he heard that there was shooting, he was coming from Umtata and we told him that he must ask his policemen to stop the shooting, but this continued an hour after I have told him, but we tried to retreat at about five o'clock, when all the people were all evacuated from the school premises and we decided to move away as our mission was accomplished or over.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Why do you think the school was being attacked?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "When we enquired as to what is happening because we did not know who was firing at who, but we knew that they were shooting from a Mr Mposelwa's house.  As we were firing, we could not fire back at that house because there were small children that came out of the house, of the age of 5.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I know that, but why were they attacking the school?  Was it just ordinary criminal reasons or political reasons or what?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "It was for political reasons, because the ANC and the PAC were fighting in St Johns at that time.  It was not the first report that we got.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Were there ANC people in the - why do you say that the school was being attacked because there was a fight between the members of the ANC and the members of the PAC?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "The Voter Education that was going on at that time, was conducted by the ANC.   Thus, I think that they wanted to disrupt the Voter Education that was going on.  I don't have any other reason that I can give.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And you went to St Johns to do your duty as a result of an order from your Commander?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "That is correct sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You say after an hour, after you reported to the police Captain, the shooting subsided as I understand it?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No sir, what I said is that after having spoken to the Commander at the police station, the firing continued.   Nobody came to try and stop it.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did you go to the police station?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Fortunately the police station was just behind us, and we saw the police, they took cover, they were just watching, they did nothing.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I see.",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "The Station Commander drove, passing by with a van and we stopped him.  He was on his way back from Umtata.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "How many of your co-applicants were involved in that incident?  You have told us about Guleni and Mdlulwa.  Anybody else?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "It is only the three of us, sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Only the three of you?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And those other comrades of yours that didn't come too close, do you know who they were?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No, I do not know sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Could there have been one of your co-applicants involved with that lot, who never came too close, but came to assist?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Please repeat your question sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Could there have been one of the co-accused that came in that group that didn't come too close to you?  Remember you said there at Port St Johns there were many comrades, only one who was armed, came very close, he was Mr Guleni.  I assume the others stayed further back.  Do you know Mr Poyo?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And Mr Pato?  Do you know him?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You say in any case, the three of you were in close vicinity of each other during that incident?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "That is correct sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Okay, carry on.",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Were there others who could have also participated, but whom you cannot identify?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, there are.  There were many because there were elderly people and women, there was chaos and there were men who were also helping us out to carry the old people and helping through windows.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "You said that this firing was coming from the direction of Mr Mposelwa, one Mr Mposelwa's house?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can you spell that, I cannot hear what you are saying.",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "M-p-o-s-e-l-w-a.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mp?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Yes, Mposelwa.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who was this person?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "He says in his testimony that the firing was coming from the house of one Mr Mposelwa.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Just hold on, something is crossed here on the microphones.    Is English still on channel 2?  Okay, let us - I asked you who was Mr Mposelwa?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Mposelwa.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who was he?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Can you tell us who Mr Mposelwa was?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Mr Mposelwa was a PAC member, a senior member of the PAC in Port St Johns.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is it from that house from which there was shooting towards you?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "That is correct, sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "How far is that house from the school?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "There is just a fencing between the two buildings.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can you show us now from the school building, let's say the school building is where you are, can you point out a position here in this room?  Can you do it?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "The school wall might start ...",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Aikona, the school wall is where you are sitting, show us now where ...",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Okay, the school wall might be where I am sitting, and Mr Mposelwa's house might be there by the door.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Would the legal representatives agree with 15 metres?",
+            "Unknown"
+        ],
+        [
+            "MR MALUSI",
+            "Yes Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you agree Mr Mgidlana?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Yes Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "We were at an edge and we crawled towards the edge which was dividing the two premises.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is there anything more you want to say on this incident?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "When we left in the evening, policemen arrived, or rather the army from the Special Force.  It was, there would have been three of them, and they told us that we have to leave because the government Forces have been arranged to come and monitor the situation.  That is when we withdrew, at that stage.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "During the whole incident, was anyone killed or injured, that is at the time when you were still engaged in the...",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "He said they had heard later that a soldier had been killed.",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Yes, during the shooting, a soldier was shot.  We saw him being shot, because he had just told us that he was going to the PAC group and another man who was just walking passed, he was shot as well.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who shot that soldier?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "He was shot by the PAC members.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Have you been charged with this incident, or are charges pending in respect of this incident?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "Are you referring to the shooting of the soldier?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, that whole incident, any charges arising out of that incident?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No sir, no charges.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Any of your co-accused, do you know?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No sir, no policeman came to us.  The only thing that we saw the following day, were the casualties and the reports that there were Security Forces and that people were killed, and we did not know who might have died, but seeing that we realised that lives had been lost there, we decided to apply for amnesty.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So you are not too sure whether you were the cause or any of your colleagues were the cause of those deaths?  You only know of one death, that is the soldier, and you know that he was killed from the firing from the PAC members?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "That is correct sir.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Anything else you want to tell us about that incident or have you done with that?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "There is nothing else Your Honour other than the fact that people died.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's proceed.",
+            "Unknown"
+        ],
+        [
+            "JUDGE POTGIETER",
+            "Tell us just, what were you using to shoot with?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I was carrying an AK47 rifle.",
+            "Male"
+        ],
+        [
+            "JUDGE POTGIETER",
+            "And the other one, Mr Mdlulwa?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I am not certain, but I was the only one who was carrying an AK47 rifle.  As to whether he was carrying an R4 or an R1, I am not sure.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Guleni?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "It seems that he was carrying an Uzzi sub-machine gun.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Did you aim at any object when you were shooting?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Or any person?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "We were crawling towards the fence.  Because of the bushy terrain and you could not see your target clearly, but to suppress them for the purpose of our mission, we wanted them to see that we were shooting them, but sometimes I would just be shooting openly.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "was your AK47 on manual or on automatic?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I kept on changing it because I did not have enough ammunition, because we did not know what was the situation, therefore I kept on alternating the positions, manual to automatic.  And one other thing that happened there, that didn't - we did not shoot at the house because there were children who were coming out of the house.  Because we noticed later that this is actually a residential house, and there were shooting, but from all over the house.  They were shooting from inside the house, we were going to throw in handgrenades, but because of the presence of the children, I stopped them.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "You never saw any bullet from your firearm striking any person?",
+            "Male"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No, but I had aimed at somebody who had just arrived with a car.   Whether I struck him, whether he fell or not, I could not tell, because I just fired and they would just return the firing.",
+            "Male"
+        ],
+        [
+            "MR MGIDLANA",
+            "Thank you.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "... the next incident in which he is involved, or is that his ...",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "It is only this incident, Your Worship.\nNO FURTHER QUESTIONS BY MR MGIDLANA",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Mgxaji?",
+            "Unknown"
+        ],
+        [
+            "MR MGXAJI",
+            "Yes Judge, Judge so far the testimony profit by the applicant, doesn't seem to relate to ...",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "To your clients?",
+            "Unknown"
+        ],
+        [
+            "MR MGXAJI",
+            "To my clients, but I am not too sure whether His Lordship may allow me to just ask one question relating to Guleni.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is it - relevant to which act, incident?",
+            "Unknown"
+        ],
+        [
+            "MR MGXAJI",
+            "Relevant to the Mapipa case.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, ask the question, let us see how ...",
+            "Unknown"
+        ],
+        [
+            "CROSS-EXAMINATION BY MR MGXAJI",
+            "Mr Matshaya, Mr Guleni is also the applicant before this Committee, in relation to the Mapipa murder case, right?  I want to find out if you know him, is he or was he a member of MK?",
+            "Male"
+        ],
+        [
+            "JUDGE POTGIETER",
+            "Don't touch this thing here, it is very sensitive on the headphones.  Switch it on again.",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "I know Mr Guleni.  I met him in Port St Johns.   I knew him as the member of the SDU in Port St Johns.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you discount the possibility that he was a member of MK or is it that you just don't know?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "As far as I am concerned, as a member of SDU, I don't draw that much difference from the MK because the SDU's would get their training from the MK people, therefore I don't know who to answer this question.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "To differentiate?  Now let's put it this way, can you say whether he was trained outside the country or not?  Can you say?",
+            "Unknown"
+        ],
+        [
+            "MFANELO DAN MATSHAYA",
+            "No, I don't think so.  I don't think so.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is that all Mr Mgxaji?",
+            "Unknown"
+        ],
+        [
+            "MR MGXAJI",
+            "That is all, Judge, thank you.\nNO FURTHER QUESTIONS BY MR MGXAJI",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Malusi?",
+            "Unknown"
+        ],
+        [
+            "MR MALUSI",
+            "Thank you Mr Chairperson, I don't have any questions for this applicant.\nNO CROSS-EXAMINATION BY MR MALUSI",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  Mr Mapoma?",
+            "Unknown"
+        ],
+        [
+            "MR MAPOMA",
+            "I have no questions, Chairperson.\nNO CROSS-EXAMINATION BY MR MAPOMA",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I don't suppose you have any re-examination, Mr Mgidlana?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "No re-examination Chair, thank you.\nNO RE-EXAMINATION BY MR MGIDLANA",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you, you are excused.\nWITNESS EXCUSED",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Mgidlana, I just want to ask you, in respect of this applicant, should we find that he was party of a group responsible for any crime at that incident, what would he be applying for, which offences?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Judge it seems to me that it would be an offence of public violence, secondly I am not so certain ...",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "But he was defending people, that is not public violence?",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Since there was a shooting ...",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's put it this way, at the end of the hearing, we are going to ask you to argue.  You can think about it.",
+            "Unknown"
+        ],
+        [
+            "MR MGIDLANA",
+            "Think about it, as it please you Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's proceed.",
+            "Unknown"
+        ]
+    ]
+}

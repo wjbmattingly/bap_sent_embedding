@@ -1,0 +1,83 @@
+{
+    "header": {
+        "type": "PRETORIA AMNESTY HEARINGS",
+        "location": "PRETORIA",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=54889&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/pta/pta.htm",
+        "speakers": [
+            "DATE",
+            "INDEX",
+            "NAME",
+            "PAGE NO"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
+            "INDEX\n",
+            "DATE",
+            "NAME",
+            "PAGE NO\n"
+        ]
+    },
+    "testimony": [
+        [
+            "INDEX",
+            "",
+            "Unknown"
+        ],
+        [
+            "DATE",
+            "24 FEBRUARY 1997      DAY 1",
+            "Unknown"
+        ],
+        [
+            "NAME",
+            "",
+            "Unknown"
+        ],
+        [
+            "PAGE NO",
+            "BRIG CRONJE\t\t\t\t\t1   -  20\nCAPT HECHTER\t\t\t\t21  -  37\nADDRESSES\t\t\t\t\t38  -  67\nLEGINA MABELA\t\t\t\t68  -  71\nCAPT MENTZ\t\t\t\t\t72  -  90",
+            "Unknown"
+        ],
+        [
+            "DATE",
+            "25 FEBRUARY 1997\t  DAY 2\nVIDEO COMMENTARY\t\t\t\t91  -  109\nBRIG CRONJE\t\t\t\t\t109 -  115\n2ND VIDEO COMMENTARY\t\t\t116 -  134\nCAPT HECHTER\t\t\t\t135 -  138\nCAPT MENTZ\t\t\t\t\t139 -  170\nTHOLAKELE NGQULUNGA\t\t\t171 -  180\nCAPT MENTZ\t\t\t\t\t180 -  184\nW/O VAN VUUREN\t\t\t\t184 -  204\nCAPT HECHTER\t\t\t\t204 -  214",
+            "Unknown"
+        ],
+        [
+            "DATE",
+            "26 FEBRUARY 1997      DAY 3\nADDRESS\t\t\t\t\t215 -  225\nS MURUDU\t\t\t\t\t225 -  258\nBRIG CRONJE\t\t\t\t\t258 -  291\nCAPT HECHTER\t\t\t\t291 -  294\nW/O VAN VUUREN\t\t\t\t295 -  299",
+            "Unknown"
+        ],
+        [
+            "DATE",
+            "27 FEBRUARY 1997\t  DAY 4\nGEN VAN DER MERWE\t\t\t300 -  344\nADDRESS\t\t\t\t\t345 -  349\nCOL VENTER\t\t\t\t\t350 -  350\nW/O BEESLAAR\t\t\t\t351 -  353\nBRIG CRONJE\t\t\t\t\t353 -  395\nRULING - JUDGE MALL\t\t\t395 -  396\nADDRESS\t\t\t\t\t396 -  401",
+            "Unknown"
+        ],
+        [
+            "DATE",
+            "28 FEBRUARY 1997      DAY 5\nBRIG CRONJE\t\t\t\t\t401 -  423\nBRIG VAN WYK\t\t\t\t424 -  437\nCOL LOOTS\t\t\t\t\t438 -  454\nCAPT HECHTER\t\t\t\t455 -  495\nADDRESS\t\t\t\t\t495 -  509\nC RIBEIRO\t\t\t\t\t509 -  518",
+            "Unknown"
+        ],
+        [
+            "DATE",
+            "3 MARCH 1997\t\t\t\t  DAY 6\nRULING - JUDGE MALL\t\t\t519 -  520\nC RIBEIRO\t\t\t\t\t520 -  534\nCAPT HECHTER\t\t\t\t535 -  597\nM CHIKANE\t\t\t\t\t598 -  635\nW/O VAN VUUREN\t\t\t\t635 -  653\nCOL LOOTS\t\t\t\t\t655 -  667\nGENERAL RAS\t\t\t\t\t669 -  687",
+            "Unknown"
+        ],
+        [
+            "DATE",
+            "5 MARCH\t\t\t\t   DAY 7\nCOL SIBULELA\t\t\t\t688 -  719\nMS HLABANGANE\t\t\t\t722 -  745\nADDRESS\t\t\t\t\t745 -  750\nCAPT HECHTER\t\t\t\t751 -  804",
+            "Unknown"
+        ],
+        [
+            "DATE",
+            "6 MARCH\t\t\t   DAY 8\nCAPT HECHTER\t\t\t\t805 -  832\nCAPT MENTZ\t\t\t\t\t833 -  848\nM MALOBOLA\t\t\t\t\t849 -  855\nADDRESS\t\t\t\t\t855 -  860\nCOL VENTER\t\t\t\t\t860 -  882\nADDRESS\t\t\t\t\t882 -  886\nW/O VAN VUUREN\t\t\t\t886 -  905\nCAPT HECHTER\t\t\t\t906 -  907\nJ LERUTLA\t\t\t\t\t909 -  913\nM SIBAYA\t\t\t\t\t914 -  919\nADDRESS\t\t\t\t\t919 -  928",
+            "Unknown"
+        ],
+        [
+            "DATE",
+            "7 MARCH\t\t\t\t   DAY 9\nBRIG CRONJE\t\t\t\t\t928 -  954\nCOL VENTER\t\t\t\t\t955 -  958\nMR LUKHELE\t\t\t\t\t959 -  1003",
+            "Unknown"
+        ]
+    ]
+}

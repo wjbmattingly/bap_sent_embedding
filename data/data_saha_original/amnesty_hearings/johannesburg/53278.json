@@ -1,0 +1,738 @@
+{
+    "header": {
+        "type": "AMNESTY HEARINGS",
+        "starting date": "1999-04-13",
+        "location": "JOHANNESBURG",
+        "day": "2",
+        "names": [
+            "MXOLISI DUMA"
+        ],
+        "case number": "AM 3145/96",
+        "matter": "TRANSPORTATION OF WEAPONS",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=53278&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99041214_jhb_990413jh.htm",
+        "speakers": [
+            "ADV SIGODI",
+            "CHAIRPERSON",
+            "DR TSOTSI",
+            "INTERPRETER",
+            "MR MOTEPE",
+            "MR MOTEPE IN ARGUMENT",
+            "MS THABETE",
+            "MXOLISI DUMA"
+        ],
+        "original_speakers": [
+            "CHAIRPERSON",
+            "MXOLISI DUMA",
+            "MR MOTEPE",
+            "MS THABETE",
+            "MR DUMA",
+            "INTERPRETER",
+            "DR TSOTSI",
+            "ADV SIGODI",
+            "MR MOTEPE IN ARGUMENT"
+        ]
+    },
+    "testimony": [
+        [
+            "CHAIRPERSON",
+            "We'll proceed with the other one now.  Mr Duma, which language would you prefer to use?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Zulu.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, Mr Motepe?",
+            "Unknown"
+        ],
+        [
+            "MR MOTEPE",
+            "We will follow the same procedure as we followed in the first one.  I've already presented the supplementary affidavit and we have nothing further to add.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Thabete?",
+            "Unknown"
+        ],
+        [
+            "CROSS-EXAMINATION BY MS THABETE",
+            "Thank you, Mr Chair, just a few questions.\n\tYou say you were requested by Mr Mpo Tseklo(?) to transport his fellow comrades.",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Who was Mr Mpo Tseklo and did he belong to any political organisation?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, he was an ANC member, Mpo Tseklo, in Meadowlands, Zone 2.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Besides being a member of the ANC, did he hold any position, was he involved in any activities, was he an active member, can you just give us more information about him?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, Mpo Tseklo was an ANC follower and an activist and he was at school at the time, involved in the school activities as well and the in the forefront in the struggle matters inasfar as school environment was concerned.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Did you say he was an ANC follower or supporter or a member?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "He was an ANC member.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Why were you specifically chosen to transport these people?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Mpo chose me because he knew me and I also had a car at that time.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Sorry, were you a member or a follower of the ANC?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "I was a follower at that time.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Were you a card-carrying member?  Sorry, are you saying you were a follower?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, I was a follower.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Before he chose you to transport his fellow comrades, did he used to involve you in other operations?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Although I would not refer to them as operations, but he would refer people to come to me for transport, to assist in things like funerals and things like that which required transport.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Did you know these comrades that you had to transport?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "No, I did not know them.  I wasn't quite used to them as such, but I knew them by sight.  Mpo is the one who told me one of them, the name of one of them.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "What was the name of that person?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Shakes was the name.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Do you know where he was from?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, he also resided in Meadowlands, Zone 2.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "And were you told what they were going to do where you were transporting them to?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, that was told to me.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "What were they going to do there?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "They were going to fetch firearms, guns.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Exactly where were the arms that they were going to fetch?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Those guns were fetched from Booysen, a certain place in Booysen.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Was it in a house?  Where was this place situated where you had to go and get these firearms?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "When we got to Booysen I parked the car next to a scrap yard and they alighted from the car and went inside the scrap-yard and came back after a few minutes with bags full of arms.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Would you be in a position to know where these firearms came from?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "As to where they were coming from no, I don't know and as to how they got there I don't know as well.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Cam you briefly tell us how you were caught?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "We were arrested on our way back to Soweto with these firearms in the car.  As we approached a certain stop there were police there and they tried to stop us and we stopped.  In fact they stopped us, we stopped and they wanted to - they didn't stop us ...",
+            "Male"
+        ],
+        [
+            "INTERPRETER",
+            "A point of rectification - we were being stopped, but I did not stop.",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "I was convicted for unlicensed ammunition and in possession, because I was found also in possession of unlicensed firearms.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "As a person who has applied for amnesty, how would you justify your having transported people to go and fetch arms for the ANC?  How would you justify that politically?",
+            "Female"
+        ],
+        [
+            "MXOLISI DUMA",
+            "There is a correlation between what I did and the political aspect because the violence was rife in the area where we resided and people were killed, attacked left right and centre.   Most of the being who were being attacked and killed were ANC members being attacked by the organisation, IFP, together the police.  Now those things resulted to the community deciding and together with the comrades deciding that we should be able to obtain firearms or weapons rather, to protect the community.  Now that is how this is related to politics, my actions that is.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Thank you, Mr Chair,  no further questions.\nNO FURTHER QUESTIONS BY MS THABETE",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Motepe, have you got anymore questions?",
+            "Unknown"
+        ],
+        [
+            "MR MOTEPE",
+            "I don't have anymore questions.\nNO FURTHER QUESTIONS BY MR MOTEPE",
+            "Male"
+        ],
+        [
+            "DR TSOTSI",
+            "On page 68 of the bundle, paragraph 10(a) you say that your political objective was to defend the communities of Meadowlands and Mzimshlope, why did you feel called upon to defend those communities?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "To defend the community was a right to every affected party, that something must be done to protect the attacks, the community from attacks.",
+            "Male"
+        ],
+        [
+            "DR TSOTSI",
+            "So that what you chose to do, you chose of your own volition to defend these communities?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, on my own volition I did choose to defend the community of South Africa at large because we were being oppressed at the time.",
+            "Male"
+        ],
+        [
+            "ADV SIGODI",
+            "When you were asked to transport these people, were you paid?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "No, I wasn't paid.",
+            "Male"
+        ],
+        [
+            "ADV SIGODI",
+            "You say you wanted to defend the communities of Meadowlands and Mzimshlope, how were you going to defend these communities?  I still don't understand.",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "In a way of availing my car to be used for such activities to obtain things that will help us to be able to defend the community, weapons, things like weapons that would have been used by people defending, or in a mission of defending the community.",
+            "Male"
+        ],
+        [
+            "ADV SIGODI",
+            "Were you employed at the time?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "No, I was self-employed, I was not employed.",
+            "Male"
+        ],
+        [
+            "ADV SIGODI",
+            "What work were you doing?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "We had at home a fast-food outlet.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "For what are you actually applying for amnesty?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "I'm applying for amnesty for, especially as we are aware that we are living in a new era here in South Africa, the apartheid has since died and it was a result of apartheid that these things happened and that is in the past now, we are living in the present and the future and we are preaching the gospel of reconciliation here in the country, South Africa that is.  I deemed it fit and appropriate for me to come forward and disclose all the truth to the community of South Africa through this vehicle of TRC, so that they may know better as to what happened.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think you misunderstand my question, I didn't ask why you are applying for amnesty, I'm asking in respect of what offences.",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "In respect of my conviction.  I'm in prison now and I'm coming forward ...(intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What, what crime?  What do you want us to do, grant you amnesty for what, in respect of what?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Grant me amnesty because I've been convicted for going to fetch the firearms and attempted murder of some policemen.  Those are the acts I'm seeking amnesty for.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now that's what I'm getting at.  Most of your testimony concerned the transportation of all these weapons, tell us more about this attempted murder.",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "To explain briefly, when I was being convicted at the court of law with regard to these cases that I've referred to, they gave me 5 years for attempted murder.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "How did you commit this attempted murder?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "It was not me who attempted to murder, but people in my company that did that, who were shooting at the police, the people I was transporting.  Because ...(intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "While you were escaping from the police?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "It is because we had firearms concealed in our car and they were not licensed.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Duma, listen to the question, I'm trying to help you, I'm not trying to catch you out.  You were part of a group of people, some of whom shot at the police, do I understand you correct?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "All I'm asking is, was that the time you were driving that motor vehicle escaping from these police?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, I was driving this vehicle when I was escaping from the police.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So although you never actually shot yourself, you were part of that group?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, that is so.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You accepted responsibility for everything that happened on that trip, do I understand you correct?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And you needed these weapons, as far as you were concerned, to defend that community and therefore the police were shot at?  You couldn't allow the police to get hold of those weapons, is that the position?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, that was the position.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "There was only one count of attempted murder that you were convicted of?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "When did that happen, not the conviction, the incident.",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "That happened in 1990, November.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "November.",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, November.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And you were transporting weaponry?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, I was asked to transport people who were going to fetch weapons at that particular time.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And that was successful, you did collect weapons?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, we did a successful, except for the time when we came across the policemen.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So when you came across the policemen there were weapons in the car?  That is how I understand your application.",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you I understand you correctly that when you were asked to assist by transport, you willingly agreed and that was your contribution to the political struggle?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, because I knew the people who were asking me this and I also knew their involvement in the community and I agreed.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "When the police tried to stop your car, you drove past, you didn't accede to that command, do I understand you correctly?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "When the police tried to stop the car one of the people inside said: \"There are the police, don't stop in case they stop you\", and indeed I drove past.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now if you knew it was the police yourself, without being told, would you have stopped or would you have driven on on your own?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "As for me I wouldn't have stopped because at the time police were not faithful, I mean you could not trust police.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What was your sentence?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "I was given 8, 9 years.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "5 for attempted murder?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Two for possession of firearms?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And 2 for possession of ammunition?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Very true, Your Honour.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Were they ordered to run concurrently or were they separate?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "May you please repeat your question?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Were those separate sentences ordered to run concurrently or were they kept separate?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Different times.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So you're only serving that - I see you're in prison clothes, are you still serving that particular 9 year sentence?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, 9 years is part of the entire sentence that I'm serving.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are you serving other parts of sentence?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Okay.  What for?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "The one case that I was convicted for was being suspected of robbing the bank and attempting to steal a car.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Those are independent acts, separate from your application?",
+            "Unknown"
+        ],
+        [
+            "MXOLISI DUMA",
+            "Yes, those had nothing to do with this amnesty application.  The other 10 years is still on appeal at court.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Okay.  Yes thank you, you are excused.\nWITNESS EXCUSED",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Any other bits of evidence, Mr Motepe?",
+            "Unknown"
+        ],
+        [
+            "MR MOTEPE",
+            "No extra evidence.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Thabete, have you got any evidence?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "No evidence, Mr Chair.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are we done with the evidence?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "We are, Mr Chair.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, Mr Motepe?",
+            "Unknown"
+        ],
+        [
+            "MR MOTEPE IN ARGUMENT",
+            "Committee Members, in this particular case one doesn't need to dwell much into the argument because most of the points have been raised, the link to the political objectives and they clearly qualify under the Act, so one doesn't need really to dwell much on this.  That is all I wish to say.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can you deal with one aspect.  He's made application in his, if I may term it \"man in the street\" way in respect of unlawful possession of firearms and ammunition, but he may be guilty of some other offences covered by the Arms and Ammunition Act, for example transporting and distribution maybe.  Do you think we can include that should we lean towards granting amnesty?",
+            "Unknown"
+        ],
+        [
+            "MR MOTEPE",
+            "I think that will be proper in case in future such charges might be brought against him, that that will be proper now to deal with even though it was not specifically mentioned, but they are tied together.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ja, ja.  It will be based on the same facts, isn't it?",
+            "Unknown"
+        ],
+        [
+            "MR MOTEPE",
+            "That is correct.\nMACHINE SWITCHED OFF",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Thabete, have you any argument?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "No argument.  This should concluded this matter, Mr Chair.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "What is your attitude towards the application?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "Mr Chair, my attitude is that from the evidence of the applicant clearly it appears that he associated himself with the members of the community who were protecting the community and by providing transport it was his contribution.  And for the charges that he has been convicted of he has associated himself with it and my attitude would be to have no objection if amnesty were to be granted.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you, we are going to reserve our decision in this matter and we will finalise in due course.",
+            "Unknown"
+        ],
+        [
+            "MR MOTEPE",
+            "If I may ask, is it in both matters?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ja.",
+            "Unknown"
+        ],
+        [
+            "MR MOTEPE",
+            "As it pleases the Committee.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You're excused if you want to leave.",
+            "Unknown"
+        ]
+    ]
+}

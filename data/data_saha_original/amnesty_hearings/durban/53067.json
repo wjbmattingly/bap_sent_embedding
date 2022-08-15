@@ -1,0 +1,2621 @@
+{
+    "header": {
+        "type": "AMNESTY HEARING",
+        "starting date": "1998-11-26",
+        "location": "DURBAN",
+        "day": "3",
+        "names": [
+            "LUCKY JAMES HLENGWA"
+        ],
+        "case number": "AM 4089/97",
+        "matter": "ROBBERY AT PENSION PAY POINT",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=53067&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/9811241202_dbn_981126db.htm",
+        "speakers": [
+            "CHAIRPERSON",
+            "DUMISANI ERNEST DLAMINI",
+            "LUCKY JAMES HLENGWA",
+            "MR HLONGWANE",
+            "MR LAX",
+            "MR NGUBANE",
+            "MR SIBANYONI",
+            "MS THABETE",
+            "WITNESS EXCUSED"
+        ],
+        "original_speakers": [
+            "CHAIRPERSON",
+            "MR NGUBANE",
+            "MS THABETE",
+            "LUCKY JAMES HLENGWA",
+            "MR HLENGWA",
+            "MR LAX",
+            "MR SIBANYONI",
+            "WITNESS EXCUSED",
+            "DUMISANI ERNEST DLAMINI",
+            "MR DLAMINI",
+            "MR HLONGWANE"
+        ]
+    },
+    "testimony": [
+        [
+            "CHAIRPERSON",
+            "Good morning everybody.   Today we will commence our proceedings with hearing the application of Mr Lucky J. Hlengwa.  Before we start, I would like to introduce the Committee to you.\n\tWe are all members of the Amnesty Committee of the Truth and Reconciliation Commission.  On my left is Mr Jonas Sibanyoni, he is an attorney from Pretoria.  On my right is Mr Ilan Lax, he is an attorney from Pietermaritzburg and I am Selwyn Miller, I am a Judge of the High Court from the Eastern Cape, attached to the Transkei Division.\n\tI ask the legal representatives please to place themselves on record.",
+            "Unknown"
+        ],
+        [
+            "MR NGUBANE",
+            "Thank you Mr Chairperson.  My name is E.M. Ngubane, I am representing James Lucky Hlengwa and Tulani Filemon Moses Cele.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Mr Ngubane.",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "I am Ms Thabele Thabete.  I am the Evidence Leader, thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Ms Thabete.  The proceedings are going to be simultaneously translated into English and Zulu.  In order to benefit from the translation, you have to be in possession of one of these devices.  They are available from the Sound Technician in the front of the hall, so if you want to listen to the translation, please get one of these devices.\n\tMr Ngubane?",
+            "Unknown"
+        ],
+        [
+            "MR NGUBANE",
+            "Thank you Mr Chairman.  Mr Chairman, the first applicant Mr Lucky James Hlengwa.  His application starts at page 299 and then it ends, well all the application papers start at 299 and end at 477.\n\tMay I call Mr Hlengwa?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "(sworn states)",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  Mr Ngubane?",
+            "Unknown"
+        ],
+        [
+            "EXAMINATION BY MR NGUBANE",
+            "Thank you Mr Chairman.  Mr Hlengwa, is it correct that you were born on the 5th of March 1964?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "You were born in kwaMashu and you grew up there and you were subsequently employed by the kwaZulu government as a policeman, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Where were you stationed when you worked as a kwaZulu police?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "kwaMashu police station.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "What was your rank?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I was a Constable.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "For how long had you worked as a Constable?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Before my arrest, I had worked for four years because I commenced work on the 22nd of July 1986.  Therefore I worked as a Constable for four years.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "When you worked as a policeman, did you belong to any political organisation?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Although I was not a member, there was a political organisation that I associated myself with.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "In other words you were a sympathiser with a certain political organisation, is that right?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Which political organisation did you sympathise with?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "With the African National Congress.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Is it correct that you are presently serving sentence in Westville prison?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "How long is the sentence that you are serving?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "18 years.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "You were convicted of which offences, can you recall?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was murder and robbery.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Were these offences committed in the district of Ndwedwe?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Can you briefly tell us what the motive was for your committing these offences?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was the situation in the township in which I worked.  There was war in the township.  My home and surroundings will be attacked constantly and because my home is along the main road, we were on the front line and my family was always exposed to attacks.\n\tIn that way, I was also effected because even though I may not be at home, my home would be attacked, and I could not help them in any way.  Sometimes these attackers will come at night.  I began asking myself what I could do to protect my family because I was helpless.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Sorry Mr Hlengwa, if you could just speak a little bit more slowly to assist the Translator.  She's got to keep up as you are speaking, and if you are speaking fast, it makes it very difficult for her to keep up.  Thank you.",
+            "Unknown"
+        ],
+        [
+            "MR NGUBANE",
+            "Thank you Mr Chairman.  You have indicated that you were staying in kwaMashu township.  What section was that?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "M Section.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Was it dominated by a certain political party in terms of support?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Which party was the dominant party in M Section?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was the ANC.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Now when you say that you and your family were attacked, were you attacked by any political party or member of any of the Police Forces?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, the attackers would be IFP members.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "All right.  Because of that situation that existed, what did you resolve to do in order to contribute towards averting these attacks?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "The first thing that I did was to supply them with ammunition.  This was the little that I could do at the time.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Who did you supply with ammunition?  You say supplied them with ammunition, who is them?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was boys from the neighbourhood, they were neighbourhood boys who acted as a Defence Unit in the area.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "What were there names?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I can only mention those that I still remember, there is others that I cannot remember, because they were quite many.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Thank you.  If you say that they were a Defence Unit, was it a voluntary Defence Unit or was it a formal structure.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Sorry Mr Ngubane, I was wanting him to carry on just to mention the names of these people that he can remember.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "One was Sakhele whose surname I have forgotten, the other was Bhu, one other was Mda.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Don't you remember any surnames?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I have forgotten the surnames.  Mda's surname was Radebe, that I still remember.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Is that all?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Those are the people that I still remember, it is just that there were too many.   These people that I mentioned, are the people who would come to me to request ammunition.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "What sort of ammunition did you give them?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "For 9 mm guns.  I had a 9 mm Parabellum, so those were the ones that I was able to give to them.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Thank you.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "You have spoken of some Defence Unit and my question is, this Defence Unit, was it a voluntary association of some kind, or was it a formal structure or what was the position?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was not a formal structure, but it had been formed because of the situation in the township.  There was no time to set up a formal structure, but people just volunteered to defend the community because they were also compelled to protect their own families and their own neighbours in the community.\n\tThere was no formal set up that was put in place.  That is how I also started helping out because I was also a member of the community.\n\tIt was rather difficult for me as a person who was employed by the government, to be part of attacks on the communities.  So I resolved to help the community, because my own family was also attacked.  As time went on, on realising the situation was getting worse, and that the weapons that these boys had, were insufficient.\n\tThe people who came to attack, would be armed with guns and they were travelling in cars and because we did not have sufficient guns, it became apparent that we should get more.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Okay.  Can you proceed slowly to allow the Interpreter to interpret.\n\tNow, you said that these people that attacked, carried firearms and used to come at night.  Did that influence your actions, subsequent actions?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is what influenced us.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Yes, as a result of that, what did you resolve to do?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I then felt that the assistance that I was providing them at the time, was insufficient because they could not continue protecting themselves and the community and when we were discussing this, they mentioned that their guns were insufficient.\n\tAnother factor was that it was not only M Section that was involved in the conflict, but the entire township.  Some people from K Section would come and assist in the Section, and the people at K Section were also involved in fighting with others from Richmond Farm, therefore weapons would have to be distributed amongst all these areas.\n\tFor example people from M Section would have only one gun and therefore could not continue fighting in a proper way.\n\tBecause of this problem, I told them that I will try and see how I could acquire more guns to supplement the ones that they had.  Because at that time, I could only supply them with ammunition.\n\tI could not give them my own service pistol, because if anything happens, we will be in trouble, because the activities that we were engaged in, were illegal.  If for instance my gun was fired in fighting, I would be in trouble.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Did you then resolve to acquire guns for these units?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, an opportunity arose.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "As I understand you, did you discuss with the Defence Units that you were going to acquire guns for them?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, as I explained earlier, I told them that because of the shortage of guns, I would try to acquire more.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Did you tell them how you were going to acquire these guns at any stage?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No.  I did not.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "And then, you proceeded to acquire these guns, did you?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, I proceeded with the assistance of some of my colleagues from the Police Force.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Did you do this once or on several occasions?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was just once.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "You were helped by some members of the police, that is what you have said, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Are those people the people that were co-accused with you in the High Court matter?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "And did you acquire these guns at Ndwedwe, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "At a pay point where pension monies were being paid to the members of the community, is that right?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Can you explain to us how you went about in acquiring these guns?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "The people with whom I had arranged to carry out this, arrived at the police station.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Who were those?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "One of them was Mgululego, who was also close to me.  As far as I know, it is Mbele, he did not stay at M Section, but at K Section.\n\tHe also used to stay at H Section.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "And the second gentleman who came with him, who was he?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Although I did not know him well, if I remember correctly, I remember him saying that his name was Bekhi, but I did not know him well.  I only knew Mgululego well and I trusted Mgululego.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Were they also members of the kwaZulu police?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No, they were just followers of the ANC.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Were they members of the ANC or followers, or you don't know?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I could not establish wether they were card carrying members of the ANC because in such situations you do not think of establishing whether a person is a card carrying member or not.\n\tBut if people are cooperating, you assume that they are in the same organisation.  Therefore I am not certain that they were card carrying members, but I know that they were supporters of the ANC.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Right, they came to you, did they discuss with you the plan to go and rob at Ndwedwe?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.  We got into a vehicle, we had already arranged that they would come to the police station.\n\tWe then proceeded to Ndwedwe.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Were you armed?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, I was armed.  I had my service pistol.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "And the other two gentlemen, were they armed?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, they were armed, they had small guns.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Okay, did anyone join you then as accomplices at any stage?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was the two gentlemen that I have already mentioned and then we proceeded.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Right.  The gentlemen that joined you, are they Judas Jones Mdluli, Dumisani Ernest Dlamini, Nduduzi Desmond Mbele and Sibusiso Patrick Thembe?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No, the last two that you have mentioned, did not accompany us at that time.  As I mentioned the ones that we travelled with was Mgululego Bekhi, Judas Jones Mdluli and Dlamini and myself.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Mbele and Thembe, did they join you at any stage?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No, we did not travel with them.    When Mgululego was arrested, they were also found at home, and they were also arrested.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Okay, then you proceeded to Ndwedwe and you arrived there armed, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "And you took positions there, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.  There were four of us on the scene.  The fifth person was not at the scene, but further away, a distance away.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Who is that one who was at a distance away?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Dumisani Ernest Dlamini.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "And at the scene where the robbery was committed, it was yourself and who else?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was myself, Judas Jones Mdluli, Mgululego and Bekhi, the four of us.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "All right, after having taken positions, what did you do?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Mgululego and Mdluli, I would just like to sort of illustrate how this area was.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Okay, you can do that.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "There was a store, Tapuka Store, it had a huge double door in front, a wooden door.  At the back there was a small door.  It was just a small shop in a rural area.\n\tThe people who were going to issue or pay pensioners, went inside the shop and the policemen who were escorting them, stood outside where they had parked their vehicle, a 4 x 4 Toyota.\n\tAs the pensioners were getting paid inside, the policemen were outside.  Mdluli and Mgululego then proceeded towards the police.  Bekhi and myself remained behind next to the wall on the side of the shop.\n\tAs I was standing there, I wanted to survey what was going to happen.  I wanted to see if these two people were going to be successful in removing guns from the policemen.  As Mdluli approached the policeman, one of them had an HMC and he was patrolling around, moving up and down.  I don't know whether he was alert or something, but he was just going up and down.\n\tThere were a lot of people around.  As Mdluli pointed his firearm at this policeman who had an HMC, this policeman turned quickly as if he was about to shoot.  At that instant a shot was fired.  I saw the policeman falling on the ground.\n\tThere was then chaos, people started running in all directions.  A second shot, or a second gun was fired.  It fired constantly.  I realised that this gun was being fired rapidly.  As I peeped, I saw another policeman carrying an HMC.  This was the same gun that was being fired rapidly.  \n\tWhat then followed, was like a war zone, people were running away, gunfire was exchanged.  That was when Mgululego shot that policeman who had been firing with an HMC, because that was the same policeman who made the situation difficult and that also led to an injury to a civilian.\n\tHe died, I saw him falling.  At that time, I had taken cover because Mdluli and Mgululego had taken cover behind the white van.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Right, before you proceed, did you during this war situation as you have described, did you personally fire any shots?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No, I did not fire a shot.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "All right, after this (indistinct), you say that there was some quiet of some sort, is that right?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, it was quiet because there was no one present at that yard, except for the four of us.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "What did you do then?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "We then approached the vehicle and we removed all guns that were on the ground.  I think there were four in all and we removed them and left.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "What type of firearms did you remove?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "There were three HMC's and one shotgun.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "The members of the police that were guarding the pay out of pension monies, were they also the members of the kwaZulu Police?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Did you know their route of travel as they were escorting the vehicles to the pension points?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I did not have sufficient knowledge because pension pay points were different, but we only went to this one at Tapuka Store.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "How did you know that they would be carrying firearms?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I received knowledge or information from Luthuli, Mdluli and Dlamini were the people who had initially  given me information and they had also received that information from Luthuli.\n\tThey are the people who told me that that opportunity had arisen to acquire weapons, because Luthuli had told them that they would be escorting this pension money, so all this information had been gathered from Luthuli, who was amongst the people who would be escorting people paying out pensions.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Was Luthuli at any stage at the scene when this robbery took place?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, he was present.  He was one of those policemen who had been escorting those people.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "What became of him at the stage when you say only the four of you were at the scene, after the robbery had been committed?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "He fled, he dropped his weapon.  As a person who had had the knowledge of what was going to happen, although he had thought that we were after the money, he just dropped his firearm on the ground, because he had knowledge of what was going to happen.   He did not give us any problems, he just disappeared amongst the crowd.\n\tWe retrieved all weapons from the scene.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "At page 318 of your application, I think it is page 318, if the members can just bear with me, let me just check, I think it is page 318, you mention that there were certain utterances that were made, yes, page 318, utterances that were made by people like Brigadier Marte, that is paragraph 2, towards the end of paragraph 2.  Can you tell us about those utterances?  Can you recall?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Brigadier Marte came to the kwaMashu police station, we were all gathered for a lecture, which was held once monthly.\n\tHe then addressed us because at that time, he was the Commissioner of the kwaZulu Police.  We were also pleased that the Commissioner had actually visited us at the police station.\n\tDuring his address, he mentioned that we as the kwaZulu Police should be aware on which side our bread is buttered.  He continued and told us that as members of the kwaZulu police, we are the Inkatha police.\n\tI was shocked to hear this because I did not understand how he could utter something like that.  I didn't realise that the reason why people are shooting at us all the time, why the communities hate us so much, it is because we are regarded as IFP police.  I did not feel good about what he said, although there was nothing I could say or do at that time.\n\tPeople were not actually pleased when they heard this, because as a Commissioner of the police, he is not in a position to talk in that manner.  As a policeman, you should not be seen or you should not take sides because you would not be able to work to protect everybody.\n\tBut that is what was happening at kwaMashu at that time.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Did this in any way contribute towards influencing you to lean towards the ANC and to try and acquire these firearms illegally?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.  It played a role.  What he did was like driving a nail into the wall.\n\tI realised that what I was doing, was right if that was the situation.  If the Commissioner wanted us to take sides, I realised that then I was doing the right thing.\n\tI also realised that my colleagues in the Police Force, were also following his orders because they also took sides, for instance if they went into a certain area, they would be taking sides.\n\tI then realised that they must be following his orders.  I also felt that what I was doing, was right.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "At page 321 of your application, there is a document which purports to be your affidavit, but it is not signed by you.  Are you aware of this document, this document was sworn to is that correct?  Page 321?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I am not aware of this statement.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "But is it correct that you saw it before coming into this house, is that right?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, my legal representative showed it to me.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "In this document, at paragraph 2, you say that you are, well the document says that you are a member of Inkatha.  Did you ever say to anyone that you were a member of Inkatha?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No.  If I may be given an opportunity, maybe I can explain how it came about that this statement, or such a statement was written.\n\tAlthough I was not aware that it was actually being written down, it is not signed because I was not aware of its existence.\t  There was somebody that I once spoke to, although I did not mention specifically which political organisation I belonged to.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Mr Chairman, may I seek your guidance here.  It looks like the evidence that he might lead regarding the statement, is pure speculation.  I wonder whether it is necessary to go through that?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, what I gather is that the witness denies that this is his statement?",
+            "Unknown"
+        ],
+        [
+            "MR NGUBANE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Does he say, just confirm it for me, that the first time that he saw this was when it was shown to him by yourself?",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Does he have any idea as to how it came into existence?",
+            "Unknown"
+        ],
+        [
+            "MR LAX",
+            "Who did he speak to, he says he spoke to somebody in prison.  Who was that person, we can start there.  If that person comes forward and says he produced this after talking to the applicant, that will be a different matter.  Who did he speak to?",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Thank you very much, I will then take him further.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Let him just tell us, who did you speak to Mr Hlengwa?  Who came to prison to speak to you?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was in about 1993, around February, I am not sure of the date.  I was in my cell and somebody just came and called names from a list and said that we should go downstairs.\n\tYou never get information in prison, you only get orders about where to go or what to do.  This man is a policeman, just came into the cell and called out names from the list, and my name was also on the list.\n\tWe went downstairs where we were required.  On arrival, I found a lot of other people there.  A certain gentleman in a suit came.  It was a white person and other people who were with him, African people.\n\tThey talked to us one by one.  They also called me.  I was asked for my name.  They also asked where I was employed before and I told them.  This person told me that he was an attorney and he wanted information about what happened at the trial so that he would go to Pretoria and seek amnesty on my behalf.\n\tI asked him about this because I had not requested an attorney.  I then told him that I do not know who he is or where he comes from, but if he is willing to act for me to seek amnesty, I can explain what happened, or how I got involved.\n\tHe asked me a few questions which I cannot remember, and thereafter he dismissed me.  I then left, that was the only time that I spoke to him and I never saw him again.\n\tI did not really find this strange, because in prison, you are normally called sometimes and do whatever you are required to do.  I think that maybe that is how this statement came about.  That was the time that I saw this person.\n\tI never heard anything from him again.  I did not worry because I had not actually requested any assistance from an attorney.  That is how I think that statement came about.  It is not easy for me to say that I do not know or that I do know.  I am just speculating on how it came about, but I was not aware of its existence.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did you never sign a document?",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No, I don't remember signing anything.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Can I interfere Mr Chairman.  Before we make a ruling, you make a ruling whether the statement is admissible or not, can I consult the Investigator who investigated this matter, just to find out how the statement came about?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think what we can do, you can perhaps do that during the tea interval.  I won't make a ruling at this stage as to whether it is admissible or not.",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "Thank you Mr Chair.",
+            "Female"
+        ],
+        [
+            "MR NGUBANE",
+            "Thank you very much.  Now is it your submission to this Honourable members of the Committee that your acts were politically motivated and that you have made a full disclosure of what happened on that day and of what motivated you to commit this act?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Right, there are people who are concerned, the family members of the people that were killed and injured, do you have a word for them?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, even though I do not know them, but if they are present, there is something that I would like to say to them.\n\tI also have relatives, family members therefore I know how it feels to lose a loved one.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "What is it that you would like to say to them?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "To them, I will say what happened was not meant to actually remove their loved ones from them.  Their loved ones were my colleagues who did the same job as I did.\n\tAnd the job was dangerous.  You are exposed to danger at any time.  Their loved ones did not have any idea of what was going to happen.  They were taken by surprise, they were also doing their job.  I would like to apologise to them for what happened because we did not mean to kill or to injure anyone.\n\tBecause even when we were still planning this, we emphasised that we should not attack or kill anyone but because things did not go according to plan, the situation compelled us to do what happened.\n\tWhen the gun was pointed at the policeman, he then turned and wanted to shoot.  In actual fact, we had not planned and we did not mean to kill or injure anyone, it was not part of the plan.  Therefore I would like to express my apology to them, even though I did not fire a weapon myself, but I was part of the group that actually was responsible for the death of their loved ones, therefore I pass my apologies.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Thank you Mr Chairman and Honourable members of the Committee, that is the evidence.\nNO FURTHER QUESTIONS BY MR NGUBANE",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Mr Ngubane.  Ms Thabete, do you have any questions to ask the witness?",
+            "Unknown"
+        ],
+        [
+            "CROSS-EXAMINATION BY MS THABETE",
+            "Yes, Mr Chairman, I do, can I proceed?  Mr Hlengwa, you say because of the situation that was happening at kwaMashu where you were living, you decided to assist the ANC, is that correct?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Who were the SDU's here, can you briefly tell us what the structure of the SDU in your area was like?  Who was the Commander in charge of these boys that you decided to help?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I would not be in a position to say that, because as I explained before, this was not a formal structure that was formally established, where positions were allocated to persons.\n\tThat formation happened or was there because of the political situation in the area, and my involvement was that ...",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "So would it be correct to say there wasn't a proper structure where these ANC boys were working under, would it be correct for me to say that?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "That is correct.  There was no organised structure.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Now tell me, when you decided to assist them, did you take it upon yourself maybe to discuss it with anybody senior in the ANC, how you could go about assisting them since you were so concerned about the situation?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No one in a senior position, I was not close to the ANC leadership.  Because I was a policeman, the people who were close to me and people who trusted me, were the ones that I worked with as a member of the kwaZulu police.\n\tI would not be in good terms with the ANC leadership as such, but because the community members knew me, I grew up in the area, I went to school there, so they know that I was not in the Force to attack or victimise them, but I was there for the sake of the job.  They knew that I sympathised with them.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Thank you.  I get your point.  Are you saying to me you never discussed with anybody how you were going to go about assisting the ANC, yes or no?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "With regard to the people in my area, no.  I only discussed it with the people who were my colleagues.\n\tSuch information could not be divulged easily because it was sensitive.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Okay, when you were discussing it with your fellow colleagues, what were your options, I mean you must have discussed options, besides going to a pension pay out, what options did you discuss?",
+            "Female"
+        ],
+        [
+            "MR LAX",
+            "Sorry before you go any further, which colleagues did he discuss this with?  If you can just clarify that and then move on to the options.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Can you answer that question, which colleagues did you discuss it with?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "The people with whom I have been convicted, Dlamini, the co-applicants Dlamini and Mdluli.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Can you clarify something for me and the Committee members, initially when Mr Ngubane, your lawyer counted the people who were co-perpetrators with you, he mentioned the name of Mdluli, Mbele, Thembe and Dlamini and you said two people were arrested by mistake.\n\tWho were those people?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Mbele and Thembe were arrested by mistake.  They were not involved in the crime.  I can explain how they were arrested.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "No, I don't want you to explain.  I don't know whether I am correct, I just heard you saying the colleagues you discussed the plan with, were Mbele and Mhluli, am I wrong?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It was Dlamini and Mhluli.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "All right, thank you.  So, what options did you discuss besides going to rob a pension pay out?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "If I can just ask, are you referring to something that would have assisted us in our plan?",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "According to your evidence, you wanted to assist the ANC from the attacks, isn't that correct?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "So what I am asking is, when you discussed, first of all you didn't discuss it with them how you could assist them, that is correct, isn't it?  You decided to go and discuss it with your colleagues, how you could assist them?\n\tSo what I am asking you is, when you discussed with your colleagues how you could assist these ANC people, what options did you discuss besides going to rob the pension pay out?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Besides robbing or - firstly I would like to explain ...",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did you discuss any other options or not, that is a simple question?  Or was this the only plan that you discussed?",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "During our discussions we realised that there was no other way because even when we discussed about maybe stealing firearms from our safe at work, we realised that that will be difficult.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Sorry, I want to cut you.  So you are saying you didn't discuss any options?",
+            "Female"
+        ],
+        [
+            "MR LAX",
+            "No, listen it is clear from what he says, they did discuss other options.  They discussed for example stealing from the safe.  The trouble is that he won't tell us what these options were.  Please Mr Hlengwa, you've got to help us here.\n\tYou have been asked a simple question, what options did you discuss?  It has taken 10 minutes to get out of you that one of the options that you did discuss, was stealing from the safe at work.  You must help us here otherwise we are going to be here forever.  Please.  It is a simple question, you discussed with Dlamini and Mdluli various ways of getting firearms, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "What were those various ways you discussed before you settled on the one you tried to execute, okay, tell us?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "One that we discussed was to try and steal them from work.  This proved to be a problem because it was not easy because they were always locked in a safe.\n\tYou wouldn't go alone to the armoury, but with the Commander.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "The second option?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "We did not discuss a second option until that opportunity arose when Luthuli discussed with us the matter of going to rob the money.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "For example, I mean you were a policeman, you were working for the law, didn't you maybe think it would be appropriate for you to investigate who these people who were attacking you know, your Section, who these people were and if possible, arrange that they get arrested?  Didn't you think of that option?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "As a member of the police at that time, I did think of that, but the problem was who would I investigate because this happened at night and these attacks happened all over the township.\n\tAs a policeman working in the Uniform department, I did not know where to start, who to investigate, because police in our police station, did carry out investigations but there were no results from those investigations.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "So are you saying to me yourself and your colleagues, you couldn't form a team and go and investigate in an area that you were familiar with, is that what you are saying to me?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No, we would not have been able to because the people who were attacking the area, were not from the area.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "How do you know that?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Firstly, I believed that people from the area or people with whom we shared the same objectives, would not come and attack us.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "It could have been people from another Section, but within kwaMashu, you are familiar with kwaMashu, you were a policeman in kwaMashu, it is not a remote area for you?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "What I am saying is how do you start investigating when people just come in the night and attack you and they flee afterwards, and there are investigations going on at the police station, but these bear no fruit?\n\tAnd you also have that knowledge that in the fighting or in the investigations, you know that the police take sides.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Okay, thank you.  Let's get to the actual incident of the day.\n\tBefore you actually robbed Tapuka Store, there were other attempts you made, isn't it?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I do not understand what you are referring to.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "You went to the first pension pay out, isn't it and then you didn't rob that one, you proceeded to the next one, you didn't rob it and then you robbed the third one, is that correct?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Why didn't you rob the first two ones, can you explain it briefly, very briefly?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "At the first pay point a lot of policemen arrived, they were in a van.  We realised that we could not carry out the mission because there were too many policeman, so we abandoned the idea.\n\tAt the second pay point, there were also too many policemen present, but at the scene of that crime, I think the security was lacks because nothing was happening, and we realised that this was our opportunity.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "You remember talking about Mr Luthuli who was also there at the pension pay out?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "And you said he was expecting you there?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Was he in the third pension pay out, or was he also in the first and second one?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "He was also present during the other times.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Okay, so when you arrived there, who actually fired the shots first?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I will say it was Mdluli because as I said before, he pointed the gun at this policeman and a shot was fired, and the policeman fell.  Therefore I will say it was Mdluli.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Tell me something, when you decided to go and rob the pension pay outs, didn't you foresee that innocent people could get killed?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It did not occur to us, because what was emphasised was that we were not going to harm or kill anyone, but we were just going to accomplish our mission.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "If that is so, were your firearms loaded?",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Why did you load your firearms if it wasn't your intention to kill?",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It did not occur to me to actually empty our weapons.  As a policeman our guns were always loaded.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Which is exactly my point.  I mean, your initial aim was to assist the ANC, not to kill innocent people, and unfortunately you are saying you did not consider other options, which were probably safer where innocent people wouldn't have been killed.\n\tAlso I don't understand why you really carried guns, if you did not intend or if  you did not foresee that maybe innocent people could be killed.\n\tFurther, what I don't understand why did Mhluli shoot first if it wasn't your intention to kill?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Firstly, you would not proceed to a point where there are armed people, without being armed yourselves.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You see, this is exactly the point Mr Hlengwa.  You are saying you will not proceed to a point where you know people are armed without being armed.  Taking that into account, are you still saying you did not see the possibility at all, of somebody getting shot?\n\tDo you still stand by that statement?",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I hoped or I believed that if you point a gun at somebody, they would not retaliate, in fact they would be scared.\n\tIf you point a gun at somebody, you do not expect them to fight back.  That is why I thought that when we pointed out weapons at them, they would just give up.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "You are talking about other policemen here?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "You were expecting them not to shoot back?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is what I thought.  If I was in a similar situation, I will not want to fight.\n\tWhoever has pointed the gun at you first, has a better chance of getting you.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "What did you want to get, what did you want to obtain from this pension pay out, was it the money, was it the arms, what exactly did you want to obtain?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "We wanted firearms.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Somewhere in the judgement we are told that you also took an empty steel trunk.  Why did you do that if you only wanted firearms and not the money?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Firearms are normally stored in trucks, in the steel trunks.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Can I interfere there?",
+            "Female"
+        ],
+        [
+            "MR LAX",
+            "Sorry, just finish your answer.  You were saying firearms are normally stored in steel trunks.  What were you going to carry on saying?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "They are normally stored in this steel trunks, so this trunk, we just thought that there may be guns inside, because we did not open it at that time.  Therefore we took it.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Mr Hlengwa, I find that very hard to believe.  You are a policeman.",
+            "Female"
+        ],
+        [
+            "MR LAX",
+            "Before you go on.  You saw the steel trunks, you thought there were guns in there, that is your evidence, isn't it?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "What did they carry the money in?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I heard at the trial that the money would normally be carried in a briefcase.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "The money was in the trunks Mr Hlengwa.  You knew that, it was part of your planning.  You knew that the money would be in trunks.  You saw them carry the money in at the other places, not so?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No, that is not so.  I saw them carrying it in a briefcase, not in a trunk.\n\tThat was a big trunk.  I did not think that there will be money in that trunk.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Mr Hlengwa, I was still saying that I find that very hard to believe because the main aim of the police going there, was to give out pension monies.  I don't understand why they would carry guns in a trunk.  What were they going to do with guns there?\n\tThere were there to give out money to pensioners?  What were they going to do with guns there?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "As far as I can say, I think those guns would have belonged to other members of the Police Force, but as far as I knew, the money would have been in a briefcase, and the money would not have been left in the vehicle when the paying out of the monies happened inside the shop.\n\tIf it was money that we were after, we would have taken the money, because even the people who were inside, who were issuing out this pension money, were no longer protected because they had either fled or some of them were dead.\n\tWe had all the weapons with them.  If we were after the money, we could have gained entrance into the building, we only took that which we were after and left.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Let me just correct one thing, I made a mistake.  The money was in a suitcase, not a briefcase.  And the suitcase was in a big bag.  That is what they said at the trial.  Not a briefcase, we are talking about R200 000 - R300 000.\n\tNot in big money, but in small money, so it couldn't have been in a briefcase.  It was a lot of money, correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I would agree, but I did not see the money.  What I had concentrated on, was what I was after.  Therefore I would not agree or disagree if they say it was a suitcase or a briefcase.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Mr Hlengwa, remember this was the third pension pay out you had visited that day.  You saw the procedure in the first two ones, I assume.\n\tWhen you came to the third one, obviously it is a lot of money, and according to the indictment on page 338, the steel trunk had money, it is where the money was transported into.\n\tWouldn't it be correct for me to say that you took that steel trunk because you thought that there was money in it, unfortunately it was empty?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I will deny that because I knew that there was no money in that trunk.  I still maintain they would not leave the money outside when the issuing of pension funds was inside, happening inside the store.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Be brief please.",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "They arrived first and we only arrived after they had set up, therefore we were not aware just exactly where the money was, because that was not what we were after.  But what I know is that they would not leave the money outside, if they were going to use that same money to pay the pensioners.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Unfortunately, that wasn't the case because you see, they carried the money in the trunks, and this one was empty because they had finished dealing with the money that was in the trunk.  It is not true that it carried firearms, but let's proceed.",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I was not aware of that.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Tell me something, when you saw that there was a shootout, because one of the people in the queue also got shot, why didn't you retreat?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "In a shootout, it happens constantly, rapidly and there is no time to stop and think what happens.\n\tWhen this person was shot, I did not realise at the time that there was a person shot.  I realised it in court and I am not even sure who shot this person because this person, or the policeman who was using the sub-machine gun was firing at random.\n\tI also retreated, I moved along the wall, but I could not flee because I was with my colleagues, and I had to see it to the end.  I could not desert them and see how the mission was going.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "My question was here you were with your guns, here were the police with their guns, you started shooting first, they shot back, it was a shootout.\n\tWhat I was asking is, after you realised that there was a shootout, instead of shooting back again, why didn't you run away to avoid exactly the situation where innocent people would be caught up in the cross-fire?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Let me just explain what happened.  I did not fire my gun.  I realised that there was an exchange of gunfire, because when the firing started, everybody was caught by surprise and it happened spontaneously and it all happened very quickly.\n\tThere was nothing further that I could do, except to just move back and not fire.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Okay, there were guns that you managed to take away, isn't it?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, we took them.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "What did you do with them thereafter?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "One was taken by Dlamini.  We left the other three at K Section.  The police found one of them.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Where at Section K?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "At Mgululego's home where he used to reside.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Whereabout did you leave them, did you leave them with someone, did you hide them somewhere?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "We left them with Mgululego and he was supposed to hide them.  These were the firearms that were going to assist in the fighting.\n\tPeople from K Section used to hide firearms in a certain field and they would remove these when they went to fight.  When we gave him these weapons, we knew that they would be safe, so that when we also needed them from our Section, we would be able to get them.\n\tUnfortunately we did not get them afterwards.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "When did you get arrested?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "On the 29th of March 1990.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "And how did you get caught?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I was at work, my Commander at the time had given me a task to just correct names of the people who would be present at work.  We were actually in a special unit that used to patrol the township and it was my job that in the morning, I should collect names of the people who would be going on patrol.\n\tBecause those people stayed in the barracks, I would be responsible for collecting them.  As I was still performing my task, the Officer called me in and he told me that the Lieutenant wanted to see me.  I then went to the Lieutenant, Lieutenant Nqobesi.\n\tWhen I got there, he told me that Captain Tanjana wanted to see me.  I then told my Commander that I had to go see the Captain.  I went into a certain office.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Please get to the point Mr Hlengwa.",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I waited at the office and Captain Tanjana came in, he greeted me.  He asked me if I had a firearm on me and I said yes, and he enquired whose it is and I said it is mine.\n\tHe wanted to see it.  Before I handed the weapon over, I wanted to carry out the safety precautions.  He said I should just give him the gun, and he took it and left.  He went for quite a while.  When he returned, he asked me if I had another gun and I said yes.  He enquired which one, and I said it was an HMC.  He asked if it was a service pistol, service gun and I said yes, it is.\n\tHe said I should give it to him.  Because it was in the locker at the time, I directed him to a person who would open the locker and give it to him.  He then took me to another office and I was in that office until 2 pm.\n\tI was taken to a vehicle and when I tried en enquire what was happening, no explanation was given.\n\tWe went to Umlazi, it was myself and other policemen.  I realised that we were in a convoy.  When we arrived at Umlazi, I was made to wait and I saw Mdluli, Dlamini and Luthuli.  I was taken to an office and they started questioning me.  That is how I was arrested.\n\tFrom then onwards, I was taken to Umbumbulu police station.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Actually, but let's carry on, my question was how did it come about that you got caught.  What was the reason?  Maybe somebody informed the policemen or - but it is okay, we can carry on.  Do you want to respond?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "At that time, I was not aware how I got arrested, but I learnt of it later when we attended the trial.\n\tAt that time, I was not aware, I did not know.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Did someone inform the policemen that you actually went to rob the pay point?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "From what I learnt, Luthuli was the one who informed the police.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Okay, when you were imprisoned, you did all you did in support of the ANC, even then you did not call anybody from the authorities or inform the Regional Office that you are in the situation, because you were trying to support them?\n\tDidn't you inform anybody even at that stage?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No, I did not call anyone at that time.  It was only people from my community who knew what was happening, but with regards to the leadership, I didn't.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "No, what I am asking you is, and you will see why I am asking you, later on, you didn't see it fit for you to at least let the ANC know that you are in this situation because you were supporting them?  You even had people who were going to support you in that, ANC people who were going to support you in that.",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I did not really see a reason because I was arrested already.  They had no issued an order that I should go and do this.  I don't see why I should go to them at the end.  I just thought that I should just serve my sentence.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Which means it is proper for the ANC to claim that they don't know anything about you, nor the fact that you did something like this, and they also didn't give you authority or an order for you to proceed and do something like this?  Do you understand that and is that proper?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, I would not be surprised because I did not inform them.  It was because of the situation in the township.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "On this issue, why didn't you just go to the people who were the people you were helping, who were the people you were already supplying ammunition to, and say to them, please go and tell your leaders I am now in terrible trouble, I have been giving you all this ammunition, I have now been stealing firearms for you, please ask them to help me?\n\tWhy didn't you do that, that would have been a simple thing to do?  Those people knew you, they trusted you, they got ammunition from you already, why didn't you do it?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "As I said before, I was not doing this for the leaders, but I did it to protect the community.  It did not occur to me to tell them, because I did not know what their response would be since I had not informed them beforehand of what I was going to do.\n\tThis was something that had happened to me, that I had started.  The people from the community knew about it though, because I had been involved in what had been going on in the township.  But I did not ask them to report this matter to the leadership.\n\tAs far as I was concerned, this was fighting going on in the township.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "I have one more question.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Sorry, do you want one more, yes, because then I think we will take the tea adjournment.",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "You see Mr Hlengwa, the problem with you claiming that you were supporting the ANC and you committed the offence in support of the ANC, and the fact that the ANC don't know anything about you and actually they didn't even give you authority to go and rob and even shoot people so to say, the problem with that is that you are here today and you are asking for amnesty.\n\tOn what basis then are you asking for amnesty?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "If I can just explain, when we committed this crime, we did not know that there would be a Truth Commission established at some point.  We did this because of the situation that was facing us at that time.\n\tWe did not know that at a certain point, we would have an opportunity to disclose this and these would be the criteria that would be used.  As I mentioned before, I cannot claim that the ANC knew about it, because they did not know.\n\tIf I had known at the time there would be a TRC that would require that I should be under or I should have informed a political organisation, I could have done that.  Even with regards to that Defence Unit at the time, if we had known that we would have to have had a formal structure that would be responsible, we could have done that had we known.\n\tBut because we did not know what would happen in the future, and because whatever we did at that time, was a result of a situation that was present in the township at that time, even the people that I was assisting, I am not aware whether they were card carrying members of the ANC or not, but I helped them because they were part of my community in which my family lived.\n\tIf I had been aware that there would be a TRC at one point, I would have followed the criteria as set out.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "I will reserve the rest of my response for argument, but I would say to be accountable, you don't need to have known that there can be a Truth Commission in future, you just need to be accountable, but I will leave the rest for argument.\n\tThank you Mr Chair, no further questions.\nNO FURTHER QUESTIONS BY MS THABETE",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, I think this will be an opportune time to take the tea adjournment.  We will take a short tea adjournment now.\nCOMMITTEE ADJOURNS\nON RESUMPTION",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Thabete, have you finished with your questions?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "Yes, I have, thank you Mr Chairman.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Have you any re-examination Mr Ngubane?",
+            "Unknown"
+        ],
+        [
+            "RE-EXAMINATION BY MR NGUBANE",
+            "Yes Mr Chairman, just one aspect.\n\tMr Hlengwa, is it correct that the application forms for amnesty and the subsequent statements that were submitted to the TRC, were completed by you in your own handwriting?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "And you subsequently, subsequent to completing the form, you wrote a letter dated the 9th of June 1996 that starts from page 302 - 311, this letter was written by you, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Now when you were asked by the Evidence Leader as to why you didn't rob at other pay points, you offered an explanation, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, I did explain that.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "I just want to give you an opportunity if you can clarify what appears in your letter and compare that with the answer that you have given.\n\tAt page 306, the last paragraph, you say on the 23rd of March in the morning, Luthuli arrived at kwaMashu police station and told Mhluli and myself that there would be four escorts of policemen including him, escorting the pension team.\n\tWe agreed on that point that since there would be three pay points, namely Macubela Store, Msundusi Store and Tapuka Store, all at Ndwedwe, we would carry the mission out at Tapuka Store, since the escorts would be tired by then and off guard, knowing the last pay point, and that nothing had happened at the last two pay points.\n\tIn that we would catch them off balance and less alert.  If our aim was the money, we would not have agreed to confront the escorts at the last pay point, because there would be so little money left after having paid the two previous points.  Because we need firearms, we thought the last pay point was a good target and it was indeed.\n\tDo you understand that statement?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, I do understand.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Do you realise that it conflicts with the answers that you have given to the Commission?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I do not really see how it conflicts with the other statement, because we indeed carried the mission out at the last pay point.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "I take it from that that you do not see the need to explain this statement as against the answers that you gave the Commission, is that right?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.  Unless there is a need for clarification.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Okay, thank you Mr Chairman, I have no further questions.\nNO FURTHER QUESTIONS BY MR NGUBANE",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  Mr Sibanyoni, do you have any questions to ask the witness?",
+            "Unknown"
+        ],
+        [
+            "MR SIBANYONI",
+            "Yes Chairperson, maybe on the last issue.  Mr Hlengwa, in your answers to our Evidence Leader you said the reason why you didn't attack at the first pay point is that many police in camouflage arrived as well as on the second pay point, but according to your letter here, the reason was that you targeted the last pay out point, because the police would be tired, and they will also be less alert.\n\tYou are saying you don't want to explain why there is a difference between the two versions?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I can explain.  When I mentioned the arrival of the police at those pay points, I forgot to mention that there was no purpose on our parts to rob them of their firearms at those points, because we had indeed planned that we would rob them at the last pay point, because by then they would be tired.  We just wanted to see what went on when they actually conducted that exercise of paying out this pension money.\n\tI do apologise if I did not mention before that we had actually intended to rob them at the last pay point, because that was when they would be tired and not very alert.",
+            "Male"
+        ],
+        [
+            "MR SIBANYONI",
+            "I heard you say that you never fired any shot and I want to find out from you, who physically carried the steel trunk?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Please pardon me, because I don't remember quite well just who amongst the four of us carried the trunk.\n\tBecause of what had happened, I don't quite exactly remember who actually carried the trunk.  I think more than one person carried the trunk, but I don't know who.",
+            "Male"
+        ],
+        [
+            "MR SIBANYONI",
+            "You said you thought there were guns in the steel trunk.  At what stage did you have that impression?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "When we were still planning this, we did not know that there would be a trunk, we just saw the trunk at the scene.\n\tTherefore we just took it along with the firearms and when we shook it, it felt like there was something inside.",
+            "Male"
+        ],
+        [
+            "MR SIBANYONI",
+            "Are you saying the taking of the trunk was not pre-planned, it happened at the moment when your people were attacking?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, we took it because we thought that there were firearms inside, we had no idea that there would have been a trunk.\n\tThat is why I said there was no motive on our part to rob the police of the money, because we thought that the money would have been inside the store, not outside.  Even if it was there, it would have been so little, that it didn't matter.  What we wanted was guns, and that is why we took the trunk.",
+            "Male"
+        ],
+        [
+            "MR SIBANYONI",
+            "Where was this trunk taken and where did you discover that there were no guns in the steel trunk?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "We took it to K Section and when we left the firearms at K Section, we attempted to open it.  When we opened it, there was nothing inside, it was empty.\n\tSo we left it there and disposed of it.",
+            "Male"
+        ],
+        [
+            "MR SIBANYONI",
+            "Thank you, no further questions Mr Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you, Mr Lax, do you have any questions to ask the witness?",
+            "Unknown"
+        ],
+        [
+            "MR LAX",
+            "Thank you Chairperson.  I just want to be clear about this firearms, you said that you gave, that Dlamini took the one, that was an HMC, wasn't it?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, it was.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Why did he take that one?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Sorry, I think just before you answer, I think just for record purposes, an HMC is a hand machine carbine.",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, can I continue?  When Dlamini took the firearm, he wanted that gun to be employed at Mpumalanga in Unit 3, where he lived.  At that time, there was still conflict at Mpumalanga, so he was also a policeman coming from Unit 3, and as a policeman he was not supposed to be there, because policemen were an enemy in that community, but because he had grown up in the area, and was known in the community, he could bring this weapon to assist in the fighting.\n\tThat is why he took that firearm, to take to Mpumalanga, that gun was supposed to be used in the same way as the other ones which had been used in kwaMashu.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "And then the other three firearms, that was the other two HMC's and a shotgun, who took those?  Did you take them?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No.  I did not take them.  We left them with Mgululego at K Section.  He was supposed to store them and they would have used them at a later point.\n\tThat is where we left them.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You don't even know Mgululego's surname, yet you got involved in this operation with him?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I would like to explain.  As far as I know, I know his surname to be Mbele, but I cannot be too certain because a person may have a different surname because of the political situation.\n\tSecondly when you are involved in such missions with other people, you may not reveal everything about yourself, therefore I am not sure, I cannot be certain that he was indeed Mbele, but that is what I knew.\n\tIn a war situation such things are not important.  The main focus is on what is going on in the war.  One should also remember that I was also a member of the Police Force.\n\tIf they approached me and requested ammunition, I will maybe give them a box of 50 bullets and I would give it to them.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Where would you get a box of 50 bullet from?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I explained that I had a licensed 9 mm Parabellum, therefore I would buy ammunition.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You said it was your service pistol, you didn't say it was your own, licensed pistol, you said it was your service pistol.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I had two firearms.  The service pistol was the HMC and I had a personal one, a small one.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You told us in your first bit of evidence, that you couldn't let them have your 9 mm Parabellum, your service issue, because if it was used in the fight, you would get into trouble, those were your precise words.\n\tYou told us nothing about you having an HMC or anything like that, this is the first you are mentioning about that.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I explained that I had a personal firearm.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "With the greatest of respect Mr Hlengwa, you didn't explain that at all.  You told us that you had a service pistol, a 9 mm Parabellum, that is what you told us.  You didn't say anything about it being your personal weapon.\n\tAll right, in any event, so you had two.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "And you bought the boxes of ammunition, did you, with your own money?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "And you gave them boxes of ammunition, 9 mm ammunition?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Well, then the question is if you had your own personal firearm, why didn't you use it for the protection of your own home?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I did not stay at home therefore in most instances when these attacks were carried out, I would not be home.\n\tThen there would be no one to protect my family in that case.  Then these people, these boys would be the ones responsible for protecting the entire community.  If for instance I was at home, I would also guard at night, but in my absence, these were the people who were looking after my family.\n\tJust to go a little further, at one time when I was at home, there was an attack.  A kombi approached and the people who were on guard on that night, thought this kombi was carrying attackers and when it stopped, they realised that it was carrying employees and not attackers.\n\tWhen this kombi left the police arrived.  Because of the number of people that were on the road at the time, the police did not know what was going on.  At the time the police used to shoot at youths on the street, at any time.\n\tThese boys would come to me and ask for advice on what they should do because the police always shoot at them, and I would advise them not to run away when the police approached, and they should behave themselves.\n\tI was trying to negotiate between these two parties.  At one point, these boys came back to report to me and they told me that they had not run away and the police had not shot at them, because of that.\n\tBut when the incident of this kombi occurred, the police didn't know what was going on, there was a lot of people on the street.  I explained to the police just what had gone on.  At that time I was in an overall, I was not in my police uniform.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Just get to the point Mr Hlengwa, really you are telling us a whole lot of nonsense now, get to the point.  The question is a simple one, did you use your firearm to defend your house or not?\n\tYou are telling us about a whole long story about a kombi and this and that, it has nothing to do with that.  Just answer me yes or no, did you ever use your firearm to defend your home?  Yes or no?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Did you ever report the attacks on your home, to your fellow policemen and say my home is being attacked by people?  Did you ever report it?  Yes or no, don't give me a long story, just give me a yes or no?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, I would discuss this matter at work.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "No, I am not asking whether you discussed it at work, I said did you report it to kwaMashu police station?\n\tIn other words, my house has been attacked, open a case of malicious injury to property or discharging of a firearm in public.  You are a policeman, did you ever do that?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Why not?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "The community will report to the police that they were being attacked.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "I am asking you, not the community, you, you are a policeman, you work in that police station.  Why didn't you report an attack on your own home, to your own police station?  In other words we are not talking about someone else in the community who might be perceived as a threat, we are talking about one of your own people, why didn't you report it to your own members?\n\tIt is a simple question, just a quick answer, not a long story now please.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I did not report it because it was common knowledge that attacks took place.  The police were aware of those attacks and I knew that they were investigating those cases.\n\tNot only the case at my home, but all over the township.  There was no need for me to tell them again that we are being attacked, because they were aware that attacks were going on in the township, and that was what they were investigating.  We would discuss this at work, it was common knowledge at the police station.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Where were you trained as a policeman?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I was trained at aMatikulu.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "At the camp at aMatikulu?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Were you trained as a Special Constable first or were you trained as a proper policeman?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "As a proper policeman.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You joined the kwaZulu police in, you said you started working as a policeman in 1986?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, I was a recruit in 1986.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Yes.  At your training at uMatikulu, what were you told about the UDF, about the ANC and other similar organisations?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Although that was not emphasised, there were members who used to talk in such a manner that you wouldn't realise that they were members of the IFP.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You haven't answered my question.  As part of your training, what were you told about the ANC and about the UDF and about all the other structures that were opposed to kwaZulu?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "There was nothing that we were told about those organisations directly.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "So you weren't told anything about the organisations, you weren't told about the fight against communism?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "No, I do not remember.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "So you might have been told that, but you don't remember it now?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "As I mentioned before, I don't remember them saying that directly, but one would get it from other members that they were actually aligned to certain political organisations.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Right.  A large proportion of the people in the kwaZulu police were Inkatha members, is that not correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.  Yes, I would agree with that, yes.  Although I did not know just how far that membership went.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Well, at one point it was a criteria for becoming a member, in other words you couldn't become a member unless you were a member of Inkatha.\n\tHave you forgotten that?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I heard about that when I was in the Force.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Yes, so why were you so surprised when Marte told everybody that the kwaZulu police was Inkatha's police if you knew that already?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Because that which I had heard, was just something that was being discussed amongst ordinary members.  But it was different when the Commissioner actually uttered it.\n\tIt carried a certain weight when he said it, because it was something I had not really concerned myself about earlier on.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "I want to go to your planning meeting that you had, where you planned this operation.  Who was present at that meeting?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "This plan was had in the presence of myself, Mhluli and Dlamini at the police station.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Was Luthuli not present?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "He was not present when we first met to discuss it.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "When did he become present?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "He arrived on the morning of the 23rd, when we were about to go to the scene of the crime.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You told us earlier in your evidence that Luthuli thought that you were after the money, he didn't know you were after the firearms.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is what I said.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Well you see, how would he have then told you that they would have been all at ease and so on, at the third pay point, there would have been no money left by the time they got to the third pay point?\n\tSo your letter then doesn't add up with what you are saying?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is how it may sound, but what I am saying is Luthuli didn't know where and when we were going to carry out this mission.  What he knew was that when the opportunity arose, we would carry it out.  He didn't know what other objectives we had, because he did not even reside in our township.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Sorry Mr Lax, Mr Hlengwa, why was Luthuli included in the plan at all?",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It is because he actually gave us an idea of how we were going to achieve our mission, and we used him for that reason.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You see, what I can't understand is that you said that and I want you to explain it to me, you said that you, Mdluli and Dlamini were at the first meeting, when this whole thing was planned.\n\tDlamini only joined you on the morning of the 23rd, that is the day of the actual robbery.  The 20th, is it?",
+            "Unknown"
+        ],
+        [
+            "MR LAX",
+            "The 23rd.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I mean Luthuli only joined you on the morning of the 23rd, the day of the robbery.  How did it come about that Luthuli joined you, I mean you three have a plan, it is the actual day of the robbery, the day that the pensions are being paid out, you have already planned, you are going to hit one of the pay points to get your weapons.\n\tAnd then suddenly on that very day, along comes Mr Luthuli who thinks that you are going to rob for money.  First of all how did he get to know about the plan to arrive at that thought of his, and if he wasn't told by one of you, well, if he was told by one of you about the plan, why did you tell him to come into the plan?",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "As I was explaining before, Luthuli was a member of the team that was escorting the people who were paying out the pension money.\n\tHe then discussed this with Dlamini and Mhluli about this.  Dlamini and Mhluli gave me the information that they had gained from Luthuli, Luthuli had told them about the money that they were escorting to these different pay points.\n\tDlamini and Mhluli told me about the money that they were escorting to these different pay points, and they told me that this was an opportune moment that we actually get these weapons, but we agreed that we should not tell him because he came from that Ndwedwe area.\n\tLuthuli would be under the assumption that we were going to rob those people for money.   We therefore did not tell him that we were only going to rob these people of weapons only.  When he arrived on the 23rd, he was just coming to confirm that indeed we were going ahead with the mission.\n\tThat was how he got involved.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Well you see, Luthuli and Nqobo testified against you in court, didn't they and they gave a detailed description of the planning of this thing.   You haven't told us about Nqobo at all?\n\tHow did he come to know about all the details of your plan?  You haven't said a word about him being involved anywhere, yet he was at your meetings, and he gives a long story about where his firearm was, etc, etc.\n\tDo you remember all that evidence, you haven't said a word about it?  Why?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I don't remember Nqobo, who is that?",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "I will find the right place for you, just one moment.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Page 351.",
+            "Female"
+        ],
+        [
+            "MR LAX",
+            "I will find you the right name, I am sorry, I am getting  confused between Nqobo who was working for the Department of Justice and another person, who was in on the planning, just one second.\n\tI just want to make sure, but I think it was Kambule rather than Nqobo, I am getting confused between the two.  He was the man with the sore ear who didn't go on the mission, because his ear was sore, and whose firearm you borrowed, do you remember?  You haven't told us anything about him being involved in this.  Why?  He was involved in the plot from the beginning?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I did not think of him, because he was not even present when we carried out the mission.  I have just forgotten about him.\n\tEven when we held our discussions, I don't remember Kambule being present.  I thank you for reminding me, because he knew what was going to happen, but he did not accompany us to the mission.\n\tI only mentioned the names of the people who were actually involved from beginning to end.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You see Kambule like Luthuli, testified that you were there to rob the money, he didn't know anything about the firearms.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is what he knew because he was not amongst the people who knew about the firearms.  Kambule came from Pietermaritzburg and he was not involved in these issues of political conflict.\n\tWe were the people who were after the firearms, because of the situation that we were involved in at the township.  He and Luthuli were only concerned about the money, because they were not involved in any political conflict.\n\tThat is why we kept them in the dark, and did not tell them.  We also did not tell them because this was dangerous and sensitive.  We might put ourselves at stake.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "You told us in your evidence, when you got there, the policemen were patrolling with their weapons, do you remember that?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "In your letter you said they were sitting in their car, in their van?  Please explain this to us?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Okay.  There was one policeman who was patrolling, he was going up and down, but the others were in the car.\n\tI did explain that one of them was patrolling at that last pay point.  The other policemen were seated in the vehicle and the door was open.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Why did you just confirm your earlier evidence that the policemen were patrolling, plural nor singular?  I have just confirmed with you your earlier evidence that they were patrolling, not he was patrolling.\n\tAnd now that I point out the contradiction to you, now you seek to give me an explanation.  You see the other thing you haven't told us, is that one of the policemen fought with one of you, they fought over his firearm.  It is in the evidence in the judgement, Khuzwayo.  You haven't said a word about anybody fighting with one of your colleagues?\n\tIt was on the verandah, you would have seen it if it had happened?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Let me first explain the issue of the police patrolling.  At that first pay point, there were a lot of policemen patrolling, but at the last pay point, there was just one who was patrolling.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Yes, we are talking about the last pay point, we are not talking about the other pay points.\n\tYou know that very well.  Tell us about Khuzwayo, why did you forget to tell us anything about somebody fighting with Khuzwayo?  Who fought with Khuzwayo?  Which of your colleagues fought with Khuzwayo over his firearm and then shot him or stabbed him?  You don't know?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "That was the evidence that was presented in court, and that evidence was not true.  I think because they were trying to protect themselves.  There were a lot of untruths that were mentioned in court.\n\tI am only concentrating on what actually happened.  There are also other things that we omitted to mention in court, which I have mentioned here.  I did not witness Khuzwayo fighting with anybody.\n\tI did not see any policeman fighting with anybody.  The person just turned and then Mhluli shot him and he fell.  They did not struggle over any firearm.  That is what I saw.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Why would they have lied in court about a case where it is clear you shot, or when I say you, I mean you in the plural, shot and killed two of their colleagues?  They wouldn't know why you had gone there, why would they have to make up a story about being attacked?  It is what happened?  Why would they lie about it?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Although I cannot be absolutely certain why they lied, but if you are in a situation where you have to present evidence in court, you may say whatever you can but what I do know is that this did not occur.\n\tOne of them said he was stabbed and he showed a scar that had long been there and it was apparent that that scar had long been on his face.  There are a lot of things that they mentioned that were untrue and I don't know why they actually said those things.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Well the man who said he was stabbed, it is quite easy, he just wanted to explain why he ran away.  That doesn't change the matter very much.\n\tBut there is nothing that changes the fact that the man on the verandah was shot with a firearm, it was a handgun and that was linked the Star to you people who were accused in that matter, isn't that?  They found the bullets there on the scene, they linked them ballistically, that is all there, not so?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "So that couldn't have been lies because he was shot?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, it wasn't lies that he was shot, but no one was stabbed.\n\tBut there were other things that were mentioned, which were not necessarily true.  I think they were trying everything in their power, to get us convicted, but they did mention a lot of things that were not true.\n\tIn some instances the Court also dismissed what they were saying, because it was apparent that what they were saying, was not true.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "One last question, you applied for indemnity in this matter, is that right?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is so.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "Why didn't you at that time try and get hold of the people who you say you were helping, so that they could provide the evidence to back up your indemnity application?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "When I applied for indemnity, I did not know that I had to contact some people who could support me.\n\tI was waiting to hear from the people who were in charge or responsible for the process, to tell me how to go about it.  When we committed this crime, we did not know that there would be such things available to us.  I was waiting to hear from them.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "I am talking about before the TRC.  I am talking about the indemnity process.  You applied under the Further Indemnity Act of 1992 for indemnity.  A copy of your letter is in the papers.\n\tIf you like, I will dig out the page number for you, but it is really not necessary, it is right here in front of us?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "He is saying that the number of the Act in terms of which it was applied, was 1992.  The Act was passed in Parliament in 1992, like this Act now is passed in 1995.",
+            "Unknown"
+        ],
+        [
+            "MR LAX",
+            "And you applied on the 20th of January 1993.  If you look at page 323, there is your letter, application for release in terms of Section 2 of the Further Indemnity Act.  It is in your own handwriting?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, can I explain that again, how it happened?",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "No, no, the issue that I really want you to explain is a simple one.  You made application on the basis that what you did, was political.  The people who would have been able to help you prove that it was political, were the people you were supplying with weapons, who were involved in the struggle in your community, yet you made no effort to contact them so that they could back up your story.\n\tThat was in 1993, not for the purposes of this amnesty application.  I want to know why because it is clear from your letter that you understood that you had to show a political motive for your action.  You are a policeman, you understand these things.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "At the time, I tried to send a message to the people in the neighbourhood or my neighbourhood.  I enquired whether those people were still alive or were still residing in the area.\n\tBecause I was not called or I was not contacted, I did not further pursue that issue of contacting those people.",
+            "Male"
+        ],
+        [
+            "MR LAX",
+            "No further questions Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  Mr Ngubane, do you have any questions arising?",
+            "Unknown"
+        ],
+        [
+            "FURTHER EXAMINATION BY MR NGUBANE",
+            "Yes, I just want to clear one aspect, thank you.\n\tMr Hlengwa, if I understand you correctly, you say that you forgot to mention Kambule because he didn't participate in the robbery, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, I forgot him.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "And he was not part of the discussion regarding guns, because they had no violence in Maritzburg, is that right?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Did you see him after the robbery and discuss maybe what happened?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "After the robbery, yes, I did see him a few days thereafter, and we did not discuss anything.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "The letter I referred you to earlier on, which you wrote to the TRC, at page 309 starting from the fourth line, you say we left two HMC's and a shotgun with Mgululego and promised to keep in touch with Mhluli and I then went back to our police station.\n\tI told Kambule that we would have to go via Mpumalanga and collect an HMC from Dlamini if he needed it, because he was experiencing the same political violence in Pietermaritzburg where he resided.  Mhluli then gave Kambule's firearm back to him.\n\tAfter that we went on with our normal duties as usual, until we were arrested on the following week, on the 29th of March 1990.  Do you realise that that statement conflicts with what you have told the Commission?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Thank you for reminding me.   A long time has elapsed since then.  When I wrote this, my memory was still fresh.  I had completely forgotten that this happened.\n\tIf I can just explain about Kambule now that I have been reminded about him.  I thank you for reminding me about him.\n\tI remember what you have just read from here.  I have completely forgotten about him, but when I wrote the statement, my memory was still fresh as I mentioned before.\n\tI have forgotten some things that happened, because a long period of time has elapsed since I have been in prison.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "And you also now remember that he also had a problem in Maritzburg, regarding violence, is that correct?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "What I remember is that he once told me that there was violence in Pietermaritzburg.\n\tI don't know whether his (indistinct) was effected or involved, but he once mentioned that there was violence in Pietermaritzburg.  I had concentrated my efforts on the kwaMashu issue.\n\tI forgot about Kambule in Pietermaritzburg issue.",
+            "Male"
+        ],
+        [
+            "MR NGUBANE",
+            "Thank you, I have no further questions.\nNO FURTHER QUESTIONS BY MR NGUBANE",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Thabete, do you have any questions arising?",
+            "Unknown"
+        ],
+        [
+            "FURTHER CROSS-EXAMINATION BY MS THABETE",
+            "Just a few Mr Chairperson.  You spoke about the fact that sometimes the policeman would come to the township and patrol the area.  As a policeman did you ever go to the township to patrol your area, at kwaMashu?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "It would happen sometimes.  In most cases, I was involved with the administrative side at work, but when there was sometimes violence at work, extra policemen would be required to go and assist and I would also go out.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "What was your role as policemen when this happened?   What did you want to achieve by going to the township?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "If there was violence or fighting, we would go there and try to bring about stability.  We will try to stop the fighting, although sometimes this did not work out.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Would I be correct to say as a policeman and personally, as a person, you wanted peace in your area especially where your family was?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "Yes, that is what I wanted.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "So by providing ammunition and more guns to the people in your area, how did you think peace would be achieved?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "If somebody hits you or attacks you and you don't retaliate, and they repeat this, you come to a point where you realise that they are going to actually kill you and therefore you must also be able to defend yourself and retaliate until such time that you can both sit down your arms and actually stop the fighting.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Why I am asking you this, I am trying to ascertain what your role was in the ammunition and more guns, like was it to attain peace or it is like you were exacerbating the whole situation?\n\tAre you saying you wanted peace or you wanted them to defend themselves, or you wanted the war to go on?  What did you want, what did you wish to achieve by giving them the firearms?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I wanted a situation where if the attackers arrived and come to attack these people, they will find them ready to retaliate, so that they will not return for the second time.\n\tIf they knew that we were defenceless, then they would come back repeatedly to attack the area.  I was hoping that there would come a time when the political situation would change and be what it is today.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "The last question.  At Tapuka Store when you were busy fighting, there is someone who stabbed Mr Nqobo.  Who stabbed Mr Nqobo there, if at all he was stabbed?",
+            "Female"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "He was not stabbed, not at all.  Even when they tried to ascertain that in court, they realised that his scar was there for a long time.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "No further questions Mr Chairman.\nNO FURTHER QUESTIONS BY MS THABETE",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Ms Thabete.  Thank you Mr Hlengwa, that concludes your testimony.  You may stand down.",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I will like to say something.  Can I say a few words?\n\tI would like to submit that when I grew up and went to school at kwaMashu there was a bit of violence.  When I attended school at Mzuvehle, there would be violence.  We would be involved in marches.  We actually struggled for the release of Mr Mandela.\n\tThis was done under the banners of the UDF or the ANC.  Although I was still young and did not know much about politics, I knew about Mandela and what was going on.  As I grew up, I realised that there was this conflict between this two organisations and when I joined the police, I realised that the members themselves were divided between these two organisations.\n\tYou also had to align yourself with one, you cannot be neutral.  Unfortunately you also could not reveal that you were part of one organisation.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "We have heard that, you have given evidence, you cannot give evidence again.  We have heard your evidence, thank you.\n\tJust get to the point, we don't want to start the whole thing again.",
+            "Unknown"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "I am trying to explain that the political situation is responsible for the situation that I am in today.\n\tI was a member of the police, working, but I found myself in that situation because of the political violence.  I therefore wish to apologise to the people that I hurt and to the community at large, thank you.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Mr Hlengwa.",
+            "Unknown"
+        ],
+        [
+            "WITNESS EXCUSED",
+            ".",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Ngubane?",
+            "Unknown"
+        ],
+        [
+            "MR NGUBANE",
+            "Thank you Mr Chairman, that concludes the application for the applicant.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Thabete?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "Mr Chairman, I've got one question for the co-perpetrators behind me.  I don't know whether I can go ahead, proceed and call them quickly?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you want to call them, you can if you want to call them?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "As witnesses, yes.  I will call Mr Nduduzi Mbele.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "If they don't want to give evidence, they can't.  You can't force them to.",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "Can I please call Mr Dumisani Ernest Dlamini, it is one question I want to ask him.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.  Ms Thabete?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "It is Mr Dumisani Ernest Dlamini, one of the co-perpetrators who was with the applicant when they robbed the pension pay out.",
+            "Female"
+        ],
+        [
+            "DUMISANI ERNEST DLAMINI",
+            "(sworn states)",
+            "Unknown"
+        ],
+        [
+            "EXAMINATION BY MS THABETE",
+            "Mr Dlamini, can  you tell the Committee members whether you applied for amnesty?",
+            "Female"
+        ],
+        [
+            "DUMISANI ERNEST DLAMINI",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Did you apply?",
+            "Female"
+        ],
+        [
+            "DUMISANI ERNEST DLAMINI",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "What happened to your application?",
+            "Female"
+        ],
+        [
+            "DUMISANI ERNEST DLAMINI",
+            "The application was returned and the response was that they had refused to consider my application.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Do you have something to say to the Committee members?",
+            "Female"
+        ],
+        [
+            "DUMISANI ERNEST DLAMINI",
+            "Yes.  I would like to know why my application was refused, because I had written everything, everything that was written there, was the truth.  As Lucky is present here today, I had actually gone to tell them about it.\n\tWard 9 at Hammarsdale, is a UDF stronghold, and we were the people who were involved in the fighting.  What motivated me to support the UDF was that there were policemen in Hammarsdale, in Ward 9 whom we used to work with.   One of them was Roy who used to work at Camperdown.  Another one was Mose Mdagani who was killed in the political violence as well.\n\tThese were the people whom we cooperated with in assisting the UDF with ammunition.  Whem Mose Mdagani died ...",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Thank you, all I wanted to do is to give you an opportunity because you had said you wanted to ask the Committee members.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Dlamini, I don't know if any of us are in a situation to explain what happened to your application and why a particular decision was arrived at.\n\tAs we sit here, we are not in a position to explain.",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "Thank you Mr Chair.  I wanted to give them an opportunity to address you, because they said they wanted that opportunity.\nNO FURTHER QUESTIONS BY MS THABETE",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you have any questions, Mr Ngubane?",
+            "Unknown"
+        ],
+        [
+            "MR NGUBANE",
+            "No Mr Chairman.\nNO CROSS-EXAMINATION BY MR NGUBANE",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Thank you Mr Chair.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Ms Thabete.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Dlamini, can you put your earphones on?  Is that it, any further evidence?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "No further evidence.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Ngubane, are you in a position to address the Committee?",
+            "Unknown"
+        ],
+        [
+            "MR NGUBANE",
+            "Yes Chairperson.  In fact, I have no submissions to make, I will abide by the decision of the Committee.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Thabete?",
+            "Unknown"
+        ],
+        [
+            "MR LAX",
+            "Just to tell you what happened, Mr Ngubane has made no submissions in his address, he abides by the decision of the Committee.\n\tYou are being asked if you want to address us at all on the merits.",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "I will abide by the decision as well, thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  We will take time to deliberate and we will hand down a written decision in this matter as soon as possible.  We will accordingly reserve our decision, thank you.\n\tWould this then be a convenient time to take the lunch adjournment and then we will start with Mr Cele's application after the lunch break, Mr Ngubane.  Sorry, I might say before the decision is out, that statement referred to which wasn't signed, the Committee will place no probative value on that at all, and we will disregard that and we won't regard it as evidence.",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "Thank you Mr Chairman.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "You know the letter I am talking about, that affidavit made to that person in prison, we won't take any cognisance of that.\n\tCan we start at about twenty to two?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "Certainly.\nCOMMITTEE ADJOURNS\nON RESUMPTION",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "I have been informed during the lunch adjournment, that one of the relatives of a victim in the incident, wishes to put a question to the applicant.  Do you have any objection at all Mr Ngubane?",
+            "Unknown"
+        ],
+        [
+            "MR NGUBANE",
+            "No Mr Chairman, I have no objection.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "(still under oath)",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  If we could have the victim's name please Ms Thabete?",
+            "Unknown"
+        ],
+        [
+            "MS THABETE",
+            "The victim's next of kin is Josia Hlongwane, the father to Sergeant Samuel Sipho Hlongwane who was killed in the incident.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Hlongwane, you may go ahead and ask the applicant the question you wish to ask him.",
+            "Unknown"
+        ],
+        [
+            "MR HLONGWANE",
+            "Thank you.  I have one question to ask Mr Hlengwa as well as to the Committee.\n\tWould a person be killed by one bullet through his thigh, because when I found my son, he had a bullet wound along the thigh as well as a stab wound along the chest.  When it was explained to me, it was that he had been shot at and then stabbed.\n\tSecondly, would a person be granted amnesty, if they do not tell the entire truth?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Hlengwa, the question from what Mr Hlongwane is said, it would be that according to his knowledge his son, who is one of the deceased persons, his son, Sergeant Hlongwane, had a bullet wound on a thigh on his leg, and also a stab wound on his chest.\n\tNow we have heard you in your evidence saying that no one was stabbed.  I think he is asking you, he is disputing that statement of yours.  Do you have anything to say in response to what Mr Hlongwane has said?",
+            "Unknown"
+        ],
+        [
+            "MR NGUBANE",
+            "Sorry Mr Chairman, before the witness can respond, there was just a slip up in the interpretation.  In fact the question referred to the shin and not the thigh.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "The shin, sorry not the thigh, but in the shin, that is the lower portion of the leg - there was a bullet wound, and a chest wound, made by a knife or a sharp instrument.",
+            "Unknown"
+        ],
+        [
+            "MR LAX",
+            "If you will just press the red button please.",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "As far as I know, from what I witnessed, I did not see anybody stabbed and even amongst my colleagues, no one produced a knife and I didn't see anybody with a knife.\n\tI am also surprised about who actually stabbed  or who was this policeman who stabbed him.  I would just like to know if you know Mr Hlongwane, who it was that stabbed him.  If you say that one policeman stabbed him, was it maybe one of his colleagues or who?",
+            "Male"
+        ],
+        [
+            "MR HLONGWANE",
+            "I was not present at the scene, but from what I heard, I ultimately arrived at the scene, but you have not responded to my question.  Is a person killed by a bullet wound to the shin?",
+            "Male"
+        ],
+        [
+            "LUCKY JAMES HLENGWA",
+            "If you are directing that question to me, although I am not a medical practitioner, it would appear to me that a person would not die after being hit on the shin.\n\tBut it is also possible that a person may be shot on the arm, and die.  What surprises me is that you say he was stabbed.  As I explained before, I did not see anybody stabbing anyone.",
+            "Male"
+        ],
+        [
+            "MR HLONGWANE",
+            "Thank you.  What I do know is that I bathed his corpse and I did see a stab wound, it appeared to be from a screwdriver.\n\tMoreover, I wouldn't say that a person was shot and not stabbed, if he had been stabbed, because it would make no difference to me.  It would make no difference to say that he was only shot and not stabbed, if he had been stabbed, because this person is now deceased.\nNO FURTHER QUESTIONS BY MR HLONGWANE",
+            "Male"
+        ],
+        [
+            "MS THABETE",
+            "Can I respond?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  Thank you Mr Hlongwane.  Thank you Mr Hlengwa, you may stand down.\nWITNESS EXCUSED",
+            "Unknown"
+        ]
+    ]
+}

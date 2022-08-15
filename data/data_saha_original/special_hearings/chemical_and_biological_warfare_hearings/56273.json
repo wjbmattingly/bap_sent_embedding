@@ -1,0 +1,1901 @@
+{
+    "header": {
+        "type": "Chemical and Biological Warfare Hearings",
+        "starting date": "1998-06-08",
+        "location": "Cape Town",
+        "day": "2",
+        "names": [
+            "SCHALK JANSE VAN RENSBURG"
+        ],
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=56273&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/special/cbw/cbw4.htm",
+        "speakers": [
+            "CHAIRPERSON",
+            "DR ORR",
+            "DR RANDERA",
+            "DR VAN RENSBERG",
+            "DR VAN RENSBURG",
+            "H",
+            "MR ARENDSE",
+            "MR CHASKALSON",
+            "MR DU PLESSIS",
+            "MR POLSEN",
+            "MR VALLY",
+            "MR VAN ZYL",
+            "MR VISAGIE",
+            "SCHALK JANSE VAN RENSBURG",
+            "SCHALK VAN RENSBURG"
+        ],
+        "original_speakers": [
+            "MR CHASKALSON",
+            "CHAIRPERSON",
+            "MR VISAGIE",
+            "MR ARENDSE",
+            "MR POLSEN",
+            "ADV POTGIETER",
+            "SCHALK JANSE VAN RENSBURG",
+            "DR VAN RENSBURG",
+            "MS POTGIETER",
+            "MR VAN ZYL",
+            "MR DU PLESSIS",
+            "SCHALK VAN RENSBURG",
+            "MR VALLY",
+            "DR ORR",
+            "DR VAN RENSBERG",
+            "H",
+            "DR RANDERA"
+        ]
+    },
+    "testimony": [
+        [
+            "CHAIRPERSON",
+            "We are about to resume ladies and gentlemen.  I believe Mr Vally is on his way but perhaps we - well, I believe Mr Chaskalson is going to be Mr Hanif Vally for purposes of this afternoon.   Do you want to place yourself on the record Mr Chaskalson?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "My name is Jerome Chaskalson and I will be leading the evidence on behalf of the Commission this afternoon.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.  There are other legal personalities that I think need to place themselves on the record.",
+            "Unknown"
+        ],
+        [
+            "MR VISAGIE",
+            "My name is Deon Visagie.  I am here on behalf Mr Brian Currin who is the attorney for Jan Lourens.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can I get that name again?",
+            "Unknown"
+        ],
+        [
+            "MR VISAGIE",
+            "Sorry.  Deon Visagie, Mallinicks Attorneys.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Okay.",
+            "Unknown"
+        ],
+        [
+            "MR ARENDSE",
+            "Chairperson, good afternoon.  Norman Arendse, Cape Bar on the instructions of the State Attorney.  Finkhuizen has been standing in for me.  I'm representing the Department of Foreign Affairs, thank you.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Mr Arendse and thank you Mr Visagie.\n Mr Chaskalson?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Thank you.  Our next witness will be Doctor Schalk van Rensburg.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Doctor Schalk van Rensburg, welcome.  We are pleased that you have been able to come.\n I take it Mr Polsen that you represent ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "MR POLSEN",
+            "I once again act for Doctor van Rensburg Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you very much.\n Before you testify Doctor van Rensburg, I'll ask Advocate Potgieter to swear you in.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Doctor, just your full names for the record please.  Full names for the record.",
+            "Unknown"
+        ],
+        [
+            "SCHALK JANSE VAN RENSBURG",
+            "My full names are Schalk Janse van Rensburg.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Do you have any objection to taking the oath?",
+            "Unknown"
+        ],
+        [
+            "SCHALK JANSE VAN RENSBURG",
+            "(sworn states)",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Doctor van Rensburg.  May I just indicate to you that you are free to express yourself in the language you are most comfortable with.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Thank you, I'm most comfortable in English.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you very much Sir.  But for the audience, those people who would rather listen in to the Afrikaans, it is on Channel 1.  Thank you very much.\n Mr Chaskalson?",
+            "Unknown"
+        ],
+        [
+            "EXAMINATION BY MR CHASKALSON",
+            "Good afternoon Doctor van Rensburg.  Could you please indicate for us your background and qualifications prior to 1984 please?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I qualified as a Veterinarian in 1957.  I worked with the Department of Agriculture for 11 years, specialising particularly in animal reproduction studies.  I gained the degree of Doctor of Veterinary Science.  After problems with the Department of Agriculture at the time due to my unacceptability in the political atmosphere at the time, I was worked out by the Broederbond.\n I then went on to the Medical Research Council and had 15/16 wonderful years there working exclusively on the causes of diseases amongst our rural underprivileged people.  Later the research funds and so on were diminishing for basic studies like we were doing and I then joined Roodeplaat.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Could you tell me who approached you to join Roodeplaat?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Initially there were visits by Doctor Basson to our Nutritional Diseases Institute here in Cape Town at the Medical Research Council.  Doctor Basson had certain problems that he discussed with me and a lot of my research group.\n These problems were, firstly as we now know there was apparently a threat of Chemical Biological or some Chemical Biological capability, acquired by some of our neighbouring states, Angola  and Mozambique in particular.  They had go technology via Cuba from the Russians.  We knew the Russians were working on a new generation of chemical weapons based on fungal toxins, the mica toxins and the one most promising product was Yellow Rain of course which is actually a fungus toxin from the Fezerium group.\n Now my research group were already experts in this field.  Minute amounts of these same toxins that were used for warfare sometimes occur in food and they can cause fatal human disease, so we were researching this intensively.  We'd even had laboratory accidents with exposure to these Tricotasines as we call them in this country, Tricothekenes they call them in America, extremely irritant compounds.\n Now according to Doctor Basson and others, the intelligence was that the testing had been done in Afghanistan, had been done in Cambodia.  Those conflicts were sort of ending and they were expecting tests to be done with these fungal toxin weapons in Angola.  So that's immediately how we initially made contact.\n He also had problems, and he sketched very credible incidents of which I don't doubt are true, of covert exposure to border troops and some incidents where they could not determine what the cause was.  People on patrol were definitely exposed to toxic substances but they could never find out what and it did cause occasional deaths.\n So really to investigate these things you need a good laboratory backup, so he approached us.  We were very keen to do any contract work even at the MRC then because funds were becoming very short for basic research.  So we discussed it with him and he went back and they did a security check apparently on the Medical Research Council.  The message was, there are known communists on the Board of the Medical Research Council so they can't do work with us and from that it seems they decided to establish their own group.\n I'd refused the first two approaches.  Ultimately Doctor Daan Goosen flew down to Cape Town, sketched a very attractive plan for a Contract Research Laboratory.  I knew, and he was open about it, it was a military front company initially.  The plan was to ultimately privatise it.  We assumed it would remain the property of the government but operate as a private company doing contract research.\n I'd had immense respect for Doctor Daan Goosen.  I was a great admirer of his achievements.  We both had similar good reputations internationally in the Laboratory Animal Science field.  Apart from that I had the research reputation.  My work is still quoted standard in many medical text books overseas.  It's still quoted by even Nobel prize winners in reviews.  So I had the scientific credibility to help build up the contract research. \n When I talk about contract research I mean private research, genuine research, particularly to the pharmaceutical industry but also various other industries.  Then of course part of it would be the confidential work for Doctor Basson centred on these requirements I've outlined.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Doctor van Rensburg, can you put a date to when you joined RRL?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I started at RRL on the 1st of August 1984.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "And can you explain the structure that existed at the stage that you joined?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "When I arrived I was the third Director.  We had a Managing Director, Doctor Daan Goosen, we had the Research and Development Director, Andre Immelmann.  There was the Administrative Director, Doctor David Sparmer, Mr David Sparmer and then myself,  I was appointed as Director of Laboratory Services.  It was my job to establish laboratories, to help equip them, to appoint the right staff, work out the optimal structures for our purposes and so forth.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "You mentioned earlier that you were there to do commercial projects, was it your understanding that there would be other projects that were not of a commercial nature?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Yes, indeed I was informed it was started as a front company and we would have these contracts supposedly with the Army, rather the Surgeon General.  I did have reservations in the beginning and as a family we talked about it.\n It is acceptable for any model Army, in fact it is expected to have a good technology base of covert warfare.  If you don't know the dirty tricks you can't counter them or you don't detect them or your outwitted.\nThen again I thought, I'm a pretty known liberal, blacklisted by the Broederbond, Anglican, lifelong Anglican, I've written it on my application form, there surely can't be anything very sinister if they ask a chap like myself.  \n I also had experienced previous work, contract work with the Army in the late '60's soon after I joined the, what ultimately became the Medical Research Council.  I was in a team that was to develop a safe cabin for mine-proof vehicles.   At those times the V had not been invented, there were no mine-proof vehicles and the police were being blown up on the border in their bakkies.  \n So I joined the team together with the CSIR people and we developed a cabin which was safe and which we were sure that people would survive in and I did the medical assessments in various ways.  To do that work we went through very strict screening, security checks and there wasn't a problem for that purpose.  \n To join this company there was no security check until only after I joined.  The security was at such a level that there wasn't even, they weren't even very studious about: \"Die eed van geheimhouding\", your secrecy oath.  This document I was given in 1984 to sign so I thought why should I sign a thing like this, I don't mind industrial secrecy but this sounds a little bit sinister.  I didn't sign it, I think we were asked for it once and I made an excuse and I never have signed an oath of secrecy.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Doctor van Rensburg, just for the record, would it be possible for us to get a copy of that document at some later stage?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "You may have it all, I don't require it.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Thank you.  Doctor van Rensburg, can you indicate to us some of the other people who were working at the facility at the beginning?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "At the beginning when I got there, there were the Directors that I mentioned and a couple of technicians.  There was Jaap Visser and there was already a chemist, Claus Psotta but we were a small group.  We started in the old house, as we heard yesterday, the old farmhouse and worked very hard.  Daan Goosen was very advanced for the big permanent institute and the building started shortly after I got there.\n This was not a secret institute, it was an advertised institute.  We did contract research and we had brochures and we had people from all over the world there.  These are the brochures, it's for commercial work, all the details, this is the tests we can do for the pharmaceutical industry and so forth.  So it was not secret, the existence was not secret, that was advertised.\n What was meant to be a secret was the fact that it was a covert military operation ...[indistinct] and that some of the, a front company and that we were doing covert work for the military, that of course was secret.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "When was the new facility completed?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I should think about early in, round about mid 1985.  We had in the meantime built a small laboratory which was erected very quickly, three or four rooms near the farmhouse, which became part of our large animal laboratory facility later and in that there was very active work going already.  From the beginning of 1985 there was active laboratory work being conducted.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "When you say active work, are you talking about commercial projects or are you talking about other projects?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Both.  Commercial projects never really were more than 10%.  The guidelines we were given as to how much commercial work to do, they would tell us at some stage only 5%, at other stages 20%.  In the early stages it was maybe at that level.  At the late stages, after 1990, probably 30% of the effort was expended on commercial work but we never really earned more than 10% of the budget.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "So the commercial work was simply a public facade to the company?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "It was known as: \"Dekmantelwerk\", cover work, that's the reason it was done.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "How is it that if you were recruited to do commercial work you came to know of the other work?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I wasn't specifically recruited to do commercial work but the laboratories I created or helped create because it was all a team effort, and equip and the technology that I helped to establish there, this was necessary for both commercial work and for the military work.  It's the same type of laboratory facilities, a lot of the techniques are the same.  There was a very good overlap.  So I myself did not do projects except for two small projects which I'll touch on.  I just helped keeping the machine oiled once it had been established.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "We'll return to this at a later stage.  Once the facility had grown a little bit I presume that more staff were drawn into the facility and that almost certain divisions were set up, would that be correct to say?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "That is correct.  We had ultimately had a staff of round about 70.  I do have a breakdown here of the structure, I must just put my finger on it, there were departments of Toxicology, Biochemistry, Molecular Biology and - just let me try and find where I've got them, sorry I can't put my finger on it now.  There were a whole lot of groups of scientists, only about 12 scientists in all ultimately by the time I left in 1991 and about 16 technologists.\n We had these various scientific disciplines, biochemistry, Organic Chemistry, Molecular Biology, Physiology, Microbiology, the Animal Unit and so forth. And then this was supported by a lot of service systems, the State Department, the Finances, the Administration, the Directorate and so forth.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Did you have any specific dealings with one or more of these units?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "The specific dealing I had with them, I assume you mean research activities?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I participated in Fertility Project. And I'd like to put the record straight here, the original assignment to do this project came from Doctor Basson.  He came to see a group of us and said they had a problem with, Savimbi had a problem in UNITA.  His best troops were actually the females but the trouble is they were pregnant most of the time.  And then he indicated that there was a bit of a problem in the refugee camps where they are breeding too fast.   These were the reasons he gave and he had already done his homework, he came with a little book written by an Indian expert on immunological control of fertility.  And in there these chaps, the Indians are very imaginative sort of group, they had all sorts of theories of how to do this.\n With my background, purely because of my background in reproductive research for 11 years, I actually had a project which was registered as Immunological Infertility, the State of the Art.  In other words, I did literature reviews and I could give guidance to the research team.\n In these reviews there was a lot of literature that we obtained from World Health Organisations.  The population council of the World Health Organisation had pinpointed immunological techniques as the future effective way to control populations and particularly in third world countries where you don't have to take a pill every day and so forth for obvious reasons.\n The United Nations World Health Organisation strongly urged and there were official resolutions, all member governments who were in a position to do so, to so research on developing immunological techniques to fertility for fertility control.  In other words, a vaccine.\n Basically of course we didn't really believe the motivation that Doctor Basson gave, maybe he was right, maybe he was wrong but I was suspicious.  We didn't worry too much, I didn't worry too much.  Having looked at it I thought it's a good project.  We appointed Doctor Riana Borman to actually lead the project.  I was an advisor, technical advisor.  \n There was no question at any stage whatsoever of developing a vaccine that only works in blacks or that's colour or ethnic based.  Biochemically, blacks, white, Chinese, whatever, are identical.  There is nothing, no academic reason or a difference that you can look on to make racially based vaccines.  There is no such thing that I know of.  \n So we told him at an early stage, after doing the  literature reviews: \"Do you understand Doctor Basson, the thing is very easily detectable\".  It was Doctor Basson and Wynand Swanepoel who pushed this constantly. I told them: \"It's very easily detectable, you cannot use it covertly\".  They said that didn't worry them, we were to carry on.  \n So having discussed it with the research team we decided we would work flat out on this project.  It was a good project commercially.  If the company was ever privatised we could make a killing from it even if we didn't develop the product, just from selling the technology we had performed.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Doctor van Rensburg, sorry, can I just take you back a little bit.  The first approach by Doctor Basson, when would that have been about, time period?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "1985, later in 1985.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "You said that you didn't believe his motivation, can you elaborate on that?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "By this time I'd learnt that the Special Force people were very cavalier and they would spread lots of covert stories and that you didn't necessarily, there was no such thing as ever questioning, it was a need to know thing and you did what you were told and you just volunteered these reasons.\n I could not think that an intelligent man could think we could spend a couple of million on a project like this to control pregnancy in a few of Savimbi's female soldiers, it was just silly ...[indistinct] reason.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Did you have any speculation in your own mind as to why you had been requested to try and develop this?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Well one speculates that they might want to use it covertly on a huge scale, which I warned them they can never do.  Any junior technical in immunology can devise a test to pick up the antibodies because if you make a person immune, there's only a few antigens hormone type things that you can use.  You can pick up antibodies by very simple laboratory tests and show that population has got antibodies, you know immediately something has happened.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Can I ask the question, why would you want it not to be detectable?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "If you want to use it covertly then you would not want it to be detectable.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Were you requested ...[intervention]",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "We were not requested, we were not told.  As I say, the only reasons we were given was the refugee camps and Savimbi's female soldiers.  But as I say, logistically they're rather silly reasons for such a major project.\n One assumed they wanted to use it on a larger scale.  I can't say they wanted to use it covertly, it might be a genuine attempt to make a product available to a population that wants it.   These immunisations as I say, are firstly easy to detect and secondly in most cases very reversible.  \n So it would be a very desirable project and there's a huge amounts, and there are a lot of groups working on this field that were working even then.  There are huge amounts being spent to try and get an effective immunological approach to control fertility.  It's theoretically a very good approach.  \n I even went to Canada to attend an international congress on specifically immunological fertility control on this subject and nothing else.  I met all the people who had written initial works, especially the Indian group and I assessed exactly what the position was and that, came back and that saved us a lot of repetitive futile work in this field.\n We had a team led by Doctor Borman and the other active scientist who was a Biochemist, a young lady, who was obsessive about not being involved in covert work.  She would have nothing to do with it whatsoever but having discussed it we had decided we will never release a product which is not fully tested, approved by a Medical Research Council, preferably through the Medicines Control Council sorry.   We knew that we had no hope of bringing such a project to finality within 10 to 20 years.\n At the later stages the best aspect of this project was that it occupied at least 30% of our research capability at the institute.  That was 30% less time and effort and money to spend on developing covert ways to kill people.\n There was pressure to release the product.  Doctor Wynand Swanepoel harassed me about I must make it available, I said it's not tested for safety, it's not tested for efficacy, effectiveness.  He said it doesn't matter, I must give him some of the product.  We did not give him any and if we were pressed further I would happily have given him a dilute solution of some of the hormone antigens we were using that would definitely not work and be quite harmless.  There was no question that Doctor Borman or Doctor Karen Nel or my ethics would be raped in this particular way.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "You've raised a number of issues now which I'd like to just touch on some of them.  The first one is that you had said that Doctor Swanepoel had requested you to give him some of the product.  Can you clarify for us who Doctor Swanepoel is?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Doctor Wynand Petrus Swanepoel was the second Managing Director or Roodeplaat.  There was a stage when there was talk of privatisation.  The moment the first whispers came out, the first thing they did was to put all front companies under the control of ex-Special Forces officers and it so came that he replaced Doctor Daan Goosen.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Was he a scientist?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "He was not a scientist at all, he was in the Special Forces in the Military Battalion, the Medical Military Battalion.   I understood he played primarily an administrative role there but he was very active.  Even after he came to Roodeplaat in weekend operations with the police and known CCB agents.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "There are a number of things that I want to lead off from this.  The first one is, did it not strike you as surprising that somebody with no scientific background would be placed in charge of a facility such as RRL?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "The only time Doctor Basson ever actually came to my home was in 1985.  He turned up there and he had a proposition to put to me and that was, he outlined why he thought he should replace Doctor Goosen with Doctor Wynand Swanepoel.\n I discussed this with him at length.  I said I thought it was a very bad idea.  I said Doctor Goosen was an excellent leader, he was brilliant at structuring and keeping the show going, he had a highly efficient small organisation then, he was a credible scientist.  I said to him: \"If you put an ex-Special Forces officer there, forget your cover\".  I said: \"These people are not suitable for administering a group of scientists.  Military people come with their mythical super leadership style.  This style is necessary if you want to convince a lot of otherwise sensible youngsters to become cannon fodder, they have to have it but it's not suitable in a scientific milieu\".  Anyway they did appoint him.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "In your opinion, did the appointment of Doctor Swanepoel as the MD of RRL hinder or help the future of that company?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "It was the end of the future.  The dream that Doctor Goosen had that I supported fully was a model contract research company.  We all knew then that this need the Army had was going to expire very soon, thinking people knew that the days of the apartheid regime was almost over.\n And it was our dream to create a top class research facility, the logistics were right.  We had fantastic scientists and a very high percentage of good trained people in this country.  We had the most modern animal research technology.  We had the reputations, everything was going and we thought we could create a fine facility that the country really, it could be an asset to the country from an industrial point of view, it could earn a lot of foreign exchange and create a lot of jobs.\n This against the background of failing funds for basic research work, remember we were research workers, we also had to create a future for ourselves.  It was not only the social priorities that reduced our funds in this country, it was actually a world-wide trend, that government funds for basic research particularly my field which was the causes of cancer, these were being cut all over the world.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I just want to go back a little bit and talk about the reporting structures that there were in the organisation as well as how the company was financed.  Can you give us an indication of how accounting in the company was done?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "The finance was 100% through secret military funds which were channelled through the Surgeon-General except as I say for the 5 or at best 10% that we ever made from contract research.\n The administrative company or rather, we had a company that were internal auditors called Infadel.  Exactly how the flow of military funds, if they came direct through the Surgeon-General through Infadel, I never knew.  It wasn't my job to know and I didn't ask. \n Infadel were internal auditors headed by Tjaard Viljoen and there was a man, van der Berg there.  Van der Berg was a good, very strict auditor.  He told us that Prime Minister P W Botha had appointed his personal friend, a man by the name of Pierre Theron, to audit all the front companies.  And he'd done this to keep a special eye on us so that we would not abuse funds and that he would not be subjected to a second Info scandal.  So Pierre Theron of the then, the firm was at that stage known as Theron, du Toit and Company or Coopers, Theron and du Toit.  \n This one firm audited all the front companies and they still have all the records. They are now known as Coopers and Lybrand.  The records are all there if you want the financial dealings of the front companies.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "We will return to that point and your point about not having another financial scandal but I'd like to do that in a more chronological order.  Can you tell us something about the reporting structures within the organisation?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "The research reporting structures?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Well, either both the research reporting structures and also how reporting was done to Doctor Basson and how reporting was done to the Surgeon-General if it indeed was done.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Initially General Nieuwoudt, the first Surgeon-General, there were occasional meetings with him where both administration and technical reports were fed back.  But to start at the in-feeding stage, the instructions for work to be done at the institute came from the Managing Director, Wynand Swanepoel, it came from Doctor Wouter Basson and quite often Doctor Andre Immelmann would initiate projects as well.\n These projects would, these instructions to do work, and I'm talking about the military work, the covert work, was always verbal, never ever written.  The researcher would be approached about the problem outlines, it was then his job to come back with protocols which he would present to Doctor Immelmann.  Doctor Immelmann would approve them or adapt them as he wanted them and then the research work would go ahead.   As far as the military projects were concerned, when they were completed the reporting was to Doctor Immelmann.  He would then occasionally write information pieces, these would go back to either the operatives, Doctor Basson or, I don't know whether Doctor would take them but at times Doctor Swanepoel required overviews of certain possibilities for future research work or areas of progress.\n The administrative reporting was always to the Surgeon-General, of course within the company there was a hierarchy.  All money expenditure had to be approved by the Surgeon General.  He had budgets and individual items that cost, say more than R25 000 or whatever, he would have to approve.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "How do you know that?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "It was in the regulations of the company.  We had administrative guidelines and levels of authorisation and above a certain level I can't remember, I think it varied, it was about R20 000 then R25 000 and it might gone up to R50 000.  Above a certain level individual items had to be authorised by the Surgeon-General.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "You've spoken quite a bit about Doctor Immelmann.   He seems to be a very important person in regard to the covert projects.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "That's right, that was his responsibility.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "And could you give us some form of indication as what you understood to be covert projects?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Covert projects were really requirements being fulfilled or requirements set out by the Special Forces, by the police and by the CCB.  These were classified officially as \"H\" projects initially.  Later on the \"H\" was too obvious.  \"H\" stood for hard work as opposed to \"C\" which was commercial work.  We can analyse the projects or have a look at the type of projects.\n Within the document I've been given there are numerous projects, individual examples and also lists of projects ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Why don't we have a look at one of the lists of the projects?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Right.  Possibly we should go on a more chronological order.  There are also lists of products issued.  The ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Chaskalson, - I'm sorry Doctor van Rensburg, can you direct us where?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I will in a moment, I'm just looking for an index.  I believe that document TRC 30 may be a useful one to start off with Doctor van Rensburg.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "TRC 30?  Right.  We've got a list of research projects there.  I have done some analysis of these projects.  I've just got to find the place, I'm sorry for the delay.  Document TRC 30 provides lists of a total of 163 hard projects.  There are 163 listed here.  They include projects commenced in 1985, 1986 and from 1990 onwards.  In other words the three years, '87 to '89 are missing.  Of the 163 known projects 66% concerned potentially lethal toxins.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Could you identify some of those potential lethal toxins?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Yes, I will come to that in a moment.  If I can just give you a breakdown of the type of projects done?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Carry on.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Most were toxicity studies in animals followed by studies in which toxins were actually prepared and those were also listed as projects.  Some projects concerned chemical properties and administration methods.  Only 6% of these toxist studies involved treatment and neutralising agents, only 6% of the 66%.\n Psychotropic agents were the subject of 2% of all studies as were techniques for detecting explosives.  There were two or three projects for detecting explosives.  Those were not really, there was no progress made on them until they were transferred to the Roodeplaat Breeding Enterprises where they of course went on very well.\n Fertility and fertility control studies comprised 18% of all projects.  Microbiological agents were examined in 12% of the studies.  Highly pathogenic micro organisms predominated in those 12%.  \n There was only one cancer study listed, that is fact was cancelled, it never took place.  It was actually in the very early stages when we had spare capacity, I wanted to sneak in an academic study which didn't have covert potential but the laboratory soon became fully occupied so I didn't have a chance to do it.  So no cancer work was done.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Were you aware of the nature of this work while you were at RRL?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Yes, I was, I had no say in formulating or deciding what sort of work was done in this field.  Where I did see it was as Chairman of the Laboratory Animal Ethics Committee.  They used to  briefly be shown to me so that the institute could tell the world they guaranteed that every study done there had been subjected to laboratory animal ethics screening and that we did.\n And very often I would reduce the number of animals and the techniques to reduce suffering drastically as borne out.  You can see in many of the reports listed in here they claim there were inadequate numbers of animals used.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I'd like to return to the animals but maybe at a slightly later stage.  Can you tell me what Monensen is?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Monensen is a, I think it's one of these ion o fours(?), it's a growth stimulant in animals but it can also be very toxic in certain species.  It's safe to use in ruminant animals, animals with four stomachs but in monograstic animals like the horse or the dog it's highly toxic.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "And what about the human?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "One would assume, being a monograstic animal, it would be very toxic.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Yes.  A substance by the name of Brodifacum?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Brodifacum is an anti-coagulant.  It would normally be extracted from I should think something like Cooper's Finale, it's a rat poison.  It's a rat poison which prevents blood clotting.  In other words if you feed small amounts you can suddenly die of haemorrhages or strokes or whatever.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Doctor van Rensburg, some of these studies even to the lay person look slightly strange. If I can refer you to the first page of that list.  It seems to be marked with five zeros although some of the subsequent ones are cut off, about half way down the page, 86 H 1630, we see that they're talking about the: \"stabiliteit van 'n PO nikotien mengsel\".  It seems as if substances are being put into nicotine.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "That's right.  PO stands for Paraoxon.  Paraoxon is the - if you take the organic phosphate poison - Professor Folb please correct me, I'm not a pharmacologist, if I'm wrong, the organic phosphate poisons ...[indistinct] colon ...(indistinct) inhibits like Parathion.  They themselves are not really toxic but what happens when you get them in, the body tries to break them down and makes a product that's far more toxic and infinitely more toxic than the parent substance and that is Paraoxon.\n One can see it's a favourite substance used in various ways and I think it's one of the substances possibly they used to paint on clothes to take out selected targets.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Possibly looking at these experiments put into tobacco or cigarettes?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "That's right.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Can I refer you to another document which is TRC 52.  And I was wondering if you might consider some of the substances listed on this document to be of a covert nature?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Is that the list of products?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "That's correct, it's a document with a list of dates down the left-hand side, substances and then there's a gram measure and a price on the far column.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I've analysed these lists.  I knew about these lists because I had heard Doctor Immelmann and Doctor Swanepoel talking about them.  As far as I know usually Doctor Swanepoel would be urging Doctor Immelmann to keep them up to date or asking for copies that he could use them to motivate more money and that sort of thing.\n This is the only one I've actually seen.  I knew about these product lists but I'd never seen them.  I will say I was horrified to see that on 48 occasion 67 items were supposedly sold over a mere eight months.  That is, this list covers March '89 to October 1989, only eight months.\n If you average out this rate for the approximately five year offensive period of Roodeplaat then one can deduce that round about 500 products were in fact issued.  Now what were these products?  30%, 36% were small quantities of highly lethal toxins, chemicals that are capable of incapacitating or killing one or a few people, that's about the quantities issued.\n Fourteen different chemicals were issued in just over these eight months.  The favourite was cyanide, it was issued five time, followed by Thallium and Botulinum Toxin three times each. \n A further 36% of the so-called sales also involved the administration means of these agents.  For toxins chocolate was the favourite, they issued 13 doses on four occasions followed by laced beer tins or bottles, that was seven doses and whisky five doses.  \n Also issued were orange juice, hypodermic needles, Propane, which I think is a propellant probably for an aerosol, Methanol and two snakes.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I'd just like to draw your attention to a couple of the specific items.  On page two of this document the first item is Vibrio Cholera and there's a volume of 16 bottles, then slightly further down, that was on the 4th of August 1989, then on the 16th of August 1989 another 16 bottles of the substance were provided and on the 9th of August 1989 a further 10 bottles were provided.  In your view, could such quantities be used to have caused an outbreak?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "My answer here reads: \"Remarkable was the issue of the 32 bottles of Cholera germs on three occasions during July to September 1989\".  I was frankly shocked to see this.  With that you can cause massive outbreaks of Cholera amongst various populations.  It would be interesting for the medical people to see if there were outbreaks after August/September 1989.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I'd just like to read out a couple of these items and then pose a question to you and I'm going to be somewhat selective here but I will cover a fair amount.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Chaskalson, I thought I heard you say that 10 bottles were in August, it seems to me the record must be straightened out then.  Are you referring to the item where it says: 8th of September '89?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "My apologies, thank you.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Just for the record.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "It seems that on the first page of this list we have got three beer bottles Bot., which I presume is Botulism, three beer bottles with Thallium, another beer bottle of Botulism, another two of Thallium.  We've got Sugar and Salmonella, we've got some Whisky and Paraquat, we've got a baboon foetus, we've got cigarettes with B Antheral, we've got five coffee chocolates with B Antheral, there's another five coffee chocolates with Botulinum, some peppermints with Aldicarb, peppermint chocolates with Brodifacum, peppermint chocolates with Cantharidine and peppermint chocolates with cyanide, three and three were the last two quantities. ...[indistinct] whisky with Colchicine - excuse my pronunciation, and the list seems to go on.  Would you consider this list to be a list which could have been used for some form of scientific research or a list which is a list or murder weapons?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Undoubtedly a list of murder weapons, no value for research whatsoever.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "If you could indulge me for just a moment please Mr Chair.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Doctor van Rensburg, did I understand you to be saying you were not aware that these things were produced, you were shocked when you got this list?  I'm talking about you as a person.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I was not aware of the list.  I was aware that this type of thing was being issued, that I was aware of but I didn't realise the scale it was being done at.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now what was it being issued for?  In terms of your awareness, what was it said, what was it going to be used for?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "It was being issued primarily, most issues went either to Doctor Swanepoel or Doctor Basson but most of them went from Andre Immelmann direct to operatives.  They would meet at some neutral place, they'd have false names, Doctor Immelmann was often called Willem, he often met a guy called Chris and I believe there is letters down, just after the date delivered, you'll lots of C's there.  I know that stands for Chris, the others I don't know what they stand for.  These were just ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "JK, is it JK?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Code names, they were code names.  They weren't supposed to know who was who.  Doctor Immelmann had a storeroom adjacent to his office, a high security fireproof, bombproof storeroom where he kept all these products and that was, as I say you could only get there through his office.\n And the people who used to visit there periodically as I've said were Swanepoel, Basson, Doctor, General Lothar Neethling made periodic visits there, characteristically always with his bulging briefcase.  I never saw what was happening inside that room.  I never saw any of these products.  I knew he kept them there.  \n I was also exposed to some of these products when we stopped offensive work and there was a panic.  There was a rumour there was going to be a raid by the Security Branch or somebody and there was a rapid disposal of some of these chemicals.  He exposed some in the bathroom that we used and I became exposed to some Cantharadines and I can tell you it's not a happy experience.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let me just ask whilst Mr Chaskalson is spotting something that he is going to ask you.  You are talking about Doctor Lothar Neethling, you must be aware that at some stage the Vryeweekblad carried stories that suggested that Doctor Lothar Neethling was responsible for certain toxins that he had administered and there was a whole lawsuit and all that.  Now, from the place where you now sit and against the backdrop of what you referred to as bulging briefcases in the context of these substances and these toxins, were you surprised when those sort of claims were made in the newspaper?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Not at all, I never had any doubt what the Vryeweekblad was 100% true but that is my personal opinion and that is based on the very close association that already existed between Wouter Basson and Lothar Neethling.  When I arrived on the scene in August 1984, they were obviously old buddies and worked together.  They were very dedicated to their task.  I saw them the first time when we tested teargas on baboons.  They had a teargas that I think was meant to give them tummy cramps.\n The idea was that if you put down teargas everyone quickly goes to look for a toilet.  It didn't work on the baboons so these two gentleman both had no qualms about walking through the clouds themselves and that's actually the only human experiment I saw.  And their close association with, not only those two, but with Doctor Immelmann.  Obviously they all shared common interests in chemical warfare.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Chaskalson?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Thank you.  Doctor are you aware that two of the substances we discussed, Brodifacum and Menensim cause acute heart failure in the human and also have the dubious merit of not being traceable?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "That was a very highly sought after merit Mr Chaskalson.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Can you elaborate as to why you say that?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "The most frequent instruction we obtained from Doctor Basson and Doctor Swanepoel was to develop something with which you could kill an individual which would make his death resemble a natural death and that something was to be not detectable in a normal forensic laboratory.  That was the chief aim of Roodeplaat Research Laboratories covert side.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "That's quite a startling admission or statement.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "That's the most frequent repeated need that I heard or instruction given.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "So it would be fair to say that you were not interested in doing defensive work on a very large scale?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I was - I joined the institute on the 1st of August ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Sorry Doctor, I was referring to the organisation itself.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Yes.  Within two weeks of joining them I realised this is not defensive work, this is offensive work.  It was a shock to me.  There was incidents of where they, apparently they claimed to have murdered a young white conscript who was an ANC supporter on the border, by simulating a snake bite.  It was early in 19 or the second half of 1984 and not to be confused with later attempt in 1989.  That brought very chill winds very close to home, that something like this could happen.\n I had to make the decision whether to stay with this lot or walk out and the correct thing would be to walk out.  I did not do so for the following reasons:  The one was we'd already been told in no uncertain terms if you let the side down you're dead.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Who told you that?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Doctor Daan Goosen as Managing Director in a formal Directors meeting.  I could see they were not his words, it was obviously an instruction from elsewhere.  I know him well enough and I know he's got a gentle nature but he'd been told, it was my deduction, that we were to understand that clearly, that's the very senior staff of course.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "And you took this threat seriously?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Absolutely.  If you let the side down you're dead, right.  So what do you do, you try and leave quietly and hope they don't kill you which is probably possible.\n What happens then if someone else carries on and does much worse than you do?  I rationalised, if I stayed there I could minimise a lot of their effort and I'm very proud of what I did.  What I did ultimately got me fired, after being confronted by Wouter Basson about my liberal views, my alleged lifetime support to the DP.  How he found out I don't know, it was quite right.  It was pretty chilling to know you're, suddenly you're a target.    That was the one aspect that got me kicked out.  \n The other aspect which is probably more important, was the incredible waste of money that occurred at this place and the scams that these guys were trying to work out all the time, the high living, the absolute abuse of taxpayers money.  I had to continually, I was the most senior experienced civil servant there, I just felt it my duty to try to get these guys into line and to moderate the waste and also to counter what I considered were potential possible scams involving very large amounts of money.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Was the scams that you're talking about related only towards financial scams or would you say that there was also an academic or rather a scientific sham?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Purely financial scams.  The scams were mainly engineered by the ex-military personnel and they of course were not involved in the academic side at all.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "We have heard testimony about lavish lifestyles, were you aware of such lifestyles?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Absolutely, it was disgraceful, the waste of taxpayers money.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Could you give us some sort of example as to what you're talking about in terms of a waste of money and possibly if it's in your scope, as to what sort of amounts we're talking about?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "There would be small things like the habits of the Directors taking each other out to the very best restaurants in Pretoria or Johannesburg and at one stage they started a habit of thinking it a good idea that us four Directors eat out regularly.  I went to one and the next one I didn't turn up and I fell into severe disfavour.\n From small things like that to redecorating a brand new Director's office, ripping out all the panelling and sticking on pink wallpaper, ripping out imbuia door jams and replacing it with oak because that's what the guy just prefers to have.  Spending huge amounts on interior decorating, paintings by well-known artists.  Totally threatening the cover of the whole company because no commercial company of our type would waste money on trivialities like that.\n Other things like motor cars.  The Managing Director would not set an example for the young people.  It gave me a tremendous problem, to discipline the younger staff to look after their cars correctly when the Managing Director goes out of his way to wreck the motor cars, driving too fast.  \n There was a pool kombi, a Caravelle which he went down to the Wild Coast for some \"bosberaad\" with the Army people I believe, I'm not sure, then he boasts he drove all the way back and kept the rev counter in the red and the next day the engine has got to be replaced.  R8 000 but why worry, the taxpayer pays.  This sort of cavalier attitude.  That was a waste of money on the one side.  \n On the other side was, maybe I was unduly suspicious but I just suspected scams for, particularly in connection with private companies.  These military officers were obsessed with forming companies.  I was very much against this because every time they would come up with schemes like purchasing all our requirements through their company.  Who gets the cut-off, who knows?\n Selling all our contracts.  Marketing all our commercial work through one of these special officers companies.  Of course they get a rake off.  At one stage Basson, Wynand Swanepoel and a Chinaman by the name of Chu, he was a Swiss national because he'd married a Swiss girl, they had a meeting in Switzerland and they formed a company called Medchem Actein Geselschaft or something, Medchem Research Company.  They came with multi million possible contracts that our company had to sign with this company.  It was for predictably useless services, now who is getting that money, who is getting a cut, who owns what?\n The grandest scam of all that I suspected and that worried me the most was the facts, and this might not be a scam, I must emphasise it was my interpretation, the moment there were whisperings about privatisation of the front companies, the first thing they did was they went around and kicked out all the civilian Managing Directors in a vicious inhuman manner particularly in the case of Doctor Daan Goosen who is doing very well.\n They stuck ex-military officers, all from the special forces, all big buddies, took over all the front companies, in so doing handicapping the company immensely.  The threat I saw was that these people had no intention whatever of developing a viable permanent company.  They wanted to get in, grab the whole lot, liquidate it, grab their millions and push off.  And that's exactly what they did.  I predicted that years and years before it happened.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I'd like to stop you there and just tack a couple of questions on there.  I presume by \"military buddies\", in this particular case you are talking about Doctor Swanepoel taking over as the Managing Director of the company.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Yes, and Doctor Mijburgh, can we, of Delta G, that it happened about the same time.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I'd like to just stay wit RRL as you were working there at the time.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Right.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "From the time that Doctor Swanepoel took over the company, I'd like to ask three questions.  First question, would you say that the quality of the science increased, got better or decreased from the time that he joined?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Doctor Swanepoel spent as much money as he could expanding the institute, the facilities.  What happened was, there was an enormous growth in the service units and not much growth, not anywhere near proportional growth in the research units.\n We had a huge administration, an enormous staff office, enormous security section, big finance section, hopelessly too big for any commercial viability in the long term and this is where we differed a lot.\n Your question on the quality of the science, I don't think that there was any difference.  We that were responsible for doing this science maintained our standards, with time we improved them.  I visited many contract research companies overseas.  We had potentially a lot of sub-contracting work coming our way when sanctions were eventually lifted.  I negotiated all this.  And we learnt, and I went to courses, quality assurance and so on, so our science did improve but it certainly didn't have anything to do with Doctor Wynand Swanepoel.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Maybe I should ask the question in a slightly different way.  While Doctor Goosen was a Managing Director, was he involved in scientific discussions and did he contribute in the scientific process?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Very much so, he was intimately involved and knew exactly what was going on.  He made good suggestions.  He worked out a lot of the logistics of the laboratories on his own computers.  He was very involved in the laboratory programmes and administration.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Did Doctor Swanepoel make a similar contribution?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "No.  Doctor Swanepoel I don't think had a very good perception of what was going on in the laboratories.  Our Marketing Manager often wished that he could take Doctor Swanepoel on a tour of the Institute like he took our clients, so that he could get to know what was going on.  He had expressed this wish to me twice.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "It's a bit unfortunate that this all took place with the use of tax payers money.  Second question, you talked about a desire to find one or more substances which would not be traceable and which could be used to murder humans.  Would you say that this desire took place during the time of Doctor Goosen's management or during the time of Doctor Swanepoel's management and if during both, during which period was it greater?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "The urgency was greater later on.  I can't say that that had anything to do with the Managing Directors, it was that later on we were bigger and stronger and more experienced and getting better at it.  When you say it's a desire, I must emphasise it was a requirement issued by what we used to euphemistically call the shareholders, that is the owners of the company which is the Surgeon-General's battalion.    It was their requirement that they issued.\n By and large there was certainly nobody, none of the research workers at the institute who wanted to do this work or who enjoyed doing it.  There was a lot conscience problems and some of the workers even needed counselling.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I'd like to return to this point but I would like to do it in a broader forum.  The financial abuse that you are talking about, that you have talked about, can you date that financial abuse?  Again I'm using the times and if I'm being unfair to use these times, please feel free to use your own time periods,  during the time that Daan Goosen was managing the facility or during the time that Doctor Swanepoel took over.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Infadel was very active checking on us when Doctor Daan Goosen was there.  The figures and the budget, the auditors have it all, you'll see the budget was minute compared to latter years.  It was probably the most efficient financial control I've ever experienced while Doctor Goosen was there.\n Somehow after Doctor Goosen was replaced they seemed to close down Infadel, Infadel disappeared.  I don't know what happened to it and we were never told, you don't ask.  And the control in my of thinking was not as good after that.  There was a lot of, as I've said before, expenditure on trivialities.  \n It went so far that Doctor Wynand Swanepoel walked into my office in August 1991 and asked me if I would approve a full time salary for him with all his motor car benefits and housing benefits and everything else in exchange for a few hours work a week because he said he was very busy with other companies and other things.  So I pointed out to him that was tantamount to theft, it was against company regulations and I certainly would not approve a full time salary and benefits for him.  \n At that time on with decisions like this we were expected to reach consensus as a directorate, so he had to win me over.  That was the incident that was the final straw as far as he was concerned, where he decided to get rid of me judging from his actions following that incident.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "How did you come to leave the company?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Following - this incident occurred not long after Doctor Basson had confronted me about my liberal political beliefs.  Shortly after this Doctor Swanepoel immediately - I can tell you the date, it was the 26th of August, that he asked me about his salary, he immediately made arrangements to train what I knew would be my successor but we had a discussion, I was called into his office, we had a discussion on quality control and I pointed out some shortcomings.\n There had been a meeting or our Divisional Heads, the research heads.  These people are the real engine of the company, every company has a real productive core and the technical heads of each technical department, they a meeting and they had compiled a document that was extremely derogatory about the level of management.\n Now to get good laboratory practice certification as well as certification from the OECD you have to meet certain managerial standards.  And we were talking in general about this and I was making some suggestions and I still do not know why but he flew into a tantrum, screamed at least 20 minutes and when I tried to leave he screamed louder and told me to sit down.  He then told me to take my jacket, go home, I was on suspension.\n I sat at home for a week and then I got a letter for a disciplinary hearing.  For six hours I was subjected to a disciplinary hearing that only proved that I was an essential part of the company and that they shouldn't get rid of me.  He didn't like that, he wanted to fire me anyway.  So I suggested we talk about early retirement.  He wouldn't talk about it but he got rid of me anyway.  I managed to swing it to early retirement though.\n That was November 1991.  We had just privatised.  Doctor Swanepoel then created some fraudulent documents, him and his co-Directors, they all signed these fraudulent documents.  They lied to the auditors, they stole my four million cut that I would have got, three million or whatever which I certainly don't want, its dirty money but I don't feel that fraudsters should be encouraged.\n They kept me for a further eight months in the proverbial broom cupboard after being demoted, why I still don't know but I had to finish certain vital scientific tasks.  The only real unique contribution I ever made to that company was to upgrade the level of science to an international level.  \n We had big clients, household names that you all know that I can't mention because of the Confidentiality Clause.  These people needed research reports at a certain level.  I was the only one who could get them to that level and that was the only really unique contribution I made to that company.  Once they got rid of me I knew they wouldn't last anyway.  They didn't last for long.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I just want come back a little bit.  You had said at some point that you were in charge of the Animal Essex Committee.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "That's right.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Can you explain what the involved?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "It's a part of international laboratory animal science and good laboratory practice, that no researcher may decide to do a study and taken animals and carry on and do it without strict review by his piers, that is his fellow scientists or people who are specifically experienced in the field of Laboratory Animal Science.\n So we had a Committee that would look firstly at the purpose of the study.  If the purpose justified it we'd consider it further.  It had to meet a lot of criteria like not be repetitive and so on.  Then we would consider the methodology used and mostly we would try and reduce it to what we call a sub-clinical level, in other words the animal never really gets sick or dies.  You evaluate your result under the microscope or in the test tube.  That would be to reduce suffering in the animals. \n And then of course very importantly we reduced the number of animals used to the minimum.  This is always - in other words any researchers project is vetted by experts to see that he is not abusing animals.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Did you have occasion to attend any of the experimentation to make certain that the correct procedures were followed?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Yes, indeed, we did monitor every project that was done.  It was a part of quality assurance but not the very toxic work.  This was done in the basement.  It was originally built as a quarantine section.  It was a high security section and the toxicologists and Doctor Immelmann had access.\n I tried very hard to get access, eventually they agreed to give me access because I said I can't go on in this job if I can't monitor the studies.  It was such a hassle every time to get access that I was only there two or three times but with their knowledge beforehand and which is not really a valid procedure.  These were for the,  studies of lethal toxins were done in this laboratory.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Would this laboratory have utilised the restraint chair and the gas chamber that we heard about yesterday?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "The restraint chair was normally in that laboratory, once of twice it was used elsewhere.  It's a fairly common procedure overseas, it's not one I've personally ever used or like using but for certain physiological experiments one needs to use it.\n The so-called gas chamber is really just a device where the animals in there, it's a normal cage and then you have an enclosure, it's very important for industrial applications.  We used to do it the - the Medical Research Council used similar devices, for instance the lining of air-conditioning ducts, if a fire gets in there, are the fumes toxic or not.\nthe animal to fumes and dusts and so forth.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Except in this case Doctor we seem to be talking about murder weapons.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "That's right you can use the same device to check on say aerosols which have botulinum toxin or organic phosphate toxins whatever, you can use exactly the same techniques for those studies.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Were a large number of animals killed during this period?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "A - moderate numbers were killed.  I would not say large.  We had a fairly strict code on handling these deaths.  Colonel Gaddafi's laboratory was discovered by the Americans because on their satellites they could see the wheelbarrows of dead dogs going to the incinerator.  So when ours went to the incinerator they were always in black plastic bags.  But animals were killed, many died, many were put out, but they were not large numbers, no.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Doctor this all sounds, in many ways, quite a harrowing work environment, was there any form of counselling that was offered within the organisation?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "There were people who were troubled.  The administrative director Mr Sparmer arranged with a dominie who I think probably had security clearance to do counselling and some individuals did make use of that.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is that the sum total of counselling, dominie?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "As far as I know that's as far as it went.  I don't think anybody ever needed to see a psychologist or psychiatrist.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "I see.  Mr Chaskalson.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Can we discuss the Surgeon-General's role in this.  Did you at - you talked about earlier on that in a sense you felt trapped, in a sense you had a moral dilemma, did you in any way try and bring some of your concerns, the abuse of funds, possibly some of the practices that were going on to the attention of other people?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "In the course of time we went to see the auditors.  I saw the Surgeon-General, I went to the Auditor-General.  Much later I had written to the Minister of Justice.  I've written to General George Meiring.  He wasn't interested.  I've been to OSEO.  I've been to the Attorney General.  I don't now what else to do.\n The initial manoeuvre was to go and see our own auditors.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "When would that have been?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "That was early in 1991.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "And what happened?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I went together with my two co-directors, Immelman and Sparmer.  Following a meeting with Swanepoel, Swanepoel announced to the directors that he had bought the company with his own money and his own guarantees he had furnished, and he had done this through the profitability of the many companies he'd owned and so on and so on.  So after the meeting we looked at each other in great disbelief.  We agreed this wasn't possible.  We told him so.  He invited us to see the auditors, which we did.  I went to Piet Theron's office in Johannesburg at Coopers and Lybrandt.  We told him the story.  He said that Wynand Swanepoel had lied to us.  He had not put down one cent and he would not put down one cent, but he had acquired the company, yes.  The so-called nominal amounts that they had to pay it was written off always against the staff loan account, they never really paid that. So we said well how come, you can't give away taxpayers money.  No he says it's been approved at a very, very high level.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Did he indicate what level that was?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "He didn't particularly say.  Later on the Auditor-General told me it was the Ministerial level.  It was Minister Magnus Malan, and it was confirmed by a rather ill du Plessis at that time, Minister of Finance.\n At the same meeting with this auditor I reported a cheque of, it was either 15 or R25 000, I can't remember, a personal cheque made out to Dr Wynand Swanepoel from the company Protechnic.  Now our Security Officer, a Colonel Jackson ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Sorry, was that abnormal?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I personally didn't see the cheque - yes it would be abnormal.  Colonel Jackson said, Protechnic is a hundred percent front company, so is this, he is worried why Swanepoel should have such a cheque in his possession.  So I said well as director we have the statutes, it's our job to watch each other so I reported this to the auditor.  He said it's impossible, he knows Protechnic, he should not have such a cheque, but anyway he would look into it.  That's the last I heard of it.  It wasn't long after that the Security man was fired.\n Nevertheless the auditor Piet Theron said to me that he is exceedingly nervous about us rocking the boat.  That's all it had amounted to.  He was exceedingly nervous that there'd be exposure and his company would suffer severely if an ANC government knew that they were auditing these companies and he instructed me to ignore my statutory duties, in fact to contravene the Companies Act, and not to question anything that Wynand Swanepoel or anyone else, and to blindly follow in support everything they did in the financial field. That was the meeting with the auditor.\n Later some of these things were pointed out at a meeting with the Auditor-General in General Knobel's office.  The way this meeting was set up was rather strange.  I had to write great letters of apology to Dr Wynand Swanepoel that he'd never abused any money and his behaviour was unquestionable and so on and so on and so on, and he said or he would report me to the Surgeon-General.  So I said well I think just maybe you report me to the Surgeon General.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Sorry you are saying you were requested to sign a letter or write a letter which said that Dr Swanepoel had not stolen money?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Right.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Had you - okay carry on.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Or abused funds or done anything wrong.  So I said no I would see the Surgeon-General and the - they sent along - we talked about it too, I said I don't accept what our own auditor does, what does the Auditor-General think?  So they sent along the Auditor-General as well.  A man van Heerden, who was the 2 I/C of Ronsley at the time.  We told him what happened and he confirmed there was Ministerial approval.  This is all the way these companies were given away, has all been set out in a document written by General Knobel that I have here.\n The Auditor-General's office said they would take the matter further if I could get proof of abuses and make affidavits and so on.  They themselves were not prepared to investigate any of the alleged irregularities, which of course was an unreasonable request.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Now as I understand the line function of this project from your company Dr Basson was the project officer and presumably you could not take your concerns there, did you ever raise any of your concerns with Dr Basson?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I spoke to him once.  I said \"what do you think is going to happen\", you know, I said \"the newspapers are already on to you, there's going to be a problem\".  He was flippant and flamboyant about it and the newspapers had made a slight confusion and called him Willy Basson instead of Wouter Basson and he said no he'll keep them confused and he wasn't concerned about the newspapers.  That's the only conversation we had.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "What about the Surgeon-General who presumably would have had ultimate responsibility for the programme, did you discuss any of your concerns with him?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "At the time, the first time I met General Knobel was when I was on the way out anyway.   The actual work done at the place I did not discuss with him, it was mainly the financial abuses and our staff problems that we discussed at that meeting.  He was not a person that had credibility in my own personal assessment.  I had the meeting with him on condition there was nobody there connected with the CCB.  So when we sat down he looked at me in the face and said \"there's nobody here who has connections with the CCB\".  Sitting opposite was Dr Wouter Basson and also Dr Swanepoel.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Can you say why you believe that those two individuals have any connections with the CCB?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Well Wouter Basson already was in the newspapers, he was co-ordinator of the CCB and we all know that he really fed General Verster's unit with a lot of materials.\n Wynand Swanepoel to ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Doctor maybe if we can just carry on with this point I just want to clarify something here.  There is another Wouter Basson who is a member of the CCB.  It may be possible that your press reports that you are referring to are referring to that one, can you comment on that?  Was there any interaction with people that you believed to be CCB agents at RRL or in your presence?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "No.  There were no CCB agents at RRL.  Dr Andre Immelman used to meet with their agents, regularly, and provide them with materials.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "And how do you know that?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "He told me so.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "And did he say that ...(intervention)",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "He told me about one incident.  I actually tricked him a little bit, when I read about the poisoning about Frank Chikane in the newspapers I said to him, I said \"Andre what the hell are you doing to Frank Chikane?\".  So he told me, \"hell it's a real mess\".  And he told me exactly what had happened, the mistakes they'd made, and he told me that General Verster was furious that the attempt to kill Frank Chikane had failed, and that he wouldn't - he'd ensure that it wouldn't fail next time.\n Dr Immelman was meant to train the operatives on how to use the substances.  This practice was started after failures like the attempt on Frank Chikane's life.  They made a lot of mistakes there.  They did simple silly things like instead of spreading the toxin which should be absorbed through the skin over a fairly large area to promote absorption the operative put it on a tiny little spot, then he laced five pairs of underpants instead of only one so Frank Chikane got sick repeatedly, it immediately showed it was poisoning.  The intelligence said he was going to Namibia and he went to America.  They were counting on very little forensic capability in Namibia.  These are the things he told me, so I know that he has contact with them.\n But to get back to your other question, yes, if they talked about a Wouter Basson and there's another one in the CCB that could be him.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I would like to return to the Surgeon-General.  You said that you only had contact with him and by this I am referring to Lt Gen Knobel when you were on your way out and you did not believe he was credible, what did you mean by that statement?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "He's a real gentleman.  He receives you very well, but he never implements, this is my personal opinion, he doesn't implement necessary management procedures to solve the problem at hand.  He did nothing to solve my problem.  He did nothing to solve Goosen's problem.  Koekemoer is in trouble with the police, he's got huge costs now because of his involvement, he's not prepared to help him.  This happens repeatedly.\n Then he disclaims full responsibility for what private companies are doing.  The people in the front companies consider themselves full-time military personnel.  You are paid by them, you get your instructions from them, you are responsible to them, you report to them, they are your employer.  He would turn around if there's any problem and tend to say \"oh that company we did a bit of business with them once, I've got nothing to do with the staff and I am not prepared to solve the problem further\".\n Jan Lourens' problem he could have solved with a very simple bit of clever thinking.  There were several solutions to that problem he could have implemented which would have deprived us of the session yesterday.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Let me just butt in here.  This is a person that we heard yesterday had ultimate responsibility for this programme.  Is that your understanding?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "No I didn't think that - he was the chief administrator and supervisor of the programme.  Ultimate responsibility, no, there's no doubt about it that's at a higher level.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Okay.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "There's no doubt that, in my mind the Prime Minister P W Botha, rather President, knew about the project, and that the generals all the way down from the officer commanding were aware of it.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Can you tell me what General Knobel's response after the meeting about financial irregularities was?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Nothing, there was no response.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Was he aware of the work which was being conducted at RRL, to your mind?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "He must have administered - RRL costs ultimately the taxpayer somewhere between 70 and R100 million altogether.  He administered those funds.  There is no way you can allocate and approve such money for expenditure if you don't know what's going on.  It would be grossly neglectful of your duty.\n Lists of products that were supplied as far as I know were given to him to justify the existence of Roodeplaat.  There are lists of these products here, they are mostly lethal weapons, lethal toxins as we know, lethal micro-organisms.  He's a doctor, he knew exactly, there is no doubt about that.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Was he aware of the experimentation that was done at RRL?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Absolutely.  He would approve the appointment of all senior scientists himself and he'd have to have the motivation of why they were there and what they were for.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Do you have any idea if he would have known, this is Gen Knobel, about the fact that essentially murder weapons were being produced on the facility?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Sorry, are you asking me if he knew about it?  Yes absolutely, that's what the facility was all about.  It was the main function.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Sorry Mr Chair if I could just have one moment again please.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you have an idea Mr Chaskalson how long you are going to be with this witness?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I think that I am actually finished and I just wanted to confer and see if there were any other questions that any of my colleagues over here would like me to address.\n Sorry Doctor, are you aware of any of the substances that we have discussed being used on specific targets aside from Reverend Chikane which you outlined earlier?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "There was another incident of a black dissident, and I don't know whether he was in the defence force or in the police, whose shirt was laced, probably with paraoxon or one of the nerve poisons.  This was their standard way to get rid of these fellows.  He lent his shirt to his friend and his friend died.  This was talked about quite a lot.  That is the one case.\n There is another case where I overheard talk about anthrax spores were put into the food of three Russian advisors in Lusaka, advisors to the ANC that is, and one of them died. \n There was another case that I overheard, or rather that in a conversation with Andre Immelman shortly after Nelson Mandela's release, he was very confident that Nelson Mandela's brain function would be impaired, progressively, for some time.  This seems to link up with this newspaper report, I think I have it here, rather a remarkable one by reporter Chris Steyn on - titled \"Basson's human guinea pigs horror\".  This was published February 7 1997.  In this he talks, this reporter apparently had access to Doctors that worked with Basson and they list a lot of remarkable things he was meant to do, but here it's also mentioned there were also plans to contaminate medication used by President Nelson Mandela at Pollsmoor with an untraceable heavy metal poison thallium.  That's of course not true, you can trace it.  Claimed the source, as only one capsule of thallium in a pot of food, for instance, is needed to kill between twenty to thirty people.\n Dr Basson mentioned, after he had told us a lot about the effects of thallium, if you give just the right dose, you mustn't give too much, but just the right amount, then you can cause what appears to be an outbreak meningitis or encephalitis.  You get similar symptoms.  And in so doing he mentioned in passing that he had given some thallium, or he said \"we\" had given some thallium to Steve Biko.  \n Now it might be disinformation, and idle boast, I don't think so, there was no reason to, it was only a few of us technical people involved.  To me at the time it would account, if it were true, possibly for Steve Biko's very irrational unexpected behaviour under questioning.  He was a highly intelligent man.  He was a fourth year medical student.  I know people who know him and it's not the sort of way he would have behaved so that to give normal policemen excuses to bash his head against the wall or whatever they did.  So I assumed at the time, I believed what he said, I wasn't the only one there.  I almost think Dr Immelman, Dr Swanepoel and possibly Dr Goosen was there as well, I am not sure, when he mentioned this.  \n For the moment it's only those few incidents that I actually know of.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Was any work done on the Aids virus at RRL?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "We had one small contract with the army where they brought us a lot of serum samples.  This was in the early days of Aids, and these were tested.  We bought the testing kits and tested a lot.  I think they had some story about screening chaps on the border.  But we did routine tests for Aids on some serum samples, a few hundred, and that's all the work we ever did.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Do you have any knowledge of whether the Aids virus was used in any manner other than legitimate research?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "No I have none at all.  It did worry me at the time.  Our samples were serum samples and you really need to infect another human being, my understanding is you need to transfer whole white cells, so if your serum is well prepared there shouldn't be many white cells in it.  It should not be infective.  If they kept back reference samples of whole blood I don't know.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Did you ever hear of talk of the introduction of substances such as cholera, anthrax or other such substances into communities?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "One small remark by Dr Basson was that - at the time there was a lot of political problems in the Eastern Cape and he remarked that possibly they should sort out that crowd with cholera or something.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "My final question Dr van Rensburg.  When you started off earlier on today you mentioned that in order to do chemical and biological research you needed to know what could be done so you could protect against it.  In your opinion is the nature of the work that was done at the facility work of a protective nature or work of rather looking for weapons as opposing to protection from them?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Less than five percent of the work done was of a protective nature if one analyses these projects.  That protective nature was more really, as far as I could see, to handle situations such as an exposure of Dr Jan Lourens.  If you accidentally get some of this, these very toxic substances on your finger you want a neutralising agent.  No, I'd say 95% was offensive, covert work.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Sorry, in true tradition I have one more final question for you.  Did you ever have any contact with a Professor Hofmeyr?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Professor Hofmeyr was an advisor to the Surgeon-General.  I did have some contact with him, casually, in relation to setting up the Roodeplaat breeding enterprises, in the dog project.  The Roodeplaat breeding enterprises was established on the same farm where the parent company was.  It was a subsidiary.  It was a good concept insofar as it would consolidate a lot of fragmented efforts to breed security dogs - all paid for by the taxpayer.  Eskom had huge units, the military had several units, the police had several units  and none of them had a gene pool big enough to really produce top class security dogs.  So yes, Professor Hofmeyr was involved from the military side as far as the dogs were to a small extent, not a large extent.",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "Thank you I have no further questions.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Mr Chaskalson.  Mr Arendse do you have any questions?",
+            "Unknown"
+        ],
+        [
+            "MR ARENDSE",
+            "I have got no questions.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  There was Dion Visagie there.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Marlene Potgieter for Brian Currin, standing in for Brian Currin.  I have no questions.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "I know we are talking science here but the metamorphosis from Dion Visagie to Marlene was remarkable, thank you.\n Mr van Zyl.",
+            "Unknown"
+        ],
+        [
+            "MR VAN ZYL",
+            "Thank you Mr Chairman.  My position is the same as for the previous witness, just a bit different.  I can anticipate that we will cross-examine in this case.  I will make my best attempt that in view of the fact that the witness is here that if there should be cross-examination that it would be done tomorrow.  So I will ask you to let me stand down until tomorrow and I will let you know what my position is.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Polsen.",
+            "Unknown"
+        ],
+        [
+            "MR POLSEN",
+            "After cross-examination - I am sorry, sorry Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "No just on the question of tomorrow of the availability of Dr van Rensburg.",
+            "Unknown"
+        ],
+        [
+            "MR POLSEN",
+            "I have no problem with that, that's fine.",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Yes I am due to be back in the Free State tonight.  Do you specifically want me to stay over?",
+            "Unknown"
+        ],
+        [
+            "MR POLSEN",
+            "Well I think the only thing in the interests of the witness that I should point out is that it was well known that this witness would give evidence today and I am sure Mr van Zyl's client was aware of that so he could have attended to judge whether it would be necessary to cross-examine this witness.  The problem however is it is four o'clock already and the cross-examination will, in any event, have stood over, I presume or carried on until six o'clock or seven o'clock tonight.  For those reasons I have no problems if the matter stands down until tomorrow.  It's very inconvenient to the witness but it is, I suppose, it cannot be helped.\n Thank you Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you have a sense of how long you would be taking on cross-examination Mr van Zyl?",
+            "Unknown"
+        ],
+        [
+            "MR VAN ZYL",
+            "There are - quite a few allegations have been made.  The question is just, or my instructions are, how many of these allegations must be argued.  As far as I am concerned Dr Basson with a pending criminal case we will see about, as opposed to the case with Dr Neethling, Swanepoel and Mijburgh.\n Mr Chairman I think that it should not take more than one or two hours if there were to be any cross-examination.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Chaskalson how are you standing, if we are going to be standing the witnesses over till tomorrow, that is assuming we are able to accommodate Mr van Zyl?",
+            "Unknown"
+        ],
+        [
+            "MR CHASKALSON",
+            "I think we would prefer that cross-examination took place now if your ruling is that it should be held over until the morning.  We can endeavour to make the appropriate arrangements for Dr van Rensburg and we do have another witness on standby who we could proceed with now.  It will however mean that tomorrow's schedule is going to be somewhat congested.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr du Plessis would your position have been the same?  I am inclined to want to ask for us to adjourn for just a couple of minutes so that the panel can also put their heads together on this issue.",
+            "Unknown"
+        ],
+        [
+            "MR DU PLESSIS",
+            "My position as regards my client is the same as that of Mr van Zyl.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can we adjourn for ten minutes whilst we consider what we should do.  We resume at quarter past four.\nHEARING ADJOURNS\nON RESUMPTION",
+            "Unknown"
+        ],
+        [
+            "SCHALK VAN RENSBURG",
+            "(s.u.o.)",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Where is Mr Polsen?  Mr Polsen is your client able to be persuaded to remain for cross-examination tomorrow.",
+            "Unknown"
+        ],
+        [
+            "MR POLSEN",
+            "I think, sorry Mr Chairman, I think he will have to remain.  It seems inevitable.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well Dr van Rensburg you are ably represented by Mr Polsen.  May I just indicate the attitude of the panel.  The attitude of the panel, and this will be to you Mr van Zyl and Mr du Plessis, is that whilst we want to be extremely accommodating to all the parties, to the extent that we believe that your clients are in Cape Town, or some of them are, you should endeavour to, if they can't be here then to get instructions from them in a fairly full fashion because we would like to be able to begin and complete a witness as and when they testify.  In fact it is only because Mr Vally indicates that he needs to take the next witness, who I believe will be Dr Odendal, that we as a panel, at his instance have decided we shouldn't insist on a cross-examination of Dr van Rensburg.  We therefore request you to endeavour, from tomorrow onwards, to take instructions so that you are in a position to cross-examine.",
+            "Unknown"
+        ],
+        [
+            "MR VAN ZYL",
+            "Thank you Mr Chairman.  I would just like to place on record at this stage, and I referred to this yesterday as well, is that the unfortunate position in which we find ourselves, and I understand the circumstances as Mr Vally explained it to me yesterday, that no statements were obtained from these witnesses prior to this, so he cannot decide whether there will be any incriminating evidence or not.  And on that basis I made the request yesterday that if it seems as if there are to be questions that we will be given the opportunity by instructions given to my colleague and I, I am not referring to Mr Cilliers, to stand by our clients in Section 29 to give evidence.  Unfortunately there have been no allegations according to which we can do cross-examination, therefore we have not consulted over those specific aspects and we could not because we did not have the information at our disposal. That is the basis on which we ask for opportunity to consult and to say that they should have been entitled to be given notice in terms of the provisions of the Act and that a prayer ruling, as I've indicated however, three of my clients excluding Colonel Neethling are at present all three in Cape Town.  I will consult with them this evening and as I have indicated I will attempt to do the cross-examination of Dr van Rensburg tomorrow.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Will you align yourself with those remarks Mr du Plessis?",
+            "Unknown"
+        ],
+        [
+            "MR DU PLESSIS",
+            "Yes Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you want to place anything on record or would you let it by, Mr Vally?",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "Just to say that Dr Basson has been subpoenaed for this whole week.  We have by agreement with the legal representatives of Dr Basson agreed that he doesn't have to personally attend except for the days when he will be required to give evidence.  The point I am making is he could have been here and heard the allegations himself.  There is no reason why he couldn't have been here.\n Finally again, there may be a few additional allegations relating to Dr Basson being given by witnesses but, in terms of the documents that we are using, and for example the shopping list or the \"verkope lys\" which we asked this last witness about, is in the bundle of documents that Dr Basson has.  I am only concerned about one issue, that we are being left hanging.  It's not clear with regard to this witness, they said there will be some issues they want to cross-examine him on.  With regard to other witness there is no clarity.  We are told, I will consult and thereafter I will decide, and if Dr Basson is in town the consultation can take place simultaneously as the hearing.  Thank you Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I hear all of you and I don't want us to be entering into a debate that goes backwards and forwards.  I think the panel is sufficiently au fait of the position.  I just wanted to say maybe ex abundanti cautela you should have your clients in readiness either here or wherever they are, so that if we need to give you an hours time to consult, whatever the time is, then they should be able - I would rather we lose an hour than lose a whole day.\n Do you have a next witness Mr Vally?",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "When are we going to ask questions of Dr van Rensburg?",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Oh by the way there are questions that the panel would like to put to Dr van Rensburg.  Dr Wendy Orr.",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "Dr van Rensburg can I refer you to document TRC48 which I believe is also a list of projects which were conducted at RRL with costing associated with them, is that correct?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "TRC48 are simply time sheets.  They illustrate the structure of the company.  Each little research group like the first one is Department of Physiology, is Dr Riana Borman as the head, Maree Wimers, Marie van Vuuren and Paula van Zyl, technologists and so on.  And it's really just a breakdown of time.  It was a controversial system, but these researchers had to try and allocate all their time to specific projects.",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "Can I ask you then what the \"begroting\" column, round about the middle of that table refers to?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I have looked at this and I can't quite understand what goes on here except that \"begroting\" is a budget.  It's rands and cents, this is only really rands given here I think.",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "Well that's not crucial to my question.  My question is that on three of the pages and in four different incidents, and it's page 1360, page 1361 and 1362 there is reference to \"sampioen\" which are mushrooms, and there seems to have been a fairly large amount of money allocated to research into mushrooms, over a million rand, and I wondered if you had any idea what this research constituted?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Could you give me that page again, I don't seem to....",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "1361, 61 and 62.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "I think your document is numbered differently to mine.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "It's still TRC48.",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "It's the last three pages of the document.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Ah yes.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "They are numbered at the top, 001355, 001361 ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "No this will be rand, cents, so it will be R5 600.  \"Sampioen\" whether that is a code name, or whether they actually worked on mushrooms I don't know.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "No, no, that's R560 000.  That seems to me to be R560 000 because how do you explain that 18, is it R18 000 or R180?  It seems to me that looks like R560 000.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "No this is - no such money was spent on a project like that.  It must be R5 600.",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "I don't want to get into an argument about the money, do you have any idea what this research was about?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Sampioen?",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "No.  I don't know that one at all.  This is biotechnology.  It sounds like a code name to me.",
+            "Unknown"
+        ],
+        [
+            "DR ORR",
+            "Thank you.  I have no further questions.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Any other questions from the panel?  Advocate Potgieter.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Thank you Chairperson.  Dr van Rensburg just on that last point that you made, this has to be rands because I see there's one that's 700 on 1361, which means it's R7,00 -just by the way.  I don't really think ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Well what is the time.",
+            "Unknown"
+        ],
+        [
+            [],
+            "....debate about that.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Ja but there's one hour, it looks like R700, yes.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Ja, so we are talking about rands there, not about cents, it seems.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "The average running funds towards the end of the Institute it's just annual budget without capital purchases, nothing, it was round about R10 million a year.",
+            "Unknown"
+        ],
+        [
+            [],
+            "No no I was just, I was just adding to the point that Dr Orr was making, but what I really want to come to is the question of fertility, the fertility project.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            [],
+            "And I think you had said to us that that is the only project, or the only real project that you were involved in.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "That's right.",
+            "Unknown"
+        ],
+        [
+            [],
+            "..in this...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "In a purely advisory capacity.",
+            "Unknown"
+        ],
+        [
+            [],
+            "...lab.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "It was not done for directors to stand at the bench.",
+            "Unknown"
+        ],
+        [
+            [],
+            "That instruction emanated from Dr Basson, you said.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "Yes. Originally...",
+            "Unknown"
+        ],
+        [
+            [],
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "...and with considerable encouragement from Dr Swanepoel.",
+            "Unknown"
+        ],
+        [
+            [],
+            "And if I understood you correctly you had said that all of the CBW instructions emanated, amongst others, from Basson?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "I can't say they all came from there, I really only overheard a few instructions in groups, I was never personally given an instruction apart from the fertility project.  They would come, undoubtedly some would come via Dr Swanepoel, the managing director, who had regular connections also with the CCB people.  Some might have come shall we say a request than instructions for products might have come direct from agents from via the CCB to Dr Immelman.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "I can't say that Dr Basson was involved in all of them, most certainly not.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Yes, no no I do understand you. But this particular project, this fertility project, was that a",
+            "Unknown"
+        ],
+        [
+            "H",
+            ", was it a CBW...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "At that time they were being classified, we went on to a different system, it was \"R\".",
+            "Unknown"
+        ],
+        [
+            [],
+            "Alright.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "No it was not considered really an",
+            "Unknown"
+        ],
+        [
+            "H",
+            "project although it was a confidential one.  As I say from an academic and commercial point of view it was a good project.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Yes it had commercial potential but it was really, in terms of the instruction, it was part of the ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "In terms of the instructions it would be an H project.\nADV POTGIETER",
+            "Unknown"
+        ],
+        [
+            "H",
+            "project, right?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "Well it came from that sector, yes. In fact they wanted the product even though it had not been tested for safety or efficiency would indicate that.",
+            "Unknown"
+        ],
+        [
+            [],
+            "So one has to assume that it was intended for use within the CBW programme?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "Yes.  To some extent anyway.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Yes now you had said, in fact you had made an unelicited explanation and you said this had nothing to do with black fertility or something to that effect,  now, now what was that really, what was that story?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "Nothing to do with what fertility?",
+            "Unknown"
+        ],
+        [
+            [],
+            "Black. Ethnic black.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "Black - yes there had been a lot of newspaper reports which are really science fiction that we were making compounds that would cause infertility just in blacks.  My point is that physiologically, biochemically, endocrinologically blacks are identical to whites or to Chinese or to anybody else.  There are no differences in the biochemistry or the immune system that you can use to make a product which will work on one ethnic group and not the other one. So that was never even considered.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Yes.  So the product itself, it can never be ethnic specific but you can apply it - to target a particular group of people.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "You can apply it to whoever group you target, right.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Now were you suspecting that that was one of the underlying intentions?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "Absolutely.  One would expect anything from previous experience and what these people do.",
+            "Unknown"
+        ],
+        [
+            [],
+            "And the idea was to, was it a vaccine that would diminish ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "That would be a vaccine. There are various\napproaches, you can either make the male sterile, which is actually easier, you get sperm specific antigens and in fact these things happen spontaneously in certain individuals and they go very sterile, now that is if sperm leaked into the tissue and there was an immunological reaction for instance because there are certain proteins and immunogens which are specific, you only get them in sperm.  \n Dr Borman was more keen on this approach, I was a little bit more keen, although we worked on both approaches, to get a female vaccine and you target a protein compound, or a hormone-like compound, it's only produced by the embryo and usually in the placenta.  There's unique proteins there and if you have antibodies against that the little developing embryo cannot implant and it's expelled when it's still too small to see.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Yes I, I'm cautious, I don't want to have the proliferation debate to be...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "There are many commercial groups which were way ahead of us already,...(intervention)",
+            "Unknown"
+        ],
+        [
+            [],
+            "What I wanted to hear was, was it supposed to be a covert kind of thing, not a vaccine that you sort of apply to people quite openly?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "It was generally considered very much covert and it would be for instance too politically sensitive at that time for the government to go to the Medical Research Council and say here's R5 million a year, we want you to do this project, at that time it would have been far too politically sensitive for the Medical Research Council to be involved in something like that.",
+            "Unknown"
+        ],
+        [
+            [],
+            "But was the idea that it must be something that you can apply clandestinely or covertly or was the intention that it must be something that you can apply to people quite openly?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "The intentions stated by the people who requested it were, as I have said,  to use it again on Savimbi's lady soldiers and in the refugee camps.  That is what they said.  What they intended is speculation, but we had our fears.",
+            "Unknown"
+        ],
+        [
+            [],
+            "And the idea was to decrease or to stop fertility completely.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "To decrease the birth rate.  Preferably you got a 90%  plus effectiveness, so the type of vaccine that it would have been would be sort-of one to five years effectiveness, it will wear off.  In fact you can give antibodies, you can neutralise those of them that are there, it could be reversible.  You're not doing permanent damage to these people, but you can delay birth for a few years at the best, that's the best it would have worked.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Can I just find out, I just want to understand, I just want to know if I heard you properly.  Was the idea that it was something that could have been applied to people covertly without them knowing ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "That's right, you can tell them you're giving them a vaccine for yellow fever or whatever and it's the same procedure.  A little injection and that's it.",
+            "Unknown"
+        ],
+        [
+            [],
+            "Thank you.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Dr Randera.",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Doctor just to follow up on that, can you, was this purely experimental, the work that you did on fertility and infertility, or did you go beyond and test it on human beings as well?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "No it was never tested on human beings, most certainly not.  It was experimental in the sense it was developmental.  There were many theoretical lines, we had  very crack teams, they produced products which theoretically should work, it doesn't mean to say they will work. The initial studies progressed so far as to try the product in a few baboons, they were injected with this product.  As we expected there was no effect, it seemed to be safe.  But you will never ever develop a thing like this and just go and give it in the population.  What happens if you damage a young foetus and it's not expelled completely?\n The Canadian group had actually started with safety studies in Australia, this I learned in Vancouver in Canada at the congress I went on this thing, and they were doing the initial safety studies on women who were sterile, who could not have babies, for instance.  \n From there on you would first see, is it effective, does it create antibodies, that sort of thing ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Sorry Doctor I just want to stop you there because I understand the process that could have taken place, but that's in your own mind, in international norms, I mean we've heard so many stories already over the last two days, where substances were put into beer bottles, were put into chocolates, into tablets, what I want to know is, is there a possibility that with the product that you and Dr Borman were working on, could there have been a possibility that could have been used without your knowledge?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "It's a possibility I have considered.  The three vital people involved in it was myself, Dr Borman and a biochemist.  The biochemist is the one person who actually makes the product, she was a brilliant biochemist, she was very good at it, she was the one person in that company who wouldn't touch anything that smelt of a hard project.  On a matter of principle she would not be involved in any hard project.  She said we can fire her if we want to, she will not touch it.  So that was my comfort, apart from the fact that I knew Dr Borman very well, I considered her highly ethical, and not aware of a single instance where she did anything unethical.  She had a passionate interest in fertility and fertility research, she was very good at it, she was a good clinician and still is in fertility clinics, specialising more on the male than the female and I had no reason to believe she would ever have agreed to release the product.",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Dr van Rensburg, I know that you left the company in 1991 I understand, is that right?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "Yes I was demoted November '91 but they kept me there against my will to finish certain vital work that they couldn't do until the end of July '92.",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Earlier on you told us that almost 66% if I can recall, if I remember rightly,  of the work that was being done was of a toxic nature.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "That's right 66%.",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Can you tell me ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "...as listed here.",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Can you tell me what, once the company closed down, what actually happened to all these products and experiments that were taking place?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBERG",
+            "There was furious humming of the shredding machines and stoking of the incinerators and as I said some of the stuff was dumped in the bathroom, cantharadines, this is one of the destructive products they used, they would go to a meeting of the End Conscription Campaign, youngsters and dish out tissues with slogans on them, but in the meantime they had been laced with this stuff.  They are highly irritant but they are also very nephrotoxic, toxic to the kidneys.  I was exposed to this stuff and when it happened I confronted Andre Immelman and he said no he was getting rid of a lot of stuff down the drain and the fumes were absorbed by the toilet paper.  It's a very, very irritant substance, I can vouch for that.\n About the middle of 1991, Dr FW de Klerk had to give his permission for the institute to continue.  The military people were adamant that there's no-ways that we could continue without the permission of the State President, so we were all on tenterhooks, everyone was worried about their jobs, what would he do with Roodeplaat?  And eventually had an information session with him and his decision was that Roodeplaat may continue provided there is only defensive work done and no offensive work.  \n And after that there were some raids, I can't remember who, our intelligence people might tell us, where I think national intelligence or the police were raiding some other military places, they feared a raid and most of this stuff was destroyed.",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "My last question Dr van Rensburg.  We have heard over the last two days from people who were involved in similar companies to yourself and the phrase that seemed to come up repeatedly was this one of need to know basis.  Now in your case, and in Roodeplaat that culture did not seem to exist ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Very strong indeed ...(intervention)",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Sorry let me finish, because you yourself have told us that you come from a very liberal tradition.  You know you'd been singled out by the Broederbond, but yet when it comes to the work that was being done here you knew about almost everything that was happening, including what was going on on the commercial side.  You overheard conversations where people talked about the use of certain substances.  You knew who the CCB, some of the CCB operatives were.  I am just having difficulty reconciling the two.  On the one side need to know basis, on the other side, in this particular establishment it seemed like there was a culture of liberalism that prevailed.  Did that come with you?",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "The culture of liberalism is something I worked on and it tended to be there in the top class scientists because that is the way of scientists, the share ideas, they share knowledge.  I will confess, and I am remorseful for it, but I went along with the system.  I had to, to a large extent bluff that I was one of them.  It wasn't very convincing not for very long.  But the alternative was either to be quietly blotted out or to be kicked out.\n Now when they employ you at this place they take over your lifelong pension; they give you a tremendous housing subsidy; they give you a motor car, and they give you a salary that's a little bit more than, not very much more, but a little bit more than what you can get elsewhere, plus you g et perks, expense accounts and so on.  So if I was kicked out I would have lost my pension, I would have lost my house, I would have lost my motor car, and you've got to really start from scratch.  That is a confession I make.  It was a consideration in my decision to stay, and rather in a small way try and neutralise the system from within.  Without I would have been totally powerless.",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Thank you.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Or ineffective.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are there any questions that arise from the questions from the panel Mr Vally?  No?",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "One very brief one.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I shouldn't have asked.  Mr Vally.",
+            "Unknown"
+        ],
+        [
+            "MR VALLY",
+            "Why would a chemical biological warfare facility be involved in research into birth control?",
+            "Male"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Into birth control?",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Fertility...",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "One can only assume you want to target certain groups or populations for reducing the birth rate.",
+            "Unknown"
+        ],
+        [
+            "DR RANDERA",
+            "Thank you Mr Chairman.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you Mr Vally.  You've asked my question for me.  Thank you.\n Dr van Rensburg you will be cross-examined as arranged.  You are excused for now.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Sorry did you say I will be or will not be?",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "You will be.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Will be.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "DR VAN RENSBURG",
+            "Good.  Thank you.\nWITNESS EXCUSED",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "I believe you are calling further evidence Mr Vally?",
+            "Unknown"
+        ]
+    ]
+}

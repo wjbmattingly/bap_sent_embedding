@@ -1,0 +1,65 @@
+{
+    "header": {
+        "type": "AMNESTY HEARING",
+        "starting date": "1998-10-13",
+        "location": "JOHANNESBURG",
+        "day": "2",
+        "names": [
+            "BATWANDA GODLO"
+        ],
+        "case number": "AM 3111/96",
+        "matter": "SHOOT-OUT AT ROAD BLOCK : MAGALIESBURG",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=52896&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98101215_jhb_joha2.htm",
+        "speakers": [
+            "ADV STEENKAMP",
+            "BATANDWA GODLO",
+            "CHAIRPERSON",
+            "MR MHLABA"
+        ],
+        "original_speakers": [
+            "BATANDWA GODLO",
+            "MR MHLABA",
+            "MR GODLO",
+            "CHAIRPERSON",
+            "ADV STEENKAMP"
+        ]
+    },
+    "testimony": [
+        [
+            "BATANDWA GODLO",
+            "(sworn states)",
+            "Unknown"
+        ],
+        [
+            "EXAMINATION BY MR MHLABA",
+            "Mr Godlo, you have listened to the testimony of Mr Wanyane, who is your co-applicant in this matter, and very often your name was mentioned and do you confirm the contents of the testimony of Mr Wanyane, in so far as it relates to you, to be the truth?",
+            "Male"
+        ],
+        [
+            "BATANDWA GODLO",
+            "Yes Mr Chairman.  I confirm everything that Stanley said here.  That is nothing else but the truth.",
+            "Male"
+        ],
+        [
+            "MR MHLABA",
+            "Thank you Mr Godlo.  Mr Chairman, that concludes the testimony of Mr Godlo.\nNO FURTHER QUESTIONS BY MR MHLABA",
+            "Male"
+        ],
+        [
+            "MR MHLABA",
+            "Mr Chairman, I beg leave to call the third applicant Mr Masiso to confirm, after an oath has been administered.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "There won't be any problem.  Adv Steenkamp, I assume that there are no questions?",
+            "Unknown"
+        ],
+        [
+            "ADV STEENKAMP",
+            "Mr Chairman, thank you.  Once again, on behalf of Mr Moletsani and in the spirit of reconciliation, he is not opposing the application of the other two applicants as well.",
+            "Unknown"
+        ]
+    ]
+}

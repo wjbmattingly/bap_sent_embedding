@@ -1,0 +1,5128 @@
+{
+    "header": {
+        "type": "AMNESTY HEARINGS",
+        "starting date": "1998-02-12",
+        "location": "CAPE TOWN",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=54660&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/capetown/capetown_4kond1.htm",
+        "speakers": [
+            "ADV DE JAGER",
+            "ADV GCABASHE",
+            "CHAIRPERSON",
+            "GINOTRY DANSTER",
+            "INTERPRETER",
+            "JUDGE PILLAY",
+            "MR BOOYENS",
+            "MR MOOSA",
+            "MR NYOKA",
+            "MR ROUX",
+            "MR WAGENER"
+        ],
+        "original_speakers": [
+            "MR ROUX",
+            "CHAIRPERSON",
+            "MR WAGENER",
+            "GINOTRY DANSTER",
+            "MR DANSTER",
+            "ADV GCABASHE",
+            "JUDGE PILLAY",
+            "INTERPRETER",
+            "MR BOOYENS",
+            "MR NYOKA",
+            "ADV DE JAGER",
+            "MR MOOSA"
+        ]
+    },
+    "testimony": [
+        [
+            "CHAIRPERSON",
+            "Mr Valus, you may call your witness - your client rather.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "As it pleases Mr Chairman, I call Ginotry Danster.  He will testify in Xhosa, that is his mother tongue.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, do we have the facilities for this?",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "Yes, Mr Chairman, we've organised that already.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is there a microphone there for him sit?",
+            "Unknown"
+        ],
+        [
+            "MR WAGENER",
+            "Mr Chairman, sorry to interrupt, may I enquire whether the Committee has come to any decision concerning the evidence of Mr Coetzee or whether that would be left over until later?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, it will.",
+            "Unknown"
+        ],
+        [
+            "MR WAGENER",
+            "Thank you Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Danster, are you prepared to take the oath?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "(sworn states)",
+            "Unknown"
+        ],
+        [
+            "EXAMINATION BY MR ROUX",
+            "Thank you Mr Chairman.\n\tMr Danster, you joined the South African Police in April 1978?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "After your basic training was finished, where were you stationed?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I worked in Port Elizabeth.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What department in Port Elizabeth or the South African Police?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Security police.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "During 1981, you went to Bloemfontein to fetch a terrorist, is that correct?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I don't think you should do that you know.  I think that where matters are contested, try and avoid putting leading questions to him where it is likely that that evidence might be challenged.  So rather put your questions in such a way that they don't suggest the answer.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "As it pleases Mr Chairman, I will.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Where in Port Elizabeth were you stationed?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "At 44 Strand Street.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What was the nature of the work that you did whilst you were in the security police?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We were investigating people who break laws in accordance with politics.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Under whom did you work at that time?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Under Mr du Plessis.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And were you in Port Elizabeth all the time or did they move you around?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was in Port Elizabeth.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did you drive government vehicles, police vehicles?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you know a man who was detained one Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "How did you come to know him?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We went to fetch him from Bloemfontein.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who is we?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Captain du Plessis, Buzani and Raath.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, you may proceed from there.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "Thank you Mr Chairman.\n\tWhen was that when you went to fetch Mr Kondile, more or less that you can remember?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Early '80's",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Where did you go to in Bloemfontein when you went to fetch him?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We went to the security police offices.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Yes, and then?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We then slept over, got up in the morning and we left with a black policeman to the police station in Bloemfontein.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did this policeman lead you to anyone?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We were given a command by Captain du Plessis to go and fetch Sizwe from where he was detained.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did you succeed in this?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We booked him out and we took him to the security police offices.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Do you know what happened with Mr Kondile after this?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We took him back to Port Elizabeth.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What happened in Port Elizabeth?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We took him to Captain du Plessis's office.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "Could I just ask Mr Danster, what was Sizwe Kondile's physical demean at the time, was he injured, was he fine?  What was your observation?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He was all right, in good health.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "Mr Danster tell me, how many motor vehicles went to Bloemfontein to fetch him?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "One car.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "What kind of car was it?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Datsun Laurel.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And how many of you returned together?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "It Buzani, Raath, Captain du Plessis, Sizwe, Kondile and myself.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "On of the reasons I asked the question is, if you look at Volume 2 page 178, there is an entry here at Humansdorp, Friday the 10th of July 1981.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I can see it.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "Sorry, give me a minute, I know I saw an entry and I just want to see if it's the same one, yes, it's the same one - that he was admitted to the cells and his nose was bleeding.  Is that on the day that you fetched him, no?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I don't know about that.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I just want to be absolutely clear, give me the names of the people you said.  Yourself, Mr du Plessis, Mr Kondile and who else?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Buzani.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And anybody else?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Mr Raath.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, you returned in the same car in which you had gone up?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We had a problem in the car, they fetched another car.  I will tell you the people who fetched the car.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "My questions was, did you return in the same car from Bloemfontein in which you had gone to Bloemfontein?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I think we had a problem with that car, it heated up and we had to borrow another car.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I see, so you borrowed another car.  And the car the you borrowed, is that now a Datsun?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I can't remember.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "All right.  Carry on please.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "You testified that Kondile was taken to Mr du Plessis office in Port Elizabeth, can you tell the Commission what happened there?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We took him out of the car, we covered his head with a balaclava, he was handcuffed.  It must have been in the afternoon, later afternoon as people had already left from the offices.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, carry on.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "We then went into the office and Mr du Plessis asked him a few questions.  After that he made a call and made arrangements for him to be detained.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Do you know where this place was that was arranged for detention?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I didn't go personally however I was there when arrangements were being made.\nMR ROUX",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did you hear the place that was mentioned?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He phoned Mr Jonker in Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did you take part in ...[intervention]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "...[inaudible]",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "...[inaudible]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "What was your part with Mr Kondile then again?  When did you become involved with him again?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Mr du Plessis had given us the information that we were supposed to get from him, this was written on paper.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "When did you receive the paper?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After Kondile had been detained in Jeffrey's Bay, Raath, Buzani and myself together with Mr du Plessis were given orders and we were given that piece of paper written the details which we were to ask Mr Kondile.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "Mr Danster, let us go back to the first day where you arrived from Bloemfontein.  After this phone call to make arrangements for his detention, what did you do?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was taken home.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "And the next time you had anything to do with Mr Kondile, was in Jeffrey's Bay?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "When was that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was given an order to stay in Jeffrey's Bay for a while by Captain du Plessis.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think the question was: when, how many days after you had brought Mr Kondile to Port Elizabeth, did you next ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'm not sure but it was soon after we'd come back with him.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes?",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "In Jeffrey's Bay, were you alone - the only person who was instructed to go to Jeffrey's Bay to Mr Kondile?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.  No, it was Raath and myself.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did you follow the instructions that were given to you in connection with the questionnaire that you received?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What was the result of the questions?  Did Mr Kondile answer the questions?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We would give him a pen and a paper to write down the answers.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did he give you all the answers to all the questions?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We took all the answers and gave them to Mr du Plessis.  After he arrived in Jeffrey's Bay he said these were not the answers, this is not the information that he'd wanted.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Before we continue, just tell the Commission, where was Mr Kondile held and where were the questions asked?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He was in the office that was emptied for us to use.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "If he wasn't asked, where was he detained?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "In the cell.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Now, you testified that Mr du Plessis wasn't satisfied with the answers, what was his reaction?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Captain du Plessis arrived with his colleagues.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Yes?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He said: \"When you are investigating a terrorist, this is how you go about it, you have got to get the truth\".  He then showed us the way you retrieve information from a terrorist.  Sizwe was tied at the knees.  He said I must handcuff him from the back.  We then made him lie on the floor and we put a sack on him - we refer to it as: \"the prisoner's bag\".",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "What did you describe the bag as?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Prisoner's bag - Prisoner's property bag. We put this over his head and you have to put this on very tightly so that he can't breach and then at the same time there was a small machine ...[intervention]",
+            "Male"
+        ],
+        [
+            "INTERPRETER",
+            "The interpreter could not hear the speaker.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "This machine has a crank handle with two wires.  When you use this crank handle it's very painful to the victim.  That is how information was retrieved from a prisoner.  Every time we saw that he's suffocating we took the bag off his head and then he'd be asked questions.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Sorry, if I can interrupt you there.  You described now to the Commission, the prisoner bag and you described the machine with the crank handle, was this now what was used by Mr du Plessis to show you how to get information out of or how to get the truth out of somebody?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Was Mr du Plessis alone there while he showed you this?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "It was himself, Raath and myself.  Gideon Niewoudt and Roelofse were there, also Buzani.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "Well, before we get to that, just explain to me what role does this electrical box play, this cranking business, how was that used?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "This machine when used, is very, very painful, you will give us any information that we want from you because of the pain.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "How does it give the pain?  What does the machine do?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "It shocks you.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is the word choke or is the word shock?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Shock.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, carry on.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "While we're on that subject, can you just describe to the Commission how this machine operates?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "U turn it, there's a handle and the second person takes the two wires, puts it on your body wherever they choose to.  If you wind this machine to be more powerful you splash water on the victim and then the victim will give us the information because of the pain.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's try and confine yourself as to what you did on this particular occasion, do you understand?  Tell us who put this bag on Mr Kondile's head?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We all took part in that.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who operated that crank handle of this machine?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "The Captain showed us how to use the machine.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "My question is, who did it, who handled the crank handle on Mr Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We all used the machine and turned the crank handle.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who held the wires?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "When one is turning the handle, the other person would have to put the wires on his body, whoever it was.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So, do I gather from you that all of you, at some time or the other turned the crank handle and all of you at some time or the other, held the wires to the body of Mr Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, and who did the questioning?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Mr du Plessis.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What was Mr Kondile's attitude towards co-operating during the initial weeks?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "During when?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "During the initial weeks of detainment in Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "That's a leading question, the witness never said that ...[indistinct] was initially detained for weeks in Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'll correct that.  How long was Mr Kondile detained in Jeffrey's Bay?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Quite a long time, I think plus minus 12 weeks.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "During the initial weeks of his detainment, what was his attitude towards co-operation?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He would not co-operate.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Despite the use of little machine you were talking about?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We used a car tube and the machine.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Can you tell the commission about this car tube you just mentioned?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "The car tube is round, you cut it, close it on the top so that there is no air for the victim and he would struggle to breath.  In the same instance the machine is being used on his body that gives pain to the victim and it tires him quickly.  We'd then remove the tube after you'd collapsed and feinted, to give him a bit of air.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Was the tube put around the head of Mr Kondile as well?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What happened to the prisoner's bag, would that stay on his head while the tube is put around his face or was the bag removed?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "The bag was removed.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now, you were asked whether Mr Kondile co-operated at first by answering questions and you said that at first he did not co-operate and my question to you was, is that despite the use of these methods on him that he did not co-operate?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He gave us a lot of information after we had tortured him.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did Captain du Plessis play any role after that first display of how to get information or the truth out of the person?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He would get in touch with us from day to day.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You know that doesn't seem to be an answer to the question.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What was the purpose of him getting in touch with you?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He wanted information, answers of what we'd asked Mr Kondile.  He wanted to know if we were getting the information that we'd targeted.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did he give any instructions regarding the fact that in the initial weeks Mr Kondile wasn't so co-operative?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Please repeat  your question.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "In the initial weeks you testified Mr Kondile wasn't so co-operative, did Mr du Plessis say anything about this?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Tell the commission if you can remember.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He said that we should not beat him up.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did he afford a reason for that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Because he does not want a: \"Steve Biko\" case again.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What do you know about Mr van Rensburg in regard to Mr Kondile?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "As Mr van Rensburg was the head, he would come to Jeffrey's Bay with Mr Erasmus.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "If you say he would come to Jeffrey's Bay, where in Jeffrey's Bay?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He would come to the room where we were interrogating Sizwe.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Was Mr van Rensburg or Erasmus ever present while there was an interrogation taking place?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "They would get there and talk to Captain du Plessis.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "...[inaudible] present when Mr Kondile was being interrogated, that's the question.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, they would just go there to assess the progress.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What was the purpose of the interrogation?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "The orders by Captain du Plessis were such ...[inaudible] He wanted to know about ammunition, people who were trained guerrillas.",
+            "Male"
+        ],
+        [
+            "MR NYOKA",
+            "Sorry Mr Chairman, just help - sorry Mr Chairman, can I be or assistance, it's not ammunition it's about weapons, not ammunition but weapons.  Thank you.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What do you know about armed caches?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We were asking him about weapons and wanted to know where the weapons were in South Africa, where they were hidden.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did this interrogation and torture eventually succeed?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Do you know about any pointing out?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After he'd given us certain information, we left for East London, from East London we went to Umtata.  Can I carry on?",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "In Umtata, according to the information we got from Sizwe, we were with three East London members and we had to go and arrest two men that worked in the bank.  However, as South African Police, we did not have the right to go and arrest people in the Transkei.\n\tMr du Plessis then spoke to an officer that was there - that took a while.  This officer then had to go and arrest these two people in the bank.  These two people must have been told that there were police in the bank and they ran away. \n\tThey then went to Butterworth.  These two men in Butterworth being followed by two detectives.  The one police got injured even a woman policeman.  They then ran away towards McCLear with a car.  There was a roadblock in South Africa.  Those two men ...[intervention]",
+            "Male"
+        ],
+        [
+            "INTERPRETER",
+            "The interpreter could not hear.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "Sorry, Mr Dunster, the interpreter couldn't hear your previous sentence.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "These two men that had shot the woman police and the one male police took their car, used it to get away.  There was a roadblock and when they got there they started shooting, two people were injured.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Mr Danster, if I can just interrupt you there.\n\tMr Chairman, I don't know if this is so relevant to the application at this stage, if I maybe can get back to Mr Kondile.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes please ...[inaudible]",
+            "Unknown"
+        ],
+        [
+            "INTERPRETER",
+            "The speaker's microphone is not on.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, one doesn't know whether he witnessed all this or he's repeating what he'd been told by somebody else and even if he did see it, I don't know what it's relevance is to this case.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "I was actually - my learned colleagues asked me to ask this.  I didn't intend to examine him like this or lead him on this, I'd rather go back to Mr Kondile specifically.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "If I might just ask, having hear this evidence, where were you all of this time?  Did you go to East London, did you go to Umtata?  Did you get as far as the roadblock at McClear?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "If we had not gone with Sizwe to the bank, these people would not have been shot, they would not have run away in the first place.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "But you personally, you were there, that's really what I want to know?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "In Umtata?",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "And East London.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, I was there both times.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, let's move on.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "Was Mr Kondile - do you know anything about Mr Kondile tempted to being turned?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What happened?  Did you return after this attempt to arrest those people, did you return to Jeffrey's Bay?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I think the Judge was asking me a question, I didn't hear him.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "After you went to arrest these two people in Umtata, did you return to Jeffrey's Bay?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "All of you, including Mr Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What is the next thing of any importance that happened in which you were involved?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "(No English translation)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What's that?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Mr du Plessis tried to get Sizwe to work for the police.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Carry on.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Sizwe refused.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What month are we now talking about?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I couldn't tell you the month but it was after a while.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And this was after you had returned to Jeffrey's Bay from Umtata?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What was Mr Kondile's reaction to this attempt?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Sizwe response was that Chris Hani trusts him or trusted him.  He could never work for the police, he'd rather be charged and go to court but he would never work for the police.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "You heard the testimony of the applicants, especially Mr du Plessis who testified about a note being found, do you know anything about this note that was testified here about?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I have no knowledge.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "Mr Danster, ever when Mr Kondile would have been in the shower in Jeffrey's Bay, where would the people who were instructed to guard him be when he was in the shower?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He showered in his shower, they locked the door and the bars.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "Then where would you be at that time?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I would be in the office.\nWould there be anybody in the place where he was being guarded? - I believe it was a barracks or something.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He'd be alone in the cell, there would be nobody else there.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's just talk about the questioning of Mr Kondile.  You say that you were given a piece of paper by Mr du Plessis?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "That paper contained the kind of questions that you were to put to Mr Kondile, is that right?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "In what language did you communicate with Mr Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "English, Xhosa.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "When you talked to Mr Kondile, did you talk to him in English?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'd speak both English and Xhosa.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And did Mr Raath have anything to do with questioning?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, he would ask in Afrikaans.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "In what language would Mr Kondile reply?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Sizwe would speak to me and I would interpret for Raath.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "In what language would Mr du Plessis talk to Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "English.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And would Mr Kondile reply in English?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, do carry on.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "Just to sum up, during this whole period of detention, who were all the people involved in the interrogation and torture of Mr Kondile?",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Perhaps he could if necessary, split it up, who was involved in the interrogation and who was involved in the torture and if they were involved in both, tell us they were involved in both.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I will name them as follows: Captain du Plessis, Captain Roelofse, Niewoudt, Buzani, Raath and myself.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Were any people from East London involved?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "There were people from East London that arrived.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "How many?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "A few detectives.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Yes, two or three or?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "More than three.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "What did they do?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "When the detectives from East London arrived, we then withdrew from investigating the matter, they interrogated Sizwe themselves.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Did he give answers to them?",
+            "Unknown"
+        ],
+        [
+            "ADV DE JAGER",
+            "Were you present at that stage when they interrogated him?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, I wasn't there.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now you told us that Mr du Plessis told you that you must not beat him up, do you remember that?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Had he already been beaten at that stage?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He'd been tortured but he said that we must not hit him physically or bang him against the wall so that there are marks on his body, external wounds.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Just repeat that, you must not beat him up or bang him against the wall?  Are those his words?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, he said we must not beat him up so that there are marks on his body.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "No, you also used the words: \"or bang him against the wall\".",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, he said that he must not be banged against the wall.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now, had anybody tried to beat him up or bang him against the wall?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And have you seen anybody beat Mr Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "No assault took place in your presence?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, I saw no assault.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did Mr Kondile ever complain to you that he had been assaulted?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, he never complained to me.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "All right.  Are there any other questions you wish to put?",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "Yes, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Carry on.",
+            "Unknown"
+        ],
+        [
+            "ADV GCABASHE",
+            "If I could just clarify very quickly.  The last few answer you gave when the Chairman asked about assaults, you are really talking about the beating and banging against the wall as opposed to the torture that we spoke about earlier - just for clarity.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, there's a difference.  When you bang someone against the wall or beat him up with your fists or something, there would be marks on the body.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, carry on.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "You mentioned now, the names of du Plessis, Raath, Niewoudt, Roelofse, Buzani and yourself, what was the role that Mr Roelofse played?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He would come from time to time, not frequently and he would help in the interrogation.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did he ever actively take part in the torturing?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "If I remember correctly, I think twice he took part.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "And the other people you mentioned today, what was their position to actively taking part in torturing?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Niewoudt and Roelofse would come together twice, they would ask questions.  They must have used the torturing machine twice.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What can you remember in regard to the sleep that Mr Kondile had during his period of detention?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Could you repeat your question please.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "What can you remember in regard to Mr Kondile's sleeping habits during the period of detention?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "What do you mean?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did Mr Kondile sleep during the day or did he sleep during the night?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After we had interrogated him and we would go to sleep, he would sleep as well.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And to your knowledge, did he have any difficulty sleeping?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I don't know what you mean, please clarify your question.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Was the interrogation done at night or during the day?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Sometimes we would deprive him of sleep so that he would tire.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Can you remember anything about a doctor involved in this case?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "There's an old man that arrived there and apparently he was a doctor, a white man. We were then given orders just to ask him questions and not to ill-treat him.  He got some medication, tablets.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Who was the person who was giving these orders?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Captain du Plessis.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Do you know a man called Dirk Coetzee?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, I met him once before.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Can you tell the Commission if Dirk Coetzee had anything to do with this case.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "When we were investigating the matter Captain du Plessis said that Sizwe Kondile was a top terrorist from the Eastern Cape.  The Pretoria anti-terrorist squad would come as well to get information.\n\tDirk then arrived, he was with Mr van Rensburg and Captain du Plessis was in Jeffrey's Bay.  They spoke or talked at the side - the two of them, after that the gentlemen left - Coetzee.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Did you at that stage already know that the person was Dirk Coetzee?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Not at that stage, no.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "When did you find that out?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After a while when I already stopped working for the police.  I saw an article in the newspaper, I saw his face in the newspaper and I then remember that it's the man that had arrived at Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Do you know anything about Komatie ...[intervention]",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Could you kindly stop for a minute.  You said you saw this person Coetzee with van Rensburg, is that correct?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He was with Mr van Rensburg.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Yes.  And then you immediately continued and said Mr du Plessis was in Jeffrey's Bay.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, he was in Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "And did Mr Coetzee talk to van Rensburg or did he talk to du Plessis or were the three of them together, what was the position?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "The three of them were talking at the side.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Did they visit the cells or the room where Kondile was kept?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "In the room that we were sitting in.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "All three of them?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "The two of them arrived and Captain du Plessis was inside.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Was he already inside with Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "And at that stage, were you inside too?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "And Raath, where was he?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He was present.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "So in the end the three of them and you and Raath and Kondile were all present in this room?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Did they ask anything from Mr Kondile at that stage?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "They did not ask him any questions, they read what he had written.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Did anybody ask him whether he's well or whether there's anything wrong?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "They did not talk to him, they spoke to Captain du Plessis.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "I see.",
+            "Unknown"
+        ],
+        [
+            "MR ROUX",
+            "What do you know about Komatiepoort?  Do you know anything about Komatiepoort?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After he had given us certain information, Captain du Plessis said himself, Raath and myself must go to Komatiepoort where there were weapons.\n\tThey said that we must stop investigating the matter for a while because we're going to prepare for a journey to Komatiepoort.  I was then taken home and they said that I must wait for him, they are going to fetch me - they did not arrive.  That was during the weekend.  On the Monday when I reported at the office I heard that Raath and Captain du Plessis had already left.  I carried on with my own work at the office and I never saw Sizwe again.\n\tAfter a few days Raath came back because I was working with him.  At the security police branch you would work as partners.  When Raath came back he said they had taught Kondile a lesson and he said in Afrikaans: \"We taught him a lesson, his brains were splashed all over\".  I asked him what he meant because they had left me behind.  \n\tHe asked if I really didn't know what he was talking about.  He did not give me any further information, I made my own conclusions that something drastic had happened.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Do you know the person called Johan Coetzee?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Can you tell if he has anything to do with this case?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He arrived in Port Elizabeth, he was the head of the security police, he was a general at the time.  Before Captain du Plessis left with Sizwe, whilst we were still interrogating him, he said that the case was very important and we had to work hard because Sizwe Kondile was a top terrorist.\n\tEven Mr Johan Coetzee was going to arrive.  He then arrived together with him in Jeffrey's Bay.  They looked at what Sizwe had written down, they spoke with each other and then they left.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "Was that the second time that Coetzee came there? - Johan Coetzee.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I saw him once.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "You say he came there with Captain du Plessis.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "You say Johan Coetzee was a General at that stage, do you know what happened to him in terms of police ranks later on?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After that he was the Commissioner of Police.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "I understand that this statement was taken by you by Mr Rajeee Marugaan, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Was anything shown to you, any records, any minutes, any statements or affidavits before you made your statement for Mr Marugaan? - in front of him.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Mr Chairman, that's the evidence in chief.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "When Mr Coetzee - that's General Coetzee, came down - Johan Coetzee, with Mr du Plessis, where was Kondile at that stage?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He was in the room that we were using.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Not in the cells.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Did they visit him in the room or did they only pass along?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Sizwe was in the corner tied around the ankles and he was handcuffed to the bed.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "I don't want us to have any confusion, was that when General Coetzee visited at that stage or was it when Mr Dirk Coetzee visited?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, those are different times.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "So you're speaking now about the visit of General Coetzee?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Did the General speak to Mr Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, he did not speak to him.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Not at all?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He spoke to Captain du Plessis.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Sorry, Mr Chairman, just one question I forgot to ask.\n\tJust to finalise, can you just tell the Commission what happened to you in regard to the police force after this incident?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was transferred to New Brighton enquiries, after that I resigned.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Just the year, what year was that when you were transferred?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Late 1982.",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Thank you Mr Chairman, that's the examination.\nNO FURTHER QUESTIONS BY MR ROUX",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "When did you resign?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "1983.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What sort of work are you doing now?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'm a builder.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Would you kindly repeat the answer the last question?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I build, I'm a builder.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Moosa, are there any questions you wish to put to this witness?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Just one or two Mr Chairman.\n\tThe car that you used to come back from Bloemfontein with Mr Kondile, do you remember that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I don't remember the car because we had a problem with our own car, it heated up.  The following week the car was fetched by Mahote and Adana from Bloemfontein.",
+            "Male"
+        ],
+        [
+            "MR MOOSA",
+            "The car that you actually used to come back, what happened to that car?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "It was returned to Bloemfontein.",
+            "Male"
+        ],
+        [
+            "MR MOOSA",
+            "How did you address Mr Kondile, what name did you use?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Sizwe.  His code name was: \"crazy\"",
+            "Male"
+        ],
+        [
+            "MR MOOSA",
+            "Thank you, no further questions Mr Chairman.\nNO FURTHER QUESTIONS BY MR MOOSA",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes?",
+            "Unknown"
+        ],
+        [
+            "MR NYOKA",
+            "Two minutes Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Certainly.",
+            "Unknown"
+        ],
+        [
+            "MR NYOKA",
+            "When you went to fetch Mr Kondile from Bloemfontein, were you told by anyone how he got to be arrested? - either by a security officer of Mr Kondile himself?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Captain du Plessis said that he'd been arrested close to Lesotho, do you know or was that all?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We got details from Sizwe when we were investigating the matter.  He was going to phone his girlfriend, apparently the phones were not working from the Lesotho side.  He was arrested along the border post.",
+            "Male"
+        ],
+        [
+            "MR NYOKA",
+            "Do you have anything against Mr du Plessis and Mr Raath to falsely implicate them in the acts of torture that you alleged, except of course for the concession that Mr du Plessis made that he punched him some few punches and slaps?  Do you have anything against them to falsely implicate them in acts of torture?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR NYOKA",
+            "And that they said Mr Kondile co-operated almost immediately and became an informer, was that a lie?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is not true.",
+            "Male"
+        ],
+        [
+            "MR NYOKA",
+            "Finally, the son of Mr Kondile is very proud of the gallant effort and stance that his father took but the only thing that he's critical about regarding you, is that after you resigned you could have gone to the Kondile family which was and still is very well known, and told them confidentially what happened Mr Danster, that is the only part that we are critical about, thank you.  Do you have anything to say about that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Bond, that's my nickname and it looks like you know me.  As you know, at that time it was difficult, you could not - to take information - the men that have lost their lives for trying to get information to the movement.",
+            "Male"
+        ],
+        [
+            "MR NYOKA",
+            "...[inaudible] thank you.\nNO FURTHER QUESTIONS BY MR NYOKA",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "There is something I would like to say.  I would like to address the family.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Carry on.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'm sure you have waited a long time to hear what happened to Sizwe.  This has been something that has been very heavy on my shoulders, however the truth and lies are not the same.  I would like to apologise to the family.  I did not partake in killing him however, I interrogated him and I ask for forgiveness.",
+            "Male"
+        ],
+        [
+            "MR NYOKA",
+            "Just one more part Mr Chairperson.\n\tCan I ask you to go an apologise to them and shake hands with them?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You can do that a little later on.",
+            "Unknown"
+        ],
+        [
+            "MR NYOKA",
+            "All right, thank you.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "All right.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Booyens, are there any questions you wish to put to this witness?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "I certainly have questions for this witness.  Mr Chairman, I don't know whether Mr Jansen's position ...[inaudible]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "We will ask him just now.",
+            "Unknown"
+        ],
+        [
+            "CROSS-EXAMINATION BY MR BOOYENS",
+            "Certainly.\n\tMr Danster, you say you are a builder at present?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Right now I'm in jail.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So you're not a builder at present, you're a prisoner?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "He's a builder by trade or by occupation.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "The question was, what is he doing at present M'Lord, he may be a builder by trade - on the premises where he presently is.\n\tLet's deal with your transfer from the security police.  The reason for that transfer was because there was a small problem about it being alleged that you were involved in some falsified driving licenses, not so?  That's the reason for your transfer, you were in fact found guilty of an offence like that.  I'm not saying you committed it, I'm just saying you were found guilty and then you were transferred, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So your transfer from the security police had absolutely nothing to do with your involvement with Mr Kondile, it had something to do with something completely different , is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Let's deal with these cars that you were - the problems with the motor cars and the return from Bloemfontein and so on, I just want to get clarity about that.  You had to borrow a car in Bloemfontein, is that right? - because your P.E. car gave you problems, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Was that a police car with a radio?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And ultimately that Bloemfontein police car was taken back to Bloemfontein and your P.E. car was returned, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "The point is, the five of you - that's including the four policemen and the deceased, travelled down in the Bloemfontein police car to Port Elizabeth, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And this Bloemfontein police car, can you remember how long it stayed here before Bloemfontein came to fetch it or before it was taken back to Bloemfontein?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "About a week.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Where was this car, was it at your security headquarters in P.E.? - the Bloemfontein car.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'm not sure, I think it was taken to P.E. where they kept the police cars.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, not the government garage, the police garage.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So it seems to that for that first week at least you were in P.E. because you even know about the movements with the motor car? - your car being returned, the Bloemfontein car being fetched.  So you were not involved with the deceased at that stage?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "As the car was taken - we were using a ...[indistinct], there were cars there that could be used.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "That's not the point of the question please Mr Danster.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "What are you trying to ask me?",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Just answer my questions, don't tell me what to ask you.  You must have been in P.E. because you know that the Bloemfontein car was taken back after about a week.  You were in P.E., you were not in Jeffrey's Bay, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is not correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Okay.  Were you in Jeffrey's Bay right from - well, you came back with the deceased and did you start dealing with the deceased the very next day or two days later, what is the position?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "It was not too long a time after we'd come back then we continued with the investigation.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "That's what I'm asking you, how is not too long a time?  Was it the next day, two days later, a week later, two weeks later, that's what I want to know.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "A long while.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "A long while?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I cannot remember the exact time that elapsed.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "But the next time you saw the deceased he was in Jeffrey's Bay?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Not in Humansdorp?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I saw him in Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Are you aware that according to the documentation, he was detained for - I think it would be correct if I say, for about two weeks in Humansdorp before being transferred to Jeffrey's Bay?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I heard that information here.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Do you dispute it?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So it very well be that for two weeks you nothing to do with the deceased, the two weeks when he was at Humansdorp?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is not so.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So you did question him at Humansdorp?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "You say you don't dispute that he could have been at Humansdorp for two weeks, you say you didn't question him, then I say: \"Was he taken to Jeffrey's Bay and then taken back to Humansdorp\"?, what are you trying to say to me?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "When I dealt with Sizwe he was in Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Was detained in Jeffrey's Bay as well yes, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And what I'm saying to you is that the records clearly show and there is no imaginable reason, that he was - in fact we've got - the very first entry that we've got indicates that he was at Humansdorp on the - he was detained at Humansdorp on the 10th of July, it's an entry in a Humansdorp occurrence book.\n\tWe have yesterday dealt with the warrants and from the warrants it's apparent - the history from the warrants, that he was initially detained in Humansdorp and then he was transferred to Jeffrey's Bay and nobody ever challenged that.  I'm saying to you that he was at Humansdorp for two weeks, are you disputing that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I can't dispute it because it's on the documents.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "That's right.  Then I'm saying to you, after he was brought from Bloemfontein he was detained at Humansdorp for two weeks, for the first two weeks you obviously had nothing to do with him.  Is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I thought I had told you, the people that had spent more time with Sizwe, they were with him for plus minus 12 weeks, the people I've mentioned already.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think we're not making much progress, please.  The question is very simple, whilst he was detained in Humansdorp you had nothing to do with him, that's correct isn't it?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I never interrogated him in Humansdorp.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "It was only after he was brought to Jeffrey's Bay that you got involved?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "At Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "So again, just for clarity, from the time that you questioned him in Jeffrey's Bay, you are saying you had something to do with him for about 12 weeks?  Is that right or wrong?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, plus minus 12 weeks.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr Danster, - in fact just to clarity this beyond any doubt, on the - at page 183, it seems that Mr Sizwe Kondile was admitted to the cells and I'm informed - although that doesn't appear from here that this is indeed the Jeffrey's Bay occurrence book, he was admitted to  - and according to the warrants he was admitted to Jeffrey's Bay on the 24th day of July.  So could it be that you started dealing with him on the 24th day of July or shortly after that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After he was in Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Were you aware that according to the Bloemfontein people, he had already given certain information to them?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was never told that.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr du Plessis never told you that he had given Bloemfontein certain information.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, he did not give me such a report, we were just given orders and the questions that we were to ask him and the people that he had to identify.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "If you talk about people that he had to identify those of photo identifications, is that correct? - ...[indistinct] in the photo album is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "What was the nature of the questions you had to ask him?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He was asked who was in Lesotho, what they were doing there.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Did he answer that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After intensive interrogation he gave us the information.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now let's deal with this intensive interrogation, I don't exactly understand what happened there.  You and Mr Raath initially started questioning him at Jeffrey's Bay, was that now only the two of you?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct, we were given orders.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, by Mr du Plessis you say.  And you were asking questions and the deceased was asked to write down the answers, correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now, did the deceased refuse to answer your questions?  Did he refuse to write anything?",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Sorry Mr Chairman, if he could just say in what period he's talking about.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "...[inaudible]",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "I asked him the initial period Mr Chairman, I don't think you can get any closer than that, with respect.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He gave us some information, however it was not the kind of information that the Captain wanted.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Did you know that?  Did you know it wasn't the kind of information the Captain wanted?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "The Captain told us after he'd read the paper, that it's not the kind of information that he required.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Did you read the papers, the answers that Mr Kondile supplied?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And on a question as to who was in Lesotho, did he write down certain names?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And as to what he was doing - I'm talking about the initial period before du Plessis was dissatisfied - let's not have any unclarity about this, and as to a question about they were doing, did he say they were getting training and they were getting political education and that type of thing?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He would not give us direct answers.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Give me an example of the indirect answers he gave, you read the papers.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Captain du Plessis wanted to know where the safe houses are, where propaganda machine was made, where the weapons were hidden, who was training the people within South Africa.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, your answer was he wasn't giving you direct answers, now I want to  - but he wasn't apparently also not refusing to give you answers so he must have been giving you some indirect answers, what sort of answers did he give?  Give me an example so I can understand what you're talking about.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He told us who was involved in training the people within the country and outside the country, who was training them - also educating them politically.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And did he tell you where the safe houses were?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, after he was intensively interrogated.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So did he refuse to tell you where the safe houses were initially? - you and ...[intervention]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Did he refuse to tell you where the arms caches were?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Did you report to du Plessis that the man was refusing to co-operate? - because he was.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We reported this when the Captain arrived.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "How long was it before you started at Jeffrey's Bay that this assault that you've told us about took place?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "...[inaudible] mention any assaults.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "I'm referring to - Mr Chairman, I'm using the technical word, assaults with the electric shocks and so on.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Yes, rather use torture, he's used torture to describe that.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Very well.\n\tThis torture session that you described, how long was it after you went to Jeffrey's Bay?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After he'd refused to give us the desired answers, the group that was going to interrogate him then arrived, the names that I'd already mentioned.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "The question is, approximately how long after you'd started interrogating him or questioning him?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "It's quite soon after we realised that we were not getting the answers that we wanted.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Please Mr Danster, it's a simple question.  You started on a certain day in Jeffrey's Bay to question the man and at a later stage he was tortured, I know - how long was it from the time that you started to question the man in Jeffrey's Bay till this torture took place, that's all I want to know, try and help us.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I don't quite know what answer you want.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can you say whether it was within a week of your having started questioning, two weeks? - approximately, if you can't be exact.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After a day.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So the very first day it became apparent that he was not co-operating and so the next day the torturers arrived, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now have you ...[intervention]",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Mr Danster, are you sure about your answer now, that it was a day and the next day the torturers arrived?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I can't say it was just one day after we started questioning him.  If you're not getting the answers that you want you're going to make means to get the kind of information that you want.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Yes, but you just told us it was one day after.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "...[inaudible]",
+            "Unknown"
+        ],
+        [
+            "INTERPRETER",
+            "The speaker's mike is not on.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "We have no idea, we're not saying that we know when, we want some assistance form you to give us some idea about how long after you had questioned him and got nowhere, did the tortures commence.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Plus minus one day.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Carry on Mr Booyens.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Thank you Mr Chairman.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Kondile hasn't informed you at that stage that he had been tortured by anybody prior to that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "When did you receive the instruction from Mr du Plessis that you were not to beat the man or as you say: \"assault him\"?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "When we were torturing him, interrogating him, he then gave us an order that we should not kick him, we should not beat him up, we should not bang him against the wall.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "This statement you made to the investigator of the TRC, you say you were relying solely on memory, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Is this statement correct and true?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So, would I be correct in saying that you read through it and you were satisfied and that's when you signed it and you took the oath that it was the truth, is that right Mr Danster?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And if there was anything that was incorrect in it or untrue, you would have had it rectified before you signed it - I mean you were at one stage in your career a policemen, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Can you perhaps just for the sake of the record, identify your statement, is that the document appearing from page 42 to page 50 - it's actually signed on page 49 - it be binding on my conscience, I think there's another signature of yours there, I'm not ...[intervention]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Is that the one?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now, I want to try and get some details of this torture session.  The first torture session involved a certain number of people that you mentioned in your evidence in chief, Niewoudt and all those people, do you remember? - du Plessis, Roelofse, Niewoudt, Bezani, Raath and yourself.  Were all of them involved in that first torture session?  Leave the statement alone, I'm talking about your evidence in chief.  Mr Danster, leave the statement alone.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Pardon?",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Leave the statement alone, I'm asking you about your evidence in chief.  The first torture session involved the six people that I have mentioned, du Plessis, Roelofse, Niewoudt, Bezani, Raath and yourself, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And after that torture session, did Mr Kondile co-operate?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He gave us information but not all the information that the Captain wanted from him.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So there must have been a period of time in-between that and the second torture session, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "When somebody is being interrogated there are breaks, four to five hour breaks and when we get up we would continue with our work.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Very well.  Now I want you to describe this first alleged torture session that you say you were involved in, where did it take place?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "In the office in Jeffrey's Bay.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "There was a bed in the office, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, there was a bed in the corner.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Was there more than one bed in the corner? - not in the corner, in the room - my mistake.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "There was one bed in the room.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Who used to sleep on that bed?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Raath would sleep on the bed and we would use sleeping bags on the floor.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So you were already staying - the: \"we\" who would use the sleeping bags on the floor, would that now be you and Mr Kondile?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "There were mattresses on the floor and we'd use sleeping bags.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Just listen to my question.  The: \"we\" that would use the sleeping bags in that room, was that you and Mr Kondile?, that's what I want to know.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Sizwe did not sleep in that room.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "At no stage?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, he would not sleep in that room at all.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Was he taken back to the cells all the time?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "For the whole of the 12 weeks?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So if we - you see because according to the occurrence book he was in fact booked out of those cells and allegedly released on the 10th of August 1981.  I say he was ...[indistinct] released because we know by now he was not really released but he was booked out of those cells.  So if we go - if he was there for 12 weeks and we know that he's only been taken to Jeffrey's Bay on the 24th of July, it seems that the prisoner tally in the cells from the 10th of August for the next 9 to 10 weeks will never tally, there will always be one prisoner more in the cells than there are supposed to be, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Please repeat your question, it's not clear.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Okay, I would like you to comment about this because I think this is something we will have to investigate.  You tell me that you were involved in the interrogation of Mr Kondile for about 12 weeks, that's about three months, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now if he was taken into custody at Jeffrey's Bay on the 24th of July, that should be August, September, October till round about late October, 24th of October, 20th of October, round about that time, he was still kept in the cells at Jeffrey's Bay, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He was kept in Jeffrey's Bay just before he went to Komatiepoort.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "For how many weeks?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was there for plus minus 12 weeks.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And that was the time that he was kept in Jeffrey's Bay in the cells.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Right.  Now, the occurrence book at the police station is not written by the security branch, is that right? - it's written by the ordinary uniformed policemen.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And you were a uniformed policeman at some stage in your career, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "You worked at a station, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And if you were on charge office duties at night, it's part of your duties to visit the cells, to see that - of the entries that must be made in the O.B., how many prisoners there are, if there are any complaints, in fact you are supposed to visit them hourly, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is so.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "On - if you turn to page 187 - can I just finish this aspect, I'm sorry Mr Chairman.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Yes, Volume 3 - 2?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "If you turn to page 187, you'll se an entry there - your Afrikaans is good enough to read that, entry 630, do you see that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Read it.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Released.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Can you read that for us?  Read it on the record please.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Released:  Kondile: 14/11. Article 6: released.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So, here is an entry on the 10th of August 1981 in the occurrence book written by the uniformed policemen, which indicated that at 10 o'clock that morning he had been released, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That's right.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "Mr Booyens are you sure that that is correct?  Who recorded this?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "We don't know, we just know that there's such an entry in the occurrence book.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "...[inaudible]",
+            "Unknown"
+        ],
+        [
+            "INTERPRETER",
+            "The speaker's mike is not on.",
+            "Unknown"
+        ],
+        [
+            "JUDGE PILLAY",
+            "Sorry.  You put it to him that it was written in by the uniformed policemen.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, I take your point.\n\tLet's just put it correctly, there's an entry to the effect that this man was released, in the occurrence book.  We don't know by who because whoever was supposed to sign it didn't do so, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "But we know that according to you he was still kept in the cells because he was only interrogated in the office, for another two and a half months about, is that right?",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "All I'm suggesting to you is that for the next two and a half months the occurrence book at Jeffrey's Bay will never tally with the number of prisoners and number of people that are supposed to be there.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "How do we know that?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "It's logical.  If the man is being kept in the cells but he's been theoretically released, there's one extra prisoner in the cells.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "...[inaudible] full record.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "I beg your pardon Mr Chairman?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is this the full record of the entries relating to ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "No, no, that's what - I'm putting it as a logical consequence of the fact.  If you've got a released prisoner Mr Chairman, he's not in the cell anymore on paper but in real fact he is in the cells then it's a matter of elementary mathematics - which has never been my strong point, that you would always sit with one prisoner too many.  Your books will say there are supposed to be - Pete, Paul and John have been arrested for assault and housebreaking and so and there's supposed to be three prisoners in the cells but there's a fourth one, the man that's been released on the 10th of August.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "Unless of course he's there under another name.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Well ...[intervention]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can we move on, I don't know whether this is a matter of such great consequence but move on.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr Chairman, ...[intervention]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think you better put the question that you wish to put to him.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes.\n\tI'm putting it to you that in fact your estimate - your statement that you interrogated him for 12 weeks is wrong, that he wouldn't have been in the cells at Jeffrey's Bay after the 10th of August 1981.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was there on that case.  There are people who know I was there, even people in P.E.  It's very easy, there are witnesses, they know I was in Jeffrey's Bay for a long time.  Some of them are still in the police force.  I don't know what it is that you're trying to get at.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "I'm not saying you were not at Jeffrey's Bay, I'm saying you were not at Jeffrey's by for as long as you say you were.\n\tMay this be an appropriate time to take the short adjournment?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.  We'll take an adjournment at this stage for 15 minutes.\nCOMMITTEE ADJOURNS\nON RESUMPTION",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Danster, you are still under oath.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "(s.u.o.)",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.\n\tYes, you may proceed Mr Booyens.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Thank you Mr Chairman.  Mr Chairman, it's becoming apparent to us that the entire occurrence book over the period in Jeffrey's Bay will become relevant at some stage.  However, my instructing attorney asked my learned friend Mr Steenkamp, Mr Steenkamp apparently hasn't got it in his possession.\n\tWe trust that at least some of the occurrence books must be somewhere in the building because they've been photocopied somewhere but we will deal with that at a later stage.  I would just like to refer to a few aspects about the occurrence book and then ...[intervention]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's move on the ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Move on to something else.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "To the crucial part of the evidence.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, this is actually crucial, with respect Mr Chairman, because of the time.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "As to when the actual events occurred is a matter of some sharp difference.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "As a uniformed policeman, do you also recall that there's is a thing called a cell register in which all prisoners in police cells must be recorded, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Right.  If you would - we haven't got the cell register but the cell register must balance with the occurrence book, is that correct?  It must also indicate when people are released and so on, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "If you would be so kind to turn to page 186 in Volume 2, just to illustrate to - I knew I could rely on the co-operation of my learned friend Mr Jansen, Mr Chairman.  At the top of page 186 - just to illustrate how an occurrence book works, entry number 621 indicates that\n\"Constable Mooi fed 25 units in the cells with coffee and bread:  25 mugs: no complaints\"\nNow, that is a normal entry that would made when prisoners are fed, right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Unit I presume refers to a prisoner.  Then, if you go to entry 623 it appears that 1, 2, 3, 4, 5th line\n\"Prisoners to court\"\n\tAnd then eight prisoners - and the names are given there, together with - can you perhaps assist us, there is a 14, 13, 1443 and so on, what would that be, would that be the cell register number of what would that be? - on the right hand side of the name.\n\tYou see there is a name, for example: Goodwill Maboti 14/13 and then ...[intervention]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Cell register number.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Cell register number?  Okay, thank you.  Then we notice that eight prisoners are taken to court, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So now there should be 17 prisoners left in the cells? -  Eight minus 25 give me 17, at least approximately.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Then the very next entry we've got that\n\"Black man Sizwe Kondile placed in cell by Detective Sergeant Gerber or Sergeant Gerber\"\nSo now there should be 18 prisoners in the cell, right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "You agree.  Then at the top of page 187 we see that there are now 18 prisoners in the cells\n\"No complaints\"\n18 prisoners in the cells:\n\"No complaints\"\nIs that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "I've been told by my colleague just to go slower, apparently I'm speaking too fast Mr Chairman.  Can we just - I beg your pardon Mr Chairman.\n\tOn the top of page ...[indistinct] opposite the entry number 625, inter alias the following appears:\n\"18 prisoners in cells with no complaints\"\nDo you see that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, I see that.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now the figures still tally, is that correct?  17, one is added, that makes it 18 from the previous page, do you agree?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Then entry number 630\n\"Release of Kondile\"\nThe entry that we've dealt with already.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And the very next entry below that - it still tallies because now there are\n\"17 units in cells\"\nDo you see that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "That illustrates the point that you so kindly explained to us earlier on that in fact your occurrence book must reflect what is going on with the movement of prisoners as well, is that right?  If people go out there must be less prisoners in the cells and so on, is that right?  Do you understand what I'm asking?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I understand what you're saying.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And do you agree with me?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "On your version however, the entry that Mr Kondile is released on the 10th of August 1981, is a false entry because you dealt with him after this for at least a further two months, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was not a uniformed policeman, I did not write entry books.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, we've covered ...[intervention]",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Mr Booyens, accept we're still on Monday the 10th or what's the date at the top?  So it may be that we've got an entry on Tuesday the 11th ...[inaudible]  It may be that we could have an entry that he's been returned to the cells.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "No, I'm not - that's why we asked for the book Mr Chairman.  I've got to put my clients version ...[intervention]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, I think you ...[indistinct] your client's version on a different footing rather than based on the entries in cells.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "No, what I'm actually dealing with Mr Chairman, is that the entry in the cell register say that the man was released, that's the important one.  Not just removed from the cells, released - \"vry gelaat\", and that's the important one.\n\tNow, on your version he was never released that's correct, in any case not at this stage.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Let me make it easy for you.  We were cooking for ourselves and we would give Sizwe some food and then he would go back to his cell and we'd lock him in there.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, I know you said he was kept in the cells.  The point is, can you explain the logic on your version that the man went back to the cells and was apparently detained in the cells - of entry 630.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I want to get away from this entry that we're going around in.  It is very common within the security police, the attorney's here like Mr Nyoka know that.  They would look for people and they would not find him.  The attorney's of the prisoner would be looking for their own prisoner and they would not find him.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think that the question of not finding prisoners is a separate issue.  It records here, although this is not counter-signed by anybody, there's just an entry which says that Mr Kondile was released at 10 o'clock on that day.  Now, do you think that that is a genuine entry, do you that that is not a genuine entry?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "According to my logic, this is a false entry.  They have written here that he was released and meanwhile he was still in the cell.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, you see what I don't understand and that's seeing that you are dealing with your logic, but for what purpose he was obviously detained in the cells for at least a further two months, can you think of any purpose why this entry would be made here because he was physically in the cells according to your evidence?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I think it is your client that would answer that question for you.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Very well, let's leave that.  You see, what I want to put to you is that the reason why this entry was made was to create the impression that the man was released whereas in fact he was taken away to Komatiepoort, that's why this entry was made, it was to get him off the books.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, Mr Booyens, ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I can't answer that.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "It wasn't purely getting him off the book, it was getting him out of this life.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, yes, no that was ultimately the - but he was in the books, he had to be removed from the books and the purpose - he was never released, I'm not saying that.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, he can't answer why this is there, he doesn't accept the genuineness of this.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So I think you can move on.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "For how long until Mr Kondile was ultimately - went missing and went to Komatiepoort or when you were told he was going to Komatiepoort, did the torture sessions go on?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "As I already said, it was quite a while, a long while.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, we have established that on your evidence he would have gone - allegedly gone to Komatiepoort, round about the middle of October.  If we work back from that, how long before going to Komatiepoort did the torture session stop?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "A few days.",
+            "Male"
+        ],
+        [
+            "INTERPRETER",
+            "Mr Booyens, could you move back from the mike please?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Certainly.\n\tA few days.  So he was tortured at least till about the 15th of October?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Ja.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "This doctor that kept on visiting the man, did he visit him in the cells or that visited this man, did he visit him in the cells?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He would come to the cells.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And apart from the doctor that visited him, did the Magistrate of Inspector of Detainees visit him?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I do not know.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr Danster, these interrogation sessions of Mr Kondile, it seems to me the brunt of the interrogation was carried by you and Mr Raath, is that correct? - you did most of the questioning.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I have named the people that I was with.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, did they - I know you've named the - just answer the question.  The majority of the questioning, was that done by you and Mr Raath or was it done by somebody else, what is the position?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "It was Raath and myself who were with him most of the time, however when we were interrogating him it would be all of us.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And obviously you and Raath also had to sleep at night, not so?  You couldn't stay awake all the time, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "I know there were occasions when you say Mr Kondile was kept awake but here must have been many occasions when after the day he would be placed in the cell and he would stay there for the evening and you and Raath would go about your business, is that right?  You wouldn't be busy with him, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, we were booked in Jeffrey's Bay, we had to go through the information we were given.  We would look at the details if he had given us the correct answers then we'd fetch him again.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "All I'm suggesting to you is, even you and Raath enthusiastic policemen as you might have been, didn't work 24 hours a day, you also slept?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We would have time to sleep.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And no human being could be kept awake for 12 weeks non stop, not even Mr Kondile and he wasn't kept awake, he was give occasion to sleep, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I did not say he was kept awake for 12 weeks.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "No, I'm just putting it to you ...[intervention]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I did not say that he did not sleep for 12 weeks.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "You and Raath then obviously there were times when Kondile was in the cells and the two of you were sleeping, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Why did you and Raath have to stay at Jeffrey's Bay those times that you were not busy with Mr Kondile?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "If I'm given instructions to investigate a certain matter about a certain prisoner you would only part with that prisoner only after you'd completed the investigation, that was the procedure.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's not talk about general procedure, let's just talk about Mr Kondile.  Why were you and Raath at Jeffrey's Bay? - you said that was on instructions.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "It was on an instruction.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And Jeffrey's Bay I'm instructed, is 70 or 80 kilometres away from Port Elizabeth, is that correct? - it's on the highway.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, it seems so.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "You and Raath never took weekends of or anything of that nature?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We'd go to Port Elizabeth and come back.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "You'd go to Port Elizabeth for weekends, is that right?  Is that what you are saying?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We would go and fetch some stuff and come back.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And obviously during those periods Mr Kondile most of the time would be in the cells?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We would lock him in the cell.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr Kondile was questioned or interrogated, call it what you like, throughout this period of 12 weeks and ultimately gave his full co-operation insofar as answering the questions is concerned, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "What would happen is that we would interrogate him, get the answers and try to investigate whether he's told us the truth or not.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Are the people who would investigate whether he's telling you the truth or not, would that be you and Mr Raath?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We would take the information that he'd given us and give it to Captain du Plessis.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So you didn't do the follow-up?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We had the information over to the senior officer, those were the rules.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, but be that as it may, towards the latter part of the interrogation Mr Kondile was obviously giving his full co-operation because du Plessis even went so far as to try and enlist his services as an informer, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, he gave us information after a while.",
+            "Male"
+        ],
+        [
+            "JUDGE PILLAY",
+            "But the question is, was he so co-operative that there was an attempt to enlist him or to recruit him as an informer?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, there were such efforts.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now, if a man - judging on your own information, if a man is not giving you his co-operation you wouldn't even dream of getting him as an informer, is that correct?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Please repeat your question.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "If you as a policeman yourself is interrogating somebody, you would only try to get that person to become your informer if you are satisfied that he is giving you his full co-operation.  If he doesn't want to co-operate it will serve no purpose even to try to get him as an informer, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We tried to make him co-operate with us to work for the detective side of the police, he refused.  He said that he would give us the information and after he had given us the information he asked that he be charged, he said he refuses to work with the police.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "I've heard you say that.  Let's carry on from there.  Now, approximately how long before he was taken to Komatiepoort did these efforts of Mr du Plessis to enlist him as an informer start?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I can't tell you the number of days but it took a bit of time.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, it's obviously not something that happened very quickly so he started talking to him quite a while before he went to Komatiepoort - allegedly went to Komatiepoort, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He tried to turn him around but that was not successful.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Did you assist in this effort to turn him around?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We tried together with Raath.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And he kept on giving information but just wouldn't take the final step to become an informer, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, that is correct, he gave us the information but he did not want to work with us.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Did Mr Kondile eventually or at some stage mention something about an arms cache at Komatiepoort?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We heard from Captain du Plessis on the last days of the interrogation - there was information on some of the papers that he'd written that we'd get some weapons from Komatiepoort.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "The question was, did Mr Kondile tell you about caches of arms in Komatiepoort and I understand your answer to be that it was Mr du Plessis who said that?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We did not get that information from Sizwe.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "But I understood you just now to say that he had written something to that effect.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We got this information from Mr du Plessis after the intensive investigation that was made.  He said that we had to take Sizwe to Komatiepoort because that's where we would get the weapons.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So he never wrote it?  Sizwe Kondile never wrote about a arms cache at Komatiepoort, is that what you're saying?",
+            "Male"
+        ],
+        [
+            "INTERPRETER",
+            "Could the witness please repeat the answer.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After the investigation Captain du Plessis said that his conclusion is such that we should take Sizwe to Komatiepoort where we would get the weapons.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Mr Danster, I think the question was quite clear.  Did Mr Kondile write something about Komatiepoort? - about arms?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Your answer in fact was and you gave the answer up in English, so there can be no question of faulty interpretation here: \"in a sense, yes\", that's what you said on the answer to the question by Commissioner de Jager.  Now, what is this: \"in a sense, yes\", what do you mean?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After the investigation the Captain said we must take Sizwe Kondile to Komatiepoort where we would get the weapons.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Just answer my question.  He wrote something: \"in a sense, yes\" about Komatiepoort, what does it mean?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Mr Booyens, what do you want from me, what do you want me to say?",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "I want ...[intervention]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's just get this clear, we're not playing with words now.  To your knowledge, did Mr Kondile write on a piece of paper about arms being found or will be found in Komatiepoort?  During interrogation, did Mr Kondile say anything to that effect which was put down in writing?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Mr Chairman, I had perceived that Sizwe was going to take us to a place like he took us to Transkei.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "...[inaudible] talk about perceived.  My question is, from your knowledge did Sizwe Kondile write on a piece of paper, make reference on a piece of paper that there was a cache of arms at Komatiepoort?  Did you see that in writing?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I did not see that in writing.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "All right. You were told by du Plessis that there would be arms in Komatiepoort that you must go and fetch.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And did he tell you that it was Kondile who told him?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is so.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, let's get ...[indistinct]",
+            "Unknown"
+        ],
+        [
+            "ADV DE JAGER",
+            "...[inaudible] I want to clear this up Mr Danster.  You were present when he was interrogated by Mr du Plessis?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We would have different sessions.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "In your presence he never told this to du Plessis?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "[no English translation]",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Now, why did you answer when I asked you: \"in a sense, yes\" he wrote it?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Captain du Plessis would not have said we must go to Komatiepoort, meanwhile there was no information leading to Komatiepoort, this is why I answered that way.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "But didn't Mr Kondile give you the notes and you handed it over to Mr du Plessis - about the interrogations?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Some of the time we obtained information ourselves but also there were times when Captain du Plessis was there personally.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Okay, I want to go back to another thing.  Did Mr Kondile sleep in the room where you were sleeping and where the interrogations took place or did he sleep in the cells?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He slept in a cell.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Always?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He never slept with us, it would be just the two of us, he would go back to his cell.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Every night?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "All the time that I was there.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Thank you.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "And we already know that you were there all the time, now and then you would go to P.E. to fetch things but you would come back?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "So, this room occupied by you and Raath, was that in the single quarters or in the barracks?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That was an office.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, it may have been used as an office but was it situation in the same part of the building that the barracks were or don't you know?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "It was a police station building.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Are there barracks at that police station?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Not according to my knowledge.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Are there no policemen that stay on the premises?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "They were working there, they were not staying there.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "When before Mr Kondile vanished did you speak to him for the last time?  How long before he vanished approximately?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "The week before he left.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And was he still co-operating with you people?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We would chat.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Chat quite normally?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We would chat with him normally or ask him questions if we wanted to.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And he would reply normally and chat to you normally as well?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He would go along with us because by then we had got the details that we required.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "No, I accept it was just a question of finalising a few things and getting clarity and so on but the man was - insofar as it's possible, on relatively good terms with you people, is that correct?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "...[inaudible] chatted normally, how much further can you take it?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, I think I'm satisfied with the answer.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "(No English translation)",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Can this be interpreted please?",
+            "Unknown"
+        ],
+        [
+            "INTERPRETER",
+            "Could the witness please repeat.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I don't know what Mr Booyens is trying to say, could he clarify his question?",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "I didn't ask a question, you volunteered something, what did you say?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was answering your question.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now, ...[intervention]",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Carry on Mr Booyens.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr Kondile ...[intervention]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'm not Kondile, my name is Danster.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr Danster, how many times was Mr Kondile visited by the doctor to your recollection?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I saw that old man twice because we would give him tablets.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "That the old man had given you to give him?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Ja, the question is  ...[intervention]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, the tablets were at the charge office and we'd got to the charge office and get the tablets to give to him.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now, let us deal with this special squad or the visit of Dirk Coetzee to be more direct.  Will you go to page 47 of Volume 1 please. Have you got it in front of you?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I don't have it.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Maybe we can ask your counsel whether he would be so kind to make it available to you.  Have you got it?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Would the leader of evidence kindly supply him with a copy of Volume 1?",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr Jansen has once again ...[indistinct]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I've got one.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "The last paragraph on page 47 starts with the following\n\"I was informed late in his detention that there was an anti-terrorist squad coming from Pretoria\"\nLet's stop at that sentence.  What do you mean by: \n\"late in his detention\"\nDoes that mean nearly towards the end?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Can you try and put a time on that, a week, two weeks?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I can't put a time to that but it was before I parted with him.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, obviously.  Mr Danster, what I ...[intervention]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think this happened such a long time ago and this statement was made very recently.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "That's the point Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I don't know what reliance you can place ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Then he should be able to tell us if he said it in his statement, why he said it unless he was relying on memory or on something else.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, when he said\n\"late\"\n...[intervention]",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Late in his detention.\n\tWhy do you say - if you say:\n\"late in his detention\"\nIt means shortly before his release - before he vanished.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Before arrangements were made for him to go to Komatiepoort.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And you say at - you continue to say\n\"At one stage this happened, two white officers arrived, Kondile was handcuffed to a bed after a severe round of torture\"\nThat's what your statements say.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Look at page 48.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "He was tied to the bed.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, carry on.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "You knew Mr van Rensburg, why not mention that he was the other one?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "What do you mean?",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Exactly what I am saying.  Two white officers, the one being van Rensburg and the other one that you later recognised as Dirk Coetzee, why didn't you say - you see, the way this reads it sounds as if you recognised the one at some stage and the other one on this statement we never know who he is.  Why didn't you say that it was van Rensburg? - in your statement.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Dirk Coetzee came with Mr van Rensburg.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "That's not what I'm asking you.  Why didn't you say in your statement here that the man that you later recognised as Dirk Coetzee, arrived there with van Rensburg?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "In other words, why haven't you ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "You are going to put me in trouble, you're asking me as if you were there.  You were not part of this investigation, this is nonsense.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, answer the nonsense.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Danster ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Sorry.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "The question really is, you've omitted to mention Mr van Rensburg being there with Mr Coetzee, is there any reason why you didn't mention Mr van Rensburg, that is the question.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, there's no reason.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, if there is no reason then I would like to know - I would expect you to have said: \"Dirk Coetzee came there with van Rensburg\".",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "It also depends on who took the statement and the purpose for taking the statement you know, and the detail that was required from him at the time.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr Chairman, ...[inaudible]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "It is common cause that van Rensburg was there.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "It's not.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is it not?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Not at all.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I'm sorry.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "In fact van Rensburg's evidence was very clear that he never met Dirk Coetzee at Jeffrey's Bay Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I'm sorry.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "So the purpose would have been to find out who these two people were - why this statement was taken.  The easiest thing in the world will be to say: \"The other one I knew, it was Nick van Rensburg\"?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You can use that as argument.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I can't answer that.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Could you kindly tell me, when these two policemen arrived there, did Mr Kondile complain about being tortured?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, he never complained, I'll give you the reason why.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Yes?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "When you interrogate a prisoner you are told that if you dare complain when an outsider comes in then you will be in trouble, we will ill-treat you.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Did Mr van Rensburg - if he was the one accompanying Mr Coetzee, ask him whether he was all right, whether everything was all right?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "What do you mean, ask who?",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Ask Mr Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, he spoke to Captain du Plessis, he did not ask him.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Did any of them talk to Kondile?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, he did not talk to him.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Just for the record, you have been sitting in this hearing throughout from Monday, is that correct? - you heard the evidence.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, that's correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And you heard it being put that Coetzee was with van Rensburg when they visited Kondile.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Please repeat that.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "You heard the question being put that Coetzee was with van Rensburg when they visited Kondile.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "No, I did not hear that.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "You didn't hear that, that part you missed.  Did you in fact tell your counsel that van Rensburg was with Coetzee when they came to visit Kondile?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Please repeat that.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think Mr Booyens, you're going to have difficulty with that, with this line of questioning.  You know, you're going to have difficulty with witnesses on this line of questioning if I may put it, as to why he didn't tell his counsel and so on.  He's not ...[indistinct] in this matter here, he's just been subpoenaed to give evidence.  He sits there as a lay man, I can't imagine him making notes of details of questions that are being asked of witnesses.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "No M'Lord, but that's not the point.  The point is, a material aspect is left out of his written statement which now all of a sudden appears in his evidence in chief.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, you put to him that van Rensburg was never there, isn't that what you're trying to say?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "I want to know first of all why he didn't mention van Rensburg.  The implication is clearly van Rensburg was never there because van Rensburg said he was never there, that was his evidence.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, you see Mr ...[intervention]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After Dirk and van Rensburg and van Rensburg arrived, Captain du Plessis was inside with Raath and myself, Dirk was with black people that did not get off the car.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "But Mr Danster, the one thing that really is still not clear to me, you made this statement, this written statement.  The point that Mr Booyens is making is, when you made this statement you did not mention that Mr van Rensburg arrived with Mr Coetzee and the question is: why not?  That really is what it is - why did you not mention van Rensburg's name in this statement which was made before you gave evidence this morning, that really is what he's asking you.  Can you help him with that?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Let me help you this way Ma'am.  I gave all the details to the person who took the statement from me.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "Does that include mentioning Mr van Rensburg's name when you mentioned Dirk Coetzee's name?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, I did mention his name.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now, why didn't you then earlier on when I asked you whether there was something wrong with the statement when the statement was taken, rectify that?",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Sorry, Mr Chairman, the fact that he's left out a name doesn't mean the statement is wrong, it just means it is not as fully detailed as it should have been.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, anyway ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "With respect Mr Chairman, that's not the case because on an answer to the Commissioner's question he said he mentioned it and now we are dealing with a statement that's been recorded incorrectly.  And he told us that he was satisfied with the statement and I think I am entitled to ask him why he didn't complain then.\n\tYou mentioned somebody's name, the man taking the statement doesn't mention that name, why did you tell him?  Fix it, that's  Nick van Rensburg, add his name.  Have you got an answer?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Mr Booyens, I can't answer that question.",
+            "Male"
+        ],
+        [
+            "MR NYOKA",
+            "Very well then, well leave it.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Can we move along?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "The torture sessions, you say that Niewoudt and Roelofse tortured him twice, do you remember that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, I remember that.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Was that on the same day or on two different days?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Two different days.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And how many times did du Plessis torture him?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I could never count.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Very many times?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, a lot of times.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And you and Mr Raath?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "A lot of times.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And Buzani as well?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, as well.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now, was that because Mr Kondile was still not prepared to give his co-operation? - that these many torture occasions took place.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "As I had already said, there's a particular kind of information that Mr du Plessis wanted, we was struggling to get that information.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "But you got it all eventually.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Was that before the trip to the Transkei?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And that was before the trip when the policeman was shot?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Please repeat that?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What policeman are you talking about, the raid in Umtata?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "He mentioned something about the two people getting away from Umtata and then they went to Butterworth M'Lord, that - when my learned friend stopped, I'm just trying to get a time on this.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "These two policemen, the female policeman and the male policeman, was that at the same time that you went up to Umtata when that incident occurred?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, it's during that time.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Now just tell me, that was - there was a shooting incident at Butterworth first of all, is that right?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "And then there was a shooting incident at - where was the other place that the shooting incident was?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "McClear.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "If the Commission would just bear with me, I'm just trying to see if there's something in these clippings in - I know there is some ...[intervention]",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "On page 17 and 18.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "I want to read to you what is said in the Daily Despatch of the 13th of August, page 17.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "You're referring to Volume 4, for the record purposes.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "On Friday - this states\n\"On Friday, August 8, morning Butterworth, two Transkei policemen, Captain Philip Ngedi and Detective Constable Nkonsati Semmens, shot dead by gang of five terrorists\nFriday, August 8, Transkei border: At a roadblock between ...[indistinct] and Elliot, the gang of five attempted to shoot their way out - two terrorists shot dead and one caught \t- two South African policeman, Sergeant Olivier and Constable van Straaten injured - two men escape into the bush\"\nThose are the incidents you're talking about, not so?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Are you talking about the people who escaped from Umtata to Butterworth?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Well, ...[intervention]",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "Sorry Mr Booyens, can somebody give a copy of Volume 4 to the witness?  Is it not possible for him to have all of these documents that we refer him to, in front of him?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Page?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Page 17.  Are the pages numbered?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, they've got numbers.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "You see, the evidence you gave was that these Umtata people were then apparently at the same time that you were in Umtata going to the bank there was this shoot-out at Butterworth and then there was the roadblock where there was also a shooting, do you remember that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, because that was reported over the radio whilst we were riding in the car.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes.  No, I hear what you say but we are linking something now to a date involving a shoot-out at a police road block and a shooting of policemen at Butterworth.  You in fact starting talking about that in your evidence in chief as well, do you remember that?  That is the same time that you were in the Transkei with Mr Kondile.  You told us that already, you needn't think ...[intervention]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'm not thinking, I was there.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, and you've already also told me that Mr Kondile was not tortured any further after the visit to the Transkei because then he'd given his co-operation.  Do you remember that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We did not stop the investigation.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "I'm talking about the torture.  Is that correct, he wasn't  tortured any further after that?  Do you agree, you said that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We did not stop the investigation.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Mr ...[intervention]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now just be careful please, you are being reminded it is said that earlier on you said that after this shooting incident, there was no more torture of Mr Kondile, is that correct? - after the time when this incident took place?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Yes, we cooled off in torturing him.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, cooled off, I don't know what cooled off in torture means but I presume that means in more plain English that you stopped torturing him, there was no more torture as the Chairman pointed out to you?  That' really what you're trying to say to us, not so?",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Sorry Mr Chairman, if can interrupt - I apologise to my learned friend, I'm not sure that he testified earlier in fact after they returned from Transkei that the torture had stopped. Sorry.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, I think and he says now that they had cooled off.  The question is, did they continue at some stage?\n\tWhen you say: \"They cooled off torturing after this shooting incident\", was Mr Kondile tortured thereafter?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "After the cool off period we needed more details from him.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You may have needed a lot more details but the question is, was he tortured in order for you to get those details?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "We did not stop completely torturing him but we would give him breaks.",
+            "Male"
+        ],
+        [
+            "ADV DE JAGER",
+            "Please explain to me then Mr Danster, why did you tell us you stopped the torture after you went to the Transkei?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "This is what I meant by stopping, we did not continue the way - as intensively as we tortured him previously.  A few days would elapse ...[intervention]",
+            "Male"
+        ],
+        [
+            "INTERPRETER",
+            "Could the speaker please wait for the interpreter.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'm sorry if I did not put it that way but what I meant is that a few days would elapse without torturing the man.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, carry on.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, I think the record will speak for itself.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, do carry on.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "You see, because according to this the shooting incident in the Transkei occurred as early as the 8th of August and I'm sure that it will be very easy to find the official records of that incident as well and reluctant as I am to believe newspapers, I think they might have got that one right.  Then we have a situation on what you've said earlier on, that for two and a half months Mr Kondile was never tortured again. It's not what you say now I know.  Do you want to explain that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "You are putting words in my mouth, you are talking about things I never uttered.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "In fact Mr Booyens, I was going to say that the two and a half months calculated from the time he got to Jeffrey's Bay which was on the 24th of July and we're here talking about a couple of weeks later ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Okay.",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "Just to give him a ...[intervention}",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Let me be - I take your point Commissioner, you're quite right it's two months and not two and a half.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I think that he also said in his evidence that he was tortured until a few days before he was taken to Komatiepoort.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "That's quite correct Mr Chairman.\n\tYou have also heard the remark by the Commissioner, the Honourable Chairman, that earlier on you said he was tortured, now - we've got many stories from you now Mr Danster and perhaps you would like to explain your way out of it.\n\tWe've got a version that says that Mr Kondile was tortured until a few days before he went to Komatiepoort which according to you was middle October, do you recall that?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Mr Booyens, are you trying to say that Mr Booyens (Mr Kondile) was never tortured because you're trying to protect your clients?",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "I was fortunately never tortured, I can assure you.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I was there, you were never there and therefore maybe you can answer that question yourselves.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Just answer the question, I'm dealing with what you said.  You heard what the honourable Commissioner ...[intervention]",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I'm not prepared to answer because I have told you that Kondile was tortured.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Are you going to refuse to answer any further questions that I put to you?",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "Mr Booyens, I don't think that that is what he is saying, he's obviously getting very irritable and irritated.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "If the ...[intervention]",
+            "Male"
+        ],
+        [
+            "ADV GCABASHE",
+            "But if you could assist ...[intervention]",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I will answer further questions.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "Well, I would ...[intervention]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "The record will speak for itself.  Can you just move on now?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Do you want to explain the discrepancies in your evidence that you've heard just now?  Do you want to try and explain them or do you want to leave it at that?",
+            "Male"
+        ],
+        [
+            "MR ROUX",
+            "Sorry Mr Chairman, in all fairness, if it could just be repeated to him because he can't even remember what the discrepancies were.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Danster, maybe it's very confusing for you to sit here with so many legal people, I'm going to try and be of some assistance to you.  We have to determine what the facts are, help us.  The question about the torture of Mr Kondile is a matter of great importance, when it began, how long did it take, when it ended.  These are matters of importance.\n\tNow, the question about when did the torture of Mr Kondile end, one of the answers you have given is that it ended a few days before - shortly before he was taken to Komatiepoort.  Another answer that you have given was that torture had ended after the incident that had taken place when you had taken him to Umtata and when people had been shot at about that time.  Do you understand that?  \n\tThose are the versions you have given, there might be another version as well.  You've said about the torture cooled off.  Now I'm affording an opportunity to give me your final answer and take your time about it.",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Mr Chairperson, be specific or what is this particular specific question?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What must we accept as the final answer as to when did that torture end?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Before he went to Komatiepoort.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Booyens, can we move on?",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "Yes, Mr Chair.\n\tNow, insofar as it's relevant - they are not applicants but just to tell you what is being disputed of your evidence, Roelofse and Niewoudt whom I also represent say that they were never involved with Mr Kondile's questioning at all.  You deny that, you don't agree with me?  You were implicated by that also not involved in torture.",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "Is that you and them telling that?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "He, on behalf of Roelofse and Niewoudt, he is instructed to put to you that their version is that they didn't torture and you ...[indistinct]",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "They were there.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "They were there?",
+            "Unknown"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "They were there.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, carry on.",
+            "Unknown"
+        ],
+        [
+            "MR BOOYENS",
+            "You heard the evidence of Mr du Plessis?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "That's correct.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "In fact that's all he admits what he did insofar as torturer or call it what you like, is concerned - goes as far as Mr Kondile is concerned?",
+            "Male"
+        ],
+        [
+            "GINOTRY DANSTER",
+            "I heard him but he didn't tell, he just said that they killed him, they burnt his body, he didn't explain more, he didn't elaborate more about the stages of interrogation.",
+            "Male"
+        ],
+        [
+            "MR BOOYENS",
+            "That's not entirely correct.  He in fact said that at the beginning Mr Kondile was reluctant to co-operate and he hit him with an open hand and hit him with a fist and there might even have been a second occasion when he did that.  So he admits",
+            "Male"
+        ]
+    ]
+}

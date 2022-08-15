@@ -1,0 +1,1078 @@
+{
+    "header": {
+        "type": "AMNESTY HEARING",
+        "starting date": "2000-04-11",
+        "location": "CHRISTIAN CENTRE, DURBAN",
+        "day": "1",
+        "names": [
+            "THAMSANQA NDLOVU"
+        ],
+        "case number": "AM5630/97",
+        "matter": "ROBBERY OF FIREARM",
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=54129&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200411db.htm",
+        "speakers": [
+            "ADV SIGODI",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "MR SIBANYONI",
+            "MS LOONAT",
+            "MS LOONAT IN ARGUMENT",
+            "MS PATEL",
+            "THAMSANQA NDLOVU"
+        ],
+        "original_speakers": [
+            "CHAIRPERSON",
+            "MS LOONAT",
+            "MS PATEL",
+            "THAMSANQA NDLOVU",
+            "MR SIBANYONI",
+            "MR NDLOVU",
+            "INTERPRETER",
+            "ADV SIGODI",
+            "MS LOONAT IN ARGUMENT"
+        ]
+    },
+    "testimony": [
+        [
+            "CHAIRPERSON",
+            "Good morning.  We want to start the proceedings.  For the record, today is Tuesday, the 11th of April 2000.  This is a hearing of the Amnesty Committee, sitting at the Christian Centre in Durban.  The Panel is chaired by myself.  My name is Denzil Potgieter.  With me on the Panel is Adv Sigodi and Mr Sibanyoni.\n\tWe will start off by hearing the amnesty application of Thami Ndlovu.  The reference number is AM5630/97.\n\tJust for the record Ms Loonat, would you put yourself on the record.",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "Good morning, Chairperson and Members of the Honourable Committee.  My name is Sereni Loonat.  I'm a barrister and I'm appearing on behalf of Mr Thami Ndlovu this morning.  Thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you, Ms Loonat.  And the Leader of Evidence?",
+            "Unknown"
+        ],
+        [
+            "MS PATEL",
+            "Thank you, Honourable Chairperson.  Ramula Patel.  If I may at this stage just place on record that the victim in this matter, Mr Jerome Tamsanqa Mbele(?), has refused to accept the Section 19(4) notice from our office, saying that he is not interested in the application.  Thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you, Ms Patel, we've noted that.  Are you satisfied in the circumstances that we are able to proceed with the matter?",
+            "Unknown"
+        ],
+        [
+            "MS PATEL",
+            "I am thank you, Honourable Chairperson.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  Well under those circumstances, we'll proceed to hear the amnesty application.  Ms Loonat, is there anything else or do you want your client to be sworn in?",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "Yes, Mr Chairperson, please.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Very well.\n\tMr Ndlovu, do you heard the interpretation on your headset?  What are your full names?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "(sworn states)",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you, please be seated.  Just a minute, Mr Loonat.  Just give us a minute, we've got a technical problem with the sound.",
+            "Unknown"
+        ],
+        [
+            "MR SIBANYONI",
+            "Chairperson, may I just ask one thing?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.",
+            "Unknown"
+        ],
+        [
+            "MR SIBANYONI",
+            "Mr Ndlovu, I see in the documents you say Thami S Ndlovu, what does the \"S\" stand for?",
+            "Male"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Siabonga, but this is the name that is not included on my ID.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So do you only want to be, for our purposes, to be known as Thamsanqa Ndlovu?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you.  Yes Ms Loonat.",
+            "Unknown"
+        ],
+        [
+            "EXAMINATION BY MS LOONAT",
+            "Thank you, Mr Chairperson.\n\tMr Ndlovu, how old are you?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "28 years old.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "And where do you reside?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Sorry?",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Where do you live?  What area?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "At KwaMashu, F1067.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Are you married with children?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "No.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "You have no children either.  Do you have any previous convictions?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "No.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Are you a South African citizen by birth?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Do you belong to any particular political party?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Which party do you belong to?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "ANC member.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Before I go on please tell me, are you employed at the moment?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "INTERPRETER",
+            "Can you please ask the witness to wait for the interpretation before responding to your question.",
+            "Unknown"
+        ],
+        [
+            "MR SIBANYONI",
+            "Or to put it the other way around, can the witness listen to the interpretation and not to his legal rep, and talk directly to the interpreter.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Thank you, Mr Sibanyoni.\n\tMr Ndlovu, do you own a firearm?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "No, I do not have any firearm.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "You did say you were a member of the ANC, are you a card carrier or a supporter, a registered member?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "I was in the organisation called MK Umkhonto weSizwe, that is why I say that I am an ANC member, because I was in the military wing of the ANC in exile.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "So do you have any proof that you are attached to the ANC Party?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Can you produce the same please.",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "I believe that these have been handed to your - I apologise, I thought photocopies were made and given to you.  This is proof that he belongs to the MK Party, he has no other registration other than this.  May I pass it on please.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "...(indistinct - no microphone)",
+            "Unknown"
+        ],
+        [
+            "MR SIBANYONI",
+            "Mr Ndlovu, what was your operational or your MK name?",
+            "Male"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "I was called Patson Digale.",
+            "Male"
+        ],
+        [
+            "MR SIBANYONI",
+            "Thank you.",
+            "Male"
+        ],
+        [
+            "ADV SIGODI",
+            "I didn't get the name, what was it?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Patson Digale.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Mr Chairperson, I've also enclosed another form as well, to show further proof of his position.  Thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, we have two documents, we have a  document headed\n\"Voluntary repatriation to the Republic of South Africa - Application Form.\"\nThat will be Exhibit A.  And then we have a document with the heading:\n\"Identification on the Certified Personnel Register (CPR).\"\nAnd that would be Exhibit B.  Yes, Ms Loonat.",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "Thank you, Mr Chairperson.\n\tMr Ndlovu, how long have you been a member of the ANC?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "From 1989, when I left South Africa, up until when I came back to South Africa.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Prior to joining the ANC, did you support any other political party?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, there was another organisation.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Please tell the Committee Members what that is.",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "When I was still at school I was a supporter of the UDF.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "And why did you change from the UDF to the ANC?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "The reason for me to change is because when I left South Africa, when I arrived in Swaziland I was welcomed by the ANC people.  That was the organisation that sent me to the other countries where I had to get training.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Why did you leave South Africa?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "The reason for me to leave South Africa, we knew that South Africa was a country with some problems and my intention was to go and fight with the South African people, to try and free them from the oppression.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Who assisted you in leaving South Africa?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "The main person who helped me, there was this other comrade who had crossed in 1986, who used to be my neighbour, he was working as an underground in Swaziland and he came to fetch us and then he sent us to Swaziland.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Does he have a name?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "His full names were Moosa Eric Mbatha.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "And where is he at present, do you know?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Presently he was just - he died in prison in Westville and then he was buried two weeks ago.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "You say that whilst you were at school you joined the political movement, is that correct?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "What exactly did you do at school, as far as the political side was concerned?  Did you attend rallies, meetings, what was your position?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "I used to attend rallies and attend meetings that would be held at school, because we had SRCs in the schools.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Were these not banned at the time?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, they were banned.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "So how did you attend?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "We would meet and there would be people guarding the premises if there were no police because if the police would come to that situation they would disperse the meetings by shooting.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "So these were done secretly.  Was it at night, during the day?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "They would be done during the day because they had to take place inside the school premises and the other pupils or students would guard the premises and watch out for the police till the end of the meeting.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "And what message did you receive when you attended these meetings?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "The message that I would get was to the effect that I would be told about the people's lives, the rights that were taken away from us and the encouragement that people should unite and fight for their country.  All the South African people were supposed to do the same thing.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "You say you left South African in 1989, who assisted you financially and where did you go?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "No-one ever helped me with any finance.  When we left South Africa, we approached the Swaziland border gate and while we were in Swaziland, Moosa Eric Mbatha knew some people who were working for the ANC underground, who were stationed in Swaziland.  Those were the people who took us in a car, took us to the refuge camp.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "What did you do whilst you were in Swaziland?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "I left Swaziland for Zambia in Lusaka.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "So you didn't stay in Swaziland, you moved on, is that correct?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "I stayed for a short while, something like two weeks, because we were still arranging a flight ticket for me.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "You say \"we\", how many of you were involved?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Four of us who were there for the very first time and Moosa was the fifth person.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Were these school friends of yours or relatives of yours or comrades, who were these four people?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "The other people were comrades, but the comrades that were known to me.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Can you give us their names and their whereabouts please.",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Some of them unfortunately are no longer alive, but some of them are still alive.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Do you have any contact with those who are alive?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "The one who is present right now is working with the SANDF.  If possible or necessary, I would be able to contact him.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "And his name please, for the record.",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "His name is Mbogi.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "And what is his position in the ANC hierarchy?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "I do not understand the question.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "You say he was a comrade of yours and together you belonged to the ANC Party.  What I'm asking is, what is his position, his status in the Party, is he just a supporter, is he a Commander, what is he?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "He was just an ordinary comrade, but when we got to exile after training, then he became an MK Commander, until we came back.  I was later arrested and he was integrated to the SANDF.  He is employed there at the moment.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Mr Ndlovu, whilst you were in exile, from Swaziland you went to Uganda, is that correct?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "When I left Swaziland I went to Zambia and then from Zambia I left for Uganda.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "And what did you do whilst you were in exile?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "When I arrived in Uganda, I started with my training in guerilla warfare.  I trained and I completed the course and after completing the course in Uganda, I was transferred to Tanzania.  I stayed there in the camp until I left to a certain place and I stayed there for a short while.  That is when I got to repatriation and then I came to South Africa.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "How long did you train in guerilla warfare whilst you were in Uganda?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "For a year.  My training took a year, because I started in 1990, up until the end of that year.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Who trained you and what exactly, what kind of firearms and things were you trained in?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "In the camp, normally there are so many instructors because there are different programmes, tactics physics, MCW, political education.  It's a combination of selected people, people who have finished with their training and therefore they convene classes with different programmes.  We were trained in each and every firearm, firearms that are used by soldiers, footsoldiers and the other types of firearms.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "And you say that lasted for approximately a year, is that correct?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "You then say you were transferred to Tanzania - why?  What did you do in Tanzania?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "When I was transferred to Tanzania, there was a special course that we had to attend, that was part of the training.  When I arrived there in Tanzania, that particular course was removed and they started with another course which the emphasis was more on repatriation, and the situation forced them to establish a regular army, training people in protecting so that when we'd come to South Africa, we would be integrated to the SANDF.  The course that we went there to do was stopped and we couldn't continue and we were repatriated to South Africa thereafter.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Were you trained in jungle warfare as apposed to guerilla warfare?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Please tell us where and for how long.",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "The course that we went there to do from Uganda, after the guerilla warfare, then in Tanzania we went there for jungle warfare and we were told that it was going to take four years.  The training itself was going to take four years.  Because of the changes here in South Africa, that was changed and we couldn't continue with the course.  And then there was this new course that was introduced, the regular training.  Some comrades took that course and myself and the others were taken back to South Africa, because we were waiting to be integrated in the SANDF.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, and your military background seems to be corroborated by the exhibits that were handed in, so I don't think there's very much in dispute here, in regard to that.  Perhaps you want to deal with the situation when you got back to South Africa.  Can you tell us what happened then?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "After getting into South Africa - I arrived in 1991, December, I experienced a lot of problems.  According to the briefing before leaving the exile, we were told that as were entering the country, there are lots of things that we had done and the community at large was waiting for us.  There were no people who were still harassing other people.  As we knew that we left the country in a very tense situation, therefore we were waiting to be integrated to the South African soldiers, but when we arrived here, we realised that there were gangsters, there were still killings and gangsters associated with organisations that were my organisation's rivals.  There were unknown gunmen driving, shooting people in cars and the police belonging to Murder and Robbery, they would come to the township and shoot at the people and no-one will get a clue as to who did that.\n\tAs that was happening, myself and the other comrade that I was with in exile, Keke Nyawuse, when we saw this happening, we sat down and talked with the other comrades ...(intervention)",
+            "Male"
+        ],
+        [
+            "ADV SIGODI",
+            "Sorry, could you speak a little bit slower, so you can give the interpreter time to interpret for us and we can take down the notes.",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes.  We sat down and talked about it, myself, comrade Keke Nyawuse and the other comrades who were in exile, but they were not coming from my neighbourhood.  We saw a reason as trained people, to do something to help the community.\n\tWe decided that in order to be able to protect ourselves - we had nothing as trained people, we had nothing like firearms to protect the community, we decided that we should get the firearms to be able to protect ourselves as well as the communities.\n\tWe agreed on the first step as to get the firearms.  As trained people we knew how to disarm a person and it was very easy for us to see a person who is not expecting anything.  We decided that the people who did not belong to our organisation would be our targets, people like police.  \n\tIt happened on the 2nd of July in 1992.  We saw this person who had a firearm and we did not know this person and we suspected that he was one of the people who were in the other organisations, other than the ANC.  Our opponents, or perhaps a policeman.  \n\tMyself and Keke, we saw this person as we were standing at Section F.  He was walking down the road.  When we saw him and we took a closer look we saw a firearm on the left-hand side of his jacket and when we saw that he had a firearm we followed him, because that was what we were looking for at that time.\n\tAs he was not expecting anything, when we arrived at the stop sign, Keke Nyawuse went to talk to him as a person who was asking for something else, but he just wanted to distract his mind.  I had an empty bottle, cool-drink bottle, and I hit him at the back of his head.  He fell down and I took his firearm.  I shot in the air twice, though I cannot remember very well if I shot twice or three times, because I wanted him to run away, so that he cannot be able to follow our tracks.\n\tWe took the firearm and it happened after a week or two, I was arrested.  I was sentenced to seven years in prison.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Besides the firearm, what else did you take from the gentleman?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Nothing else, except the firearm.  We only took the firearm.  We left him there in the road.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "What were your plans thereafter?  Once you'd got the firearms, what were you planning to do?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Our main intention was to get the firearms first and then we would be able to protect the community against the unknown gunmen, because people would come and shoot randomly at people on the streets.  Our intention was to get firearms so as to be prepared to fight those people, to make it difficult for them to come and harass the community.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Did you think one firearm was going to be sufficient for what you planned?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Truly-speaking, it was just the beginning of our plan.  That was not the end, we were still going to continue acquiring firearms.  According to what transpired in our discussion, we were still to go to get the firearms from the police as the people who were also our targets.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Mr Ndlovu, when you came back to South Africa and joined the ANC, what was your status at the ANC, whilst you were living in F-Section, KwaMashu?  What was your position, your status in the ANC?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "When I came back from the exile to South Africa, many things still had not happened, like the structures to operate freely.  They couldn't do that.  Even ourselves as the MK soldiers, we were encountering problems because there were no ANC people in our areas, people whom we would be able to contact and tell them about the problems and get assistance from them.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "So in fact, when you planned to carry out these retaliatory attacks on the other party, were you given any particular order or instruction to do so?  Or to report to anybody when you'd done so?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "There was no order that was given to us, there was not even a person that we would report to after an operation, but as the MK cadres, trained cadres, we realise that it was very important for us to protect the people.  As we were trained, we were trained for such purposes, that we should protect our communities against harassment.  That was a joint decision that was taken by us as the MK cadres, to defend the people.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "So in fact, what you're saying is that it's because you relied entirely on your training whilst in exile, you took the initiative to act as you thought fit, in order to protect your people from these attacks by other political parties, is that correct?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, we decided that that was a good idea, because even during our training we were allowed to take an initiative when necessary, more especially when it has got something to do with protecting the community, without waiting for anyone to come and tell you to do something.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So are you saying that that was part of the policy of your organisation? - your actions.",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "It was not against the policy of the organisation that you were part of, not to - it was not against the policy to protect the community?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "I want to explain this.  The problem that we were facing was not our own problem as the people from the exile, but the problem was more about the community, the whole community, because they were subjects of harassment.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, but was your organisation against protecting the community?  Or was it part of their policy?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "As I've explained initially, what we were doing was our own initiative and because of what we knew and the training and the commitment as the MK members, I can say the reason for us to go to the exile was to protect the people.  When that was happening we realised that it was important for us to take an initiative to protect the people, because even it was my commitment to die for the people and to protect them any time.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, I know that.  I'm not talking about the initiative, I just want us to get to the point of this application - hopefully.  All that I want to know is, was it against the policy of the ANC to protect the community, the policy of the ANC and MK, or was it in accordance with their policy?  So in other words, what you did, was that against the policy of the ANC, or was it in accordance with that policy?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, what we did was in accordance with the policies of the ANC, to protect the people.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you, that helps.  Yes Ms Loonat, anything else?",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "Mr Chairperson, could I refer you to page 28 of the bundle, the last paragraph and in fact the last line.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "What, 38?",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "Page 28.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "28, sorry, sorry.  Yes.  Last line?",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "Last line.  He says\n\"We want to ambush them\"\nand he's referring to the IFP and the police.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, yes.",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "I'd just like Mr Ndlovu to elaborate on what he meant by \"ambush\" and what he intended to do.  Thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes alright, go ahead.",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "What I was trying to explain is that in our intentions we had planned that the only way for which we could procure firearms to protect ourselves, would be to obtain these from those organisations who were harassing us, including the police, and we had agreed that these should be the target from whom these firearms could be obtained, because they were always in possession of these.  And we concluded that once we have satisfactorily obtained a certain number of these firearms, we would then be in the position to stop them from shooting as they pleased.  They were to be made aware of our existence in the area.  They had to know that there are people who are protecting the community.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Since your return to South Africa, were you employed?  Since you returned to South Africa, what employment were you involved in?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "At the moment, yes, I am employed.  There is an organisation in KwaMashu for repatriated exiles, called KVA.  What they do is they help the comrades and they work alongside the former RDP, assisting the community insofar as construction companies are concerned in the area, for the building of roads etcetera.  We make sure that these employees from these companies are not harassed whilst doing their work in the township.",
+            "Male"
+        ],
+        [
+            "MS LOONAT",
+            "Thank you.  Have you, or do you foresee that in seeking employment in the future you might have a problem with this conviction against you?",
+            "Female"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, that is in my mind.  That is the reason why I am before this Commission today, I am thinking that the criminal record against me might pose a problem in my efforts to secure myself a job.  But now what hurts me is that I did not commit the crime for personal gain, but I did it to protect the community.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You were convicted and you were sentenced to seven years, or what?  Were you sentenced to seven years?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And you served those seven years?  Your sentence is finished.",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "I spent about four to five years in prison, yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And now you're employed and you're back in the community, is that correct?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, I am back with the community.  That's where I am working for the community.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you.  Ms Loonat, anything else?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, I wanted to say something.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Go ahead.",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "What I wanted to say is to express my sincere apology to the person whom we victimised and his relatives, it was not my intention to gain anything from this personally.  I knew him as one of those people in the community who was not problematic, save to say, we just wanted to secure the firearm from him.  That is what I wanted to say, and further say that if the Commission can assist me in any way, because see, everything that happened did not happen necessarily because of an intention for personal gain on my part.  I am aware now that my fate is apparently affected by this, because there are some places where I cannot employment as a result of this criminal record against me.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you.  Ms Loonat, anything else?",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "I have no further questions.\nNO FURTHER QUESTIONS BY MS LOONAT",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you very much.",
+            "Unknown"
+        ],
+        [
+            "MR SIBANYONI",
+            "Chairperson, maybe while he's still here, can I just ask a question?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, Mr Sibanyoni.",
+            "Unknown"
+        ],
+        [
+            "MR SIBANYONI",
+            "You said, Mr Ndlovu, you hit him with an empty bottle and my question is, did the bottle break?  Did he sustain any injuries?",
+            "Male"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "The bottle did not break.  I hit him with the middle side of the bottle and he fell down.  He did not even bleed, he just got confused and in the process I took the firearm and shot in the air so as to confuse him even further.",
+            "Male"
+        ],
+        [
+            "MR SIBANYONI",
+            "Was he in a position to stand up immediately thereafter?  Because you say you shot in the air to scare him from following your tracks.  Was he able to stand up?",
+            "Male"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, after I had removed the firearm from him, he stood up, came forward with an intention to talk.  I shot in the air and that's when he fled.",
+            "Male"
+        ],
+        [
+            "MR SIBANYONI",
+            "Thank you, Mr Chairperson.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you very much.  Ms Patel, any questions?",
+            "Unknown"
+        ],
+        [
+            "MS PATEL",
+            "No, thank you Honourable Chairperson.\nNO QUESTIONS BY MS PATEL",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Anything else from the Panel?",
+            "Unknown"
+        ],
+        [
+            "ADV SIGODI",
+            "Just one thing that bothers me.  In your last - as you were saying that you were sorry for this, you said that you knew the victim as somebody who was not problematic.  Do you remember that?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Yes, I said I did not know anything against him, to me he was like anybody else, but because we saw this firearm, that is when we suspected him, otherwise he did not have anything against us.",
+            "Male"
+        ],
+        [
+            "ADV SIGODI",
+            "I see.  This firearm, where did he have this firearm?",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "The holster was hanging on the side of his waist and you could see the barrel through the jacket that he was wearing, just below the jacket.",
+            "Male"
+        ],
+        [
+            "ADV SIGODI",
+            "Thanks, Chairperson.",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you very much.  Ms Loonat, anything else?  Is that the evidence?",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "That is the evidence, thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.  Thank you Mr Ndlovu, you're excused.",
+            "Unknown"
+        ],
+        [
+            "THAMSANQA NDLOVU",
+            "Thank you.\nWITNESS EXCUSED",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Have you got any other evidence?",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "No, thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ms Patel, do you have any evidence?",
+            "Unknown"
+        ],
+        [
+            "MS PATEL",
+            "No, I do not.  Thank you, Honourable Chairperson.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you.  Ms Loonat, have you got any submissions on the merits of your client's case?",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "Your Worship, just in mitigation.  May I proceed?",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes certainly.",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT IN ARGUMENT",
+            "Thank you.\n\tMr Chairperson, Honourable Members of the Committee, my learned friends, ladies and gentlemen, Mr Ndlovu is a 30-year old man, unmarried, with no criminal record except the present one.  That is why we are here today.  As we have heard, he was caught up as a student, in the ugly apartheid times.  He was a young virile, impressionable teenager at the time and he was very frustrated with the political situation as it existed in the 80s.  He did not sit back and accept the situation.  He went into exile, leaving his single mother and family, to fight for something he strongly believed in -freedom for his people.  \n\tHe spent approximately three years abroad training in guerilla warfare and rose to the status of a CO, when it was announced that the ANC and other political parties were unbanned, together with the release of President Mandela from Robben Island.  It was safe to return home, or so he thought.  The truth was that those were the headlines, but at grassroots level, nothing changed for him.  In the townships there was still political turmoil amongst the residents.  IFP attacking the ANC and vice versa, followed by the retaliatory attacks in some instances.  My client could not sit back and do nothing, whilst his people were subjected to these sporadic attacks.\n\tMy submissions are that he soon learnt that gangsters were influenced by the IFP, to carry out raids on the ANC.  To name one of the gangs, my client submitted a name called \"Sinoras\"(?)  My client was trained for close on two years to defend his people and he realised he had to take the initiative to do so>  Relying on his training whilst in exile and fearing for the safety of his family and people, who wanted to live their lives without these attacks, he did what he did. Essentially he wanted firearms and ammunition, in line with his training, to defend his area.\n\tChairperson, he has made full disclosure, he has served five years prison sentence for this conviction, he has no other previous convictions, no criminal record whatsoever.  It is my submission that the application complies with the requirements of the Act, and his application for amnesty should be granted in terms of Section 20(1)(a), (b), (c), (2)(a), more especially (d) and (f) and (3) and (a).  Thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you, Ms Loonat.  Ms Patel, have you got anything to say pertinent to this case, not anything inspired by the spiritual atmosphere?",
+            "Unknown"
+        ],
+        [
+            "MS PATEL",
+            "No, Honourable Chairperson, I do not believe that there is anything material that I can add to this.  Thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "That helps, Ms Patel, thank you very much.  I assume you don't want to say anything further.",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "No, thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Thank you very much.  That concludes the formal part of the application.  We would have been minded to give an extempore judgment in this matter if the applicant was in custody.  He's not in custody, so there is no need to do that, it does bring with it some pressure on our administrative system.  So under those circumstances, we will follow the normal route and reserve the decision in this matter, which should be available very, very soon.  But in the circumstances we will reserve the decision.\n\tWe thank you, Ms Loonat, for your assistance.",
+            "Unknown"
+        ],
+        [
+            "MS LOONAT",
+            "Thank you.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "And Ms Patel, in anticipation for the rest of the assistance that will be forthcoming from you.  Thank you.\n\tHas Mr Ntiyane been located?",
+            "Unknown"
+        ],
+        [
+            "MS PATEL",
+            "Just before we commenced, the Pinetown office had called to say that he is there.  I don't know if he's been brought through already or not.  If you would grant me a moment just to check.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, in fact I just thought that I'll raise it to hear if he is here.  We will adjourn now - let's call it the tea adjournment, and then we can see when the next matter is available to be proceeded with.",
+            "Unknown"
+        ],
+        [
+            "MS PATEL",
+            "Yes, I will come and see you in chambers as soon as I know what's happening.",
+            "Female"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you very much.  You're excused, Ms Loonat.   We're adjourned.",
+            "Unknown"
+        ],
+        [
+            "MS PATEL",
+            "All rise.\nCOMMITTEE ADJOURNS",
+            "Female"
+        ]
+    ]
+}

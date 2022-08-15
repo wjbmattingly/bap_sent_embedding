@@ -1,0 +1,3233 @@
+{
+    "header": {
+        "type": "AMNESTY HEARING",
+        "starting date": "1998-07-20",
+        "location": "ERMELO",
+        "day": "1",
+        "names": [
+            "JOHN MNDEBELE"
+        ],
+        "url": "http://sabctrc.saha.org.za/hearing.php?id=52723&t=&tab=hearings",
+        "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98072030_erm_blacat1.htm",
+        "speakers": [
+            "CHAIRPERSON",
+            "JOHN MNDEBELE",
+            "MEV VAN DER WALT",
+            "MR BLACK",
+            "MR HATTINGH",
+            "MR KEMP",
+            "MR MAPOMA",
+            "MR PATEL",
+            "MR PRINSLOO",
+            "MR SANDI",
+            "MS BOSMAN"
+        ],
+        "original_speakers": [
+            "CHAIRPERSON",
+            "MS BOSMAN",
+            "MR SANDI",
+            "MR BLACK",
+            "MR PATEL",
+            "MR KEMP",
+            "MRS VAN DER WALT",
+            "MR PRINSLOO",
+            "MR HATTINGH",
+            "MR MAPOMA",
+            "JOHN MNDEBELE",
+            "MR MNDEBELE",
+            "MEV VAN DER WALT"
+        ]
+    },
+    "testimony": [
+        [
+            "CHAIRPERSON",
+            "Good morning.  This is an amnesty application hearing and for the record, my name is Judge Pillay.  I am going to ask my two colleagues to announce their names for the purposes of the record.",
+            "Unknown"
+        ],
+        [
+            "MS BOSMAN",
+            "Advocate Francis Bosman of the Amnesty Committee.",
+            "Female"
+        ],
+        [
+            "MR SANDI",
+            "My name is Sikilelo Sandi from the Amnesty Committee.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "For the same reasons, will those representatives who are present and have an interest in this application please announce themselves.",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "Mr Chairperson, members of the Committee.  My name is Black, Advocate Black.  I'm a member of the Johannesburg Bar.  I am instructed by the firm of attorneys Nthuli, Nobel and Spoor.  I'm not quite certain whether the numbering of the applicants is going to remain the same.  So, I better mention the names of the applicants for whom I appear.  I appear for ... (intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Black, we will take the numbers as they appear on the application.",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "Mr Chairperson, it's Gushu, number one, applicant number two, Mr Khaba and applicant number three, Mbokane and there has been additional applicant who has been added, who doesn't appear on the original list.  That's Mr Voice Sambo.  We've been furnished with a separate bundle.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are you appearing from Mr Sambo also?",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "That is so.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "As I understood, that's a separate application.",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "That's so, Mr Chairman.  The circumstances surrounding his application are very different from the others.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Then obviously he doesn't form part of this application.  It's a completely different application.  All I want to know is who you're representing in this application.",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "I was given to understand that Mr Sambo would be heard at this hearing.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "His application will be heard at this sitting, not at this particular hearing.  So, you're representing numbers one, two and three and?",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "Those are the only applicants who I represent.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, Mr Patel?",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "As it pleases the Committee.  I appear for applicants number four to thirteen.  Perhaps I should just introduce myself.  My name is Advocate Patel and I'm instructed by attorneys Mthembu and Mohamed.  As it pleases the Committee.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Kemp?",
+            "Unknown"
+        ],
+        [
+            "MR KEMP",
+            "Mr Chairman, my name is Peter Kemp.  I'm a member of the Pretoria Bar.  I'm instructed in this matter by the Pretoria firm of attorneys Wagener and Muller on behalf of three concerned people, namely Mr von Zweel.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Repeat please.",
+            "Unknown"
+        ],
+        [
+            "MR KEMP",
+            "Mr von Zweel.  V-O-N  Z-W-E-E-L.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You're going too quick.  Can you repeat that please?",
+            "Unknown"
+        ],
+        [
+            "MR KEMP",
+            "Mr von Zweel.  That is V-O-N and then Z-W-E-E-L.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ja.",
+            "Unknown"
+        ],
+        [
+            "MR KEMP",
+            "And then Mr Botha and Mr Marais.  And then instructed by a Pretoria firm Strydom and Britz.  I also represent Chief Superintendent Johan Botha and I'm assisted in this, on my right-hand, by attorney Mr Kobus Miller and on my left-hand by Mr Attorney Werner Nolte.  Thank you.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So, you're representing four interested parties?",
+            "Unknown"
+        ],
+        [
+            "MR KEMP",
+            "Four interested parties, that is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, Mrs van der Walt?",
+            "Unknown"
+        ],
+        [
+            "MEV VAN DER WALT",
+            "I am Advocate van der Walt.  I represent Mr Q Mkhwanazi.  He is an implicated person.  Q Mkhwanazi.  That is only one person and I'm also under instructions of the State Prosecutor from Durban.",
+            "Female"
+        ],
+        [
+            "MR PRINSLOO",
+            "I'm Harry Prinsloo.  I am appearing under the instructions of the State Prosecutor for Mr F J Pienaar.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is that the same State Prosecutor?  Is that the same State Prosecutor who has given instructions to Mrs van der Walt?  What is the name of the person?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, my name is Johan Hattingh from the Pretoria Bar.  I've been instructed by attorneys J H van der Merwe of Pretoria and I'm assisted in this matter by Mr Chris van der Hage on my left hand.  I will represent seven of the victims and I could name them.  Jwi Zwane, Chris Ngwenya, Lindiwe Nkosi, Thembisile Eldah Nkambule, Advice Gwala, Obed Friday Nhlabathi, Bongani Malinga.  Six of the names that I've mentioned are deceased people and I received my instructions from the next of kin, the families of the deceased.  Only Thembisile Eldah Nkambule is still alive.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Hattingh, during the course of this hearing it becomes imperative for us, whatever we find in respect of amnesty, if we find that we need to declare certain people victims for obvious reasons, in particular where there are deaths or deceased, that the relationship between the deceased and the victim as it were, we need to know that.  Would you establish that and inform us during the course of ... (intervention)",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, I've already taken that up with my instructing clients and will give the necessary details to this Committee.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Just for the record.  Mr Hattingh, in a nutshell, your clients are opposing the applications?",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "They are opposing the applications.  That's correct.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Thank you.",
+            "Male"
+        ],
+        [
+            "MR BLACK",
+            "Mr Chairman, with the leave of the Committee, my learned friend, Mr Patel and I, have come to an agreement as to the presentation of the evidence.  We feel, given the nature of the applications and the incidents referred to, that a background, albeit on a brief basis, be presented to the Committee and for that purpose the first witness who will be called will be called by Mr Patel who will sketch the situation which prevailed in Ermelo and the Mpumalanga area.  I will then, with the leave of the Committee, call the current incumbent Mayor of Piet Retief, Mr Gamede, who is not an applicant, to provide the Committee with the background to what prevailed in Piet Retief.  We are acutely aware, both Mr Patel, myself and the leader of evidence of the TRC on a previous occasion had got together to try and limit the time and the extent of the evidence which is going to be presented relating to the background situation.  We had a brief meeting, well not a brief, we had a meeting this morning from half past eight with the other representatives.  Without speaking on their behalf, there appears to be some form of general consensus as to the political tensions and the background evidence which is going to be presented.  So, I'm aware that we don't certainly wish to waste the Committee's time of having lengthy evidence, but we feel that some evidence relating to background will be presented.  So, with the leave of the Committee and the permission of yourself, Mr Chairman, Mr Patel will call his first witness who, I understand, is one of the applicants.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Mapoma, I'm terribly sorry.  I omitted to allow you to get on in the act and announce your presence for the purposes of the record.  Will you do so now?",
+            "Unknown"
+        ],
+        [
+            "MR MAPOMA",
+            "Thank you, sir.  I'm Zuko Mapoma, the evidence leader.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are there any objections to the suggestion as explained by Mr Black?  None.  Yes, Mr Patel.",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "As it pleases you, Mr Chairman.  There is such an agreement.  I beg leave to call Mr John Mndebele who features as applicant number five.  Mr Chairman, it was my intention to lead Mr Mndebele with regard to the background.  On the brief historical background document contained in the papers before you, I see there's no such copy before the witness and I wonder if such a copy can be placed before him.  I think also it's probably necessary for me to mention at this stage, which I ought to have mentioned earlier on, what I've picked up from the bundle of papers, which we all seem to have, is the form, the application form which forms part of the Bundle A running from sixty eight (68) to pages seventy four (74), whilst it relates to a Mkhwanazi, it is not the Mkhwanazi which is applicant number four.  There is an incorrect application form in the documents before you.  I have mentioned this to the leader of the evidence and he has undertaken to ensure that the correct application form is placed before the Committee, as well as all my learned friends present here.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What name should the proper application be?",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "His full names are Jabi, J-A-B-I, Aaron Mkhwanazi.  The name seems to be very similar.  It also relates to an Aaron Mkhwanazi, but it's not the same person.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "The proper person was born on the 9th of October '67?",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "Yes, that would be.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Identity number 6710095705081.",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "Yes, that would be correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I do have the application before me.",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "If I may then proceed with the evidence of Mr Mndebele.  I see he has the copies of the documents before him.  For the record, Mr Mndebele, could you tell the Committee what is your full name?",
+            "Male"
+        ],
+        [
+            "MR MAPOMA",
+            "Sorry, Mr Patel, we have to swear him in.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "If I be given that chance I'll do so.  Mr Mkhwanazi, which language would you prefer to use?",
+            "Unknown"
+        ],
+        [
+            "MR MAPOMA",
+            "Excuse me, Chairperson.  Sorry, Chairperson.  Just for correction purposes.  I understand, sir, that you mistakenly referred to him as Mkhwanazi.  He's Mndebele.  John Mndebele.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "(Sworn States)",
+            "Unknown"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Mndebele, my apologies.  I referred to you by another name.  I'm just correcting it for the record sake.",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Okay, thank you.",
+            "Male"
+        ],
+        [
+            "EXAMINATION BY MR PATEL",
+            "As it pleases you, Mr Chairman.  I intend to lead Mr Mndebele through the historical background which commenced on page nine  of Volume 1.  Mr Mndebele, what is your full name?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "We do have that bit of literature before us.  I thought you had said you're going to do so briefly.",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "As it pleases you, Mr Chairman.  Mr Mndebele, where were you born?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I was born in Ermelo.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "You've lived for your entire life in the Ermelo area?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "At the time this brief historical background that is in front of you, was this prepared with your assistance?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Could you read the historical background for the Committee?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.\n\"In 1989 and in Wesselton, an anti-crime committee was formed on the initiative of the South African Police.  The ACC comprised mainly young members of the community and was principally lead by Chris Ngwenya and Jwi Zwane.\"",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Mndebele, are you comfortable with the English language or would you prefer Zulu?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Okay.  I'm not fluent in English.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "If that be the case then ... (intervention)",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That's why I prefer my home language.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Patel, then you better lead the witness.",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "As it pleases you, Mr Chairman.  Mr Mndebele, I'll read to you the background statement and you can just confirm the correctness of what I am reading.\n\"During 1989 and in Wesselton, an anti-crime committee ...\"\nWhich will hereinafter be referred to as the ACC\n\"... was formed on the initiative of the South African Police.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.\nMR PATEL\n\t\"The ACC comprised mainly young members of the community and was principally led by Chris Ngwenya and Jwi Zwane.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.\nMR PATEL\n\t\"The ACC itself, however, within one month turned to crime and to terrorising the Wesselton community.  In addition, it was apparent that the ACC were being supported by the South African Police, the IFP, as well as the municipal authorities.  It further transpired that members of the ACC, the Black Cats were trained operatives of the IFP.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.\nMR PATEL\n\t\"It is not clear at what stage the ACC adopted the name of the Black Cats.  On twenty second (22nd) July 1990 and ... (intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Before you continue.  What does the IFP stand for?  It's not very clear from this document.",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "As it pleases.  What does the IFP stand for?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The IFP stands for Inkatha and the Black Cats.\nMR PATEL\n\t\"On twenty two (22) July 1990 and at a public meeting called by the South African National Civic Association, SANCO, which enjoyed the support of the majority of the community, a decision was taken to dissolve the Black Cats.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "If you turn the page\n\"The Black Cats, however, refused to dissolve and instead a spate of attacks on people and property ensued.  In the main, the attacks were directed at ANC members and structures.  Some of the details of which of such attacks are summarised in annexure A.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Yes.  Now, annexure A, is it a complete list of all the killings and destruction of property?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, that's not the complete version.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Who compiled annexure A?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Our secretary is the one who compiled annexure A, but he did not get the whole information.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Sorry, Mr Patel.  Mr Mndebele, when you say \"our secretary\" who are you referring to?  Who is \"we\"?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I am talking about Silos Nkonyane, the one who compiled a report on what was happening.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "This Silos Nkonyane you've just mentioned, who's secretary is he?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "He was ANC secretary.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Thank you.  Proceed, Mr Patel.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "As it pleases the Committee.  Just for completeness sake, Mr Silos Nkonyane is the seventh (7th) applicant in this matter.  Going further to the statement, Mr Mndebele, you say\n\"As can be gleaned from annexure A, Wesselton was subjected to a reign of terror and that people who aligned themselves to the ANC were the prime targets.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.\nMR PATEL\n\t\"During July 1990 the Executive members of SANCO or the ANC, namely John Fanyana Mndebele, Nicholas Mthundisi Zwane, Jabi Aaron Mkhwanazi and Sipho Silos Nkonyane met with the late Chris Hani with a view to obtaining directions as to what was to be done.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Who is John Fanyana Mndebele?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "It's me.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Yes.  The other people mentioned here, Nicholas Zwane, Jabi Mkhwanazi and Sipho Silos Nkonyane, are they also Africans before this Committee today?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Ja.\nMR PATEL\n\t\"They were advised to return to Wesselton and set up self-defence units to arm themselves and members of the organisation so as to protect ANC members and structures as well as the community at large.  In addition, they were advised to do what was necessary to quell the violence.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.\nMR PATEL\n\t\"This was in any event the policy of the ANC as broadcasted on Radio Freedom by the late President Tambo as far back as 1996 when he called on the people to multiply the formation of people's defence militia everywhere so as to meet more effectively the assault by the enemy's armed forces and the treacherous vigilantes and impis which they employed.  Our people's armies strengthened by the emerging popular militia must intensify and spread its armed actions across the country.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Just to correct a year.  It's not '96 it's '86.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Yes, thank you.  If we continue\n\"The same advice was received by the committee from Jacob Israel Mabena, the secretary general of COSATU, Eastern Transvaal and the ANC chairperson for Secunda.\"",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Mr Mabena is also an applicant before this Committee today, is that not correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Correct.\nMR PATEL\n\t\"It was clear that the SAP were protecting and assisting the Black Cats in their reign of terror and that no reliance could be placed on their intervention.  Their reluctance to intervene and their assistance rendered to the Black Cats can be gleaned from annexure B hereto being the submissions made to the Goldstone Commission regarding their investigative procedures.  Annexure (I would imagine it should be B) is not intended to be exhaustive of the SAP complicity in this matter.\"\nDo you agree?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Ja.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Just for the sake of clarity, Mr Chairman, annexure B being the submissions are actually contained in Volume two (2) of the documents before you.\n\"During October 1990 and at a public meeting, despite the protests of the Executive members of SANCO, the community demanded the physical removal of the Black Cats.  Thereafter the Executive members attempted a number of peace initiatives with church ministers acting as mediators to resolve the dispute without any success.  By this time the terror and destruction campaign had spread to surrounding areas such as Secunda, Davel, Breyten and Piet Retief.  It became apparent that the ANC, as an organisation, had to protect itself from destruction by a determined enemy who was prepared to use any means whatsoever to achieve it's objectives.  Measures had to be taken to defend the ANC, many of which measures the committee realised would have to be carried out in emergency situations, requiring immediate decisions on the part of its members.\"\nDo you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Now, in consequence, you, Nkonyane, Zwane and Mkhwanazi formed a special committee to consider more drastic steps to remedy the situation and to put into practice the orders received from the ANC Command?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Ja.\nMR PATEL\n\"Despite the situation of turmoil, the committee at this stage earmarked only one person for assassination, namely Jwi Zwane.  Mkhwanazi was instructed to have Jwi Zwane assassinated.  Mkhwanazi in turn instructed Mzwandile Gushu to carry out this task.  Gushu was also instructed in general to bring the situation under control.  There was an implied instruction to Gushu that he was to recruit assistance from SDUs, self-defence units, in the local community and he was to obtain arms and ammunition, and to finance these operations from whatever source possible, including armed robberies.\"\nWould you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Ja.\nMR PATEL\n\t\"In furnishing such instructions you and the committee realised that civilians could be injured.  However, the risk thereof could not be allowed to prevent the urgent need that had arisen for retaliation and the response required of a responsible organisation to deal with the situation.\"\nWould you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Ja.\nMR PATEL\n\t\"Mr Jwi Zwane was assassinated in July 1991, but his death had little, if any, effect on the violent attacks being waged by the Black Cats.  Unfortunately three other people, namely Happy Mhlongo, Eric Nkosi and Sibusiso Tito Nkosi were injured in the attack on Jwi Zwane.\"\nDo you confirm those events?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.\nMR PATEL\n\"In February 1992 the special committee resolved to assassinate Chris Ngwenya.  Once again, Mkhwanazi instructed Gushu to carry out this task.  In March 1992 Chris Ngwenya was assassinated and to a large extent the attacks by the Black Cats decreased although not completely.  In the perpetration of the assassination of Chris Ngwenya, one Lindiwe Nkosi, a member of the IFP Women's League, was also killed and Thembisile Nkambule was wounded.\"\nDo you confirm those events?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Mr Mndebele, at the time that these offences were committed were you affiliated to any organisation?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "And could you tell the Committee to which organisations you were affiliated?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I was a member of the ANC and a member of SANCO.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Are you affiliated to any organisations at present?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "What is your present occupation?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I'm a member of the ANC.  I'm in the Executive.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Right.  If you would turn to page eighty six (86) of the bundle of papers before you.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Sorry, Mr Patel, if I may ask a question just to get further clarity on the very last point by the witness.  He says he is a member of the ANC Executive.  Which Executive is this?  Is this the ANC Executive at local level, provincial level, regional level?  What level is this?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "At the local level.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Thank you, Mr Patel.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Thank you, sir.  If you turn to page eighty eight (88).  This is your statement and these are your submissions.  You say that\n\"At all stages you were acting as a member of the ANC, either under direct or implied orders of the ANC.  More particularly, in emergency situations requiring an immediate decision.\"\nYou continue and you say that you believe that you were engaged in a just war as a member of a liberation organisation and you fully accept responsibility for your actions.  In so doing, you say you were furthering the aims and objectives of the ANC.  Do you confirm that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "You submit further that the IFP, the South African Police and Government authorities were viewed by the ANC as the enemies of the ANC given the atrocities committed by them against the ANC and members of the community.  Is that correct?  Do you confirm?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "You say that in the main you were driven to the offences referred to above to promote stability in the area.  By doing whatever was necessary to quell the violence and to defend ANC structures, members and the community at large.  You say further that you at no stage acted out of a sense of personal malice against any of the victims and nor were you motivated by any personal gain.  Is that true and correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "I have no further questions.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Patel, are you satisfied that this applicant has dealt with his particular application?",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "As it pleases you, Mr Chairman.  You will note that this particular applicant claims amnesty in respect of, as it's detailed in the schedule which is contained on page twenty (20) basically relating to the murder of Jwi Zwane, the attempted murder of Happy Mhlongo, Sibusiso Tito Nkosi and Eric Nkosi.  That relates to the one incident in respect of which he, in his role as this special committee that was formed, gave an instruction to Jabi Mkhwanazi who in turn instructed one Gushu to carry out the deed.  The second instance is one in respect of the murder of Chris Ngwenya, the murder of Lindiwe Nkosi and the attempted murder of Thembisile Nkambule.  That's another incident also arising through the same method as the previous one where there was a meeting of the special committee.  The third incident in respect of which he claims amnesty, is the general instruction to set up self-defence units, were to illegally arm themselves.  This too is covered, as I see, in the background history that the applicant has read out to the Committee.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Are those the only applications he wishes to place before this Committee?  Nothing further?",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "That is correct, sir.  It's only in respect of those two incidents and a general instruction to form self-defence units at the time when they returned from their meeting with the late Mr Chris Hani.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "What offence was this, Mr Patel, when he suggested or when he became part of the decision that defence units should be set up?  What kind of crime was this?",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Well, I would imagine that it's illegal to set up self-defence units at the time and even today I would imagine.  But perhaps I should ask the applicant to explain to the Committee what steps he took in order to set up self-defence units.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, you better be careful about that.  You may be inviting answers that you don't want.",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "As it pleases you.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "If you require time to consult your client about let the request stand.  If you're not certain what answers you're going to get you rather play it safe.",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "I do know what answers I'm going to get.  As it pleases.  Mr Mndebele, on return from your visit to Mr Chris Hani, the late Mr Chris Hani, with a view to setting up self-defence units, what action, if any, did you and/or your co-members of the special committee take in order to set up self-defence units?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "When we came back we got together and we agreed that there was a need for a self-defence unit.  We took steps such as calling other youths and informed them to start the self-defence units.  More especially Jabi Mkhwanazi, our chief.  Thank you.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Did you, in informing the youths in setting up self-defence units, tell them how to go about it?  That is the setting up of the self-defence units.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I can say we were always in a meeting situation to discuss things after which one of us would go to the youths and tell them to form the SDUs.  We knew that they had to arm themselves illegally, but that was the situation at the time.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Yes.  I have no further questions.\nNO FURTHER QUESTIONS BY MR PATEL",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Black, I don't suppose you have any questions, do you?",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "If this evidence is confined solely to background, I don't want to really get into merits, but I just want to clarify one paragraph.  Mr Mndebele, could you page to page thirteen (13) please.  I refer you to paragraph sixteen (16) in particular there.  As far as Mjonzele Gushu was concerned, was he, from what I gather there, placed in control to recruit people to carry out the instructions or to further the aims of the African National Congress?  When it's referred to, \"instructed in general to bring the situation under control\", was that carrying out the aims and objectives of the community and the African National Congress?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Would you please repeat the question?",
+            "Male"
+        ],
+        [
+            "CROSS-EXAMINATION BY MR BLACK",
+            "I refer you to paragraph sixteen (16), with the sentence which reads, \"Gushu was also instructed in general to bring the situation under control.  That sentence.  Is it meant that his actions or whatever steps he took in recruiting people to carry out actions or to bring the situation under control was for the purposes of obtaining stability in the community or to further the aims and objectives of the African National Congress and members in the community?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The aim was to bring stability to the community and also to attain the objectives of the organisation to protect the organisation and the community.",
+            "Male"
+        ],
+        [
+            "MR BLACK",
+            "By referring to the organisation you mean the African National Congress?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BLACK",
+            "Now, there's also reference in some of the statements made to a Mr Chris Ngwenya.  Did he play a prominent leadership role in the Black Cats organisation?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, he was a prominent leader.  He was working hand in hand with Jwi at the time.",
+            "Male"
+        ],
+        [
+            "MR BLACK",
+            "When you refer to Jwi you're talking about Mr Zwane?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR BLACK",
+            "Yes.  Did you know of a person by the name of Obed Nhlabathi and whether or not he was involved in the Black Cats?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, he was highly involved.",
+            "Male"
+        ],
+        [
+            "MR BLACK",
+            "Mr Chairman, I understand that the witness is an applicant and should any further questioning arise out of the merits of any of the applications which I am making, then I'll ask leave to recall him.  But I understand at this stage it's more of a general background.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What would that entail?",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "Beg your pardon?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What would that entail that some sudden aspect may emerge that you would like to recall him?",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "I just understand that he is available and I don't know how these matters proceed.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, we'll cross that bridge if and when we get to it.",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "I just clarify one other issue.  From your evidence I understand, do you as the committee and the members of the ANC accept responsibility for the actions which were carried out by the applicant Gushu and people whom he was authorised to recruit?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, we were accepting that because the intention was to bring stability.",
+            "Male"
+        ],
+        [
+            "MR BLACK",
+            "Thank you.\nNO FURTHER QUESTIONS BY MR BLACK",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Kemp, have you got any questions?",
+            "Unknown"
+        ],
+        [
+            "CROSS-EXAMINATION BY MR KEMP",
+            "As the Committee pleases.  Mr Mndebele, in paragraph twelve (12) of your general background you make a statement that\n\"It was clear that the South African Police were protecting and assisting the Black Cats in the reign of terror and that no reliance could be placed on their intervention.\"\nIs that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Would you please repeat your question.",
+            "Male"
+        ],
+        [
+            "MR KEMP",
+            "In short, in your background you stated that the Black Cats were given support by the South African Police in the Black Cats reign of terror in this area, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.  You are saying the police were assisted by the Black Cats?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You couldn't trust the police to intervene and stop the Black Cats from doing what they were doing?  Is that your question, Mr Kemp?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR KEMP",
+            "Now, in support of this allegation, you referred to the submissions placed before the Goldstone Commission, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR KEMP",
+            "Are you aware of the finding of Mr Justice Goldstone in respect of those submissions?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR KEMP",
+            "Then I would just like to point out very briefly to you what Mr Justice Goldstone reported on the first (1st) of June 1993 in respect of these allegations, and I will be very brief, Mr Chairman.  In the first instance, I refer to paragraph 44.6 of Mr Justice Goldstone's report in which he stated the following.  He stated that\n\"The only evidence of SAP complicity in the criminal activities of the Black Cats was that of the three informers of the Weekly Mail.\"\nNow, I hasten to add, Mr Mndebele, that at least one of those informers are one of the applicants in this application.  I'm not exactly sure whom yet because he testified under a pseudonym Mr A, but that will become clearer at a later stage.  Mr Justice Goldstone continued to say that:\n\"They contradicted themselves and each other.  They were quite unreliable.  On the other hand, evidence adduced by the SAP satisfied the committee that these allegations were devoid of substance, in particular that there was no justification for the allegation that the Black Cats received intensive backing from white police officers.\"\nCan you comment on that?",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Ja, Mr Kemp.  Sorry, Mr Kemp.  If I may interrupt here for a moment.  I think one would have to be careful how he goes about putting that particular portion of the Goldstone report to the witness because, as I go through this report, it seems that Judge Goldstone had quite a number of unpleasant things to say about the police in the same report, the same report you're referring to.",
+            "Male"
+        ],
+        [
+            "MR KEMP",
+            "Mr Chairman, I'm referring to the particular allegations which are relevant here.  If necessary, one may refer to the, as it was mentioned, unpleasant comments.  Those comments did not, not a single one of them, refer to complicity in violence or in assistance of people in violence in the sense that any of these applicants suggest and I submit that the statement made by me to the witness is fair and I am surprised that he would include in a general background a statement relying on submissions placed before the Goldstone Commission without giving this Committee the benefit of that Commission's finding in regard of those very same submissions.  And I would merely would like to invite his comment now that I've given him Mr Justice Goldstone's finding, Justice Goldstone and his committee's finding in this regard.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Mndebele, Mr Justice Goldstone, in his report I think to the State President, indicated that he could find no evidence that he could rely on to indicate that there was any type of underhandish relationship between the Black Cats and the South African Police at the time.  What the advocate is asking you is to comment on that.  I would like to know from you as well if you agree with his finding or not?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I can say those who were within the Black Cats did assure us that they were working with the police.  That is why I am sure that they were working with the police because Israel Hlongwane did indicate to me that he's working with the police.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And at that time did you believe that to be the case?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, I believed because they were not arrested.",
+            "Male"
+        ],
+        [
+            "MR KEMP",
+            "In all fairness to you, Mr Mndebele, I also intended to point out to you a further finding of the Goldstone Commission in which Mr Justice Goldstone and his committee reported that\n\"The committee is unable to find as proven that the SAP was unwilling to take action against the Black Cats.  It may well have been so whether or not there was every justification for the perception by many people that the SAP were working with the Black Cats.\"\nSo, the perception existed and Mr Goldstone also found that such a perception existed in the community.  Now, I merely want to put it to you that isn't what you are trying to tell this committee that such a perception existed, it may not necessarily have been so, but that perception did exist, isn't that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I am saying things and the perceptions was as it were, it is because for example if one indicated that he knew a perpetrator one would expect the perpetrator to be arrested.  The person would be arrested and released the following day or not arrested at all.  There were many Black Cats in the police station, that is during the time of the violence.  They used to frequent to the police station.",
+            "Male"
+        ],
+        [
+            "MR KEMP",
+            "I merely wish to conclude, to put it to you, Mr Mndebele, that all these allegations were individually examined by Mr Justice Goldstone and he could not find one case to support the allegation made by you today.  Thank you, Mr Chairman.\nNO FURTHER QUESTIONS BY MR KEMP",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are you wanting an answer to that?",
+            "Unknown"
+        ],
+        [
+            "MR KEMP",
+            "It was merely a statement put.  If the witness wishes to answer he is free to do so, but I don't require an answer.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, what's the point putting it to him?",
+            "Unknown"
+        ],
+        [
+            "MR KEMP",
+            "Because if I don't put it to him it might be argued that I never put my case to him.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I would like to answer that.  Those who were working hand in hand with the police should come before this Commission in order to confirm my allegations.  For instance, Sugar can come forward and tell the Commission that he was working hand in hand with the police.",
+            "Male"
+        ],
+        [
+            "MEV VAN DER WALT",
+            "Ek het geen vrae nie.",
+            "Unknown"
+        ],
+        [
+            "MR PRINSLOO",
+            "I've got no questions.",
+            "Male"
+        ],
+        [
+            "CROSS-EXAMINATION BY MR HATTINGH",
+            "Thank you, Mr Chairman.  Mr Mndebele, what was your position at the time, that is 1990 to 1992?  Were you in business or did you work?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I was a chairperson of the ANC at that time, locally.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you also run a business?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Is it also true that the person who controls the community is the most successful businessman in that community?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Just repeat that question.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Is it true that the person or grouping who controls a specific community also has the better opportunities of doing business there?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Opening up a business or conducting a business doesn't mean that you should be a prominent member of the community or be working with the community.  You do open up a business if you wish to.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "I make this statement because evidence will be led that businesses and the success of businesses was also something that played a role in the violence.  What is your comment in that regard?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is not so.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Hattingh, are you suggesting that that was peculiar to that time only?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "I'm not suggesting that it was peculiar to that time only, but I suggest that that may also have been a motive for some of the incidents.  The brief historical background document that was read out to you, can you just explain to the Committee, is this document your own version of events or is this just a document with which you assisted in the preparation thereof?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is my document.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Is this your statement?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "All the details contained in this statement you are the source of those details?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Sorry, Mr Hattingh.  Sorry, Mr Hattingh, just to cap over on this very issue concerning the document.  Are you the only source of this document, Mr Mndebele?  No one else had an input in the drafting of this document?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I'm the only one who wrote this document or statement and I submitted it to my attorney after writing it and it was typed.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Which document are you talking about?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I'm referring to the statement.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Oh.  I think we're talking about the document reflecting the general background of what led to the incidents.",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, even that one I wrote.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I thought you told me that that was primarily a document composed by the secretary?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Annexure A was compiled by the secretary when he was compiling the report with regard to the victims, people who got injured as well as those who died.  But the brief historical background was written by me.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Will you turn to page ten (10).  Now, page ten (10) is part of the document reflecting the general background, not so?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "In paragraph seven (7) there's reference to an annexure A?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is that what you meant when you said that Mr Nkonyane drafted the document, were you referring to annexure A?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, Mister?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Thank you, Mr Chairman.  If we could go through this document from paragraph one (1) on page nine (9) of the bundle of documents.  To what extent was this document prepared?  With knowledge that you personally have and to what extent was prepared with what you heard from other people?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "This is my personal knowledge.  The information that I received which proved that the police were working with the Black Cats was that the police were linked to the Black Cats and they were protecting the Black Cats.  That's the only information that I received.  The rest is my personal information as I experienced it and as I knew it.  The only thing that I heard was the relationship between the Black Cats as well as the police, that they were working together.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "In paragraph five (5), the meeting on the twenty second (22nd) of July 1990, did you attend that meeting?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Which paragraph is that?",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Paragraph five (5) on page nine (9) which starts, \"On twenty second (22nd) July 1990\", and the public meeting called by SANCO.  The question is, did you attend that meeting?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, I was present at the caucus that is for the preparation of the meeting, but not the meeting itself.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Annexure A that was prepared by Silos Nkonyane, the secretary of the ANC, do you perhaps know how this was compiled?  From what source and what documents were all those incidents taken to compile annexure A?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "From all of us, because each and every one of us had some experience to share with regard to what happened.  We remembered the dates and we reminded each other of the dates on which these occurrences took place.  That's how we compiled that.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Why do you say that this annexure A is not a complete picture of all the incidents?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "It's because we didn't remember all that took place.  There's a lot that happened, but not all of it is contained in this document.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Would it be fair to say that there were no other important incidents that occurred and that were left out from this annexure A?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Could you repeat your question please.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Sorry, Mr Hattingh.  Isn't that exactly what he is saying?  As I understand the witness here, he says, \"We got together and compiled a whole list of incidents pertaining to events that were taking place during the given period.  However, this may not be a complete list of everything that had happened during that time\".  I think that is what he is saying.  He is not by any means guaranteeing that everything that took place is included in this list.  This is not an exhaustive list of everything.  \"There may be some incidents which we omitted, we forgot to mention and put them down in the list\".",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, while accepting that this is not a complete and exhaustive list, I merely would like to find out from this witness whether we can accept as fair that there were no other major or important incidents that took place that were not mentioned in this list, whether that would be fair to accept that as a fact.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, you're asking for his opinion on whether a matter could be regarded as major or minor.  If you're asking that and you get an answer you stop with that.  You can't hold it against another witness because that would be his opinion.  If that is your question I'll allow it.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "That would remain my question, yes.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "What was the question?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "The question is, in your opinion, can you recall or can you remember today incidents which you would regard as more important than those reflected in these documents or can't you say?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "As of now I cannot say because I had not yet got a chance to recall as to what else happened that is not included, but there are certain things that will transpire as time goes on.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, the point I would like to make is that from the background document it would appear that a decision was taken during the middle of 1990 to involve SDUs to safeguard ANC members and property and the community at large and according to annexure A, approximately fifteen (15) serious incidents occurred in 1990 and nothing was done.  The first person that was targeted to be eliminated, this was only done early the next year.  Could you explain that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Your question is not clear.  I don't know what you want to elicit.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, the decision was taken during the middle of 1990 to do something about the violence, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "And that decision was taken by a committee consisting of ANC supporters or members, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "According to annexure A, consisting of a total of twenty six (26) incidents starting July 1990 and ending somewhere in 1991, approximately two-thirds of the incidents occurred in 1990, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The incidents that took place stated during 1990 and they went further on and we hoped that the police would be able to solve these problems, but to no avail and people continued dying.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "But the decision to eliminate the first person, Jwi Zwane, was only taken when it was already quiet again, is that not correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The violence was always there.  There was no stage when there was no violence.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "The annexure A refers to mostly ANC targets, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "There is the members of the community or the victims within the Ermelo area.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, if you could just bear with me for a moment.  Thank you, Mr Chairman.  Did you take part in the Goldstone investigation or did you testify before the Commission of Judge Goldstone?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, I didn't.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Was that not an option that you could have taken at the time to quell the violence and to get the community under control?",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "With respect, Mr Chairman, that questions seems to be unfair.  Shouldn't we establish firstly from this witness whether he knew that there was a Goldstone Commission?  Secondly, it must be established from this witness whether he knew what the Goldstone Commission was about before he can take the informed decision by himself as to whether or not to go and testify in order to bring about the end to the violence.  It must also be established from this witness whether he thought that the result of the Goldstone Commission would end the violence in the Wesselton area.  As it pleases the Committee.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Before we get on to that, what's the point of the question?  I don't follow it.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, the point is that at the time there was an alternative to do something about the violence in the community and what one would like to elicit from this witness is whether they considered this alternative instead of giving instructions to assassinate people.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Your question presumes that it was a satisfactory option?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "That's correct, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let me ask the witness himself then.  Did you know about the Goldstone Commission at that time?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "When the violence started there was no Goldstone Commission.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Even during the violence?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "It wasn't there until at a later stage when we heard that there a Goldstone Commission.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "When did you hear there was a Goldstone Commission?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "If I'm not mistaken, I think it was during 1992, if not '93.  Between those two years.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And what did you think of the Goldstone Commission?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We heard that they were conducting investigations with regard to the violence, but we did not have any trust in the Commission itself because of the fact that I thought it was working with the Government that was oppressing us at that time and to me it appeared as one of the enemies and as one of the oppressors.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Hattingh, do you know when the Commission started?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, no, I wouldn't know.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Does anybody know when that Commission started?",
+            "Unknown"
+        ],
+        [
+            "MR KEMP",
+            "The first hearings of that Commission started in January 1991 in Cape Town and continued through until about February/March 1992 and the first report was brought out on the 1st of December 1993, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I see.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Thank you, Mr Chairman.  Mr Mndebele, I would like you to turn to page thirteen (13) of the bundle of documents, to paragraph sixteen (16) of the background statement.  Now, the question is, what information was obtained and/or considered by your committee prior to coming to the decision that Jwi Zwane was to be eliminated and assassinated?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We tried to discuss, there were also peace talks, but they proved futile because we would meet, discuss issues and people would continue to be dying or be killed.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "The question is not what was done in order to avoid the assassination, but on what information was the decision to assassinate made?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We saw him as a perpetrator of the violence.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Proceed.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "And on what was that based, your view that he was the perpetrator of the violence?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "There was a time that he shot at a coffin where we witnessed the incident.  That was during a funeral and they attacked people who had attended the funeral.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "When was this funeral?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That was during 1990.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Was that the only incident that you can recall that on which your committee's decision was based to assassinate Mr Zwane?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "There were a lot of other incidents that took place and in some instances it was due to people's complaints.  Even when you approach him he would just tell you that he is being controlled or was being controlled by Ulundi and whatever instructions he was carrying out were from Ulundi, and he therefore didn't want to negotiate with anyone else.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "From your own personal ... (intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What did that mean, that he received instructions from Ulundi and carried that out?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I think that meant that whatever he was perpetrating, that is the killing, the disturbance that he caused, as well as the violence, he probably receives the instructions from Ulundi from whoever.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you speak to Mr Zwane yourself personally?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, I did.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "The funeral you were referring to, Mr Mndebele, whose funeral was it?  What nature was it of, this funeral, where the shooting took place?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "It was the funeral of some youth where unexpectedly he came with his group to attack the mourners.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now, the point of the question is, this funeral how would you describe it?  Did it have any political undertones or was it just a private funeral, as a normal funeral?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, he was an active youth.  He was involved in politics, that is the deceased.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "How did he die, do you remember?  Of natural causes or also as a result of an incident?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "He was killed.  I'm not sure as to how he was killed, whether it had anything to do with politics, but he was shot.  I think he was shot by the police, if I'm not mistaken.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You say he was involved in politics.  On which side of the divide was he involved?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "He was a member of the ANC.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Thank you, Mr Chairman.  Jwi Zwane was only assassinated in July 1991.  Now, how could this incident of the funeral during 1990 have a bearing on your decision to assassinate Mr Zwane?",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Objection, Mr Chairman.  Hold it.  The witness has testified that it wasn't the only information on which they based their decision.  To suggest to the witness through this question that they based it solely on what happened at the funeral is totally unfair.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, aside from that, Mr Hattingh, I think the trend of the questioning in that regard was, \"Why did you think or why was he earmarked for assassination.  What made you think he was a cause of the violence\", and hence that type of answer came through.  He did of course, and Mr Patel is correct, says that that was not the only incident, there were many other instances which were indicative to them, rightly or wrongly, which indicated that he was partly at least to the cause of the violence and that's why they made that decision.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Thank you, Mr Chairman.  Perhaps, Mr Mndebele, could you then explain further what other information were at your disposal at the time when the decision was made for the assassination of Mr Zwane?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "There was also another incident that took place and the violence even stretched to Piet Retief as well as Davel and Ermelo as well.  People were being killed and victimised.  That's when we realised that as members of the community we were not safe, we had to take action.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Mndebele, tell me, when you confronted him and he said that look, he's only carrying out instructions from Ulundi, when did that take place?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That was before he got killed.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Ja, well.  Yes.",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I think it was, I'm still trying to think of the year, it was early 1991.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Was that after the violence had started?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And what gave rise to that answer?  What did you confront him with?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I was telling him that we should work together as members of the community in order to try and quell the violence, that there should be some tolerance amongst the political organisations, that people should have the freedom to affiliate with whatever political organisations that they wished to affiliate with so that the members of the public would be protected, because quite a number of them were innocent victims and I was voicing my concern to him.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Why did you think he was the appropriate person to raise the issue of the violence with?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "It's because he was the leader of the Black Cats.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, Mr Hattingh?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "This person, Mr Mzwandile Gushu, did you know him prior to him getting the instruction to assassinate Mr Zwane?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I didn't know him before then.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you meet him at the time when he was given the instruction for the assassination?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, I never met him.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Was it discussed at your meeting that this person Gushu would be instructed for the assassination?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, we discussed it at a meeting.  We were a committee, four of us.  We discussed it amongst ourselves, there was also a chief commander, Jabi Mkhwanazi.  He's the one who came up with the decision that he will speak to a person who would carry this out, because what was important was peace and stability and what we could do in order to gain back or maintain peace and stability.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "If Mkhwanazi was the chief commander, why was he not instructed or requested to in general bring the situation under control?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We were not fully conversant with the positions or we were not really concerned about positions that people occupied.  What we wanted was to maintain peace and order and we decided that we could do anything in our power in order to try and keep the peace.  We did not have a link, that is between ourselves and Gushu.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you know at the time whether Mr Gushu was employed by the ANC or a member of the ANC or a member of uMkhonto weSizwe?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Firstly, I would say that we did not know that he had been deployed at Ermelo area.  We got to know that at a later stage.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Was Mr Gushu paid for the work he had to do?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, he wasn't going to be paid, but he did it for the organisation.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "You make the statement that Gushu was also instructed in general to bring the situation under control.  What was the idea?  What was discussed?  How would one person bring the situation under control?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Could you repeat the question?",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "In paragraph sixteen (16) on page thirteen (13) of the bundle of documents, in the second last sentence thereof, you say, \"Gushu was also instructed in general to bring the situation under control\".  Now, the question is, how would one person, what was your idea, your discussions, how would one person succeed on his own to bring the situation under control?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That was a time of violence.  He was going to use any method or technique that was going to make him successful.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you have control over the SDUs?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The speaker is not audible.  Will you please repeat your question.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you and/or your committee have control over the SDU's?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you meet and/or communicate with the SDU's?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Gushu would from time to time meet with Mkhwanazi.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "But the SDUs, did your committee meet with them?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, we would meet from time to time, but not on a regular basis.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "In paragraph sixteen (16) you also make mention of an implied instruction to Gushu, inter alia that he was to obtain arms and ammunition and to finance these operations from whatever source possible, including armed robberies.  Is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, that is correct.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Was this ever discussed at your committee?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, we did discuss this, that we had to obtain arms and ammunition because we asked ourselves as to how we were going to protect ourselves if we were not armed.  So, we had to devise some means in order for us to be able to defend the community and protect ourselves as well, because we did not have arms and ammunition at that time.  So, we realised that we had to do anything in our power in order to be able to obtain the arms and ammunition or do anything that was going to bring in finance in order to buy or purchase arms if we had to.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I notice there are a number of people standing at the back of the hall.  I don't mind if they go sit down on the side there where I see there's spaces.  I'll give them time to do so.  If the interpreter could just interpret that please.  And furthermore, those who are wearing floppy hats or peak caps will you kindly remove those, as well as sunglasses if they are not prescribed.  It's not a ruling, it's just a request.  Yes, Mr Hattingh.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Thank you, Mr Chairman.  Were you at the time aware of any specific instruction to Mr Gushu to commit robberies?",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Mr Chairman, at this stage I would like to object to this line of questioning.  As I have it on record, Mr Hattingh appears for seven (7) victims, none of which were injured or killed during robberies.  I can't see where the line of questioning is going.  As it pleases the Committee.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, no doubt I represent victims for which Mr Mndebele makes application for amnesty.  Mr Mndebele also spent some time in what they call a background to all the incidents.  I think in the circumstances that I am more than entitled to in fact deal with this background as presented by the witness on behalf of the applicants.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let me ask you this.  Are you contesting that background?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, I made it clear from the outset that as far as the victims are concerned, the ones that I represent, we accept as a fact that there was strife, conflict and fighting in the area.  What we do not accept as a fact is the apportionment of blame or putting of people under certain parties or teams or factions like Black Cats.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "It's interesting that you should raise that, Mr Hattingh.  This is an observation I made on my own without having consulted my colleagues.  That even if it is at the end of the day a matter that we need to make a finding on, that the categorisation of certain deceased is incorrect, is the fact of the matter not what was bona fide the belief at the time, and shouldn't we concentrate on that rather?  I'm just suggesting.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "No, Mr Chairman, we too believe that the perceptions that the people had at the time would perhaps be more important than the actual facts.  But what I'm dealing with at the moment is in fact the background to the instructions to people, the assassinated victims.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "That's precisely.  The witness says that as a result of the meeting it was decided that they had to take the law, as it were, in their own hands and protect themselves.  In doing so, they got hold of Mr Gushu and in general terms gave him instruction and I dare say approval, as I read this document, to recruit any assistance so as to quell the violence and to do what is necessary which included armed robberies to facilitate that first instruction.  Now, unless you are going to say or argue at the end of the day that that is not true, the questioning is going to lead us nowhere.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, perhaps the reason we would like to deal with this particular issue is that there were in fact armed robberies committed by applicants who also killed or assassinated victims whom I represent, and in that sense their credibility for doing whatever they did and for which they now apply for amnesty would come into play and I think it would then be appropriate for me to, knowing that we will deal with their credibility on their reasons or motives for perhaps killing one person and committing another deed like armed robbery, that their credibility would be at stake.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Mr Hattingh, perhaps the correct approach would be to ascertain from this witness how far this mandate went, how far did it go.  What seems to have been a mandate to Mr Gushu, how far did it go.  What would fall within the parameters of that mandate and what would not.  Can I just ask a question to the witness?  Mr Mndebele, we need to find out exactly what kind of mandate was given to Mr Gushu.  As I understand your evidence, Mr Gushu was told to do whatever was necessary to achieve those stated aims and objectives of your organisation, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "What to do and what not to do was something which would have to be decided by Mr Gushu and not your organisation which had given him this mandate, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Now, was Mr Gushu told specifically not to do anything in the carrying out of this mandate or instruction?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "He was not told, he was just told he should do whatever was necessary to maintain stability.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "In terms of that mandate, what would be your attitude to robbery?  For Gushu to go out and commit an act of robbery under the belief that he's furthering these aims and objectives of your organisation?  What would you say to that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We accept that.  We approve of it because the organisation did not have money and arms.  Whatever he did to secure money and arms was acceptable so that the community can be protected.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Does that solve your problem, Mr Hattingh?",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, to some extent, but my question remains and it's a straightforward question, did this committee instruct Mr Gushu to commit armed robberies?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, maybe I may have to make it easier for him.  Mr Mndebele, if it were put to you at some time during your evidence that you know, this idea of armed robberies is a fabrication after the event, but in fact no such instruction or approval either implied or otherwise was given to Mr Gushu, what would you say?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Would you please repeat your question?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "If it were to be put to you that this idea that Mr Gushu had to do whatever was necessary to gain peace, and including armed robberies was a fabrication after in fact armed robberies were committed, and in fact what really happened was that he was not given such a mandate and approval, what would you say?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "If we were saying that he could do anything in his power in order to obtain money for arms and ammunition, that is just like saying that we gave him the authority to act in such a manner.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "No, but if it were put to you that such approval was not given at all, what would you say?",
+            "Unknown"
+        ],
+        [
+            "MS BOSMAN",
+            "Mr Mndebele, this idea of committing armed robberies to obtain funds, was that in line with general ANC policy at the time, do you know?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, but the situation warranted that we should take such decisions because we needed the arms and ammunition but we did not have the money.  So, we realised that we had to do anything in our power in order to be able to quell the violence and they had to act in accordance with the instructions given to them.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "Am I correct then in understanding you to say that you had acted outside the scope of general ANC policy?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I could say that, but that was still the principle of the ANC because we did not have the arms and ammunition.  So, we had to use whatever we had in order to obtain them.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, just to clarify this now.  In your meeting between yourself, Nkonyane, Zwane and Mkhwanazi was it discussed that armed robberies would take place to enable you to obtain arms and ammunition?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We did not discuss that at the meeting, but we left the decision-making to Mzwandile and the self-defence units that they could do anything in their power in order for them to be able to protect the community.  We never specifically told them what to do, but we gave them the powers to act in whatever manner possible in order to try and quell the violence and maintain peace.  So, we gave them the authority to do whatever in their power or in their discretion.  So, they had to decide for themselves as to what action or pattern to follow.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "But the fact that you would agree or accept armed robbery was never conveyed to the operatives like Mr Gushu?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Gushu was doing anything that was going to enable him to obtain firearms and ammunition in order to protect the members of the community.  He did anything in his discretion or his power.  He could rob, he could steal, he could do anything that he deemed fit as long as he was going to be able to protect the community.  We accepted that.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, would you just answer my question.  The fact that your committee accepted and were happy with the fact that armed robberies would be committed, was that information conveyed to an operative like Mr Gushu?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, let's put it this way.  Did you speak to Mr Gushu yourself?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Were you present when he was given these instructions?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, I wasn't.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "So, can you say what was told to him?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "What I know is that we discussed that at a meeting at some stage, the fact that Mkhwanazi conveyed whatever was discussed at the meeting and passed it onto Gushu.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are you able to tell us what was conveyed to Gushu exactly?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "What I know is that Mkhwanazi told Gushu all that we discussed at the meeting.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Were you present when that occurred?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, I was not present at that stage when Gushu was being told, but I do know it for a fact that we sat at some stage, the four of us, and discussed what should be done.  Then Mkhwanazi would be the go-between between us as the committee and Gushu.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, Mister, I think that's the closest we're going to get.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Thank you, Mr Chairman.  In paragraph seventeen (17), the last line thereof, you make mention of \"response required of a responsible organisation to deal with the situation\".  Is it your evidence that instructions to a person to assassinate and to commit armed robberies is in keeping with a responsible organisation?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The situation warranted that.  We did realise that it was not the best action to follow, but we had absolutely no option at that time because it was a war situation, there was violence.  It was not a moral issue that we had to discuss or to deal with, but we had to protect lives.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "In paragraph seventeen (17) you say that Zwane was assassinated in July 1991.  Can you remember today approximately when this meeting was held where it was decided to instruct someone to commit the assassination?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I don't remember the date, but it was before that.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Are you in a position to give any indication as to approximately how many weeks or months prior to the killing of Mr Zwane the decision had been made?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I think it was four weeks prior to his death, if I'm quite positive.  I think it was four weeks.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "After Mr Zwane had been killed, did you get a report back from either Mr Gushu or anyone else with regard to your instructions?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, we did get that from Mr Mkhwanazi.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "What was reported back to your committee?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "He told us that the mission had been accomplished.  We echoed that and said we hoped that there would be relative peace and calm.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "What was reported to you about the other three people that were injured in this incident?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We also were informed that there were other victims who got injured, but because of the situation at that time we were not able to do anything.  We just accepted it as we were told that they were victims.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "During the reporting back were you advised how this assassination was carried out, in what form, with what weapons?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We never got a full report as to the details, but we were quite satisfied that he had been eliminated and that the violence was going to be quelled.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "During the period ... (intervention)",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "They told us that the mission had been accomplished.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Was Mr Gushu present at this reporting back?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, he wasn't.  We never liaised with Gushu at any stage.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Have you met Mr Gushu at any stage?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I once saw him.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "When was that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is after Jwi had been killed.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you speak to him?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, I never did.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Now, in this period between July 1991 and February 1992 when your committee once again resolved to assassinate another person, namely Chris Ngwenya, what happened in that interim period?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "When did we meet?  What period did you say we met?",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "According to paragraph seventeen (17) and eighteen (18) of your background statement, Zwane was assassinated in July 1991 and your special committee once again met in February 1992 where it was resolved to assassinate Chris Ngwenya.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "The question is, what occurred in the interim period with regard to fighting and meetings of your special committee?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Your question is vague.  Could you please clarify it.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Why did you find it necessary then to have Chris Ngwenya assassinated?  What occurred that led to that?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The violence continued, even more than before and there was a time where people from the night school or adults who were attending night school were killed.  That is when we realised that there was no way that the violence was going to stop and Chris at that time was the leader and the information that we elicited was that he was working with Israel Hlongwane and they were destabilising the community.  We realised that if Chris was to be eliminated maybe the violence could stop once more.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, according to your annexure A1, page eighteen (18) and page nineteen (19) of the bundle, it would appear that as from approximately August 1991 until the time in February 1992, when your special committee resolved that Chris Ngwenya was to be assassinated, that nothing of note occurred.  There are no indications of any killings of ANC people for a six month period prior to your decision to eliminate Mr Ngwenya.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Objection, Mr Chairman.  We've traversed this already.  The witness has made it absolutely clear, and accepted by Mr Hattingh, that annexures A1 is not a complete and exhaustive list.  There are lots of other things which memory fails and which he hasn't put forward or hasn't been put forward as prepared by Mr Silos Nkonyane.  We've traversed this.  For that reason it's unfair to suggest to the witness that because annexure A1 is silent as to what happened after a particular date, therefore nothing was happening.  As it pleases the Committee.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, I'm not suggesting that nothing happened.  All I'm saying, and I'm asking this witness to perhaps give us his thoughts in this regard, is that in his own statement with annexure A1 annexed to that statement, no mention is made of any killings of ANC people during that period.  Although we accept that he says that they can't remember each and every incident, I just want this witness to explain perhaps why this relatively calm period of six months prior to the decision of the assassination of Chris Ngwenya, whether this could be explained.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "But, Mr Hattingh, I don't understand the witness to be suggesting that during what you have referred to as a calm period there were no incidents of killing, harassment etcetera here.  He doesn't say there were no such incidents during that period, and I think implicit from what he has said, perhaps not much weight should be attached to this annexure here if we are to look for a complete and exhaustive list of all individual incidents that were happening here.  I'm trying to say I have a difficulty with what you're trying to put to the witness.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, I'm not trying to submit to this Committee a list of incidents of the time.  What I'm doing is, I'm cross-examining a witness with regard to his statement in which is incorporated an annexure which purports to show this Committee what occurred during that period.  Although it is not exhaustive, the reason for the incorporation thereof is in fact to show to this Committee how many ANC people were killed and people who suffered at the time.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is this so?  Is it not possible that it was attached merely to indicate the type of problems that were being experienced as example?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, if that was the case then one would not have expected this witness in his statement to say that one can see that after the assassination of Zwane, nothing happened.  The violence was still continuing and he in fact in his statement incorporates the annexure.  Now, I think it's for the witness to explain perhaps why there was nothing of note to mention in annexure A1 if they discussed it between themselves to add to that list during the period six months prior to the decision to assassinate Chris Ngwenya.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Maybe the question you should be putting to the witness is whether he's aware of any incidents that were taking place immediately before the killing of Ngwenya.  Perhaps that is the question you should be asking him.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, I would prefer my own question, but if all else fails we can ask the witness.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "In drafting that annexure A, can you explain to us today, if you can't say you can't, why there's not specific mention of any specific incident which would have influenced the committee's decision to assassinate Mr Ngwenya?",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "With respect, Mr Chairman, I don't think that that can really be put to the witness.  I mean, we've got the assassination of the first leader some time in July 1991.  If we peruse Exhibit A1, page nineteen (19), there are a number of incidents cited therein which occur after the death of Jwi Zwane.  And these incidents are serious.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is from ten (10) August to March '92.  Ten (10) August '91 to March '92.  Yes, that's incident number fifteen (15) on page nineteen (19) to incident seventeen (17).  By my arithmetic, that's more than six months.",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "What is also more important there, it's recorded in paragraph sixteen (16) that there are many more others that we could not access their dates.  Now, to put to this witness that nothing was, and that's the implication I get from the question, nothing was happening in this period.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Then you misunderstand.  The question, if I can make it as simple as I can, are you able to explain why for the period August '91 to February '92 incidents that may have occurred during that period were not mentioned in annexure A.",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "There are certain incidents that took place.  As I've already explained that people were being victimised continually.  We would get injured people, killed people and at the time people were not able to go to the extension.  If you were a member of the ANC you could not go to that area.  The victimisation still continued.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Ja but, Mr Mndebele, are you able to recall any specific major incident which occurred immediately before Mr Ngwenya was killed?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "There was a time when people were killed.  That was before Chris was killed where bodies were discovered.  I think there were about two victims that I do remember were coming from night school and at times we would get reports from members of the community that certain people had been injured and had been admitted to the hospitals, and we did get complaints from people who were not able to visit certain areas.  And these were the incidents that took place which made us realise that the violence had not yet been quelled and we wanted some political tolerance to prevail.  So, that's when we decided that we should remove Ngwenya.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "This situation you've just talked about of continuing violence immediately before Mr Ngwenya was killed, was the name of Mr Ngwenya mentioned?  Was he in any way implicated in these incidents?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The information that was at our disposal was that he was always the leader during such attacks and that when his followers carried out these attacks they did them on the basis of the instructions that they received from Chris.  So, we knew that he was actually the instructor and the commander.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "Mr Mndebele, did you in any way keep a record of the complainants to your committee from members of the community?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, we never used to record.  We did record some of these complainants, but others were not recorded.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Ja but, Mr Mndebele, the list you have prepared of various incidents that were taking place during this time gives one the impression that someone was keeping a list of these events somewhere.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "When this report was compiled we went to certain members of the community who were victims or relatives of victims and we went around collecting this information and we would write it down.  That's how we got to compile it.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "How were you able to recall who to go to in order to compile this list?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "There would be certain people that we remember, others would be remembered by others.  It was sort of a domino effect thing, whereby everybody would contribute and say, \"I know of a victim somewhere\", and we would go to the respective victims.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, so it's clear that your committee or perhaps yourself made an effort to go to the community to obtain the information to enable you to compile annexure A1 to give an indication as to the events of that particular period?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I can put it in this manner.  We wanted to get the names as well as the surnames, that is the full particulars of the victims.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, you went to the community for information about violence at the time, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We had the information.  We wanted to get the names or the full particulars of the victims.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "And all the information that you had and all the names and particulars of the victims that you obtained from the community you included in your list, annexure A1, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Could you please repeat?",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "The information that you had, as well as the particulars and names of victims that you obtained from the community with regard to the period 1990/1992, all that information was included in annexure A1, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, that is correct.  It was included.  So, we had the information.  All we needed were the names and the particulars of the victims and all that is included in the annexure A.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Would it further be correct to say that there was no reason to exclude any information of violence against ANC people during the period 1990 to 1992 from this list, annexure A1?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, before you answer that question.  When was this list drafted?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "This was compiled during the year 1996, but the secretary had the other lists or the other names and we had to go and find out from the respective members of the community as to the names and their particulars.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, Mr Hattingh?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Thank you, Mr Chairman.  The question was, was there any reason for you to exclude any names or particulars of victims or incidents from this list?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I wasn't the only one who had the information.  Quite a number of us had the information and it's not that only one person knew of any incident.  We would be quite a number of people who knew about one incident.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let me put it to you this way, Mr Ngwenya.  As I understand your evidence as a whole, that in trying to - sorry, Mr Mndebele.  In trying to draft this list, you did this in consultation with some of your political colleagues and by memory, and with the help of the community of incidents you could remember in 1996, is that correct?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "That is correct.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "As I understand your evidence also, is that naturally those incidents that you had forgotten of, forgotten about would not be included in that list drafted in 1996?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, as I've already pointed out that this list is not conclusive.  We never used to write them as they occurred, we only wrote about them at a later stage.  But if we kept lists of the occurrences as they occurred we probably might be accurate, but due to the fact that we wrote about these occurrences only after they had occurred, I cannot say this list is hundred percent (100%) correct or conclusive.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, could you then just respond to my question.  Was there any reason for you to exclude any information from this list?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Whatever I know or I knew is included in that list.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "According to the list, there is a distinction made between incidents where the police were allegedly the aggressors, and incidents where IFP impis were the aggressors, and incidents where the Black Cats were the aggressors, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, I could say that is true.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "If you have a look at annexure A1 on page eighteen (18) which starts in 1990.  Every time it is mentioned which party you considered to be responsible for this particular incident.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Could you please repeat the reference.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "If you have a look at page eighteen (18) of the bundle of documents, annexure A1, as from 1990 where the list starts on the twenty seventh (27th) of July 1990, every time a party or grouping which you considered to be the aggressors or the people who caused the incident were mentioned.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "And what's your question?",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Was it just by chance that this distinction was made between either Black Cats, police or IFP impis or what was the reason for this distinction?",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Hattingh, it could hardly be expected to be any different considering the nature of the application, is it not so?  The nature of the application is based on a dispute between political parties and alleged SAP complicity etcetera.  So, one would expect the list to indicate and to fortify the application in such a manner.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, I merely would like to get confirmation in this regard.  From the paper, from a first glance it would appear that to be the reason, but I merely would get confirmation from this witness that it was in fact the case, that it was possible at the time to note that the responsible party was either the police or Inkatha impis, IFP impis or the Black Cats.  Mr Mndebele, I could phrase the question differently.  When it is noted that the Black Cats were responsible for a particular incident, was that entry made on specific information that it was in fact the Black Cats and no one else?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The people who were being attacked would be able to identify these certain groups, but at that time the people were scared to come forward and report on these groups because they knew that the Black Cats worked with the police.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "The IFP impis were not the Black Cats, is that correct?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "It was one and the same thing.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Hattingh, when you get to a convenient stage we'll take the lunch break.  When you get to a convenient stage we'll take the lunch break.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "What is your response?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The Black Cats and the IFP were one and the same thing.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "I'm referring to the Black Cats and the IFP impis.  Was there a distinction between those two parties?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "If you could just explain to me what is the difference between IFP and IFP impi.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, I'm not going to explain anything from my point of view.  What I'm asking you is, in your annexure A1 it is sometimes stated that the perpetrators of a particular offence were the IFP impis and in other instances it is mentioned that the perpetrators were the Black Cats.  Now, all I'm asking you is to explain why this distinction was made?",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Ja, but sorry, before he answers that question, Mr Hattingh.  Does it not perhaps go without saying from what the witness has said, that in those individual instances where it is specified as to who the perpetrator was, naturally it must have been the source of that particular information who says the perpetrator was IFP, it was Black Cats, it was impis and so on and so on?  I thought he had told us some moment ago that whilst they were compiling this report they went around asking people about these various incidents and people were telling them about the incidents and they would go on to say the perpetrator in that offence was this, it was Black Cats, it was IFP.  I'm not sure how far you're hoping to take the matter.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, while I appreciate the assistance, I really believe that the question is not this difficult for this witness not just to ask him to say that in his own mind there was a distinction between ... (intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Let's put it to him then as a last question before lunch.  Mr Mndebele, is there a difference between IFP impis, as you refer to in that list, and the Black Cats?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The Black Cats and the IFP were one and the same thing.  They used to disguise themselves as the Black Cats, but whenever there was a problem they were being led by the IFP members.  Whenever there were funerals, that is IFP funerals, the Black Cat members would also be present.  So, whether you choose to call them the IFP or the Black Cats, they're one and the same thing.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, perhaps it would be a convenient time for the lunch break.\n[ADJOURNMENT]\n[ON RESUMPTION]",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "The Committee had opportunity to discuss certain issues during the lunch adjournment and I think it would be prudent and better for everybody concerned if we could have an indication as to who exactly the victims or their relatives are and on what basis the opposition is being submitted.  Is that at all possible?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, yes, that is in fact possible.  As far as the applicant, the present applicant Mndebele is concerned, he makes application for the murders of Zwane and Ngwenya, both of whom were victims on whose behalf or from the families where I hold an instruction.  The basis of the ... (intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Who would that relative or next of kin be?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, as far as Jwi Zwane is concerned, his brother Elias Zwane who is also present.  As far as Chris Ngwenya, Lindiwe Nkosi and Thembisile Eldah Nkambule are concerned, I just want to get instructions from my attorney.  The mother of Chris Ngwenya and for that matter, the mother-in-law of Lindiwe Nkosi and then Thembisile Eldah Nkambule in person.  That is as far as this applicant is concerned.  The basis is that we would like to test the applicant's, can call it attitude that he committed or he partake in the arrangements for the murders of these people with the intent of the furtherance of the aims of a political organisation.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Is there any concrete reason why you should think differently?",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "As far as Zwane is concerned, I've been instructed by his brother, Elias, that there was in fact a problem as far as the businesses were concerned, both Jwi Zwane and the present applicant were in business in the area and the businesses were attacked in an effort to eliminate a business for personal gain.  As far as Chris Ngwenya is concerned, we don't have specific instructions.  Our problem obviously is that we don't at this stage really have available any witnesses or statements from eyewitnesses to indicate that the killings were in fact committed for any other reason, but my respectful submission would be that we are in any event, on behalf of those victims, entitled to test and cross-examine this witness, this applicant, on his alleged reasons for partaking in those crimes.  That's it.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Hattingh, I can quite understand if you have specific instructions that really that the deceased and the applicant were business competitors and that may be the reason for assassinations.  That's concrete reason, whether we accept it or not is another matter.  But in this kind of particular hearing and process, it is not an inquiry and we want to finish these thousands of matters in time.  We've only got about a year to finish and I think it would be better that if there are no specific instructions in order to contest or oppose the application, then we should refrain from testing, as you put it, when we have no concrete means of doing so, and I think that's the general attitude we will adopt throughout.  It goes for anybody.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, if I may respond to that.  I trust that we will be allowed at least then on the basis of the applicant's own version of the events as set out by this applicant for instance, where on the papers itself prepared by him there appears to be ... (intervention)",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "That would be concrete.",
+            "Unknown"
+        ],
+        [
+            "MR HATTINGH",
+            "Thank you, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Can I just make a request here.  Perhaps this request would apply in the case of every counsel who appears for victims, families or whoever was affected in whatever way by the acts of the applicants, that whenever you ask a question, one should please bear in mind the basis of his or her objection to the application, having pointed out the basis on which the application or applications are being opposed.  One should bear in mind that the question or questions being asked have to be somehow related to that.  I'm not sure if I've made myself clear.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, as far as I'm concerned, I'll do my best to assist.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "(s.u.o.)",
+            "Unknown"
+        ],
+        [
+            "CROSS-EXAMINATION BY MR HATTINGH",
+            ": (cont)\n\tThank you, Mr Chairman.  Mr Mndebele, I do not want to belabour the whole issue of a distinction between the Black Cats and the IFP impis, but would I be correct to say that the Black Cats were a small group, numbering only a few people while the IFP impis implies a much, much larger group of people?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I would say the IFP was just a small group at Ermelo, it doesn't have a large followership here.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, as far as annexures A and A1 are concerned, I just want to put it to you, and in all fairness give you the opportunity of responding to that, on annexure A, the last time that mention was made of Black Cats being perpetrators of any form of crime was on the twenty ninth (29th) of July 1990.  That was prior from that day, the twenty ninth (29th) of July 1990 until the date when the decision was made to have Mr Chris Ngwenya killed.  And on annexure A1, the last date when the Black Cats were mentioned as being the perpetrators was on the thirtieth (30th) of June 1991.  That's incident number thirteen (13) on page nineteen (19).  My question is, do you have any explanation which you can forward and tell this Committee at this stage why it was decided that Mr Chris Ngwenya was to be assassinated, which decision was taken some time in February 1992?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I think I did explain that the death of Jwi did not in any way lead to the violence subsiding.  Violence continued, people continued to die up to a time where a decision was taken that Chris too was problematic.  He was involved in the violence.  At the time Chris was working together with Israel Hlongwane, involved in this violence, we therefore came to an agreement, made a decision to remove him with the hope that the violence will subside.  People who were from school died after Jwi had died.  They shot these people at the veld, people who were coming from night school.  That was one of the reasons that led us to taking the decision that he be removed as well because we hoped that the violence would subside.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Lastly in this regard, I just want to put it to you that when having reference to your own annexure A and A1, it would appear that there was no indication of any violence whatsoever in the six to eight months prior to the decision to have Chris Ngwenya killed.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I think I did indicate that this list is not conclusive, it's not complete.  There are some other events that happened which are not necessarily in the list.  For example, we were not in the position to liaise with the people who were victims.  There are many things that happened which are not in the list.  I also indicated that the dates in annexure A are not accurate.  Some of the dates are correct and some are not.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you yourself take any action against either the Black Cats or the supporters of the IFP apart from sitting in that committee where certain decisions were made?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Would you please repeat your question?",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you yourself take any action against either the Black Cats, member of the Black Cats, or supporters of the Inkatha Freedom Party apart from your taking part in the special committee where certain decisions were made?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "What part are you talking about?",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Did you do anything to any of the Black Cats, members of the Black Cats or Zulu supporters, apart from being part of that special committee?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, I was communicating with members of the Black Cats and the IFP, telling them that the violence should come to an end.  We should come together, work together so that we can move forward.  That was an attempt on my part to try and quell this violence.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, is it correct that the victim Jwi Zwane was in fact killed at your own business, at your shop?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, it is true, but not at the shop.  I think it's about fifteen (15) or twenty (20) metres away from the shop.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "I've been told that Jwi Zwane was lured to your business by a certain Popolina and she asked him to stand outside your shop and he was then killed.  Do you know anything of this?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, I know nothing about that.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Do you perhaps know who pointed out Zwane out to Gushu?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Were you present on that day when Zwane was killed at your business?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I was not present.  I only arrived and received a complaint from the shop that people were crying, saying shots were being fired and that was that.  When I arrived there this thing had already happened.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Is it correct and something which you were aware of at the time that Jwi Zwane was working with his brother Elias Zwane in another business of theirs?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I knew that he was Elias' brother, but I knew him to be unemployed.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "The applicant Gushu also applies for amnesty for the killing of Advice Gwala.  Did you take part in any discussions and instructions for the elimination of Advice Gwala?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, I know nothing about that.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "The person Lindiwe Nkosi who was killed together with Chris Ngwenya, did you know her?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, I knew her.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Was there any instruction for her to be killed as well?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No instruction was issued to the effect that she should be killed, but the instruction was meant to kill Chris, for Chris to be killed.  I think she must have been caught in the crossfire.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "As far as you were aware at the time, was Lindiwe Nkosi also a problem in Ermelo?  As far as political stability was concerned.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "She was a member of Inkatha.  She was Chris' wife.  That's as far as I know.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "The question was, did she cause any problems in Ermelo during that period of which you were aware of?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I didn't know if there was a problem, but I only knew she was a member of Inkatha.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "And Thembisile Nkambule, was there any instruction for her to be killed?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No.  As I have explained, there was no instruction or order issued that Lindiwe and the other one should be killed.  I think they were just unfortunate to be caught in the crossfire.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Sorry, Mr Hattingh, can I just come in on one very specific issue so that we won't have to come back to it.  Mr Mndebele, during this conflict was it part of the way this conflict was happening that one would be killed simply because he was a member of a political party?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Would you please repeat the question?",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "During the political conflict and violence you have spoken about, would one be killed only because he or she was a member of a political party?  Just for that reason would one be killed?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No.  Let me say that people who were killed were the ring leaders in the violence.  If we were to kill everybody, many people could have died.  We were just looking for the lead perpetrator.  We believe that people had the right to join whichever political party they so wished.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Mndebele, lastly I would like to put to you that on your own version as set out in the documentation, as well as your evidence today, it would appear that at least Chris Ngwenya or the instructions for Chris Ngwenya to be killed was in fact not given with the aim of promoting stability in the Ermelo area because there was no instability at that time.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "I must object to that question.",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "You must have been present when you say there was stability.  What I know is that there was no stability at Ermelo at the time.  (APPLAUSE BY AUDIENCE)",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Thank you, Mr Chairman.",
+            "Male"
+        ],
+        [
+            "MR HATTINGH",
+            "Mr Chairman, no further questions.  Thank you.\nNO FURTHER QUESTIONS BY MR HATTINGH",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "I want to address the audience.  This is a process where people are trying to sort out their lives and their future.  We are not here to score points.  Serious crimes have been committed and people are trying to come to terms therewith and live with themselves and I would appreciate it if we don't have applauses etcetera as we just did.  Mr Mapoma, have you got any questions?",
+            "Unknown"
+        ],
+        [
+            "CROSS-EXAMINATION BY MR MAPOMA",
+            "Thank you, sir.  Mr Mndebele, I just have one point, sir, to clarify with you.  In your background statement, in page thirteen (13), paragraph 16.2, you say there there was an implied instruction to Gushu that he was to obtain arms and ammunition to finance these operations from whatever source, including armed robbery.  Are you aware that Mr Gushu has applied for amnesty for armed robbery here?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I did not take that as an armed robbery, I took it as a political action because he had been sent by ...(indistinct) to do everything in his power to make sure that we succeeded.",
+            "Male"
+        ],
+        [
+            "MR MAPOMA",
+            "So, are you saying his action falls within the general instructions that you had, that the SDUs must be formed?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Exactly.",
+            "Male"
+        ],
+        [
+            "MR MAPOMA",
+            "Now we know that the ANC had no policy that armed robberies must be committed, is it so?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "It did not have such a policy as you have stated, but the circumstances under which we lived were such that everything had to be done for us to succeed, because people were not arrested and Inkatha or the Black Cats were armed.  They also had guns.  We knew that they had those things and we knew the caches, reporting these on the police.  They would just dismiss it as non-existent.  I went to people, indicated to them that Israel Hlongwane had shot a person in extension at that stage, a person whose name was Andries.  I spoke to Mr Marais about this and he said he was going to go and arrest him.  But the following day he indicated to me that there was no evidence and he let him go.  That was after I had spoken to Israel Hlongwane.  Bongani had actually also told me that Israel Hlongwane is the one who killed Zini.  I took this matter up with the police but they said there was no evidence and therefore anything else had to be done so that we too could arm ourselves to protect our people.  In a war situation one does everything to survive, depending on the circumstances.",
+            "Male"
+        ],
+        [
+            "MR MAPOMA",
+            "So, are you saying that armed robbery was committed within the framework of the formation of the SDUs, as was instructed by the ANC?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "This came about as a result of our wish to protect the community.  For the protection of the community, as I have earlier on indicated, there had come a time where we concluded that they had to do everything in their power so that the community is protected, and if they realised that we did not have money to buy weapons, they had to come up with a way wish they could best use.",
+            "Male"
+        ],
+        [
+            "MR MAPOMA",
+            "Now, did the ANC have set out regulations as to how to form SDUs?  Did it have rules that this and that should not be done in the process of forming the SDUs?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "As far as I know, there were no regulations, but the self-defence units were under the ANC.",
+            "Male"
+        ],
+        [
+            "MR MAPOMA",
+            "So, do I understand you correctly, that the local structures would decide for themselves how to form the self-defence units?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The self-defence units were the ones who would come up with a decision as to what they wanted to do, as long as they had a wish and an intention of promoting the organisation.",
+            "Male"
+        ],
+        [
+            "MR MAPOMA",
+            "So, was it within that particular framework that you as the special unit decided to instruct Gushu to operate in whatever way, as long as he's going to form the SDUs?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR MAPOMA",
+            "Thank you, sir.  No further questions.\nNO FURTHER QUESTIONS BY MR MAPOMA",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Any re-examination?",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "I have no re-examination.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "(Inaudible)",
+            "Female"
+        ],
+        [
+            "MR SANDI",
+            "Chairperson, the speaker's mike is off.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "What was the nature of your business you were involved in?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Cafe.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "Was any of the Zwane family involved in that type of business?  Mr Zwane of relatives of his, did they run the same type of business?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "There was no one around the section in which I resided or operated.  The one person that I know, the other Zwane, was in a different section about one and a half (1,5) kilometres from my shop.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "Did you regard that as being in competition with you, one and a half (1,5) kilometres away?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, this is not part of it.  I don't even remember discussing it at any stage.  There are six (6) shops around my shop and therefore there is a healthy competition and this was nothing but political, it doesn't involve business.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "When you decided or discussed the plan to eliminate Ngwenya, did you take this up with the ANC on a national or a regional level or did you only discuss it amongst yourselves?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We discussed this as ANC within our committee.  We had a provincial mandate from national right down to the local level.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "And then Mr Gushu, he was given a very wide mandate, according to your evidence.  Did you check out his credentials in any manner to ensure that he would carry this wide mandate out in a responsible manner?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I did not used to liaise with Gushu.  The one person that I used to communicate with is Mkhwanazi, not Gushu.",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "Did you ask Mr Mkhwanazi about Gushu?",
+            "Female"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "(No English interpretation)",
+            "Male"
+        ],
+        [
+            "MS BOSMAN",
+            "Thank you, Chairman.",
+            "Female"
+        ],
+        [
+            "MR SANDI",
+            "Mr Mndebele, was there any reason why you would not talk directly with Gushu?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "It was the policy of the organisation that a commander.  We are dealing with a commander here or the chief of staff so to speak.  He is the one who will decide how the communication should flow down there.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "This special committee you have made mention of, was it a generally known committee?  Was it known generally by members of the ANC that such committee existed?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "It was not generally known, but it was known at Ermelo.  We knew ourselves as a committee that was in charge of peace and stability and how to bring this violence to an end.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Should I understand that to mean that you were not a secret or covert committee, you were operating above board?  You had no problem about your committee being known by members of the ANC or whoever?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The committee operated such that it was not open as such, not well-known to everybody else.  It was instead liaising with people within the underground structures.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "You've also mentioned a meeting with the late Mr Chris Hani.  Where was this meeting held?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "The meeting was held at Shell House in Johannesburg at the head office.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Did you say at this meeting Chris Hani advised that whatever steps were necessary should be taken to deal with the situation here?  Is that what you were saying about Chris Hani?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.  He said we should take whatever steps were necessary to bring back peace.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Did he give any examples of what kinds of steps he thought should be taken to deal with this problematic situation here?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.  He did indicate something to the effect that it was necessary that self-defence units be formed so that we should have people protecting other people.  We should not expect a person to come from outside to do the job.  The people themselves should do it and we indicated to him that we did not have arms and he said the people should arms themselves and that was up to them to decide how they wanted to arm themselves so that they can defend the community.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "At this meeting did Mr Hani make any suggestion that arms should be obtained by force from anyone if need be?  Did he ever say that?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "There was no any other way.  We had to get weapons from the people who had weapons because if you asked for it the person would not give it to you.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Look at page fourteen (14) of your background document, paragraph seventeen (17).  Have you found the page, Mr Mndebele?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "In paragraph seventeen (17) you say, \"Unfortunately three other people, namely Happy Mhlongo, Eric Nkosi and Sibusiso Tito Nkosi were injured in the attack on Jwi Zwane\".  Now, you have applied for amnesty.  What is your attitude about these three people you have mentioned, people who were injured in an action which you had authorised?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "As I have stated, these three were caught in the crossfire.  I am very, very sorry about that.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Perhaps the Committee, Mr Patel, should be addressing this question to you.  What is the position of the applicant in relation to these three victims he has made mention of in the application?  Sorry, in the background document.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "I'm not quite sure that I follow the question.  Is it that amnesty is being claimed in respect of these three victims as well?",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Yes.  Is he applying for amnesty in respect of these three victims?",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Beg your pardon.  As we have it, if I can refer you, sir, to the schedule which commence at pages twenty of Volume one (1), it's been classified under point two as being attempted murders of Happy Mhlongo, Sibusiso Tito Nkosi and Eric Nkosi.",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Thank you.  Is that to say that, I don't want to misunderstand the applicant, is that to say that the applicant is making applications for amnesty in respect of whatever action may have been taken by Gushu in the execution of this general order?  Perhaps not only Gushu.",
+            "Male"
+        ],
+        [
+            "MR PATEL",
+            "Mr Chairman, perhaps if I can refer you, sir, to paragraph seventeen (17).",
+            "Male"
+        ],
+        [
+            "MR MAPOMA",
+            "Chairperson, the speaker's mike is off.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, Mr Patel, forget about referring us to anything.  Is the applicant, this particular applicant making application for amnesty in respect of those incidents referred to by Mr Sandi?",
+            "Unknown"
+        ],
+        [
+            "MR PATEL",
+            "Yes, ... (inaudible)",
+            "Male"
+        ],
+        [
+            "MR SANDI",
+            "Thank you.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Mr Mndebele, tell me, did you get paid for any of these things?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "No, we were not paid.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "You gained personally in any way?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Not at all.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Now, have you spoken to any of the victims involved in the incidents for which you make application?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We still have to talk.  We once discussed but we did not finish.  We still have to meet.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "For what purpose did you meet?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "We met because our intention is to bring about stability and indicate to them that there were mistakes here and there.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes.  Now, I'm talking about the specific victims of these actions.  Those that are injured or were injured and those next of kin of those who died, have you made any attempt to talk to them?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "What I can say is that I once had a discussion with Happy Mhlongo and Eric Nkosi, as well as Sibusiso.  As I have stated, we did not finalise our discussion but yes, we did meet.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Well, how do you feel about that now?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I feel very sorry.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "And how do you feel about the deaths of those who have died?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I equally feel very sorry, but the situation at the time was such that there was nothing else to be done.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "What about now?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I still feel very sorry.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Do you think the situation is conducive to reconciliation?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "I think the time is right that we can speak to one another and reconcile because we keep saying that we should forget about the past.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Are you happy to do that?",
+            "Unknown"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, I am prepared.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you.  You are excused.",
+            "Unknown"
+        ],
+        [
+            "MR BLACK",
+            "Mr Chairman, certain issues arose.  I just want clarity which I'd like to ask about three questions.  It's about Mr Gushu arising from suggestions that he may or may not have acted within his mandate.  I just would like to put to this applicant as to what actions, if any, Mr Gushu may or may not have done outside his mandate.",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "This witness did say he didn't know.  He wasn't present when the actions were committed, but for what it's worth, you can put it to him.",
+            "Unknown"
+        ],
+        [
+            "CROSS-EXAMINATION BY MR BLACK",
+            "Mr Mndebele, we've heard evidence you were a prominent member in the community and in Ermelo community and structures.  You're aware of the fact that one of the applicants, Gushu, was recruited in order to carry out the mandate to restore stability.  Now, the actions and as a result of Mr Gushu's activities in that community in carrying out this mandate, did that in any way improve the situation?  Did it in any way restore stability to an extent?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "Yes, Gushu did try to improve the stability problem even though it was not to a satisfactory level.",
+            "Male"
+        ],
+        [
+            "MR BLACK",
+            "And just for clarity.  Are you aware of any actions taken by Mr Gushu which may have fallen outside the mandate or outside his attempts to further peace and the objectives of the ANC?",
+            "Male"
+        ],
+        [
+            "JOHN MNDEBELE",
+            "What I know is that everything he did, he did so following the ANC and pursuing the policies of the ANC.",
+            "Male"
+        ],
+        [
+            "MR BLACK",
+            "Thank you, Mr Chairman.\nNO FURTHER QUESTIONS BY MR BLACK",
+            "Male"
+        ],
+        [
+            "CHAIRPERSON",
+            "Yes, thank you, Mr Mndebele, you are excused.\nWITNESS EXCUSED",
+            "Unknown"
+        ]
+    ]
+}
