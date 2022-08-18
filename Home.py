@@ -2,8 +2,8 @@ import streamlit as st
 from pathlib import Path
 import os
 import gdown
-st.sidebar.image(r"./images/bitter_aloe_logo.jpg")
-st.markdown("# The Bitter Aloe Project App")
+# st.sidebar.image(r"./images/bitter_aloe_logo.jpg")
+st.markdown("# Text Analysis App")
 
 def download_files():
     # a file
