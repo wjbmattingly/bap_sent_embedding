@@ -47,6 +47,16 @@ def get_data(method:str, num_docs=5, doc_ids=[0], topic_num=0, keywords=["burn"]
             st.write(f"Statement: {doc_id}")
             if testimony == True:
                 st.write(f"Filename: {testimony_data[str(doc_id)][0]}")
+                # https://sabctrc.saha.org.za/documents/amntrans/aliwal_north/54585.htm
+                # /data/data_saha\amnesty_hearings\durban\54705.json
+                t, hearing_type, place, html_file = testimony_data[str(doc_id)][0].split("\\")
+                hearing_type = hearing_type.replace("amnesty_hearings", "amntrans").replace("human_rights_violation_hearings", "hrvtrans").replace("special_hearings", "special")
+                place = place.replace("armed_forces_hearings", "forces")
+                place = place.replace("business_hearings", "business")
+                place = place.replace("chemical_and_biological_warfare_hearings", "cbw").replace("'s", "").split("_")[0]
+                html_file = html_file.replace(".json", ".htm")
+                saha_page = f"https://sabctrc.saha.org.za/documents/{hearing_type}/{place}/{html_file}"
+                st.write(f"<a href='{saha_page}'>Saha Link</a>", unsafe_allow_html=True)
                 if testimony_data[str(doc_id)][0] not in files:
                     files.append(testimony_data[str(doc_id)][0])
                 st.write(f"File Index: {testimony_data[str(doc_id)][1]}")
