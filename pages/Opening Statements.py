@@ -39,7 +39,7 @@ def write_data(data, depth):
             st.write(f"{segment[0]}: {segment[1]}")
     st.write("-----")
 
-test_type  = st.sidebar.selectbox("Testimonies to Examine", ["Human Rights Violation Hearings", "Amnesty Decisions"])
+test_type  = st.sidebar.selectbox("Testimonies to Examine", ["Human Rights Violation Hearings", "Amnesty Hearings"])
 places = glob.glob(f"data/data_saha/{test_type.replace(' ', '_').lower()}/*/*.json")
 places = [p.replace("\\", "/").split("/")[-2].replace("_", " ").title() for p in places]
 places = list(set(places))
