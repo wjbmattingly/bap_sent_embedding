@@ -16,7 +16,7 @@ Like the Volume 7 Database, the Sentence Embedding Analysis tool allows you to e
 ### Top2Vec Analysis
 At the core of this tool is a model trained through the Top2Vec library. The model was finetuned on the Volume 7 Data. Like the Sentence Embedding Analysis tool, this allows you to dynamically search across documents by vector similarity. It is a bit more robust than the Sentence Embedding Analaysis tool because of the Top2Vec library's built-in functions for analyzing document similarity in a myraid of ways.
 
-### Infocomm Dataset
+### SAHA-Infocomm
 The Volume 7 Database allows you to interrogate the data from Volume 7 of the TRC's final report. Here, you will be able to narrow your searches based on parameters, such as victim's name and a search across all descriptions.
 
 ### Forthcoming Features

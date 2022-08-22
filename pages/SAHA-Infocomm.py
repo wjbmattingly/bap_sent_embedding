@@ -15,7 +15,7 @@ def cache_df():
 def read_markdown_file(markdown_file):
     return Path(markdown_file).read_text()
 
-st.header("Infocomm Dataset")
+st.header("SAHA-Infocomm")
 
 database_directions = read_markdown_file("markdown_files/database.md")
 directions = st.expander("Directions")

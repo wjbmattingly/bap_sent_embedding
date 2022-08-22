@@ -68,7 +68,7 @@ def get_data(method:str, num_docs=5, doc_ids=[0], topic_num=0, keywords=["burn"]
     files.sort()
     return files
 
-model_type = st.sidebar.selectbox("Select Type of Top2Vec Model", ["Volume 7", "Testimonies"])
+model_type = st.sidebar.selectbox("Select Type of Top2Vec Model", ["SAHA-Infocomm", "Testimonies"])
 if model_type == "Testimonies":
     model_type = "data/testimony-top2vec-model"
     model, num_topics, topic_sizes, topic_nums, topic_words, word_scores, topic_nums = load_model(model_type)
@@ -133,7 +133,7 @@ if model_type == "Testimonies":
 
 
 #### Original Vol 7 portion
-elif model_type == "Volume 7":
+elif model_type == "SAHA-Infocomm":
     df, names, descriptions = cache_df()
     model_type = "data/top2vec-model"
     model, num_topics, topic_sizes, topic_nums, topic_words, word_scores, topic_nums = load_model(model_type)
@@ -142,7 +142,7 @@ elif model_type == "Volume 7":
     style = st.sidebar.selectbox("Select Top2Vec Search Style",
                             [
                             "Search by Topic",
-                            "Search by Statement",
+                            "Search by Incident Description",
                             "Search by Keywords"
                             ])
 
@@ -165,20 +165,20 @@ elif model_type == "Volume 7":
 
 
 
-    elif style == "Search by Statement":
-        st.markdown("# Search by Statement")
-        document_ids = st.text_input("Which Statements would you like to search? (Use the Victim Index Numbers)", 0)
-        num_docs = st.number_input("How many statements do you want to see from this topic?", 5)
+    elif style == "Search by Incident Description":
+        st.markdown("# Search by Incident Description")
+        document_ids = st.text_input("Which Incident Description would you like to search? (Use the Victim Index Numbers)", 0)
+        num_docs = st.number_input("How many Incident Description do you want to see from this topic?", 5)
         doc_ids = [int(d.strip()) for d in document_ids.split(",")]
-        st.header(f"Statement used in Query")
-        data_expander = st.expander("Statement Data")
+        st.header(f"Incident Description used in Query")
+        data_expander = st.expander("Incident Description Data")
         for id in doc_ids:
             data_expander.write(f"{names[id]}: {descriptions[id]}")
         get_data("dbd", doc_ids=doc_ids, num_docs=num_docs)
 
     elif style== "Search by Keywords":
-        keywords = st.text_input("Which Documents would you like to search? (Use the Victim Index Numbers)", "burn")
-        num_docs = st.number_input("How many documents do you want to see from this topic?", 5)
+        keywords = st.text_input("Which Incident Description would you like to search? (Use the Victim Index Numbers)", "burn")
+        num_docs = st.number_input("How many Incident Description do you want to see from this topic?", 5)
         document_keywords = [k.strip() for k in keywords.split(",")]
         get_data("dbk", keywords=document_keywords, num_docs=num_docs)
 
