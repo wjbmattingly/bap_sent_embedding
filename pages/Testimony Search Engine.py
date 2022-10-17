@@ -48,7 +48,7 @@ if st.sidebar.button("Search"):
     segment_data = bm25.get_top_n(tokenized_query, documents, n=num_results)
     segment_text = [s[0] for s in segment_text]
 
-    segment_text = [html_file.split("\\")[-1].replace(".json", "") for html_file in segment_text]
+    segment_text = [html_file.replace("\\", "/").split("/")[-1].replace(".json", "") for html_file in segment_text]
     segment_text = [saha_index.loc[saha_index.id == int(index_num)].src.tolist()[0] for index_num in segment_text]
     # saha_page = saha_index.loc[saha_index.id == int(index_num)].src.tolist()[0]
     # st.write(f"<a href='{saha_page}'>Saha Link</a>", unsafe_allow_html=True)
