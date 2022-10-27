@@ -3,6 +3,7 @@ from pathlib import Path
 import os
 import gdown
 # st.sidebar.image(r"./images/bitter_aloe_logo.jpg")
+st.set_page_config(layout="wide", page_title="Bitter Aloe Project")
 st.markdown("# Text Analysis App")
 
 def download_files():
@@ -13,6 +14,15 @@ def download_files():
         pass
     else:
         output = "./data/testimony-top2vec-model"
+        gdown.download(url, output, quiet=False, fuzzy=True)
+        print("Download Complete")
+
+    url = "https://drive.google.com/file/d/1ij0v7TvNPrzONFTIUkczbFHToBNo0PSd/view?usp=sharing"
+
+    if os.path.exists("./data/speaker_dialogue.csv"):
+        pass
+    else:
+        output = "./data/speaker_dialogue.csv"
         gdown.download(url, output, quiet=False, fuzzy=True)
         print("Download Complete")
 

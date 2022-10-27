@@ -4,7 +4,7 @@ import pandas as pd
 import json
 
 # st.sidebar.image(r"./images/bitter_aloe_logo.jpg")
-
+st.set_page_config(layout="wide", page_title="Top2Vec | Bitter Aloe Project")
 @st.cache(allow_output_mutation=True)
 def cache_df():
     df = pd.read_json("data/vol7.json")
@@ -18,6 +18,12 @@ def cache_testimonies():
     names = df.names.tolist()
     descriptions = df.descriptions.tolist()
     return df, names, descriptions
+
+@st.cache(allow_output_mutation=True)
+def cache_speakers():
+    df = pd.read_csv("data/speaker_dialogue.csv")
+
+    return df
 
 @st.cache(allow_output_mutation=True)
 def cache_testimony_data():
@@ -46,9 +52,6 @@ def get_data(method:str, num_docs=5, doc_ids=[0], topic_num=0, keywords=["burn"]
             # if testimony == False:
             st.write(f"Statement: {doc_id}")
             if testimony == True:
-                # st.write(f"Filename: {testimony_data[str(doc_id)][0]}")
-                # https://sabctrc.saha.org.za/documents/amntrans/aliwal_north/54585.htm
-                # /data/data_saha\amnesty_hearings\durban\54705.json
                 html_file = testimony_data[str(doc_id)][0]
                 index_num = html_file.split("\\")[-1].replace(".json", "")
                 saha_page = saha_index.loc[saha_index.id == int(index_num)].src.tolist()[0]
@@ -57,7 +60,11 @@ def get_data(method:str, num_docs=5, doc_ids=[0], topic_num=0, keywords=["burn"]
                     files.append(testimony_data[str(doc_id)][0])
                 st.write(f"File Index: {testimony_data[str(doc_id)][1]}")
             st.write(f"Score: {score}")
-            st.write(f"Description: {doc}")
+            if testimony == True:
+                st.write(f"Speaker: {speaker_dialogue.iloc[doc_id].speaker}")
+                st.write(f"Testimony Segment: {doc}")
+            else:
+                st.write(f"Description: {doc}")
             st.write("-----------")
             st.write()
             st.write()
@@ -69,6 +76,7 @@ if model_type == "Testimonies":
     model_type = "data/testimony-top2vec-model"
     model, num_topics, topic_sizes, topic_nums, topic_words, word_scores, topic_nums = load_model(model_type)
     testimony_data = cache_testimony_data()
+    speaker_dialogue = cache_speakers()
 
 
     style = st.sidebar.selectbox("Select Top2Vec Search Style",
@@ -77,15 +85,14 @@ if model_type == "Testimonies":
                             "Search by Statement",
                             "Search by Keywords"
                             ])
-    # test_data = cache_testimonies()
 
 
     if style=="Search by Topic":
         st.markdown("# Sentence Embedding Analysis with Top2Vec(New)")
         st.write(f"There are {num_topics} topics across all Volume 7 Data")
-
-        topic_num = st.number_input("Which Topic Number would you like to search?", 0, max_value=num_topics)
-        num_docs = st.number_input("How many documents do you want to see from this topic?", 10, max_value=topic_sizes[topic_num])
+        columns = st.columns(2)
+        topic_num = columns[0].number_input("Topic Number", 0, max_value=num_topics)
+        num_docs = columns[1].number_input("Number of Hits", 10, max_value=topic_sizes[topic_num])
 
         st.header(f"Topic {topic_num} Data")
         data_expander = st.expander("data")
@@ -103,8 +110,9 @@ if model_type == "Testimonies":
 
     elif style == "Search by Statement":
         st.markdown("# Search by Statement")
-        document_ids = st.text_input("Which Documents would you like to search? (Use the Victim Index Numbers)", 0)
-        num_docs = st.number_input("How many documents do you want to see from this topic?", 5)
+        columns = st.columns(2)
+        document_ids = columns[0].text_input("Which Documents would you like to search? (Use the Victim Index Numbers)", 0)
+        num_docs = columns[1].number_input("How many documents do you want to see from this topic?", 5)
         doc_ids = [int(d.strip()) for d in document_ids.split(",")]
         st.header(f"Statements used in Query")
         data_expander = st.expander("Statement Data")
@@ -119,8 +127,9 @@ if model_type == "Testimonies":
         # get_data("dbd", doc_ids=doc_ids, num_docs=num_docs)
 
     elif style== "Search by Keywords":
-        keywords = st.text_input("Which Statements would you like to search? (Use the Victim Index Numbers)", "burn")
-        num_docs = st.number_input("How many socuments do you want to see from this topic?", 5)
+        columns = st.columns(2)
+        keywords = columns[0].text_input("Which Statements would you like to search? (Use the Victim Index Numbers)", "burn")
+        num_docs = columns[1].number_input("How many socuments do you want to see from this topic?", 5)
         document_keywords = [k.strip() for k in keywords.split(",")]
         files_expander = st.expander("files_data")
         # get_data("dbk", keywords=document_keywords, num_docs=num_docs)

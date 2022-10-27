@@ -5,7 +5,7 @@ from rank_bm25 import BM25Okapi
 import pickle
 import pandas as pd
 
-
+st.set_page_config(layout="wide", page_title="Testimony Search | Bitter Aloe Project")
 @st.cache(allow_output_mutation=True)
 def load_model():
     files = glob.glob(f"./data/data_saha/*/*/*.json")

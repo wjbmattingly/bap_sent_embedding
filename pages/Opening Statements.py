@@ -5,7 +5,7 @@ import json
 import glob
 
 # st.sidebar.image(r"./images/bitter_aloe_logo.jpg")
-
+st.set_page_config(layout="wide", page_title="Opening Statements | Bitter Aloe Project")
 @st.cache(allow_output_mutation=True)
 def cache_df():
     df = pd.read_json("data/vol7.json")
