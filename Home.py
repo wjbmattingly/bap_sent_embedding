@@ -21,12 +21,12 @@ def download_files():
 
     csv_url = "https://drive.google.com/file/d/1-jVxmhEqW6sBqlahh7EUoi2GRf8Qe5lp/view?usp=sharing"
 
-    # if os.path.exists("./data/testimonies_complete.csv"):
-    #     pass
-    # else:
-    output = "./data/testimonies_complete.csv"
-    gdown.download(csv_url, output, quiet=False, fuzzy=True)
-    print("Download Complete")
+    if os.path.exists("./data/testimonies_complete.csv"):
+        pass
+    else:
+        output = "./data/testimonies_complete.csv"
+        gdown.download(csv_url, output, quiet=False, fuzzy=True)
+        print("Download Complete")
 
     ann_url = "https://drive.google.com/file/d/1Mngfqd-TPTI2AH8Mv9hlm2j7vprus6R3/view?usp=sharing"
 
