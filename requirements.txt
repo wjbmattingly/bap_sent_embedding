@@ -10,3 +10,4 @@ numpy==1.21.5
 streamlit
 rank_bm25
 tabulate
+annoy
