@@ -7,53 +7,29 @@ import pandas as pd
 
 st.set_page_config(layout="wide", page_title="Testimony Search | Bitter Aloe Project")
 @st.cache(allow_output_mutation=True)
-def load_model():
-    files = glob.glob(f"./data/data_saha/*/*/*.json")
-    documents = []
-    segments = {}
-    x=0
-    for filename in files:
-        with open(filename, "r") as f:
-            data = json.load(f)
-        testimony = data["testimony"]
-        # segments["files"].append(filename)
-        for i, segment in enumerate(testimony):
-            speaker, dialogue, gender = segment
-            if " Today is also one of those difficult days" in dialogue:
-                print (x)
-                print (filename)
-                print (dialogue)
-            segments[x] = [filename, i]
-            # segments["segments"].append({i})
-            documents.append(dialogue)
-            x=x+1
-    tokenized_corpus = [doc.split(" ") for doc in documents]
+def load_model(df):
+    tokenized_corpus = [str(text).lower().split() for text in df.dialogue.tolist()]
+    index = df.index
     bm25 = BM25Okapi(tokenized_corpus)
-    return bm25, documents, segments
+    return bm25, index
 
 
 @st.cache(allow_output_mutation=True)
 def load_df():
-    saha_index = pd.read_csv("data/saha_index.csv")
-    return saha_index
+    df = pd.read_csv("data/testimonies_complete.csv")
+    return df
 
-saha_index = load_df()
+df = load_df()
 
-bm25, documents, segments = load_model()
+bm25, index = load_model(df)
 query = st.sidebar.text_input("Enter Search Here")
-num_results = st.sidebar.number_input("Number of Results", 10,1000)
+num_results = st.sidebar.number_input("Number of Results", 100,1000)
 if st.sidebar.button("Search"):
-    tokenized_query = query.split(" ")
-    segment_text = bm25.get_top_n(tokenized_query, segments, n=num_results)
-    segment_data = bm25.get_top_n(tokenized_query, documents, n=num_results)
-    segment_text = [s[0] for s in segment_text]
-
-    segment_text = [html_file.replace("\\", "/").split("/")[-1].replace(".json", "") for html_file in segment_text]
-    segment_text = [saha_index.loc[saha_index.id == int(index_num)].src.tolist()[0] for index_num in segment_text]
-    # saha_page = saha_index.loc[saha_index.id == int(index_num)].src.tolist()[0]
-    # st.write(f"<a href='{saha_page}'>Saha Link</a>", unsafe_allow_html=True)
-    segment_text = [f"<a href='{saha_page}'>Saha Link</a>" for saha_page in segment_text]
-    res = {"Testimony": segment_text, "Text": segment_data}
-    df = pd.DataFrame(res)
-    res = df.to_markdown()
-    st.markdown(res, unsafe_allow_html=True)
+    tokenized_query = query.lower().split(" ")
+    res_index = bm25.get_top_n(tokenized_query, index, n=num_results)
+    res = df.iloc[res_index]
+    links = [f"<a href='{row.saha_page}#line{row.saha_loc-1}'>link</a>" for idx, row in res.iterrows()]
+    res["link"] = links
+    res = res[["speaker", "dialogue", "link"]]
+    res["dialogue"] = [dialogue.replace("\n", "<br><br>") for dialogue in res["dialogue"].tolist()]
+    st.write(res.to_markdown(), unsafe_allow_html=True)
