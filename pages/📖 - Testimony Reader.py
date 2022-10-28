@@ -18,7 +18,7 @@ number = st.sidebar.selectbox("Testimony Number", temp.file_num.unique())
 res = temp.loc[temp["file_num"] == number]
 
 
-links = [f"<a href='{row.saha_page}#line{row.saha_loc-1}'>link</a>" for idx, row in res.iterrows()]
+links = [f"<a href='{row.saha_page}#line{row.saha_loc-1}'>link</a>".replace("'", "") for idx, row in res.iterrows()]
 res["link"] = links
 res = res[["speaker", "dialogue", "link"]]
 res["dialogue"] = [dialogue.replace("\n", "<br><br>") for dialogue in res["dialogue"].tolist()]

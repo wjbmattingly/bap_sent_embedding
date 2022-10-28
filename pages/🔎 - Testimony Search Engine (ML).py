@@ -24,7 +24,7 @@ model = load_model()
 df = cache_speakers()
 annoy_index = load_annoy()
 
-query = st.sidebar.text_input("Insert Search Here")
+query = st.sidebar.text_area("Insert Search Here")
 num_results = st.sidebar.number_input("Number of Results", 1, 1000, 100)
 if st.sidebar.button("Search"):
     st.header("Results:")
@@ -35,7 +35,7 @@ if st.sidebar.button("Search"):
     # res = res[["speaker", "dialogue"]]
     res["distance"] = dists
     # res = res[["score", "speaker", "dialogue", "saha_page"]]
-    links = [f"<a href='{row.saha_page}#line{row.saha_loc-1}'>link</a>" for idx, row in res.iterrows()]
+    links = [f"<a href='{row.saha_page}#line{row.saha_loc-1}'>link</a>".replace("'", "") for idx, row in res.iterrows()]
     res["link"] = links
     res = res[["distance", "speaker", "dialogue", "link"]]
     res["dialogue"] = [dialogue.replace("\n", "<br><br>") for dialogue in res["dialogue"].tolist()]
