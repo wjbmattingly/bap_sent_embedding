@@ -20,8 +20,8 @@ def load_df():
     return df
 
 df = load_df()
-
 bm25, index = load_model(df)
+
 query = st.sidebar.text_input("Enter Search Here")
 num_results = st.sidebar.number_input("Number of Results", 100,1000)
 if st.sidebar.button("Search"):
