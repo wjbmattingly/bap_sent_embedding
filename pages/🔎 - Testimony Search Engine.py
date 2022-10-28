@@ -3,7 +3,7 @@ from annoy import AnnoyIndex
 from sentence_transformers import SentenceTransformer
 import pandas as pd
 
-st.set_page_config(page_title="ML Testimony Search Engine | Bitter Aloe Project")
+st.set_page_config(layout="wide", page_title="ML Testimony Search Engine | Bitter Aloe Project")
 @st.cache(allow_output_mutation=True)
 def load_model():
     model = SentenceTransformer('all-MiniLM-L6-v2')
