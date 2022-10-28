@@ -21,7 +21,7 @@ def download_files():
 
     csv_url = "https://drive.google.com/file/d/1XHU8rY-ZH1PiM3axQX26M6gWkWzNqmDf/view?usp=sharing"
 
-    if os.path.exists("./data/speaker_dialogue.csv"):
+    if os.path.exists("./data/testimonies_complete.csv"):
         pass
     else:
         output = "./data/testimonies_complete.csv"
@@ -30,7 +30,7 @@ def download_files():
 
     ann_url = "https://drive.google.com/file/d/1Mngfqd-TPTI2AH8Mv9hlm2j7vprus6R3/view?usp=sharing"
 
-    if os.path.exists("./data/speaker_dialogue.csv"):
+    if os.path.exists("./data/testimonies_complete.ann"):
         pass
     else:
         output = "./data/testimonies_complete.ann"
