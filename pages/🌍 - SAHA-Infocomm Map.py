@@ -15,7 +15,20 @@ from collections import Counter
 
 pd.set_option('display.max_colwidth', 0)
 st.set_page_config(layout="wide")
-
+st.markdown(
+    """
+    <style>
+    [data-testid="stSidebar"][aria-expanded="true"] > div:first-child {
+        width: 500px;
+    }
+    [data-testid="stSidebar"][aria-expanded="false"] > div:first-child {
+        width: 500px;
+        margin-left: -500px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 def get_output_data(df):
     columns = [["org", "orgs"], ["place", "places"], ["homeland", "homelands"], ["province", "provinces"], ["hrv", "hrvs"]]
     final_dict = {}
