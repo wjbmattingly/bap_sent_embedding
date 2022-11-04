@@ -114,7 +114,8 @@ selections = []
 for layer in range(layer_nums):
     layer = layer+1
     expander_layer = st.sidebar.expander(f"Layer {layer}")
-    data_lists = [[f"orgs_{layer}", orgs],
+    data_lists = [
+                [f"orgs_{layer}", orgs],
                 [f"places_{layer}", places],
                 [f"homelands_{layer}", homelands],
                 [f"provinces_{layer}", provinces],
@@ -125,6 +126,7 @@ for layer in range(layer_nums):
     for name, data_list in data_lists:
         change_sessions(name, data_list)
 
+    query = expander_layer.text_input(f"Description Query Layer {layer}").lower()
     selected_orgs = expander_layer.multiselect(f"Select Organization(s) for Layer {layer}", st.session_state[f"orgs_{layer}"])
     selected_places = expander_layer.multiselect(f"Select Place(s) for Layer {layer}", st.session_state[f"places_{layer}"])
     selected_homelands = expander_layer.multiselect(f"Select Homeland(s) for Layer {layer}", st.session_state[f"homelands_{layer}"])
@@ -133,7 +135,8 @@ for layer in range(layer_nums):
     selected_genders = expander_layer.multiselect(f"Select Gender(s) for Layer {layer}", st.session_state[f"genders_{layer}"])
     min_age = expander_layer.slider(f"Select Lowest Age for Layer {layer}", 0, 100, 0)
     max_age = expander_layer.slider(f"Select Highest Age for Layer {layer}", 0, 100, 100)
-    selections.append({"selected_orgs": selected_orgs,
+    selections.append({"query": query,
+                        "selected_orgs": selected_orgs,
                         "selected_places": selected_places,
                         "selected_homelands": selected_homelands,
                         "selected_provinces": selected_provinces,
@@ -164,7 +167,8 @@ if st.sidebar.button("Create Map and Data"):
         # st.write(layer)
         res = full_data
         res = res.loc[(res.age > selections[layer]["min_age"]) & (res.age < selections[layer]["max_age"])]
-
+        if selections[layer]["query"] != "":
+            res = res.loc[res.description.str.contains(selections[layer]["query"])]
         if selected_orgs:
             res = filter_df(res, "org", selections[layer]["selected_orgs"])
             # st.write(res)
