@@ -145,11 +145,10 @@ if st.sidebar.button("Create Map and Data"):
     for layer in range(layer_nums):
         # st.write(layer)
         res = full_data
-        st.write(res)
         res = res.loc[(res.age > selections[layer]["min_age"]) & (res.age < selections[layer]["max_age"])]
 
         if selected_orgs:
-            res = filter_df(full_data, "org", selections[layer]["selected_orgs"])
+            res = filter_df(res, "org", selections[layer]["selected_orgs"])
             # st.write(res)
         if selected_places:
             res = filter_df(res, "place", selections[layer]["selected_places"])
