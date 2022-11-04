@@ -121,8 +121,8 @@ for layer in range(layer_nums):
                         "selected_homelands": selected_homelands,
                         "selected_provinces": selected_provinces,
                         "selected_hrvs": selected_hrvs,
-                        "min_age": min_age,
-                        "max_age": max_age})
+                        "min_age": min_age-1,
+                        "max_age": max_age+1})
 
 dates_checkbox = st.sidebar.checkbox("Use Dates?")
 cols = st.sidebar.columns(2)
