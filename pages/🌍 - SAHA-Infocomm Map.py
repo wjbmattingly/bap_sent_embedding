@@ -124,7 +124,7 @@ dates_checkbox = st.sidebar.checkbox("Use Dates?")
 cols = st.sidebar.columns(2)
 hits_container = st.container()
 dataframe_expander = st.expander("Open to Examine the Data")
-    # metadata_expander = st.expander("Open to Examine Connected Data")
+metadata_expander = st.expander("Open to Examine Connected Data")
 # if dates_checkbox:
 #     start_date = cols[0].date_input("Start Date", datetime.date(1980, 7, 6),
 #                                             min_value=datetime.date(1950, 7, 6),
@@ -157,9 +157,9 @@ if st.sidebar.button("Create Map and Data"):
             res = filter_df(res, "hrv", selections[layer]["selected_hrvs"])
         layer_res.append(res)
             # res = res.loc[res.hrv.isin(selected_hrvs)]
-
-        # metadata_connections = get_output_data(res)
-        # metadata_expander.markdown(metadata_connections, unsafe_allow_html=True)
+        metadata_expander.header(f"Data for Layer {layer+1}")
+        metadata_connections = get_output_data(res)
+        metadata_expander.markdown(metadata_connections, unsafe_allow_html=True)
         if len(res) > 0:
             hit_ids = res.object_id.tolist()
             if dates_checkbox:
