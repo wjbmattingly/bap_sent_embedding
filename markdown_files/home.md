@@ -3,13 +3,25 @@
 **This app is still in development**
 
 This is the Bitter Aloe Project's application. It is designend in Streamlit and is a work in progress. On this application, you will be able to use some of the tools we are developing for analysis of documents related to South Africa's Truth and Reconciliation Commission (TRC). You can navigate to different tools through the portal on the left.
+
 ### :earth_africa: SAHA-Infocomm Map
-Map under development. Dates are currently not supported.
+**This application is in alpha testing**
+This application lets you explore the SAHA-Infocomm database (Volume 7 of the TRC final report) visually as a map. Users can populate multiple layers whose colors are distinct in the graph. It is built upon [pydeck](https://deckgl.readthedocs.io/en/latest/). Users can create layers with four fields:
+- Organization(s)
+- Place(s)
+- Homeland(s)
+- Human Rights Violation(s) (HRV)
+
+Fothcoming features include:
+- Download data and map as a zip file
+- Ability to change results by date
 
 ### :computer: SAHA-Infocomm
+**This application is complete and working**
 The Volume 7 Database allows you to interrogate the data from Volume 7 of the TRC's final report. Here, you will be able to narrow your searches based on parameters, such as victim's name and a search across all descriptions.
 
 ### :mag_right: Testimony Search Engine (BM25)
+**This application is complete and working**
 This is a traditional search engine for the TRC testimonies. It is based around BM25, an algorithm for identifying and matching relevant material from a query. It is not case sensitive.
 
 ### :mag_right: Testimony Search Engine (ML)
@@ -20,4 +32,5 @@ At the core of this tool is a model trained through the Top2Vec library. The mod
 
 
 ### :page_facing_up: Opening Statements
+**This application is complete and working**
 This page allows you to examine the opening statements of all testimonies. Often, these are important because the commissioner uses the moment to welcome the speakers and frames the conversation.

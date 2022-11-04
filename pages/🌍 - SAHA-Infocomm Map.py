@@ -55,7 +55,7 @@ def grab_uniques(df, column):
     return items
 @st.cache(allow_output_mutation=True)
 def load_data():
-    data = pd.read_feather("data/full_data")
+    data = pd.read_feather("data/full_data_00-00-03")
     dates_only = pd.read_feather("data/dates_only")
     orgs = grab_uniques(data, "org")
     places = grab_uniques(data, "place")
