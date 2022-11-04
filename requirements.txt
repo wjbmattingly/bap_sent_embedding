@@ -11,3 +11,7 @@ streamlit
 rank_bm25
 tabulate
 annoy
+pydeck
+dateparser
+leafmap
+geopandas
