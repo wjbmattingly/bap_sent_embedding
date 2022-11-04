@@ -55,7 +55,7 @@ def grab_uniques(df, column):
     return items
 @st.cache(allow_output_mutation=True)
 def load_data():
-    data = pd.read_feather("data/full_data_00-00-03")
+    data = pd.read_feather("data/full_data_00-00-04")
     dates_only = pd.read_feather("data/dates_only")
     orgs = grab_uniques(data, "org")
     places = grab_uniques(data, "place")
@@ -114,11 +114,15 @@ for layer in range(layer_nums):
     selected_homelands = expander_layer.multiselect(f"Select Homeland(s) for Layer {layer}", st.session_state[f"homelands_{layer}"])
     selected_provinces = expander_layer.multiselect(f"Select Province(s) for Layer {layer}", st.session_state[f"provinces_{layer}"])
     selected_hrvs = expander_layer.multiselect(f"Select HRV(s) for Layer {layer}", st.session_state[f"hrvs_{layer}"])
+    min_age = expander_layer.slider(f"Select Lowest Age for Layer {layer}", 0, 100, 0)
+    max_age = expander_layer.slider(f"Select Highest Age for Layer {layer}", 0, 100, 100)
     selections.append({"selected_orgs": selected_orgs,
                         "selected_places": selected_places,
                         "selected_homelands": selected_homelands,
                         "selected_provinces": selected_provinces,
-                        "selected_hrvs": selected_hrvs})
+                        "selected_hrvs": selected_hrvs,
+                        "min_age": min_age,
+                        "max_age": max_age})
 
 dates_checkbox = st.sidebar.checkbox("Use Dates?")
 cols = st.sidebar.columns(2)
@@ -141,6 +145,9 @@ if st.sidebar.button("Create Map and Data"):
     for layer in range(layer_nums):
         # st.write(layer)
         res = full_data
+        st.write(res)
+        res = res.loc[(res.age > selections[layer]["min_age"]) & (res.age < selections[layer]["max_age"])]
+
         if selected_orgs:
             res = filter_df(full_data, "org", selections[layer]["selected_orgs"])
             # st.write(res)
