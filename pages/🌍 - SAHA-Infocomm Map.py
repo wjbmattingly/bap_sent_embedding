@@ -68,18 +68,19 @@ def grab_uniques(df, column):
     return items
 @st.cache(allow_output_mutation=True)
 def load_data():
-    data = pd.read_feather("data/full_data_00-00-04")
+    data = pd.read_feather("data/full_data_00-00-05")
     dates_only = pd.read_feather("data/dates_only")
     orgs = grab_uniques(data, "org")
     places = grab_uniques(data, "place")
     homelands = grab_uniques(data, "homeland")
     provinces = grab_uniques(data, "province")
     hrvs = grab_uniques(data, "hrv")
+    genders = ["Female", "Male", "Unknown"]
 
-    return orgs, places, homelands, provinces, hrvs, data, dates_only
+    return orgs, places, homelands, provinces, hrvs, genders, data, dates_only
 
 def get_new_lists(df, ignore_column):
-    columns = [["org", "orgs"], ["place", "places"], ["homeland", "homelands"], ["province", "provinces"], ["hrv", "hrvs"]]
+    columns = [["org", "orgs"], ["place", "places"], ["homeland", "homelands"], ["province", "provinces"], ["hrv", "hrvs"], ["gender", "genders"]]
     for column, ss_key in columns:
         if column != ignore_column:
             temp_df = df[df[column].notna()]
@@ -91,7 +92,7 @@ def get_new_lists(df, ignore_column):
                         uniques.append(item)
             uniques.sort()
             st.session_state[ss_key] = uniques
-orgs, places, homelands, provinces, hrvs, full_data, dates_only = load_data()
+orgs, places, homelands, provinces, hrvs, genders, full_data, dates_only = load_data()
 
 # param_columns = st.columns(2)
 # layers_option = param_columns[0].checkbox("Multiple Layers?", )
@@ -117,7 +118,9 @@ for layer in range(layer_nums):
                 [f"places_{layer}", places],
                 [f"homelands_{layer}", homelands],
                 [f"provinces_{layer}", provinces],
-                [f"hrvs_{layer}", hrvs]]
+                [f"hrvs_{layer}", hrvs],
+                [f"genders_{layer}", genders]
+                ]
 
     for name, data_list in data_lists:
         change_sessions(name, data_list)
@@ -127,6 +130,7 @@ for layer in range(layer_nums):
     selected_homelands = expander_layer.multiselect(f"Select Homeland(s) for Layer {layer}", st.session_state[f"homelands_{layer}"])
     selected_provinces = expander_layer.multiselect(f"Select Province(s) for Layer {layer}", st.session_state[f"provinces_{layer}"])
     selected_hrvs = expander_layer.multiselect(f"Select HRV(s) for Layer {layer}", st.session_state[f"hrvs_{layer}"])
+    selected_genders = expander_layer.multiselect(f"Select Gender(s) for Layer {layer}", st.session_state[f"genders_{layer}"])
     min_age = expander_layer.slider(f"Select Lowest Age for Layer {layer}", 0, 100, 0)
     max_age = expander_layer.slider(f"Select Highest Age for Layer {layer}", 0, 100, 100)
     selections.append({"selected_orgs": selected_orgs,
@@ -134,6 +138,7 @@ for layer in range(layer_nums):
                         "selected_homelands": selected_homelands,
                         "selected_provinces": selected_provinces,
                         "selected_hrvs": selected_hrvs,
+                        "selected_genders": selected_genders,
                         "min_age": min_age-1,
                         "max_age": max_age+1})
 
@@ -174,6 +179,8 @@ if st.sidebar.button("Create Map and Data"):
             # res = res.loc[res.province.isin(selected_provinces)]
         if selected_hrvs:
             res = filter_df(res, "hrv", selections[layer]["selected_hrvs"])
+        if selected_genders:
+            res = filter_df(res, "gender", selections[layer]["selected_genders"])
         layer_res.append(res)
             # res = res.loc[res.hrv.isin(selected_hrvs)]
         metadata_expander.header(f"Data for Layer {layer+1}")
