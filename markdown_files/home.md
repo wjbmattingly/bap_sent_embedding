@@ -3,7 +3,7 @@
 **This app is still in development**
 
 This is the Bitter Aloe Project's application. It is designend in Streamlit and is a work in progress. On this application, you will be able to use some of the tools we are developing for analysis of documents related to South Africa's Truth and Reconciliation Commission (TRC). You can navigate to different tools through the portal on the left.
-### :eath-africa: SAHA-Infocomm Map
+### :earth-africa: SAHA-Infocomm Map
 Map under development. Dates are currently not supported.
 
 ### :computer: SAHA-Infocomm
