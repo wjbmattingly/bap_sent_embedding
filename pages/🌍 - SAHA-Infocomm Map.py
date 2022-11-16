@@ -49,12 +49,15 @@ def get_output_data(df):
 
 def filter_df(df, column, selected_list):
     final = []
+    # st.write(selected_list)
+
     for idx, row in df.iterrows():
         # st.write(type(row[column]))
-        if str(type(row[column])) == "<class 'numpy.ndarray'>":
-            if any(item in selected_list for item in row[column]):
-                final.append(row)
+        # if str(type(row[column])) == "<class 'numpy.ndarray'>":
+        if any(item in selected_list for item in row[column]):
+            final.append(row)
     res = pd.DataFrame(final)
+    # st.write(res)
     return res
 
 def grab_uniques(df, column):
@@ -110,10 +113,21 @@ def change_sessions(name, data_list, refresh=False):
 
 
 layer_nums = st.sidebar.number_input("Select Number of Layers", 1, 3, 1)
+
+cols = st.sidebar.columns(2)
+hits_container = st.container()
+dataframe_expander = st.expander("Open to Examine the Data")
+dataframe_tabs = dataframe_expander.tabs([f"Layer {i+1}" for i in range(layer_nums)])
+
+metadata_expander = st.expander("Open to Examine Connected Data")
+metadata_tabs = metadata_expander.tabs([f"Layer {i+1}" for i in range(layer_nums)])
+# dates_checkbox = st.sidebar.checkbox(f"Use Dates")
 selections = []
+tabs = st.sidebar.tabs([f"Layer {i+1}" for i in range(layer_nums)])
 for layer in range(layer_nums):
+    expander_layer = tabs[layer]
     layer = layer+1
-    expander_layer = st.sidebar.expander(f"Layer {layer}")
+
     data_lists = [
                 [f"orgs_{layer}", orgs],
                 [f"places_{layer}", places],
@@ -126,84 +140,113 @@ for layer in range(layer_nums):
     for name, data_list in data_lists:
         change_sessions(name, data_list)
 
-    query = expander_layer.text_input(f"Description Query Layer {layer}").lower()
-    selected_orgs = expander_layer.multiselect(f"Select Organization(s) for Layer {layer}", st.session_state[f"orgs_{layer}"])
-    selected_places = expander_layer.multiselect(f"Select Place(s) for Layer {layer}", st.session_state[f"places_{layer}"])
-    selected_homelands = expander_layer.multiselect(f"Select Homeland(s) for Layer {layer}", st.session_state[f"homelands_{layer}"])
-    selected_provinces = expander_layer.multiselect(f"Select Province(s) for Layer {layer}", st.session_state[f"provinces_{layer}"])
-    selected_hrvs = expander_layer.multiselect(f"Select HRV(s) for Layer {layer}", st.session_state[f"hrvs_{layer}"])
-    selected_genders = expander_layer.multiselect(f"Select Gender(s) for Layer {layer}", st.session_state[f"genders_{layer}"])
-    min_age, max_age = expander_layer.slider(f"Select Age Range for Layer {layer}", 0, 100, (0, 100))
-    # max_age = expander_layer.slider(f"Select Highest Age for Layer {layer}", 0, 100, 100)
-    dates_checkbox = expander_layer.checkbox(f"Use Dates for Layer {layer}")
-    start_date = None
-    end_date = None
+    query = expander_layer.text_input(f"Description Query Layer {layer}", key=f"query_{layer}")
+    selected_orgs = expander_layer.multiselect(f"Select Organization(s) for Layer {layer}",
+                                    st.session_state[f"orgs_{layer}"],
+                                    key=f"selected_orgs_{layer}")
+
+    selected_places = expander_layer.multiselect(f"Select Place(s) for Layer {layer}",
+                                    st.session_state[f"places_{layer}"],
+                                    key=f"selected_places_{layer}")
+
+    selected_homelands = expander_layer.multiselect(f"Select Homeland(s) for Layer {layer}",
+                                    st.session_state[f"homelands_{layer}"],
+                                    key=f"selected_homelands_{layer}")
+
+    selected_provinces = expander_layer.multiselect(f"Select Province(s) for Layer {layer}",
+                                    st.session_state[f"provinces_{layer}"],
+                                    key=f"selected_provinces_{layer}")
+
+
+    selected_hrvs = expander_layer.multiselect(f"Select HRV(s) for Layer {layer}",
+                                    st.session_state[f"hrvs_{layer}"],
+                                    key=f"selected_hrvs_{layer}")
+
+
+    selected_genders = expander_layer.multiselect(f"Select Gender(s) for Layer {layer}",
+                                    st.session_state[f"genders_{layer}"],
+                                    key=f"selected_genders_{layer}")
+    age_checkbox = expander_layer.checkbox(f"Use Ages for Layer {layer}", key=f"age_checkbox_{layer}")
+    if age_checkbox:
+        min_age, max_age = expander_layer.slider(f"Select Age Range for Layer {layer}",
+                                        0, 100, (0, 100),
+                                        key=f"age_range_{layer}")
+
+    dates_checkbox = expander_layer.checkbox(f"Use Dates for Layer {layer}", key=f"date_checkbox_{layer}")
     if dates_checkbox:
-        start_date = expander_layer.date_input("Start Date", datetime.date(1980, 7, 6),
+        start_date = expander_layer.date_input(f"Start Date for Layer {layer}", datetime.date(1980, 7, 6),
                                                 min_value=datetime.date(1950, 7, 6),
-                                                max_value=datetime.date(2000, 7, 6))
-        end_date = expander_layer.date_input("End Date", datetime.date(1990, 7, 6),
+                                                max_value=datetime.date(2000, 7, 6),
+                                                key=f"start_date_{layer}")
+        end_date = expander_layer.date_input(f"End Date for Layer {layer}", datetime.date(1990, 7, 6),
                                             min_value=datetime.date(1950, 7, 6),
-                                            max_value=datetime.date(2000, 7, 6))
-    selections.append({"query": query,
-                        "selected_orgs": selected_orgs,
-                        "selected_places": selected_places,
-                        "selected_homelands": selected_homelands,
-                        "selected_provinces": selected_provinces,
-                        "selected_hrvs": selected_hrvs,
-                        "selected_genders": selected_genders,
-                        "min_age": min_age-1,
-                        "max_age": max_age+1,
-                        "start_date": start_date,
-                        "end_date": end_date})
-cols = st.sidebar.columns(2)
-hits_container = st.container()
-dataframe_expander = st.expander("Open to Examine the Data")
-metadata_expander = st.expander("Open to Examine Connected Data")
+                                            max_value=datetime.date(2000, 7, 6),
+                                            key=f"end_date_{layer}")
+
 
 # else:
 #     start_date = 0
 #     end_date = 0
 layer_res = []
+selections = []
 if st.sidebar.button("Create Map and Data"):
     layer_data = []
     for layer in range(layer_nums):
-        # st.write(layer)
-        res = full_data
-        res = res.loc[(res.age > selections[layer]["min_age"]) & (res.age < selections[layer]["max_age"])]
+        layer = layer+1
+        query = st.session_state[f"query_{layer}"].lower()
+        selected_orgs = st.session_state[f"selected_orgs_{layer}"]
+        selected_places = st.session_state[f"selected_places_{layer}"]
+        selected_homelands = st.session_state[f"selected_homelands_{layer}"]
 
-        if selections[layer]["query"] != "":
-            res = res.loc[res.description.str.contains(selections[layer]["query"])]
+        selected_provinces = st.session_state[f"selected_provinces_{layer}"]
+        selected_hrvs = st.session_state[f"selected_hrvs_{layer}"]
+        selected_genders = st.session_state[f"selected_genders_{layer}"]
+        selected_homelands = st.session_state[f"selected_homelands_{layer}"]
+        age_checkbox = st.session_state[f"age_checkbox_{layer}"]
+        date_checkbox = st.session_state[f"date_checkbox_{layer}"]
+        if st.session_state[f"date_checkbox_{layer}"]:
+            start_date = st.session_state[f"start_date_{layer}"]
+            end_date = st.session_state[f"end_date_{layer}"]
+
+        res = full_data
+        if age_checkbox:
+            min_age, max_age = st.session_state[f"age_range_{layer}"]
+            res = res.loc[(res.age > min_age) & (res.age < max_age)]
+        if query != "":
+            res = res.loc[res.description.str.contains(query)]
+
         if selected_orgs:
-            res = filter_df(res, "org", selections[layer]["selected_orgs"])
-            # st.write(res)
+            res = filter_df(res, "org", selected_orgs)
         if selected_places:
-            res = filter_df(res, "place", selections[layer]["selected_places"])
-            # res = res.loc[res.place.isin(selected_places)]
+            res = filter_df(res, "place", selected_places)
+
         if selected_homelands:
-            res = filter_df(res, "homeland", selections[layer]["selected_homelands"])
-            # res = res.loc[res.homeland.isin(selected_homelands)]
+            res = filter_df(res, "homeland", selected_homelands)
+
         if selected_provinces:
-            res = filter_df(res, "province", selections[layer]["selected_provinces"])
-            # res = res.loc[res.province.isin(selected_provinces)]
+            res = filter_df(res, "province", selected_provinces)
+
         if selected_hrvs:
-            res = filter_df(res, "hrv", selections[layer]["selected_hrvs"])
+            res = filter_df(res, "hrv", selected_hrvs)
         if selected_genders:
-            res = filter_df(res, "gender", selections[layer]["selected_genders"])
-        if start_date != None:
+            res = filter_df(res, "gender", selected_genders)
+        if date_checkbox:
+            st.write(date_checkbox)
             res = res[res['date'].notna()]
             date_found = []
             for idx, row in res.iterrows():
                 for date in row["date"]:
-                    if (date > selections[layer]["start_date"]) and (date < selections[layer]["end_date"]):
+                    if (date > start_date) and (date < end_date):
                         date_found.append(row.object_id)
+
+
             date_found = list(set(date_found))
             res = res.loc[res["object_id"].isin(date_found)]
         layer_res.append(res)
             # res = res.loc[res.hrv.isin(selected_hrvs)]
         metadata_expander.header(f"Data for Layer {layer+1}")
         metadata_connections = get_output_data(res)
-        metadata_expander.markdown(metadata_connections, unsafe_allow_html=True)
+        metadata_tabs[layer-1].markdown(metadata_connections, unsafe_allow_html=True)
         if len(res) > 0:
             hit_ids = res.object_id.tolist()
 
@@ -256,7 +299,7 @@ if st.sidebar.button("Create Map and Data"):
 
     st.pydeck_chart(r)
     for i, res in enumerate(layer_res):
-        dataframe_expander.header(f"Data for Layer {i+1}")
-        dataframe_expander.dataframe(res)
+        # dataframe_tabs.header(f"Data for Layer {i+1}")
+        dataframe_tabs[i].dataframe(res)
 else:
     st.markdown("**There are no matches**")
