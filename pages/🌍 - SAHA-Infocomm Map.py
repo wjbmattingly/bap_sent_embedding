@@ -135,12 +135,14 @@ for layer in range(layer_nums):
     selected_genders = expander_layer.multiselect(f"Select Gender(s) for Layer {layer}", st.session_state[f"genders_{layer}"])
     min_age, max_age = expander_layer.slider(f"Select Age Range for Layer {layer}", 0, 100, (0, 100))
     # max_age = expander_layer.slider(f"Select Highest Age for Layer {layer}", 0, 100, 100)
-    dates_checkbox = st.sidebar.checkbox("Use Dates?")
+    dates_checkbox = expander_layer.checkbox(f"Use Dates for Layer {layer}")
+    start_date = None
+    end_date = None
     if dates_checkbox:
-        start_date = cols[0].date_input("Start Date", datetime.date(1980, 7, 6),
+        start_date = expander_layer.date_input("Start Date", datetime.date(1980, 7, 6),
                                                 min_value=datetime.date(1950, 7, 6),
                                                 max_value=datetime.date(2000, 7, 6))
-        end_date = cols[1].date_input("End Date", datetime.date(1981, 7, 6),
+        end_date = expander_layer.date_input("End Date", datetime.date(1990, 7, 6),
                                             min_value=datetime.date(1950, 7, 6),
                                             max_value=datetime.date(2000, 7, 6))
     selections.append({"query": query,
@@ -151,7 +153,9 @@ for layer in range(layer_nums):
                         "selected_hrvs": selected_hrvs,
                         "selected_genders": selected_genders,
                         "min_age": min_age-1,
-                        "max_age": max_age+1})
+                        "max_age": max_age+1,
+                        "start_date": start_date,
+                        "end_date": end_date})
 cols = st.sidebar.columns(2)
 hits_container = st.container()
 dataframe_expander = st.expander("Open to Examine the Data")
@@ -167,6 +171,7 @@ if st.sidebar.button("Create Map and Data"):
         # st.write(layer)
         res = full_data
         res = res.loc[(res.age > selections[layer]["min_age"]) & (res.age < selections[layer]["max_age"])]
+
         if selections[layer]["query"] != "":
             res = res.loc[res.description.str.contains(selections[layer]["query"])]
         if selected_orgs:
@@ -185,6 +190,15 @@ if st.sidebar.button("Create Map and Data"):
             res = filter_df(res, "hrv", selections[layer]["selected_hrvs"])
         if selected_genders:
             res = filter_df(res, "gender", selections[layer]["selected_genders"])
+        if start_date != None:
+            res = res[res['date'].notna()]
+            date_found = []
+            for idx, row in res.iterrows():
+                for date in row["date"]:
+                    if (date > selections[layer]["start_date"]) and (date < selections[layer]["end_date"]):
+                        date_found.append(row.object_id)
+            date_found = list(set(date_found))
+            res = res.loc[res["object_id"].isin(date_found)]
         layer_res.append(res)
             # res = res.loc[res.hrv.isin(selected_hrvs)]
         metadata_expander.header(f"Data for Layer {layer+1}")
@@ -192,12 +206,8 @@ if st.sidebar.button("Create Map and Data"):
         metadata_expander.markdown(metadata_connections, unsafe_allow_html=True)
         if len(res) > 0:
             hit_ids = res.object_id.tolist()
-            if dates_checkbox:
-                full_data = full_data[full_data['date_time'].notna()]
-                data = full_data.loc[dates_only["object_id"].isin(hit_ids)]
-                data = data.loc[data["date_time"] > start_date and data["date_time"] < end_date]
-            else:
-                data = full_data.loc[full_data["object_id"].isin(hit_ids)]
+
+            data = full_data.loc[full_data["object_id"].isin(hit_ids)]
             hits_container.write(f"Total Hits for Layer {layer+1}: {len(data)}")
             cols2 = st.columns(2)
             if len(data) > 0:
@@ -210,10 +220,8 @@ if st.sidebar.button("Create Map and Data"):
                 final_df["frequency"] = 1
                 for idx, row in final_df.iterrows():
                     final_df.at[idx, "frequency"] = frequencies[row.place[0]]
-                    # st.write(row.frequency)
 
-                # st.write(final_df)
-                # final_df['frequency'] = final_df['place'].map(final_df['place'].value_counts())
+
                 final_df["radius"] = final_df["frequency"].apply(lambda quantity: quantity*10)
                 if layer == 0:
                     line_color=[255, 140, 0]
