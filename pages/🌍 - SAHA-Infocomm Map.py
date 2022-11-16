@@ -244,7 +244,7 @@ if st.sidebar.button("Create Map and Data"):
             res = res.loc[res["object_id"].isin(date_found)]
         layer_res.append(res)
             # res = res.loc[res.hrv.isin(selected_hrvs)]
-        metadata_expander.header(f"Data for Layer {layer+1}")
+        # metadata_expander.header(f"Data for Layer {layer+1}")
         metadata_connections = get_output_data(res)
         metadata_tabs[layer-1].markdown(metadata_connections, unsafe_allow_html=True)
         if len(res) > 0:
