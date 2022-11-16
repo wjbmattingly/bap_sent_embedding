@@ -133,8 +133,16 @@ for layer in range(layer_nums):
     selected_provinces = expander_layer.multiselect(f"Select Province(s) for Layer {layer}", st.session_state[f"provinces_{layer}"])
     selected_hrvs = expander_layer.multiselect(f"Select HRV(s) for Layer {layer}", st.session_state[f"hrvs_{layer}"])
     selected_genders = expander_layer.multiselect(f"Select Gender(s) for Layer {layer}", st.session_state[f"genders_{layer}"])
-    min_age = expander_layer.slider(f"Select Lowest Age for Layer {layer}", 0, 100, 0)
-    max_age = expander_layer.slider(f"Select Highest Age for Layer {layer}", 0, 100, 100)
+    min_age, max_age = expander_layer.slider(f"Select Age Range for Layer {layer}", 0, 100, (0, 100))
+    # max_age = expander_layer.slider(f"Select Highest Age for Layer {layer}", 0, 100, 100)
+    dates_checkbox = st.sidebar.checkbox("Use Dates?")
+    if dates_checkbox:
+        start_date = cols[0].date_input("Start Date", datetime.date(1980, 7, 6),
+                                                min_value=datetime.date(1950, 7, 6),
+                                                max_value=datetime.date(2000, 7, 6))
+        end_date = cols[1].date_input("End Date", datetime.date(1981, 7, 6),
+                                            min_value=datetime.date(1950, 7, 6),
+                                            max_value=datetime.date(2000, 7, 6))
     selections.append({"query": query,
                         "selected_orgs": selected_orgs,
                         "selected_places": selected_places,
@@ -144,19 +152,11 @@ for layer in range(layer_nums):
                         "selected_genders": selected_genders,
                         "min_age": min_age-1,
                         "max_age": max_age+1})
-
-dates_checkbox = st.sidebar.checkbox("Use Dates?")
 cols = st.sidebar.columns(2)
 hits_container = st.container()
 dataframe_expander = st.expander("Open to Examine the Data")
 metadata_expander = st.expander("Open to Examine Connected Data")
-# if dates_checkbox:
-#     start_date = cols[0].date_input("Start Date", datetime.date(1980, 7, 6),
-#                                             min_value=datetime.date(1950, 7, 6),
-#                                             max_value=datetime.date(2000, 7, 6))
-#     end_date = cols[1].date_input("End Date", datetime.date(1981, 7, 6),
-#                                         min_value=datetime.date(1950, 7, 6),
-#                                         max_value=datetime.date(2000, 7, 6))
+
 # else:
 #     start_date = 0
 #     end_date = 0
