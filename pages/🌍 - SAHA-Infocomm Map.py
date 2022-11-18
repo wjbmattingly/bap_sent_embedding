@@ -99,7 +99,7 @@ def change_sessions(name, data_list, refresh=False):
 
 
 
-layer_nums = st.sidebar.number_input("Select Number of Layers", 1, 3, 1)
+layer_nums = st.sidebar.number_input("Select Number of Layers", 1, 10, 1)
 
 cols = st.sidebar.columns(2)
 hits_container = st.container()
