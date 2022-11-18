@@ -15,20 +15,6 @@ from collections import Counter
 
 pd.set_option('display.max_colwidth', 0)
 st.set_page_config(layout="wide")
-# st.markdown(
-#     """
-#     <style>
-#     [data-testid="stSidebar"][aria-expanded="true"] > div:first-child {
-#         width: 500px;
-#     }
-#     [data-testid="stSidebar"][aria-expanded="false"] > div:first-child {
-#         width: 500px;
-#         margin-left: -500px;
-#     }
-#     </style>
-#     """,
-#     unsafe_allow_html=True,
-# )
 def get_output_data(df):
     columns = [["org", "orgs"], ["place", "places"], ["homeland", "homelands"], ["province", "provinces"], ["hrv", "hrvs"]]
     final_dict = {}
@@ -50,8 +36,9 @@ def get_output_data(df):
 def filter_df(df, column, selected_list):
     final = []
     # st.write(selected_list)
-
+    df = df[df[column].notna()]
     for idx, row in df.iterrows():
+        # if pd.isnull(row[column]) == False:
         # st.write(type(row[column]))
         # if str(type(row[column])) == "<class 'numpy.ndarray'>":
         if any(item in selected_list for item in row[column]):
@@ -184,9 +171,7 @@ for layer in range(layer_nums):
                                             key=f"end_date_{layer}")
 
 
-# else:
-#     start_date = 0
-#     end_date = 0
+
 layer_res = []
 selections = []
 if st.sidebar.button("Create Map and Data"):
