@@ -15,3 +15,4 @@ pydeck
 dateparser
 leafmap
 geopandas
+streamlit_timeline
