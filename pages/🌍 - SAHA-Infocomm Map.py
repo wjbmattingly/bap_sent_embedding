@@ -11,6 +11,7 @@ import dateparser
 import copy
 from itertools import chain
 from collections import Counter
+from streamlit_timeline import timeline
 
 
 pd.set_option('display.max_colwidth', 0)
@@ -97,6 +98,24 @@ def change_sessions(name, data_list, refresh=False):
     if name not in st.session_state:
         st.session_state[name] = data_list
 
+def create_timeline(df):
+    df = df[df["date"].notna()]
+    events = []
+    for idx, row in df.iterrows():
+        for date in row.date:
+            events.append(
+                {"start_date": {"year": date.year, "month": date.month, "day": date.day},
+                 "text": {
+                     "headline": row.full_name,
+                     "text": row.description
+                 }})
+    events = events[:1000]
+    final_display = {"title":
+    {"text": {"headline": f"Timeline of the {len(events)} HRVs in the TRC Vol 7"}},
+    "events": events}
+
+    return final_display
+
 
 
 layer_nums = st.sidebar.number_input("Select Number of Layers", 1, 10, 1)
@@ -108,6 +127,9 @@ dataframe_tabs = dataframe_expander.tabs([f"Layer {i+1}" for i in range(layer_nu
 
 metadata_expander = st.expander("Open to Examine Connected Data")
 metadata_tabs = metadata_expander.tabs([f"Layer {i+1}" for i in range(layer_nums)])
+
+timeline_expander = st.expander("Open to Examine the Timeline")
+timeline_tabs = timeline_expander.tabs([f"Layer {i+1}" for i in range(layer_nums)])
 # dates_checkbox = st.sidebar.checkbox(f"Use Dates")
 selections = []
 tabs = st.sidebar.tabs([f"Layer {i+1}" for i in range(layer_nums)])
@@ -232,6 +254,14 @@ if st.sidebar.button("Create Map and Data"):
         # metadata_expander.header(f"Data for Layer {layer+1}")
         metadata_connections = get_output_data(res)
         metadata_tabs[layer-1].markdown(metadata_connections, unsafe_allow_html=True)
+
+        display_events = create_timeline(res)
+        timeline_tabs[layer-1].write(f"Total of {len(display_events['events'])} Results")
+        # timeline_html = timeline(display_events, height=500)
+        with timeline_tabs[layer-1]:
+            timeline(display_events, height=500)
+
+
         if len(res) > 0:
             hit_ids = res.object_id.tolist()
 
