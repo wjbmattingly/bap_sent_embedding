@@ -178,7 +178,7 @@ if st.sidebar.button("Create Map and Data"):
     layer_data = []
     for layer in range(layer_nums):
         layer = layer+1
-        query = st.session_state[f"query_{layer}"].lower()
+        query = st.session_state[f"query_{layer}"]
         selected_orgs = st.session_state[f"selected_orgs_{layer}"]
         selected_places = st.session_state[f"selected_places_{layer}"]
         selected_homelands = st.session_state[f"selected_homelands_{layer}"]
