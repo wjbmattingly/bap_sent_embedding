@@ -16,5 +16,5 @@ dateparser
 leafmap
 geopandas
 streamlit_timeline
-spacy
+spacy==3.3.1
 spacy-streamlit
