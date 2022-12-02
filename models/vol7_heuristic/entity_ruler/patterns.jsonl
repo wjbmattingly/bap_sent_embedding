@@ -1,0 +1,2158 @@
+{"label":"WEAPON","pattern":[{"LEMMA":"acid"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"ak47"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"axe"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"baseball"},{"LEMMA":"bat"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"bat"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"bayonet"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"bullet"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"pickaxe"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"landmine"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"petrol"},{"LEMMA":"bomb"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"bomb"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"assault"},{"LEMMA":"weapon"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"weapon"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"limpet"},{"LEMMA":"mine"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"rifle"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"baton"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"rifle"},{"LEMMA":"-"},{"LEMMA":"butts"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"teargas"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"grenade"}]}
+{"label":"WEAPON","pattern":[{"LEMMA":"hand"},{"LEMMA":"grenade"}]}
+{"label":"EVENT","pattern":[{"LEMMA":"Soweto"},{"LEMMA":"uprising"}]}
+{"label":"EVENT","pattern":[{"LEMMA":"trojan"},{"LEMMA":"horse"},{"LEMMA":"incident"}]}
+{"label":"EVENT","pattern":[{"LEMMA":"Trojan"},{"LEMMA":"Horse"},{"LEMMA":"Incident"}]}
+{"label":"EVENT","pattern":[{"LEMMA":"Church"},{"LEMMA":"Street"},{"LEMMA":"Bombing"}]}
+{"label":"EVENT","pattern":[{"LEMMA":"1985"},{"LEMMA":"school"},{"LEMMA":"boycotts"}]}
+{"label":"HRV","pattern":[{"LEMMA":"kill"}]}
+{"label":"HRV","pattern":[{"LEMMA":"rape"}]}
+{"label":"HRV","pattern":[{"LEMMA":"petrol"},{"LEMMA":"bomb"}]}
+{"label":"HRV","pattern":[{"LEMMA":"stone"},{"LEMMA":"to"},{"LEMMA":"death"}]}
+{"label":"HRV","pattern":[{"LEMMA":"kick"}]}
+{"label":"HRV","pattern":[{"LEMMA":"shoot"},{"LEMMA":"dead"}]}
+{"label":"HRV","pattern":[{"LEMMA":"stab"},{"LEMMA":"to"},{"LEMMA":"death"}]}
+{"label":"HRV","pattern":[{"LEMMA":"shoot"}]}
+{"label":"HRV","pattern":[{"LEMMA":"injure"}]}
+{"label":"HRV","pattern":[{"LEMMA":"beat"}]}
+{"label":"HRV","pattern":[{"LEMMA":"blind"}]}
+{"label":"HRV","pattern":[{"LEMMA":"stab"}]}
+{"label":"HRV","pattern":[{"LEMMA":"stone"}]}
+{"label":"HRV","pattern":[{"LEMMA":"kill"}]}
+{"label":"HRV","pattern":[{"LEMMA":"burn"}]}
+{"label":"HRV","pattern":[{"LEMMA":"bomb"}]}
+{"label":"HRV","pattern":[{"LEMMA":"detain"}]}
+{"label":"HRV","pattern":[{"LEMMA":"assault"}]}
+{"label":"HRV","pattern":[{"LEMMA":"torture"}]}
+{"label":"HRV","pattern":[{"LEMMA":"arrest"}]}
+{"label":"HRV","pattern":[{"LEMMA":"necklace"}]}
+{"label":"HRV","pattern":[{"LEMMA":"steal"}]}
+{"label":"HRV","pattern":[{"LEMMA":"imprison"}]}
+{"label":"HRV","pattern":[{"LEMMA":"destroy"}]}
+{"label":"HRV","pattern":[{"LEMMA":"interrogate"}]}
+{"label":"HRV","pattern":[{"LEMMA":"abduct"}]}
+{"label":"HRV","pattern":[{"LEMMA":"sexual"}]}
+{"label":"HRV","pattern":[{"LEMMA":"explode"}]}
+{"label":"HRV","pattern":[{"LEMMA":"mutilate"}]}
+{"label":"HRV","pattern":[{"LEMMA":"execute"}]}
+{"label":"HRV","pattern":[{"LEMMA":"intimidate"}]}
+{"label":"HRV","pattern":[{"LEMMA":"poison"}]}
+{"label":"HRV","pattern":[{"LEMMA":"frame"}]}
+{"label":"HRV","pattern":[{"LEMMA":"suffocate"}]}
+{"label":"HRV","pattern":[{"LEMMA":"drown"}]}
+{"label":"HRV","pattern":[{"LEMMA":"incarcerate"}]}
+{"label":"HRV","pattern":[{"LEMMA":"deprive"}]}
+{"label":"HRV","pattern":[{"LEMMA":"confine"}]}
+{"label":"HRV","pattern":[{"LEMMA":"shock"}]}
+{"label":"HRV","pattern":[{"LEMMA":"expose"}]}
+{"label":"HRV","pattern":[{"LEMMA":"electrocute"}]}
+{"label":"ORG","pattern":"A-Team"}
+{"label":"ORG","pattern":"ADM"}
+{"label":"ORG","pattern":"ADM (African Democratic Movement)"}
+{"label":"ORG","pattern":"ALUSAF"}
+{"label":"ORG","pattern":"ALUSAF (Alusaf)"}
+{"label":"ORG","pattern":"ANC"}
+{"label":"ORG","pattern":"ANC (African National Congress)"}
+{"label":"ORG","pattern":"ANC National Executive Committee"}
+{"label":"ORG","pattern":"ANC Youth League"}
+{"label":"ORG","pattern":"ANC's Security Department"}
+{"label":"ORG","pattern":"ANCWL"}
+{"label":"ORG","pattern":"ANCWL (African National Congress Women's League)"}
+{"label":"ORG","pattern":"ANCYL"}
+{"label":"ORG","pattern":"ANCYL (African National Congress Youth League)"}
+{"label":"ORG","pattern":"APLA"}
+{"label":"ORG","pattern":"APLA (Azanian People's Liberation Army)"}
+{"label":"ORG","pattern":"ARM"}
+{"label":"ORG","pattern":"ARM (African Resistance Movement)"}
+{"label":"ORG","pattern":"AVF"}
+{"label":"ORG","pattern":"AVF (Afrikaner Volksfront)"}
+{"label":"ORG","pattern":"AWB"}
+{"label":"ORG","pattern":"AWB (Afrikaner Weerstandsbeweging)"}
+{"label":"ORG","pattern":"AZAPO"}
+{"label":"ORG","pattern":"AZAPO (Azanian People's Organisation)"}
+{"label":"ORG","pattern":"AZASM"}
+{"label":"ORG","pattern":"AZASM (Azanian Student Movement)"}
+{"label":"ORG","pattern":"Administration Board"}
+{"label":"ORG","pattern":"African Christian Democratic Party"}
+{"label":"ORG","pattern":"African Christian Democratic Party (African Christian Democratic Party)"}
+{"label":"ORG","pattern":"African Democratic Movement"}
+{"label":"ORG","pattern":"African Democratic Movement (African Democratic Movement)"}
+{"label":"ORG","pattern":"African National Congress"}
+{"label":"ORG","pattern":"African National Congress Women's League"}
+{"label":"ORG","pattern":"African National Congress Youth League"}
+{"label":"ORG","pattern":"African Resistance Movement"}
+{"label":"ORG","pattern":"African Resistance Movement (African Resistance Movement)"}
+{"label":"ORG","pattern":"Afrikaner Volksfront"}
+{"label":"ORG","pattern":"Afrikaner Weerstandsbeweging"}
+{"label":"ORG","pattern":"Alexander Sinton High School"}
+{"label":"ORG","pattern":"Alexandra Civic Association"}
+{"label":"ORG","pattern":"Alexandra Civic Organisation"}
+{"label":"ORG","pattern":"Alexandra Security Branch"}
+{"label":"ORG","pattern":"Alicedale Youth Congress"}
+{"label":"ORG","pattern":"Alusaf"}
+{"label":"ORG","pattern":"Alusaf (Alusaf)"}
+{"label":"ORG","pattern":"AmaAfrika"}
+{"label":"ORG","pattern":"AmaButho"}
+{"label":"ORG","pattern":"AmaMpondo"}
+{"label":"ORG","pattern":"AmaRussians"}
+{"label":"ORG","pattern":"Amabhaca"}
+{"label":"ORG","pattern":"Amabutho"}
+{"label":"ORG","pattern":"Amagundwana Municipal Police"}
+{"label":"ORG","pattern":"Amakati"}
+{"label":"ORG","pattern":"Amaqola"}
+{"label":"ORG","pattern":"Amasinyora gang"}
+{"label":"ORG","pattern":"Amasolomzi"}
+{"label":"ORG","pattern":"Amavaravara gang"}
+{"label":"ORG","pattern":"Amnesty International"}
+{"label":"ORG","pattern":"Apostolic Church Hall"}
+{"label":"ORG","pattern":"Appeal Court"}
+{"label":"ORG","pattern":"Area Committee"}
+{"label":"ORG","pattern":"Armed Resistance Movement"}
+{"label":"ORG","pattern":"Ashley Kriel Detachment"}
+{"label":"ORG","pattern":"Atameleng Police"}
+{"label":"ORG","pattern":"Azanian People's Liberation Army"}
+{"label":"ORG","pattern":"Azanian People's Organisation"}
+{"label":"ORG","pattern":"Azanian People's Organisation (Azanian People's Organisation)"}
+{"label":"ORG","pattern":"Azanian Student Movement"}
+{"label":"ORG","pattern":"Azanian Student Movement (Azanian Student Movement)"}
+{"label":"ORG","pattern":"Azapo"}
+{"label":"ORG","pattern":"BCM"}
+{"label":"ORG","pattern":"BCM (Black Consciousness Movement)"}
+{"label":"ORG","pattern":"BCP"}
+{"label":"ORG","pattern":"BCP (Basotholand Congress Party)"}
+{"label":"ORG","pattern":"BDF"}
+{"label":"ORG","pattern":"BDF (Bophuthatswana Defence Force)"}
+{"label":"ORG","pattern":"BLATU"}
+{"label":"ORG","pattern":"BLATU (Black Trade Union of South African Transport Services)"}
+{"label":"ORG","pattern":"BMW"}
+{"label":"ORG","pattern":"BPC"}
+{"label":"ORG","pattern":"BPC (Black People's Convention)"}
+{"label":"ORG","pattern":"BPPP"}
+{"label":"ORG","pattern":"BPPP (Bophuthatswana People's Progressive Party)"}
+{"label":"ORG","pattern":"BTR-Sarmcol"}
+{"label":"ORG","pattern":"BWB"}
+{"label":"ORG","pattern":"Bafokeng Tribal Council"}
+{"label":"ORG","pattern":"Bafurutshe"}
+{"label":"ORG","pattern":"Bantu Affairs"}
+{"label":"ORG","pattern":"Bantu Education"}
+{"label":"ORG","pattern":"Baragwanath Hospital"}
+{"label":"ORG","pattern":"Baragwanath hospital"}
+{"label":"ORG","pattern":"Basotholand Congress Party"}
+{"label":"ORG","pattern":"Basotholand Congress Party (Basotholand Congress Party)"}
+{"label":"ORG","pattern":"Basotoland Congress Party"}
+{"label":"ORG","pattern":"Basutuland Congress Party"}
+{"label":"ORG","pattern":"Benoni SAP"}
+{"label":"ORG","pattern":"Bethulie Youth Congress"}
+{"label":"ORG","pattern":"Black Cats"}
+{"label":"ORG","pattern":"Black Community Programme"}
+{"label":"ORG","pattern":"Black Consciousness"}
+{"label":"ORG","pattern":"Black Consciousness Movement"}
+{"label":"ORG","pattern":"Black Consciousness Movement (Black Consciousness Movement)"}
+{"label":"ORG","pattern":"Black Local Authorities"}
+{"label":"ORG","pattern":"Black Local Authorities and Special Constables"}
+{"label":"ORG","pattern":"Black Local Authority"}
+{"label":"ORG","pattern":"Black People's Convention"}
+{"label":"ORG","pattern":"Black People\u2019s Convention"}
+{"label":"ORG","pattern":"Black Trade Union of South African Transport Services"}
+{"label":"ORG","pattern":"Black Women's Federation"}
+{"label":"ORG","pattern":"Blackpool farm"}
+{"label":"ORG","pattern":"Bloemfontein Security Branch"}
+{"label":"ORG","pattern":"Bongolethu Youth Organisation"}
+{"label":"ORG","pattern":"Bophutatswana Consulate"}
+{"label":"ORG","pattern":"Bophutatswana Police"}
+{"label":"ORG","pattern":"Bophuthastwana Police"}
+{"label":"ORG","pattern":"Bophuthatswana Defence Force"}
+{"label":"ORG","pattern":"Bophuthatswana Defence Force (Bophuthatswana Defence Force)"}
+{"label":"ORG","pattern":"Bophuthatswana Democratic Party"}
+{"label":"ORG","pattern":"Bophuthatswana Government"}
+{"label":"ORG","pattern":"Bophuthatswana People's Progressive Party"}
+{"label":"ORG","pattern":"Bophuthatswana People\u2019s Progressive Party"}
+{"label":"ORG","pattern":"Bophuthatswana Transport Holding"}
+{"label":"ORG","pattern":"Bophutswana Police"}
+{"label":"ORG","pattern":"Boputhatswana Police"}
+{"label":"ORG","pattern":"Border Security Branch"}
+{"label":"ORG","pattern":"Brits Action Committee"}
+{"label":"ORG","pattern":"Brotherhood"}
+{"label":"ORG","pattern":"Bruntville Civic Organisation"}
+{"label":"ORG","pattern":"Bumbane Tribal Authority"}
+{"label":"ORG","pattern":"Bush View Farm"}
+{"label":"ORG","pattern":"CAST"}
+{"label":"ORG","pattern":"CAST (Civic Association of Southern Transvaal)"}
+{"label":"ORG","pattern":"CAWU"}
+{"label":"ORG","pattern":"CAWU (Construction and Allied Workers Union)"}
+{"label":"ORG","pattern":"CAYCO"}
+{"label":"ORG","pattern":"CCB"}
+{"label":"ORG","pattern":"CCB (Civil Cooperation Bureau)"}
+{"label":"ORG","pattern":"CDF"}
+{"label":"ORG","pattern":"CDF (Ciskei Defense Force)"}
+{"label":"ORG","pattern":"CI"}
+{"label":"ORG","pattern":"CI (Christian Institute)"}
+{"label":"ORG","pattern":"CNIP"}
+{"label":"ORG","pattern":"CNIP (Ciskei National Independence Party)"}
+{"label":"ORG","pattern":"CONTRALESA"}
+{"label":"ORG","pattern":"CONTRALESA (Congress of Traditional Leaders of South Africa)"}
+{"label":"ORG","pattern":"COSAS"}
+{"label":"ORG","pattern":"COSAS (Congress of South African Students)"}
+{"label":"ORG","pattern":"COSATU"}
+{"label":"ORG","pattern":"CPC"}
+{"label":"ORG","pattern":"CPC (Coloured People's Congress)"}
+{"label":"ORG","pattern":"CRADORA"}
+{"label":"ORG","pattern":"CTC"}
+{"label":"ORG","pattern":"Caprivi trainees"}
+{"label":"ORG","pattern":"Carletonville Taxi Association"}
+{"label":"ORG","pattern":"Centre for African Studies"}
+{"label":"ORG","pattern":"Checkers"}
+{"label":"ORG","pattern":"Chesterville A-Team"}
+{"label":"ORG","pattern":"Chibini Church"}
+{"label":"ORG","pattern":"Chicken Farm"}
+{"label":"ORG","pattern":"Christian Institute"}
+{"label":"ORG","pattern":"Christiana town council"}
+{"label":"ORG","pattern":"Ciskei Defence Force"}
+{"label":"ORG","pattern":"Ciskei Defense Force"}
+{"label":"ORG","pattern":"Ciskei Elite Unit"}
+{"label":"ORG","pattern":"Ciskei Government"}
+{"label":"ORG","pattern":"Ciskei National Independence Party"}
+{"label":"ORG","pattern":"Ciskei National Independence Party (Ciskei National Independence Party)"}
+{"label":"ORG","pattern":"Ciskei Police"}
+{"label":"ORG","pattern":"Ciskei Police and Security Branch"}
+{"label":"ORG","pattern":"Ciskei Security Branch"}
+{"label":"ORG","pattern":"Ciskei Security Police"}
+{"label":"ORG","pattern":"Citizen Force"}
+{"label":"ORG","pattern":"Civic Association of Southern Africa"}
+{"label":"ORG","pattern":"Civic Association of Southern Transvaal"}
+{"label":"ORG","pattern":"Civic Organisation"}
+{"label":"ORG","pattern":"Civil Cooperation Bureau"}
+{"label":"ORG","pattern":"Civil Cooperation Bureau (Civil Cooperation Bureau)"}
+{"label":"ORG","pattern":"Cleaners"}
+{"label":"ORG","pattern":"Clermont Advisory Board"}
+{"label":"ORG","pattern":"Clermont Youth Congress"}
+{"label":"ORG","pattern":"Club Lamancha"}
+{"label":"ORG","pattern":"Coloured Management Committee"}
+{"label":"ORG","pattern":"Coloured People's Congress"}
+{"label":"ORG","pattern":"Coloured Representative Council"}
+{"label":"ORG","pattern":"Combat Force"}
+{"label":"ORG","pattern":"Congress Alliance"}
+{"label":"ORG","pattern":"Congress of South African Students"}
+{"label":"ORG","pattern":"Congress of Traditional Leaders of South Africa"}
+{"label":"ORG","pattern":"Congress of Traditional Leaders of South Africa (Congress of Traditional Leaders of South Africa)"}
+{"label":"ORG","pattern":"Conservative Party"}
+{"label":"ORG","pattern":"Construction and Allied Workers Union"}
+{"label":"ORG","pattern":"Cookhouse Women's Organisation"}
+{"label":"ORG","pattern":"Council of Moakeng"}
+{"label":"ORG","pattern":"Council of Ten"}
+{"label":"ORG","pattern":"Cradock Security Police"}
+{"label":"ORG","pattern":"Cradock Youth Association"}
+{"label":"ORG","pattern":"Crime Reaction Unit"}
+{"label":"ORG","pattern":"Crisis Committee"}
+{"label":"ORG","pattern":"DNP"}
+{"label":"ORG","pattern":"DNP (Dikwankwetla National Party)"}
+{"label":"ORG","pattern":"Da Gama Textiles"}
+{"label":"ORG","pattern":"Daily Dispatch"}
+{"label":"ORG","pattern":"Daisy farm"}
+{"label":"ORG","pattern":"Daveyton Youth Congress"}
+{"label":"ORG","pattern":"Defence Force"}
+{"label":"ORG","pattern":"Democratic Unity Movement"}
+{"label":"ORG","pattern":"Dennilton Police"}
+{"label":"ORG","pattern":"Department of Coloured Affairs"}
+{"label":"ORG","pattern":"Department of Education and Training"}
+{"label":"ORG","pattern":"Department of Foreign Affairs"}
+{"label":"ORG","pattern":"Department of Internal Affairs"}
+{"label":"ORG","pattern":"Department of Labour"}
+{"label":"ORG","pattern":"Department of Prisons"}
+{"label":"ORG","pattern":"Diboka Gang"}
+{"label":"ORG","pattern":"Dikwankwetla National Party"}
+{"label":"ORG","pattern":"Dikwankwetla National Party (Dikwankwetla National Party)"}
+{"label":"ORG","pattern":"Dimbaza Youth Congress"}
+{"label":"ORG","pattern":"Dobsonville Civic Association"}
+{"label":"ORG","pattern":"Dolphin Unit"}
+{"label":"ORG","pattern":"Drum Tens"}
+{"label":"ORG","pattern":"Duncan Village Residents' Association"}
+{"label":"ORG","pattern":"Duncan Village Residents\u2019 Association"}
+{"label":"ORG","pattern":"Dunnottar Police"}
+{"label":"ORG","pattern":"Durnacol Mines"}
+{"label":"ORG","pattern":"EAGLES CLUB"}
+{"label":"ORG","pattern":"ELYCO"}
+{"label":"ORG","pattern":"ELYCO (East London Youth Congress)"}
+{"label":"ORG","pattern":"Eagles"}
+{"label":"ORG","pattern":"Eagles Club"}
+{"label":"ORG","pattern":"East London Security Branch"}
+{"label":"ORG","pattern":"East London Youth Congress"}
+{"label":"ORG","pattern":"East London Youth Congress (East London Youth Congress)"}
+{"label":"ORG","pattern":"East London Youth Organisation"}
+{"label":"ORG","pattern":"Eastern Cape Security Branch"}
+{"label":"ORG","pattern":"Eastern Cape Security Police"}
+{"label":"ORG","pattern":"Eastern MG Pirates"}
+{"label":"ORG","pattern":"Eastern Transvaal Security Branch"}
+{"label":"ORG","pattern":"Eastern Transvaal Security Branches"}
+{"label":"ORG","pattern":"Edendale Hospital"}
+{"label":"ORG","pattern":"Eduardo Mondlane University"}
+{"label":"ORG","pattern":"Egoli Breweries"}
+{"label":"ORG","pattern":"End Conscription Campaign"}
+{"label":"ORG","pattern":"Ermelo Security Branch"}
+{"label":"ORG","pattern":"Esikhawini Hit Squad"}
+{"label":"ORG","pattern":"Esimozomeni Primary School"}
+{"label":"ORG","pattern":"Ethafeni Hostel"}
+{"label":"ORG","pattern":"FAW/U"}
+{"label":"ORG","pattern":"FAWU"}
+{"label":"ORG","pattern":"FAWU (Food and Allied Workers Union)"}
+{"label":"ORG","pattern":"FAWUSA"}
+{"label":"ORG","pattern":"FNB"}
+{"label":"ORG","pattern":"FOYCO"}
+{"label":"ORG","pattern":"FOYCO (Fort Beaufort Youth Congress)"}
+{"label":"ORG","pattern":"Falcon Park Primary School"}
+{"label":"ORG","pattern":"Federation of Transvaal Women"}
+{"label":"ORG","pattern":"Fidelity Guards"}
+{"label":"ORG","pattern":"Finch Mine"}
+{"label":"ORG","pattern":"Food and Allied Workers Union"}
+{"label":"ORG","pattern":"Food and Allied Workers Union (Food and Allied Workers Union)"}
+{"label":"ORG","pattern":"Food and Allied Workers' Union"}
+{"label":"ORG","pattern":"Fort Beaufort Youth Congress"}
+{"label":"ORG","pattern":"Fountain Security Branch"}
+{"label":"ORG","pattern":"GRAYCO"}
+{"label":"ORG","pattern":"GRAYCO (Graaf-Reinet Youth Congress)"}
+{"label":"ORG","pattern":"Gadaffis"}
+{"label":"ORG","pattern":"Gadaffis (Gadaffis)"}
+{"label":"ORG","pattern":"Gagisa Lower Primary School"}
+{"label":"ORG","pattern":"Garankuwa Youth League"}
+{"label":"ORG","pattern":"Gazankulu Police"}
+{"label":"ORG","pattern":"Goldstone Commission"}
+{"label":"ORG","pattern":"Gomotso Police"}
+{"label":"ORG","pattern":"Goodyear Tyres"}
+{"label":"ORG","pattern":"Graaf-Reinet Youth Congress"}
+{"label":"ORG","pattern":"Grahamstown Rural Committee"}
+{"label":"ORG","pattern":"Grahamstown Supreme Court"}
+{"label":"ORG","pattern":"Green Berets"}
+{"label":"ORG","pattern":"Greenlands Farm"}
+{"label":"ORG","pattern":"Hambanathi Residents\u2019 Association"}
+{"label":"ORG","pattern":"Hammarsdale Youth Congress"}
+{"label":"ORG","pattern":"Hanensberg Police Station"}
+{"label":"ORG","pattern":"Heidelberg Tavern"}
+{"label":"ORG","pattern":"Highgate Hotel"}
+{"label":"ORG","pattern":"Hill Committee"}
+{"label":"ORG","pattern":"Hill Committee of Bizana"}
+{"label":"ORG","pattern":"Hlahetsi Police"}
+{"label":"ORG","pattern":"Hlengisa Primary School"}
+{"label":"ORG","pattern":"Hlobane Colliery"}
+{"label":"ORG","pattern":"Hofmeyr Youth Congress"}
+{"label":"ORG","pattern":"House of Delegates"}
+{"label":"ORG","pattern":"Huhudi Civic Association"}
+{"label":"ORG","pattern":"Huhudi Youth Congress"}
+{"label":"ORG","pattern":"Huhudi Youth Organisation"}
+{"label":"ORG","pattern":"IFP"}
+{"label":"ORG","pattern":"IFP (Inkatha Freedom Party)"}
+{"label":"ORG","pattern":"IFP Central Committee"}
+{"label":"ORG","pattern":"IFP Women\u2019s League"}
+{"label":"ORG","pattern":"IFP Youth Brigade"}
+{"label":"ORG","pattern":"IFP-aligned union"}
+{"label":"ORG","pattern":"INKATHA GANG"}
+{"label":"ORG","pattern":"IPF"}
+{"label":"ORG","pattern":"ISU"}
+{"label":"ORG","pattern":"ISU (Internal Security Unit)"}
+{"label":"ORG","pattern":"Ikageng Civic Association"}
+{"label":"ORG","pattern":"Ikageng Youth Congress"}
+{"label":"ORG","pattern":"Imbali Residents\u2019 Association"}
+{"label":"ORG","pattern":"Imbali Youth Organisation"}
+{"label":"ORG","pattern":"Imbokodo"}
+{"label":"ORG","pattern":"Impumelelo Combined School"}
+{"label":"ORG","pattern":"Inala School"}
+{"label":"ORG","pattern":"Independent Board of Enquiry"}
+{"label":"ORG","pattern":"Inkatha Freedom Party"}
+{"label":"ORG","pattern":"Inkatha IFP"}
+{"label":"ORG","pattern":"Inkatha Youth Brigade"}
+{"label":"ORG","pattern":"Inkatha gang"}
+{"label":"ORG","pattern":"Inkatha/IFP"}
+{"label":"ORG","pattern":"Insika Party"}
+{"label":"ORG","pattern":"Internal Security Unit"}
+{"label":"ORG","pattern":"Internal Security Unit (Internal Security Unit)"}
+{"label":"ORG","pattern":"Internal Stability Unit"}
+{"label":"ORG","pattern":"Inyandza"}
+{"label":"ORG","pattern":"Inyandza Movement"}
+{"label":"ORG","pattern":"Inyandza National Movement"}
+{"label":"ORG","pattern":"Inyandza party"}
+{"label":"ORG","pattern":"Inyatsi"}
+{"label":"ORG","pattern":"JCA"}
+{"label":"ORG","pattern":"JCA (Jouberton Civic Association)"}
+{"label":"ORG","pattern":"JMC"}
+{"label":"ORG","pattern":"JORAC"}
+{"label":"ORG","pattern":"JORAC (Joint Rent Action Committee)"}
+{"label":"ORG","pattern":"Jackrollers gang"}
+{"label":"ORG","pattern":"Johannesburg Hospital"}
+{"label":"ORG","pattern":"Johannesburg Supreme Court"}
+{"label":"ORG","pattern":"Joint Rent Action Committee"}
+{"label":"ORG","pattern":"Joint Rent Action Committee (Joint Rent Action Committee)"}
+{"label":"ORG","pattern":"Joshua Squad"}
+{"label":"ORG","pattern":"Jouberton Civic Association"}
+{"label":"ORG","pattern":"Jouberton Civic Association (Jouberton Civic Association)"}
+{"label":"ORG","pattern":"Jouberton Youth Congress"}
+{"label":"ORG","pattern":"Jouberton police"}
+{"label":"ORG","pattern":"KTC Masincedane Committee"}
+{"label":"ORG","pattern":"KYC"}
+{"label":"ORG","pattern":"KYC (Gadaffis)"}
+{"label":"ORG","pattern":"KZP"}
+{"label":"ORG","pattern":"KZP (KwaZulu Police)"}
+{"label":"ORG","pattern":"KaNgwane Police"}
+{"label":"ORG","pattern":"Kabasa gang"}
+{"label":"ORG","pattern":"Kagiso Residents Organisation"}
+{"label":"ORG","pattern":"Kannemeyer Commission of Enquiry"}
+{"label":"ORG","pattern":"Kathorus Peace Secretariat"}
+{"label":"ORG","pattern":"Khetisi Kheswa gang"}
+{"label":"ORG","pattern":"Khotso House"}
+{"label":"ORG","pattern":"Khuma Youth Congress"}
+{"label":"ORG","pattern":"Khumalo gang"}
+{"label":"ORG","pattern":"Khutsong Students Congress"}
+{"label":"ORG","pattern":"Khutsong Youth Congress"}
+{"label":"ORG","pattern":"Khutsong Youth League"}
+{"label":"ORG","pattern":"Killer Boys"}
+{"label":"ORG","pattern":"Klaarwater Residents' Association"}
+{"label":"ORG","pattern":"Klipplaat police"}
+{"label":"ORG","pattern":"Koffie Farm"}
+{"label":"ORG","pattern":"Kokstad Supreme Court"}
+{"label":"ORG","pattern":"Kolomane Residents' Association"}
+{"label":"ORG","pattern":"Kragbon Police Dog Unit"}
+{"label":"ORG","pattern":"Krugersdorp Magistrate's"}
+{"label":"ORG","pattern":"Krugersdorp Magistrate\u2019scourt"}
+{"label":"ORG","pattern":"Krugersdorp Residents' Organisation"}
+{"label":"ORG","pattern":"Kula Youth Organisation"}
+{"label":"ORG","pattern":"KwaKwatsi Youth Congress"}
+{"label":"ORG","pattern":"KwaMadala Hostel"}
+{"label":"ORG","pattern":"KwaMakhutha Youth League"}
+{"label":"ORG","pattern":"KwaMashu Youth League"}
+{"label":"ORG","pattern":"KwaMashu police"}
+{"label":"ORG","pattern":"KwaMasiza hostel"}
+{"label":"ORG","pattern":"KwaNdebele Police"}
+{"label":"ORG","pattern":"KwaPata Junior Secondary School"}
+{"label":"ORG","pattern":"KwaTeyisi farm"}
+{"label":"ORG","pattern":"KwaZulu Government"}
+{"label":"ORG","pattern":"KwaZulu Legislative Assembly"}
+{"label":"ORG","pattern":"KwaZulu Legislature"}
+{"label":"ORG","pattern":"KwaZulu Police"}
+{"label":"ORG","pattern":"KwaZulu Police (KwaZulu Police)"}
+{"label":"ORG","pattern":"Kwaggafontein Police"}
+{"label":"ORG","pattern":"Kwazulu Police"}
+{"label":"ORG","pattern":"Kwelerha Tribal Authority"}
+{"label":"ORG","pattern":"LLA"}
+{"label":"ORG","pattern":"LLA (Lesotho Liberation Army)"}
+{"label":"ORG","pattern":"LRA"}
+{"label":"ORG","pattern":"Labour Party"}
+{"label":"ORG","pattern":"Ladybrand Security Branch"}
+{"label":"ORG","pattern":"Ladysmith Hospital"}
+{"label":"ORG","pattern":"Lagunya Taxi Association"}
+{"label":"ORG","pattern":"Lanada Gang"}
+{"label":"ORG","pattern":"Langa High School"}
+{"label":"ORG","pattern":"Langeberg Food"}
+{"label":"ORG","pattern":"Langeberg Foods"}
+{"label":"ORG","pattern":"Leandra Action Committee"}
+{"label":"ORG","pattern":"Lebowa Police"}
+{"label":"ORG","pattern":"Lekazi Central High School"}
+{"label":"ORG","pattern":"Leruntsi Secondary School"}
+{"label":"ORG","pattern":"Lesedi Civic Association"}
+{"label":"ORG","pattern":"Lesotho Liberation Army"}
+{"label":"ORG","pattern":"Lesotho Liberation Army (Lesotho Liberation Army)"}
+{"label":"ORG","pattern":"Lesotho National Security Service"}
+{"label":"ORG","pattern":"Lingelethu West Town Council"}
+{"label":"ORG","pattern":"Lion Park Motel"}
+{"label":"ORG","pattern":"Livingstone Hospital"}
+{"label":"ORG","pattern":"Lulekani Youth Congress"}
+{"label":"ORG","pattern":"Lutheran Church"}
+{"label":"ORG","pattern":"M K \u2019s Special Operations Unit"}
+{"label":"ORG","pattern":"MACWUSA"}
+{"label":"ORG","pattern":"MACWUSA (Motor Assembly & Component Workers Union of South Africa)"}
+{"label":"ORG","pattern":"MALAYO"}
+{"label":"ORG","pattern":"MALAYO (Masibonisane Lamontville Youth Organisation)"}
+{"label":"ORG","pattern":"MAWU"}
+{"label":"ORG","pattern":"MG Pirates"}
+{"label":"ORG","pattern":"MK"}
+{"label":"ORG","pattern":"MK High Command"}
+{"label":"ORG","pattern":"MK Special Operations Unit"}
+{"label":"ORG","pattern":"MK \u2019s Special Operations Unit"}
+{"label":"ORG","pattern":"MK's Natal"}
+{"label":"ORG","pattern":"MK's Special Operations Unit"}
+{"label":"ORG","pattern":"MK\u2019s Special Operations Unit"}
+{"label":"ORG","pattern":"MUFC"}
+{"label":"ORG","pattern":"MUFC (Mandela United Football Club)"}
+{"label":"ORG","pattern":"Macassar Civic Association"}
+{"label":"ORG","pattern":"Magongwa Youth League"}
+{"label":"ORG","pattern":"Magoo's Bar"}
+{"label":"ORG","pattern":"Makabasa"}
+{"label":"ORG","pattern":"Makabasa Gang"}
+{"label":"ORG","pattern":"Mamelodi Civic Association"}
+{"label":"ORG","pattern":"Mamelodi Student Congress"}
+{"label":"ORG","pattern":"Mandela United Football Club"}
+{"label":"ORG","pattern":"Mandela United Football Club (Mandela United Football Club)"}
+{"label":"ORG","pattern":"Manganese Metal Company"}
+{"label":"ORG","pattern":"Mangaung Youth Congress"}
+{"label":"ORG","pattern":"Mangaung local council"}
+{"label":"ORG","pattern":"Mankanyane Police Station"}
+{"label":"ORG","pattern":"Maokeng Municipal Police"}
+{"label":"ORG","pattern":"Maqheleng Civic Association"}
+{"label":"ORG","pattern":"Masele Lower Primary School"}
+{"label":"ORG","pattern":"Mashwele Primary School"}
+{"label":"ORG","pattern":"Masibonisane Lamontville Youth Organisation"}
+{"label":"ORG","pattern":"Masibonisane Lamontville Youth Organisation (Masibonisane Lamontville Youth Organisation)"}
+{"label":"ORG","pattern":"Matlape Higher Primary School"}
+{"label":"ORG","pattern":"Matshidiso High School"}
+{"label":"ORG","pattern":"Meqheleng Civic Association"}
+{"label":"ORG","pattern":"Merafe Hostel"}
+{"label":"ORG","pattern":"Merebank hostel"}
+{"label":"ORG","pattern":"Messina Action Committee"}
+{"label":"ORG","pattern":"Mgwali Residents\u2019 Association"}
+{"label":"ORG","pattern":"Mhlotshana High School"}
+{"label":"ORG","pattern":"Middelburg Youth Congress"}
+{"label":"ORG","pattern":"Ministry of Agriculture"}
+{"label":"ORG","pattern":"Mkhize High School"}
+{"label":"ORG","pattern":"Mngqesha Primary School"}
+{"label":"ORG","pattern":"Moakeng Crisis Committee"}
+{"label":"ORG","pattern":"Mobeni post office"}
+{"label":"ORG","pattern":"Mohlakeng Civic Association"}
+{"label":"ORG","pattern":"Moleleki Civic Association"}
+{"label":"ORG","pattern":"Moroka Police Station"}
+{"label":"ORG","pattern":"Morris Isaacson School"}
+{"label":"ORG","pattern":"Motor Assembly & Component Workers Union of South Africa"}
+{"label":"ORG","pattern":"Motor Assembly & Component Workers' Union of South Africa"}
+{"label":"ORG","pattern":"Motswedi Police"}
+{"label":"ORG","pattern":"Motupa Youth Congress"}
+{"label":"ORG","pattern":"Mphelandaba Store"}
+{"label":"ORG","pattern":"Mpumalanga Clinic"}
+{"label":"ORG","pattern":"Mr Memani\u2019s committee"}
+{"label":"ORG","pattern":"Mshayasafe hostel"}
+{"label":"ORG","pattern":"Mshayazafe Hostel"}
+{"label":"ORG","pattern":"Municipal Police"}
+{"label":"ORG","pattern":"Municipal Police at Old Location"}
+{"label":"ORG","pattern":"Murchison Hospital"}
+{"label":"ORG","pattern":"Mzimhlope Hostel"}
+{"label":"ORG","pattern":"Mzimhlophe hostel"}
+{"label":"ORG","pattern":"NACTU"}
+{"label":"ORG","pattern":"NEC"}
+{"label":"ORG","pattern":"NEHAWU"}
+{"label":"ORG","pattern":"NEHAWU (National Education Health and Allied Workers Union)"}
+{"label":"ORG","pattern":"NP"}
+{"label":"ORG","pattern":"NP (National Party)"}
+{"label":"ORG","pattern":"NPKF"}
+{"label":"ORG","pattern":"NPKF (National Peacekeeping Force)"}
+{"label":"ORG","pattern":"NUM"}
+{"label":"ORG","pattern":"NUM (National Union of Mineworkers)"}
+{"label":"ORG","pattern":"NUMSA"}
+{"label":"ORG","pattern":"NUMSA (National Union of Mineworkers)"}
+{"label":"ORG","pattern":"NUSAS"}
+{"label":"ORG","pattern":"NUSAS (National Union of South African Students)"}
+{"label":"ORG","pattern":"NYC"}
+{"label":"ORG","pattern":"NYC (Namakgale Youth Congress)"}
+{"label":"ORG","pattern":"Namakgale Police"}
+{"label":"ORG","pattern":"Namakgale Youth Congress"}
+{"label":"ORG","pattern":"Namibian Supreme Court"}
+{"label":"ORG","pattern":"Natal Command"}
+{"label":"ORG","pattern":"Natal Indian Congress"}
+{"label":"ORG","pattern":"Natal Security Branch"}
+{"label":"ORG","pattern":"Natal Security Branches"}
+{"label":"ORG","pattern":"National Education Crisis Committee"}
+{"label":"ORG","pattern":"National Education Health and Allied Workers Union"}
+{"label":"ORG","pattern":"National Education Union of South Africa"}
+{"label":"ORG","pattern":"National Indian Congress"}
+{"label":"ORG","pattern":"National Party"}
+{"label":"ORG","pattern":"National Party (National Party)"}
+{"label":"ORG","pattern":"National Peace Secretariat"}
+{"label":"ORG","pattern":"National Peacekeeping Force"}
+{"label":"ORG","pattern":"National Union of Mineworkers"}
+{"label":"ORG","pattern":"National Union of Mineworkers (National Union of Mineworkers)"}
+{"label":"ORG","pattern":"National Union of South African Students"}
+{"label":"ORG","pattern":"National University of Lesotho"}
+{"label":"ORG","pattern":"Nazareth Church"}
+{"label":"ORG","pattern":"Ndlela High School"}
+{"label":"ORG","pattern":"Nedbank"}
+{"label":"ORG","pattern":"Nehawu"}
+{"label":"ORG","pattern":"Nelspruit Civic Association"}
+{"label":"ORG","pattern":"Newcastle Youth Organisation"}
+{"label":"ORG","pattern":"Ngidi farm"}
+{"label":"ORG","pattern":"Ngoye University"}
+{"label":"ORG","pattern":"Nobutho Higher Primary School Hall"}
+{"label":"ORG","pattern":"Nonzwakazi Methodist Church"}
+{"label":"ORG","pattern":"Northern Transvaal Co-ordinating Committee"}
+{"label":"ORG","pattern":"Northern Transvaal SAP"}
+{"label":"ORG","pattern":"Northern Transvaal Security Branch"}
+{"label":"ORG","pattern":"Norwood Police"}
+{"label":"ORG","pattern":"OFS Security Branch"}
+{"label":"ORG","pattern":"OFS Security Branch (Orange Free State Security Branch)"}
+{"label":"ORG","pattern":"Oasis Motel"}
+{"label":"ORG","pattern":"Ohlange High School"}
+{"label":"ORG","pattern":"Ohlange Primary School"}
+{"label":"ORG","pattern":"Orange Farm"}
+{"label":"ORG","pattern":"Orange Free State Security Branch"}
+{"label":"ORG","pattern":"Orange Free State Security Branch (Orange Free State Security Branch)"}
+{"label":"ORG","pattern":"Orde Boerevolk"}
+{"label":"ORG","pattern":"Orde Boerevolk (Orde Boerevolk)"}
+{"label":"ORG","pattern":"Otheleweni"}
+{"label":"ORG","pattern":"PA C"}
+{"label":"ORG","pattern":"PAC"}
+{"label":"ORG","pattern":"PAC (Pan African Congress)"}
+{"label":"ORG","pattern":"PAC Youth League"}
+{"label":"ORG","pattern":"PAC/Poqo"}
+{"label":"ORG","pattern":"PASO"}
+{"label":"ORG","pattern":"PASO (Pan African Student Organisation)"}
+{"label":"ORG","pattern":"PAYCO"}
+{"label":"ORG","pattern":"PAYCO (Port Alfred Youth Congress)"}
+{"label":"ORG","pattern":"PEBCO"}
+{"label":"ORG","pattern":"PEBCO (Port Elizabeth Black Civic Organization)"}
+{"label":"ORG","pattern":"PEYCO"}
+{"label":"ORG","pattern":"PEYCO (Port Elizabeth Youth Congress)"}
+{"label":"ORG","pattern":"PEYCO-UDF"}
+{"label":"ORG","pattern":"PHOYCO"}
+{"label":"ORG","pattern":"PHOYCO (Phomolong Youth Congress)"}
+{"label":"ORG","pattern":"Pan African Congress"}
+{"label":"ORG","pattern":"Pan African Student Organisation"}
+{"label":"ORG","pattern":"Pan-African Students Organisation"}
+{"label":"ORG","pattern":"Pan-African Students Organisation (PASO"}
+{"label":"ORG","pattern":"Parliament"}
+{"label":"ORG","pattern":"Peace Committee"}
+{"label":"ORG","pattern":"Peace Force"}
+{"label":"ORG","pattern":"Peacemakers"}
+{"label":"ORG","pattern":"People's Congress"}
+{"label":"ORG","pattern":"People's Progressive Party"}
+{"label":"ORG","pattern":"People\u2019s Congress"}
+{"label":"ORG","pattern":"Phakamisa High School in Zwide"}
+{"label":"ORG","pattern":"Phola Park Residents Committee"}
+{"label":"ORG","pattern":"Phomolong Youth Congress"}
+{"label":"ORG","pattern":"Pietermaritzburg Council of Churches"}
+{"label":"ORG","pattern":"Pietermaritzburg Supreme Court"}
+{"label":"ORG","pattern":"Pirates Football Club"}
+{"label":"ORG","pattern":"Police"}
+{"label":"ORG","pattern":"Pollsmoor"}
+{"label":"ORG","pattern":"Pollsmoor and Victor"}
+{"label":"ORG","pattern":"Port Alfred Youth Congress"}
+{"label":"ORG","pattern":"Port Elizabeth Black Civic Organisation"}
+{"label":"ORG","pattern":"Port Elizabeth Black Civic Organization"}
+{"label":"ORG","pattern":"Port Elizabeth Civic Association"}
+{"label":"ORG","pattern":"Port Elizabeth Youth Congress"}
+{"label":"ORG","pattern":"Port Natal Security Branch"}
+{"label":"ORG","pattern":"Post Office"}
+{"label":"ORG","pattern":"Post and Telecommunications Workers Association"}
+{"label":"ORG","pattern":"Post and Telecommunications Workers Association (Post and Telecommunications Workers Association)"}
+{"label":"ORG","pattern":"Presbyterian Church"}
+{"label":"ORG","pattern":"Progressive People's Party"}
+{"label":"ORG","pattern":"Protea Magistrate\u2019s Court"}
+{"label":"ORG","pattern":"Protea Police"}
+{"label":"ORG","pattern":"Provincial Authority"}
+{"label":"ORG","pattern":"Putco"}
+{"label":"ORG","pattern":"Quibaxe"}
+{"label":"ORG","pattern":"Railway Police"}
+{"label":"ORG","pattern":"Rasta gang"}
+{"label":"ORG","pattern":"Regional Services Council"}
+{"label":"ORG","pattern":"Release Mandela Campaign"}
+{"label":"ORG","pattern":"Residents Association on Weiler\u2019s Farm"}
+{"label":"ORG","pattern":"Rhodesian Security Police"}
+{"label":"ORG","pattern":"Richmond Farm"}
+{"label":"ORG","pattern":"Riot  Squad"}
+{"label":"ORG","pattern":"Riot Police"}
+{"label":"ORG","pattern":"Riot Policemen"}
+{"label":"ORG","pattern":"Riot Unit"}
+{"label":"ORG","pattern":"Robbery Squad"}
+{"label":"ORG","pattern":"Rosmead Youth Congress"}
+{"label":"ORG","pattern":"Royal Kraal"}
+{"label":"ORG","pattern":"Russian gang"}
+{"label":"ORG","pattern":"Rustenburg Refineries"}
+{"label":"ORG","pattern":"SA Prison Services"}
+{"label":"ORG","pattern":"SA Railway Police"}
+{"label":"ORG","pattern":"SAAF"}
+{"label":"ORG","pattern":"SAAF (South African Airforce)"}
+{"label":"ORG","pattern":"SAAWU"}
+{"label":"ORG","pattern":"SAAWU (South African Allied Workers Union)"}
+{"label":"ORG","pattern":"SACC"}
+{"label":"ORG","pattern":"SACC (South African Council of Churches)"}
+{"label":"ORG","pattern":"SACCAWU"}
+{"label":"ORG","pattern":"SACO"}
+{"label":"ORG","pattern":"SACO (Sivukile Action Committee)"}
+{"label":"ORG","pattern":"SACP"}
+{"label":"ORG","pattern":"SACP (South African Communist Party)"}
+{"label":"ORG","pattern":"SACP Central Committee"}
+{"label":"ORG","pattern":"SACTAWU"}
+{"label":"ORG","pattern":"SACTAWU (South African Clothing and Textile Workers Union)"}
+{"label":"ORG","pattern":"SACTU"}
+{"label":"ORG","pattern":"SACTWU"}
+{"label":"ORG","pattern":"SACWU"}
+{"label":"ORG","pattern":"SACWU (South African Chemical Workers Union)"}
+{"label":"ORG","pattern":"SADA Youth Congress"}
+{"label":"ORG","pattern":"SADF"}
+{"label":"ORG","pattern":"SADF (South African Defence Force)"}
+{"label":"ORG","pattern":"SADF Military Intelligence"}
+{"label":"ORG","pattern":"SADF Special Forces"}
+{"label":"ORG","pattern":"SADF Witwatersrand Command"}
+{"label":"ORG","pattern":"SADTU"}
+{"label":"ORG","pattern":"SADTU (South African Democratic Teachers Union)"}
+{"label":"ORG","pattern":"SAMWU"}
+{"label":"ORG","pattern":"SAMWU (South African Muncipal Workers Union)"}
+{"label":"ORG","pattern":"SANCO"}
+{"label":"ORG","pattern":"SANCO (South African National Civic Organization)"}
+{"label":"ORG","pattern":"SAP"}
+{"label":"ORG","pattern":"SAP (South African Police)"}
+{"label":"ORG","pattern":"SAP Reserve"}
+{"label":"ORG","pattern":"SAP Reserve (South African Police Reserve)"}
+{"label":"ORG","pattern":"SAP Riot Police"}
+{"label":"ORG","pattern":"SAP Riot Unit"}
+{"label":"ORG","pattern":"SAP Security Branch"}
+{"label":"ORG","pattern":"SAP Special Constables"}
+{"label":"ORG","pattern":"SAP Special Constables (Special Constables)"}
+{"label":"ORG","pattern":"SAP Special Investigation Unit"}
+{"label":"ORG","pattern":"SAP Special Task Force"}
+{"label":"ORG","pattern":"SAP's Riot Squad"}
+{"label":"ORG","pattern":"SARHWU"}
+{"label":"ORG","pattern":"SARHWU (South African Railway and Harbors Workers Union)"}
+{"label":"ORG","pattern":"SASCO"}
+{"label":"ORG","pattern":"SASCO (South African Students Congress)"}
+{"label":"ORG","pattern":"SASO"}
+{"label":"ORG","pattern":"SASO (South African Student Organization)"}
+{"label":"ORG","pattern":"SAYCO"}
+{"label":"ORG","pattern":"SAYCO (South African Youth Congress)"}
+{"label":"ORG","pattern":"SAYRC"}
+{"label":"ORG","pattern":"SDU"}
+{"label":"ORG","pattern":"SDU (Self Defence Unit)"}
+{"label":"ORG","pattern":"SEYCO"}
+{"label":"ORG","pattern":"SK Mqhayi High School"}
+{"label":"ORG","pattern":"SOSCO"}
+{"label":"ORG","pattern":"SOSCO (Soweto Student Congress)"}
+{"label":"ORG","pattern":"SOYCO"}
+{"label":"ORG","pattern":"SOYCO (Soweto Youth Congress)"}
+{"label":"ORG","pattern":"SPU"}
+{"label":"ORG","pattern":"SRC"}
+{"label":"ORG","pattern":"STEYCO"}
+{"label":"ORG","pattern":"STEYCO (Steynsburg Youth Congress)"}
+{"label":"ORG","pattern":"SWAPO"}
+{"label":"ORG","pattern":"SWAPO (South West People's Organization)"}
+{"label":"ORG","pattern":"Sarmcol"}
+{"label":"ORG","pattern":"Sasol Industries"}
+{"label":"ORG","pattern":"Sbongile Civic Association"}
+{"label":"ORG","pattern":"Schools\u2019 Crisis Committee"}
+{"label":"ORG","pattern":"Sebatakgomo"}
+{"label":"ORG","pattern":"Sebokeng Administration"}
+{"label":"ORG","pattern":"Security Branch"}
+{"label":"ORG","pattern":"Security Branches"}
+{"label":"ORG","pattern":"Security Department"}
+{"label":"ORG","pattern":"Security Force"}
+{"label":"ORG","pattern":"Security Forces"}
+{"label":"ORG","pattern":"Security Police"}
+{"label":"ORG","pattern":"Security Policeman"}
+{"label":"ORG","pattern":"Selby hostel"}
+{"label":"ORG","pattern":"Self Defence Unit"}
+{"label":"ORG","pattern":"Seposengwe National Party"}
+{"label":"ORG","pattern":"Seymour Primary School"}
+{"label":"ORG","pattern":"Sharpeville Civic Association"}
+{"label":"ORG","pattern":"Shell House"}
+{"label":"ORG","pattern":"Sibongile Civic Association"}
+{"label":"ORG","pattern":"Silverton bank"}
+{"label":"ORG","pattern":"Sivukile Action Committee"}
+{"label":"ORG","pattern":"Sivukile Action Committee (Sivukile Action Committee)"}
+{"label":"ORG","pattern":"Sixfeet Group"}
+{"label":"ORG","pattern":"Sobantu School"}
+{"label":"ORG","pattern":"Sofasonke"}
+{"label":"ORG","pattern":"Sofasonke Civic Group"}
+{"label":"ORG","pattern":"Sofasonke Party"}
+{"label":"ORG","pattern":"Soshanguve Residents Association"}
+{"label":"ORG","pattern":"South African Air Force"}
+{"label":"ORG","pattern":"South African Airforce"}
+{"label":"ORG","pattern":"South African Allied Workers Union"}
+{"label":"ORG","pattern":"South African Chemical Workers Union"}
+{"label":"ORG","pattern":"South African Chemical Workers Union (South African Chemical Workers Union)"}
+{"label":"ORG","pattern":"South African Chemicals Workers Union"}
+{"label":"ORG","pattern":"South African Civics Association"}
+{"label":"ORG","pattern":"South African Civics Association (South African Civics Association)"}
+{"label":"ORG","pattern":"South African Clothing and Textile Workers Union"}
+{"label":"ORG","pattern":"South African Communist Party"}
+{"label":"ORG","pattern":"South African Communist Party (South African Communist Party)"}
+{"label":"ORG","pattern":"South African Council of Churches"}
+{"label":"ORG","pattern":"South African Defence Force"}
+{"label":"ORG","pattern":"South African Defence Force (South African Defence Force)"}
+{"label":"ORG","pattern":"South African Democratic Teachers Union"}
+{"label":"ORG","pattern":"South African Muncipal Workers Union"}
+{"label":"ORG","pattern":"South African National Civic Association"}
+{"label":"ORG","pattern":"South African National Civic Organization"}
+{"label":"ORG","pattern":"South African National Civic Organization (South African National Civic Organization)"}
+{"label":"ORG","pattern":"South African Police"}
+{"label":"ORG","pattern":"South African Police (South African Police)"}
+{"label":"ORG","pattern":"South African Police Reserve"}
+{"label":"ORG","pattern":"South African Prison Services"}
+{"label":"ORG","pattern":"South African Railway Services"}
+{"label":"ORG","pattern":"South African Railway and Harbors Workers Union"}
+{"label":"ORG","pattern":"South African Security Branch"}
+{"label":"ORG","pattern":"South African Special Forces"}
+{"label":"ORG","pattern":"South African Student Organisation"}
+{"label":"ORG","pattern":"South African Student Organisation (SASO"}
+{"label":"ORG","pattern":"South African Student Organization"}
+{"label":"ORG","pattern":"South African Students Congress"}
+{"label":"ORG","pattern":"South African Students Congress (South African Students Congress)"}
+{"label":"ORG","pattern":"South African Youth Congress"}
+{"label":"ORG","pattern":"South African Youth Congress (South African Youth Congress)"}
+{"label":"ORG","pattern":"South West People's Organization"}
+{"label":"ORG","pattern":"Southern African Catholic Bishops"}
+{"label":"ORG","pattern":"Southern African Catholic Bishops' Conference"}
+{"label":"ORG","pattern":"Soweto Area Committee"}
+{"label":"ORG","pattern":"Soweto Civic Association"}
+{"label":"ORG","pattern":"Soweto Murder and Robbery Unit"}
+{"label":"ORG","pattern":"Soweto Student Congress"}
+{"label":"ORG","pattern":"Soweto Student Congress (Soweto Student Congress)"}
+{"label":"ORG","pattern":"Soweto Students Representative Council"}
+{"label":"ORG","pattern":"Soweto Students Representative Council (Soweto Students Representative Council)"}
+{"label":"ORG","pattern":"Soweto Youth Congress"}
+{"label":"ORG","pattern":"Soweto Youth Congress (Soweto Youth Congress)"}
+{"label":"ORG","pattern":"Soweto street committee"}
+{"label":"ORG","pattern":"Spandau High School"}
+{"label":"ORG","pattern":"Special Branch"}
+{"label":"ORG","pattern":"Special Constable"}
+{"label":"ORG","pattern":"Special Constables"}
+{"label":"ORG","pattern":"Special Constables (Special Constables)"}
+{"label":"ORG","pattern":"Special Forces"}
+{"label":"ORG","pattern":"Special Operations Unit"}
+{"label":"ORG","pattern":"Special Task Force"}
+{"label":"ORG","pattern":"St James' Church"}
+{"label":"ORG","pattern":"St James\u2019 Church"}
+{"label":"ORG","pattern":"St Joseph\u2019s Catholic Mission"}
+{"label":"ORG","pattern":"St Joseph\u2019s Catholic School"}
+{"label":"ORG","pattern":"St Peter\u2019s Primary School"}
+{"label":"ORG","pattern":"St Stephen's Church"}
+{"label":"ORG","pattern":"Standard Bank"}
+{"label":"ORG","pattern":"Steadville Youth Committee"}
+{"label":"ORG","pattern":"Steaks Restaurant"}
+{"label":"ORG","pattern":"Steynsburg Youth Congress"}
+{"label":"ORG","pattern":"Steynsburg Youth Congress (Steynsburg Youth Congress)"}
+{"label":"ORG","pattern":"Street Committee of Soweto"}
+{"label":"ORG","pattern":"Student Representative Councils"}
+{"label":"ORG","pattern":"Stutterheim Youth Congress"}
+{"label":"ORG","pattern":"Sunrise farm"}
+{"label":"ORG","pattern":"Supreme Court"}
+{"label":"ORG","pattern":"Swayimane Civic Association"}
+{"label":"ORG","pattern":"TDF"}
+{"label":"ORG","pattern":"TDF (Transkei Defence Force)"}
+{"label":"ORG","pattern":"TDP"}
+{"label":"ORG","pattern":"TDP (Transkei Democratic Party)"}
+{"label":"ORG","pattern":"Taylors Halt Youth Congress"}
+{"label":"ORG","pattern":"Telecommunications Workers\u2019 Association"}
+{"label":"ORG","pattern":"Tembisa Residents Association"}
+{"label":"ORG","pattern":"Terror Gang"}
+{"label":"ORG","pattern":"Thabane Senior School"}
+{"label":"ORG","pattern":"Thabong Civic Association"}
+{"label":"ORG","pattern":"Thafamasi School"}
+{"label":"ORG","pattern":"Thamsanqa High School"}
+{"label":"ORG","pattern":"The A-Team"}
+{"label":"ORG","pattern":"The Amnesty Committee"}
+{"label":"ORG","pattern":"The Bophuthatswana Police"}
+{"label":"ORG","pattern":"The Crisis Committee"}
+{"label":"ORG","pattern":"The Goldstone Commission"}
+{"label":"ORG","pattern":"The Inyandza National Movement"}
+{"label":"ORG","pattern":"The Namakgale Youth Congress"}
+{"label":"ORG","pattern":"The Security Police"}
+{"label":"ORG","pattern":"The Sibongile Civic Association"}
+{"label":"ORG","pattern":"The Sofasonke Party"}
+{"label":"ORG","pattern":"The Supreme Court"}
+{"label":"ORG","pattern":"The \u2018Joshua Squad\u2019"}
+{"label":"ORG","pattern":"Three Million Gang"}
+{"label":"ORG","pattern":"Toaster"}
+{"label":"ORG","pattern":"Tokoza Civic Association"}
+{"label":"ORG","pattern":"Tokoza Youth Congress"}
+{"label":"ORG","pattern":"Town Council"}
+{"label":"ORG","pattern":"Trafalgar High School"}
+{"label":"ORG","pattern":"Transkei Defence Force"}
+{"label":"ORG","pattern":"Transkei Defence Force (Transkei Defence Force)"}
+{"label":"ORG","pattern":"Transkei Democratic Party"}
+{"label":"ORG","pattern":"Transkei Democratic Party (Transkei Democratic Party)"}
+{"label":"ORG","pattern":"Transkei Government"}
+{"label":"ORG","pattern":"Transkei Military Council"}
+{"label":"ORG","pattern":"Transkei Police"}
+{"label":"ORG","pattern":"Transkei Security Branch"}
+{"label":"ORG","pattern":"Transkei Security Police"}
+{"label":"ORG","pattern":"Transkei Tribal Authority"}
+{"label":"ORG","pattern":"Transvaal Galvanising Company"}
+{"label":"ORG","pattern":"Transvaal Indian Congress"}
+{"label":"ORG","pattern":"Tribal Authority"}
+{"label":"ORG","pattern":"Tricameral Parliament"}
+{"label":"ORG","pattern":"Trust Feeds Crisis Committee"}
+{"label":"ORG","pattern":"Tsakane Crisis Committee"}
+{"label":"ORG","pattern":"Tumahole Civic Association"}
+{"label":"ORG","pattern":"Tzaneen Education Crisis Committee"}
+{"label":"ORG","pattern":"UDF"}
+{"label":"ORG","pattern":"UDF (United Democratic Front)"}
+{"label":"ORG","pattern":"UIU"}
+{"label":"ORG","pattern":"UIU (Unrest Investigation Unit)"}
+{"label":"ORG","pattern":"UMTAYCO"}
+{"label":"ORG","pattern":"UMTAYCO (Umtata Youth Congress)"}
+{"label":"ORG","pattern":"UNITA"}
+{"label":"ORG","pattern":"UNITA (Uni\u00e3o Nacional para a Independ\u00eancia Total de Angola)"}
+{"label":"ORG","pattern":"UNITRA"}
+{"label":"ORG","pattern":"UNITRA (University of Transkei)"}
+{"label":"ORG","pattern":"UWO"}
+{"label":"ORG","pattern":"UWO (United Women's Organisation)"}
+{"label":"ORG","pattern":"UWUSA"}
+{"label":"ORG","pattern":"UWUSA (United Workers Union of South Africa)"}
+{"label":"ORG","pattern":"Uitenhage Youth Congress"}
+{"label":"ORG","pattern":"Umlazi Dispute Resolution Committee"}
+{"label":"ORG","pattern":"Umlazi Youth Congress"}
+{"label":"ORG","pattern":"Umlazi Youth League"}
+{"label":"ORG","pattern":"Umtata Youth Congress"}
+{"label":"ORG","pattern":"Umtata Youth Congress (Umtata Youth Congress)"}
+{"label":"ORG","pattern":"Union Of South Africa"}
+{"label":"ORG","pattern":"United Democratic Front"}
+{"label":"ORG","pattern":"United Democratic Front (United Democratic Front)"}
+{"label":"ORG","pattern":"United Nations Observer Mission"}
+{"label":"ORG","pattern":"United Women's Organisation"}
+{"label":"ORG","pattern":"United Women\u2019s Congress"}
+{"label":"ORG","pattern":"United Workers Union of South Africa"}
+{"label":"ORG","pattern":"United Workers Union of South Africa (United Workers Union of South Africa)"}
+{"label":"ORG","pattern":"United Workers' Union of South Africa"}
+{"label":"ORG","pattern":"Unity Movement"}
+{"label":"ORG","pattern":"University of Bophuthatswana"}
+{"label":"ORG","pattern":"University of Botswana"}
+{"label":"ORG","pattern":"University of Cape Town"}
+{"label":"ORG","pattern":"University of Durban-Westville"}
+{"label":"ORG","pattern":"University of Natal"}
+{"label":"ORG","pattern":"University of Transkei"}
+{"label":"ORG","pattern":"University of Transkei (University of Transkei)"}
+{"label":"ORG","pattern":"University of Zululand"}
+{"label":"ORG","pattern":"Uni\u00e3o Nacional para a Independ\u00eancia Total de Angola"}
+{"label":"ORG","pattern":"Unrest Investigation Unit"}
+{"label":"ORG","pattern":"Unrest Investigation Unit (Unrest Investigation Unit)"}
+{"label":"ORG","pattern":"Upington 26"}
+{"label":"ORG","pattern":"VTSM"}
+{"label":"ORG","pattern":"VTSM (Vaal Triangle Student Movement)"}
+{"label":"ORG","pattern":"Vaal Civic Association"}
+{"label":"ORG","pattern":"Vaal Triangle Student Movement"}
+{"label":"ORG","pattern":"Vaal Triangle Student Movement (Vaal Triangle Student Movement)"}
+{"label":"ORG","pattern":"Vark Squad"}
+{"label":"ORG","pattern":"Venda Defence Force"}
+{"label":"ORG","pattern":"Venda Independence Party"}
+{"label":"ORG","pattern":"Venda Independence People's Party"}
+{"label":"ORG","pattern":"Venda Independent People's Party"}
+{"label":"ORG","pattern":"Venda National Party"}
+{"label":"ORG","pattern":"Venda Police"}
+{"label":"ORG","pattern":"Venda Security Police"}
+{"label":"ORG","pattern":"Violence Monitoring Group"}
+{"label":"ORG","pattern":"Vista University"}
+{"label":"ORG","pattern":"Vlakfontein farm"}
+{"label":"ORG","pattern":"Vlakplaas"}
+{"label":"ORG","pattern":"Volmoed Farm"}
+{"label":"ORG","pattern":"Vosloorus Crisis Committee"}
+{"label":"ORG","pattern":"WEBTA"}
+{"label":"ORG","pattern":"WEBTA (Western Cape Black Taxi Association)"}
+{"label":"ORG","pattern":"WHO"}
+{"label":"ORG","pattern":"WHO (World Health Organisation)"}
+{"label":"ORG","pattern":"Warmbaths council"}
+{"label":"ORG","pattern":"Wembezi Crisis Committee"}
+{"label":"ORG","pattern":"Wembezi High School"}
+{"label":"ORG","pattern":"Wesselton Action Committee"}
+{"label":"ORG","pattern":"West Rand Administration Board"}
+{"label":"ORG","pattern":"Western Cape Black Taxi Association"}
+{"label":"ORG","pattern":"Western Cape Black Taxi Association (Western Cape Black Taxi Association)"}
+{"label":"ORG","pattern":"Western Cape Civic Association"}
+{"label":"ORG","pattern":"Western Cape Regional Services Council"}
+{"label":"ORG","pattern":"Western Cape Security Branch"}
+{"label":"ORG","pattern":"Western Cape United Squatters Association"}
+{"label":"ORG","pattern":"Western Province Council of Churches"}
+{"label":"ORG","pattern":"Western Transvaal Security Branch"}
+{"label":"ORG","pattern":"Why Not Club"}
+{"label":"ORG","pattern":"Wild Coast Casino"}
+{"label":"ORG","pattern":"Winterveld Community Council"}
+{"label":"ORG","pattern":"Wit Wolwe"}
+{"label":"ORG","pattern":"Witbank Hospital"}
+{"label":"ORG","pattern":"Witbank Security Branch"}
+{"label":"ORG","pattern":"Witwaters-rand Security Branch"}
+{"label":"ORG","pattern":"Witwatersrand Command"}
+{"label":"ORG","pattern":"Witwatersrand Security Branch"}
+{"label":"ORG","pattern":"Women \u2019s Forum"}
+{"label":"ORG","pattern":"Worcester\u2019s Council of Seven"}
+{"label":"ORG","pattern":"Worker\u2019s Committee"}
+{"label":"ORG","pattern":"World Health Organisation"}
+{"label":"ORG","pattern":"World Vision"}
+{"label":"ORG","pattern":"Wozanazo Higher Primary School"}
+{"label":"ORG","pattern":"Yankee Squad"}
+{"label":"ORG","pattern":"Yellowwoods hotel"}
+{"label":"ORG","pattern":"Young Christian Workers"}
+{"label":"ORG","pattern":"ZCC church"}
+{"label":"ORG","pattern":"Zeerust Police"}
+{"label":"ORG","pattern":"askaris"}
+{"label":"ORG","pattern":"iKongo"}
+{"label":"ORG","pattern":"pro-ANC"}
+{"label":"ORG","pattern":"pro-Bophuthatswana"}
+{"label":"ORG","pattern":"street committee"}
+{"label":"ORG","pattern":"the  Bophuthatswana Police"}
+{"label":"ORG","pattern":"the 'Why Not Club'"}
+{"label":"ORG","pattern":"the Apostolic Church"}
+{"label":"ORG","pattern":"the Methodist Church"}
+{"label":"ORG","pattern":"tribal authority"}
+{"label":"HOMELAND","pattern":"Ciskei"}
+{"label":"HOMELAND","pattern":"KwaZulu"}
+{"label":"HOMELAND","pattern":"Lebowa"}
+{"label":"HOMELAND","pattern":"Transkei"}
+{"label":"HOMELAND","pattern":"Bophuthatswana"}
+{"label":"HOMELAND","pattern":"Venda"}
+{"label":"HOMELAND","pattern":"KwaNdebele"}
+{"label":"HOMELAND","pattern":"Gazankulu"}
+{"label":"HOMELAND","pattern":"Kangwane"}
+{"label":"HOMELAND","pattern":"Qwa-Qwa"}
+{"label":"PROVINCE","pattern":"OFS"}
+{"label":"PROVINCE","pattern":"Orange Free State"}
+{"label":"PROVINCE","pattern":"Transvaal"}
+{"label":"PROVINCE","pattern":"Cape of Good Hope"}
+{"label":"PROVINCE","pattern":"Natal"}
+{"label":"PROVINCE","pattern":"transvaal"}
+{"label":"GPE","pattern":"Lephoi"}
+{"label":"GPE","pattern":"Cape"}
+{"label":"GPE","pattern":"White River"}
+{"label":"GPE","pattern":"Bethulie"}
+{"label":"GPE","pattern":"Messina"}
+{"label":"GPE","pattern":"Mdantsane"}
+{"label":"GPE","pattern":"Athlone"}
+{"label":"GPE","pattern":"Robertson"}
+{"label":"GPE","pattern":"Gelvandale"}
+{"label":"GPE","pattern":"Cape Town"}
+{"label":"GPE","pattern":"Pretoria"}
+{"label":"GPE","pattern":"New Brighton"}
+{"label":"GPE","pattern":"Graaff-Reinet"}
+{"label":"GPE","pattern":"Reddersburg"}
+{"label":"GPE","pattern":"Bonteheuwel"}
+{"label":"GPE","pattern":"Olifantshoek"}
+{"label":"GPE","pattern":"Imbali"}
+{"label":"GPE","pattern":"Kakamas"}
+{"label":"GPE","pattern":"Schweizer-Reneke"}
+{"label":"GPE","pattern":"Wolseley"}
+{"label":"GPE","pattern":"Montagu"}
+{"label":"GPE","pattern":"Somerset West"}
+{"label":"GPE","pattern":"Johannesburg"}
+{"label":"GPE","pattern":"Jansenville"}
+{"label":"GPE","pattern":"Entshawini"}
+{"label":"GPE","pattern":"Durban"}
+{"label":"GPE","pattern":"Ashton"}
+{"label":"GPE","pattern":"Alldays"}
+{"label":"GPE","pattern":"Uitenhage"}
+{"label":"GPE","pattern":"Kimberley"}
+{"label":"GPE","pattern":"Carnarvon"}
+{"label":"GPE","pattern":"Langa"}
+{"label":"GPE","pattern":"Paarl"}
+{"label":"GPE","pattern":"Caledon"}
+{"label":"GPE","pattern":"Pietersburg"}
+{"label":"GPE","pattern":"Port Elizabeth"}
+{"label":"GPE","pattern":"Alfred"}
+{"label":"GPE","pattern":"Hammanskraal"}
+{"label":"GPE","pattern":"Middelburg"}
+{"label":"GPE","pattern":"Motetema"}
+{"label":"GPE","pattern":"Krugersdorp"}
+{"label":"GPE","pattern":"Addo"}
+{"label":"GPE","pattern":"Stutterheim"}
+{"label":"GPE","pattern":"Carletonville"}
+{"label":"GPE","pattern":"Nelspruit"}
+{"label":"GPE","pattern":"Benoni"}
+{"label":"GPE","pattern":"Adelaide"}
+{"label":"GPE","pattern":"Willowvale"}
+{"label":"GPE","pattern":"Cradock"}
+{"label":"GPE","pattern":"Colesberg"}
+{"label":"GPE","pattern":"Sonkombo"}
+{"label":"GPE","pattern":"Kanana"}
+{"label":"GPE","pattern":"KwaGuqa"}
+{"label":"GPE","pattern":"Fort Beaufort"}
+{"label":"GPE","pattern":"East London"}
+{"label":"GPE","pattern":"Burgersdorp"}
+{"label":"GPE","pattern":"Nyanga"}
+{"label":"GPE","pattern":"Worcester"}
+{"label":"GPE","pattern":"Bisho"}
+{"label":"GPE","pattern":"Soshanguve"}
+{"label":"GPE","pattern":"Kroonstad"}
+{"label":"GPE","pattern":"Dimbaza"}
+{"label":"GPE","pattern":"Baziya"}
+{"label":"GPE","pattern":"Murchison"}
+{"label":"GPE","pattern":"Thabazimbi"}
+{"label":"GPE","pattern":"Mtwalume"}
+{"label":"GPE","pattern":"Hopewell"}
+{"label":"GPE","pattern":"Enseleni"}
+{"label":"GPE","pattern":"Empangeni"}
+{"label":"GPE","pattern":"KwaKhoza"}
+{"label":"GPE","pattern":"Zindophe"}
+{"label":"GPE","pattern":"Mkhukhuze"}
+{"label":"GPE","pattern":"Biyela"}
+{"label":"GPE","pattern":"Richards Bay"}
+{"label":"GPE","pattern":"Tokoza"}
+{"label":"GPE","pattern":"Sundumbili"}
+{"label":"GPE","pattern":"Richmond"}
+{"label":"GPE","pattern":"Eshowe"}
+{"label":"GPE","pattern":"Gezinsila"}
+{"label":"GPE","pattern":"Mpumalanga"}
+{"label":"GPE","pattern":"Mhlathuze"}
+{"label":"GPE","pattern":"KwaMthethwa"}
+{"label":"GPE","pattern":"Port Shepstone"}
+{"label":"GPE","pattern":"Maseru"}
+{"label":"GPE","pattern":"Hillbrow"}
+{"label":"GPE","pattern":"Despatch"}
+{"label":"GPE","pattern":"Paballelo"}
+{"label":"GPE","pattern":"Pinetown"}
+{"label":"GPE","pattern":"Jamestown"}
+{"label":"GPE","pattern":"Robben Island"}
+{"label":"GPE","pattern":"Davel"}
+{"label":"GPE","pattern":"Paddock"}
+{"label":"GPE","pattern":"Folweni"}
+{"label":"GPE","pattern":"Ndwedwe"}
+{"label":"GPE","pattern":"North End"}
+{"label":"GPE","pattern":"Matlala"}
+{"label":"GPE","pattern":"Taung"}
+{"label":"GPE","pattern":"Alexandra"}
+{"label":"GPE","pattern":"Nebo"}
+{"label":"GPE","pattern":"Qacha's Nek"}
+{"label":"GPE","pattern":"Buffalo"}
+{"label":"GPE","pattern":"Bellville"}
+{"label":"GPE","pattern":"Wembezi"}
+{"label":"GPE","pattern":"Upington"}
+{"label":"GPE","pattern":"Kutloanong"}
+{"label":"GPE","pattern":"Ixopo"}
+{"label":"GPE","pattern":"Tembisa"}
+{"label":"GPE","pattern":"Lady Frere"}
+{"label":"GPE","pattern":"Philipstown"}
+{"label":"GPE","pattern":"Queenstown"}
+{"label":"GPE","pattern":"Nonzwakazi"}
+{"label":"GPE","pattern":"Mount Ayliff"}
+{"label":"GPE","pattern":"Diepkloof"}
+{"label":"GPE","pattern":"Wesselsbron"}
+{"label":"GPE","pattern":"Maboloko"}
+{"label":"GPE","pattern":"Willowmore"}
+{"label":"GPE","pattern":"Molweni"}
+{"label":"GPE","pattern":"Jouberton"}
+{"label":"GPE","pattern":"Bizana"}
+{"label":"GPE","pattern":"Mount Fletcher"}
+{"label":"GPE","pattern":"Khayelitsha"}
+{"label":"GPE","pattern":"Viljoenskroon"}
+{"label":"GPE","pattern":"Belfast"}
+{"label":"GPE","pattern":"Sterkspruit"}
+{"label":"GPE","pattern":"Amanzimtoti"}
+{"label":"GPE","pattern":"Kempton Park"}
+{"label":"GPE","pattern":"Nylstroom"}
+{"label":"GPE","pattern":"Botha"}
+{"label":"GPE","pattern":"Roodepoort"}
+{"label":"GPE","pattern":"Bongolethu"}
+{"label":"GPE","pattern":"Orlando"}
+{"label":"GPE","pattern":"Odendaalsrus"}
+{"label":"GPE","pattern":"Sharpeville"}
+{"label":"GPE","pattern":"Idutywa"}
+{"label":"GPE","pattern":"Duncan"}
+{"label":"GPE","pattern":"Bhambayi"}
+{"label":"GPE","pattern":"Lusikisiki"}
+{"label":"GPE","pattern":"Daveyton"}
+{"label":"GPE","pattern":"Harare"}
+{"label":"GPE","pattern":"Sannieshof"}
+{"label":"GPE","pattern":"Sasolburg"}
+{"label":"GPE","pattern":"Sebokeng"}
+{"label":"GPE","pattern":"Boipatong"}
+{"label":"GPE","pattern":"Sokhulu"}
+{"label":"GPE","pattern":"Brits"}
+{"label":"GPE","pattern":"Lady Grey"}
+{"label":"GPE","pattern":"Silverton"}
+{"label":"GPE","pattern":"Phiritona"}
+{"label":"GPE","pattern":"Soweto"}
+{"label":"GPE","pattern":"Umtata"}
+{"label":"GPE","pattern":"De Aar"}
+{"label":"GPE","pattern":"Ngqeleni"}
+{"label":"GPE","pattern":"Maluti"}
+{"label":"GPE","pattern":"Jagersfontein"}
+{"label":"GPE","pattern":"Paterson"}
+{"label":"GPE","pattern":"Esikhawini"}
+{"label":"GPE","pattern":"Izingolweni"}
+{"label":"GPE","pattern":"Zwelitsha"}
+{"label":"GPE","pattern":"George"}
+{"label":"GPE","pattern":"Thabong"}
+{"label":"GPE","pattern":"Ficksburg"}
+{"label":"GPE","pattern":"Ditlhake"}
+{"label":"GPE","pattern":"Boikhutso"}
+{"label":"GPE","pattern":"Angola"}
+{"label":"GPE","pattern":"Mmabatho"}
+{"label":"GPE","pattern":"Kuruman"}
+{"label":"GPE","pattern":"Germiston"}
+{"label":"GPE","pattern":"Bloemfontein"}
+{"label":"GPE","pattern":"Central"}
+{"label":"GPE","pattern":"Thohoyandou"}
+{"label":"GPE","pattern":"KwaZakele"}
+{"label":"GPE","pattern":"Engcobo"}
+{"label":"GPE","pattern":"Motsweding"}
+{"label":"GPE","pattern":"Pearston"}
+{"label":"GPE","pattern":"Klipplaat"}
+{"label":"GPE","pattern":"Mogwase"}
+{"label":"GPE","pattern":"Dennilton"}
+{"label":"GPE","pattern":"Philadelphia"}
+{"label":"GPE","pattern":"Mabopane"}
+{"label":"GPE","pattern":"Ethembeni"}
+{"label":"GPE","pattern":"Tswelelang"}
+{"label":"GPE","pattern":"Danielskuil"}
+{"label":"GPE","pattern":"Motherwell"}
+{"label":"GPE","pattern":"Crossroads"}
+{"label":"GPE","pattern":"Kensington"}
+{"label":"GPE","pattern":"Peddie"}
+{"label":"GPE","pattern":"Huhudi"}
+{"label":"GPE","pattern":"Ezakheni"}
+{"label":"GPE","pattern":"Katlehong"}
+{"label":"GPE","pattern":"Estcourt"}
+{"label":"GPE","pattern":"Bhejane"}
+{"label":"GPE","pattern":"Cookhouse"}
+{"label":"GPE","pattern":"Isithebe"}
+{"label":"GPE","pattern":"Sada"}
+{"label":"GPE","pattern":"Stellenbosch"}
+{"label":"GPE","pattern":"Elandskop"}
+{"label":"GPE","pattern":"Camperdown"}
+{"label":"GPE","pattern":"Chesterville"}
+{"label":"GPE","pattern":"Nyanini"}
+{"label":"GPE","pattern":"Mtunzini"}
+{"label":"GPE","pattern":"Blood River"}
+{"label":"GPE","pattern":"Protea"}
+{"label":"GPE","pattern":"Umgababa"}
+{"label":"GPE","pattern":"Bacela"}
+{"label":"GPE","pattern":"Tongaat"}
+{"label":"GPE","pattern":"Rita"}
+{"label":"GPE","pattern":"Wosiyana"}
+{"label":"GPE","pattern":"KwaMbonambi"}
+{"label":"GPE","pattern":"Matshana"}
+{"label":"GPE","pattern":"Mondlo"}
+{"label":"GPE","pattern":"Mahedeni"}
+{"label":"GPE","pattern":"Pietermaritzburg"}
+{"label":"GPE","pattern":"Emdeni"}
+{"label":"GPE","pattern":"Ermelo"}
+{"label":"GPE","pattern":"Ulundi"}
+{"label":"GPE","pattern":"Osizweni"}
+{"label":"GPE","pattern":"Mpophomeni"}
+{"label":"GPE","pattern":"Greytown"}
+{"label":"GPE","pattern":"Edendale"}
+{"label":"GPE","pattern":"Vryheid"}
+{"label":"GPE","pattern":"Phola"}
+{"label":"GPE","pattern":"Mahlabatini"}
+{"label":"GPE","pattern":"Duduza"}
+{"label":"GPE","pattern":"KwaMashu"}
+{"label":"GPE","pattern":"Madadeni"}
+{"label":"GPE","pattern":"Kirkwood"}
+{"label":"GPE","pattern":"Vosloors"}
+{"label":"GPE","pattern":"Magabheni"}
+{"label":"GPE","pattern":"Randfontein"}
+{"label":"GPE","pattern":"Rodora"}
+{"label":"GPE","pattern":"Grahamstown"}
+{"label":"GPE","pattern":"Flagstaff"}
+{"label":"GPE","pattern":"Mossel Bay"}
+{"label":"GPE","pattern":"Bebeza"}
+{"label":"GPE","pattern":"Bulwer"}
+{"label":"GPE","pattern":"KwaNxamalala"}
+{"label":"GPE","pattern":"Stanger"}
+{"label":"GPE","pattern":"Ntshongweni"}
+{"label":"GPE","pattern":"Hammarsdale"}
+{"label":"GPE","pattern":"Umkomaas"}
+{"label":"GPE","pattern":"Port Natal"}
+{"label":"GPE","pattern":"Dukathole"}
+{"label":"GPE","pattern":"Maclear"}
+{"label":"GPE","pattern":"Siyabuswa"}
+{"label":"GPE","pattern":"Hofmeyr"}
+{"label":"GPE","pattern":"Vlakplaas"}
+{"label":"GPE","pattern":"Chibini"}
+{"label":"GPE","pattern":"Alice"}
+{"label":"GPE","pattern":"Umbumbulu"}
+{"label":"GPE","pattern":"Ramathlabama"}
+{"label":"GPE","pattern":"Bedford"}
+{"label":"GPE","pattern":"Gamalakhe"}
+{"label":"GPE","pattern":"Pampierstad"}
+{"label":"GPE","pattern":"Kagiso"}
+{"label":"GPE","pattern":"Mamelodi"}
+{"label":"GPE","pattern":"Barberton"}
+{"label":"GPE","pattern":"Ellisras"}
+{"label":"GPE","pattern":"Machadodorp"}
+{"label":"GPE","pattern":"Giyani"}
+{"label":"GPE","pattern":"Lebowakgomo"}
+{"label":"GPE","pattern":"Temba"}
+{"label":"GPE","pattern":"Vereeniging"}
+{"label":"GPE","pattern":"Prieska"}
+{"label":"GPE","pattern":"Mahwelereng"}
+{"label":"GPE","pattern":"Lenyenye"}
+{"label":"GPE","pattern":"Bhomela"}
+{"label":"GPE","pattern":"Vlaklaagte"}
+{"label":"GPE","pattern":"Matsulu"}
+{"label":"GPE","pattern":"Bedwang"}
+{"label":"GPE","pattern":"Committee"}
+{"label":"GPE","pattern":"Berlin"}
+{"label":"GPE","pattern":"Ugie"}
+{"label":"GPE","pattern":"KwaMnyandu"}
+{"label":"GPE","pattern":"Nyandezulu"}
+{"label":"GPE","pattern":"Cele"}
+{"label":"GPE","pattern":"Umlazi"}
+{"label":"GPE","pattern":"Gingindlovu"}
+{"label":"GPE","pattern":"Shakaskraal"}
+{"label":"GPE","pattern":"KwaNdengezi"}
+{"label":"GPE","pattern":"Newcastle"}
+{"label":"GPE","pattern":"Mabheleni"}
+{"label":"GPE","pattern":"Umzimkulu"}
+{"label":"GPE","pattern":"Gezubuzo"}
+{"label":"GPE","pattern":"Springs"}
+{"label":"GPE","pattern":"Clermont"}
+{"label":"GPE","pattern":"Dlamini"}
+{"label":"GPE","pattern":"Komatipoort"}
+{"label":"GPE","pattern":"Letsopa"}
+{"label":"GPE","pattern":"Machibisa"}
+{"label":"GPE","pattern":"Gengeshe"}
+{"label":"GPE","pattern":"Woodyglen"}
+{"label":"GPE","pattern":"Highflats"}
+{"label":"GPE","pattern":"Ndaleni"}
+{"label":"GPE","pattern":"Bophelong"}
+{"label":"GPE","pattern":"Orkney"}
+{"label":"GPE","pattern":"Vosloorus"}
+{"label":"GPE","pattern":"Ladysmith"}
+{"label":"GPE","pattern":"Standerton"}
+{"label":"GPE","pattern":"Creighton"}
+{"label":"GPE","pattern":"Fouriesburg"}
+{"label":"GPE","pattern":"Bruntville"}
+{"label":"GPE","pattern":"Entenjane"}
+{"label":"GPE","pattern":"Denver"}
+{"label":"GPE","pattern":"Magoda"}
+{"label":"GPE","pattern":"Mpumuza"}
+{"label":"GPE","pattern":"Esimozomeni"}
+{"label":"GPE","pattern":"Wartburg"}
+{"label":"GPE","pattern":"Unlazi"}
+{"label":"GPE","pattern":"Inanda"}
+{"label":"GPE","pattern":"Mevamhlophe"}
+{"label":"GPE","pattern":"Caluza"}
+{"label":"GPE","pattern":"Bethlehem"}
+{"label":"GPE","pattern":"Madundube"}
+{"label":"GPE","pattern":"Iniwe"}
+{"label":"GPE","pattern":"Mvutshini"}
+{"label":"GPE","pattern":"Molteno"}
+{"label":"GPE","pattern":"KwaMakhutha"}
+{"label":"GPE","pattern":"Margate"}
+{"label":"GPE","pattern":"Ngidi"}
+{"label":"GPE","pattern":"Herschel"}
+{"label":"GPE","pattern":"Howick"}
+{"label":"GPE","pattern":"Keilands"}
+{"label":"GPE","pattern":"Emakwanyaneni"}
+{"label":"GPE","pattern":"Five"}
+{"label":"GPE","pattern":"Mariannhill"}
+{"label":"GPE","pattern":"Belhar"}
+{"label":"GPE","pattern":"Elliot"}
+{"label":"GPE","pattern":"Dladla"}
+{"label":"GPE","pattern":"Mooi River"}
+{"label":"GPE","pattern":"Ongoye"}
+{"label":"GPE","pattern":"Lamontville"}
+{"label":"GPE","pattern":"Bergville"}
+{"label":"GPE","pattern":"Hlanganani"}
+{"label":"GPE","pattern":"Inkanyezeni"}
+{"label":"GPE","pattern":"Klerksdorp"}
+{"label":"GPE","pattern":"Sterkstroom"}
+{"label":"GPE","pattern":"Okhalweni"}
+{"label":"GPE","pattern":"Westonaria"}
+{"label":"GPE","pattern":"Villiersdorp"}
+{"label":"GPE","pattern":"Masisi"}
+{"label":"GPE","pattern":"Zeerust"}
+{"label":"GPE","pattern":"Rustenburg"}
+{"label":"GPE","pattern":"Dube"}
+{"label":"GPE","pattern":"Ratanda"}
+{"label":"GPE","pattern":"Sakhile"}
+{"label":"GPE","pattern":"Diepdale"}
+{"label":"GPE","pattern":"Bethel"}
+{"label":"GPE","pattern":"Matatiele"}
+{"label":"GPE","pattern":"Mandela"}
+{"label":"GPE","pattern":"Marble Hall"}
+{"label":"GPE","pattern":"Masilo"}
+{"label":"GPE","pattern":"Swartruggens"}
+{"label":"GPE","pattern":"Winterveld"}
+{"label":"GPE","pattern":"Diko"}
+{"label":"GPE","pattern":"Somerset East"}
+{"label":"GPE","pattern":"Dordrecht"}
+{"label":"GPE","pattern":"Gaborone"}
+{"label":"GPE","pattern":"Mbekweni"}
+{"label":"GPE","pattern":"Thaba Nchu"}
+{"label":"GPE","pattern":"Ikageng"}
+{"label":"GPE","pattern":"GaRankuwa"}
+{"label":"GPE","pattern":"Ntuzuma"}
+{"label":"GPE","pattern":"Location"}
+{"label":"GPE","pattern":"Evaton"}
+{"label":"GPE","pattern":"Wolmaransstad"}
+{"label":"GPE","pattern":"Leandra"}
+{"label":"GPE","pattern":"Atteridgeville"}
+{"label":"GPE","pattern":"Hambanathi"}
+{"label":"GPE","pattern":"Jabulani"}
+{"label":"GPE","pattern":"Welkom"}
+{"label":"GPE","pattern":"Cathcart"}
+{"label":"GPE","pattern":"Cofimvaba"}
+{"label":"GPE","pattern":"Brackenfell"}
+{"label":"GPE","pattern":"Nkulu"}
+{"label":"GPE","pattern":"Gcilima"}
+{"label":"GPE","pattern":"Noupoort"}
+{"label":"GPE","pattern":"Atlantis"}
+{"label":"GPE","pattern":"Whittlesea"}
+{"label":"GPE","pattern":"Mlungisi"}
+{"label":"GPE","pattern":"Bishop Lavis"}
+{"label":"GPE","pattern":"Zebediela"}
+{"label":"GPE","pattern":"Heidelberg"}
+{"label":"GPE","pattern":"Saldanha"}
+{"label":"GPE","pattern":"Alberton"}
+{"label":"GPE","pattern":"Witbank"}
+{"label":"GPE","pattern":"Mitchells Plain"}
+{"label":"GPE","pattern":"Beaufort West"}
+{"label":"GPE","pattern":"Khanya"}
+{"label":"GPE","pattern":"Piet Retief"}
+{"label":"GPE","pattern":"Ladybrand"}
+{"label":"GPE","pattern":"Ngwelezana"}
+{"label":"GPE","pattern":"KwNdengezi"}
+{"label":"GPE","pattern":"Winkelspruit"}
+{"label":"GPE","pattern":"Port Edward"}
+{"label":"GPE","pattern":"Natalspruit"}
+{"label":"GPE","pattern":"Koppies"}
+{"label":"GPE","pattern":"Theunissen"}
+{"label":"GPE","pattern":"Verulam"}
+{"label":"GPE","pattern":"Sunrise"}
+{"label":"GPE","pattern":"Ntuze"}
+{"label":"GPE","pattern":"Sikwane"}
+{"label":"GPE","pattern":"Mohlakeng"}
+{"label":"GPE","pattern":"Brandfort"}
+{"label":"GPE","pattern":"Mandini"}
+{"label":"GPE","pattern":"Bushbuckridge"}
+{"label":"GPE","pattern":"Phelindaba"}
+{"label":"GPE","pattern":"Baragwanath"}
+{"label":"GPE","pattern":"KaNyamazane"}
+{"label":"GPE","pattern":"Groblersdal"}
+{"label":"GPE","pattern":"Bekkersdal"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Dassenhoek"}
+{"label":"GPE","pattern":"Steynsburg"}
+{"label":"GPE","pattern":"Ngcobo"}
+{"label":"GPE","pattern":"Etsheni"}
+{"label":"GPE","pattern":"Gobandlovu"}
+{"label":"GPE","pattern":"Ekwanzini"}
+{"label":"GPE","pattern":"Gezubuso"}
+{"label":"GPE","pattern":"Ndabayakhe"}
+{"label":"GPE","pattern":"Bhobhoyi"}
+{"label":"GPE","pattern":"Ogunjini"}
+{"label":"GPE","pattern":"Groutville"}
+{"label":"GPE","pattern":"KwaDlangezwa"}
+{"label":"GPE","pattern":"Steytlerville"}
+{"label":"GPE","pattern":"Umzinto"}
+{"label":"GPE","pattern":"Inchanga"}
+{"label":"GPE","pattern":"Boshof"}
+{"label":"GPE","pattern":"Bulhoek"}
+{"label":"GPE","pattern":"King William's Town"}
+{"label":"GPE","pattern":"Keiskammahoek"}
+{"label":"GPE","pattern":"Bela-Bela"}
+{"label":"GPE","pattern":"Meyerton"}
+{"label":"GPE","pattern":"Alexandria"}
+{"label":"GPE","pattern":"Knysna"}
+{"label":"GPE","pattern":"Oudtshoorn"}
+{"label":"GPE","pattern":"Mgungundlovu"}
+{"label":"GPE","pattern":"Malukazi"}
+{"label":"GPE","pattern":"Rivonia"}
+{"label":"GPE","pattern":"Table Mountain"}
+{"label":"GPE","pattern":"KwaShange"}
+{"label":"GPE","pattern":"Dealesville"}
+{"label":"GPE","pattern":"Zastron"}
+{"label":"GPE","pattern":"NwaNdengezi"}
+{"label":"GPE","pattern":"Kloof"}
+{"label":"GPE","pattern":"Sowanjane"}
+{"label":"GPE","pattern":"Njobokazi"}
+{"label":"GPE","pattern":"Coligny"}
+{"label":"GPE","pattern":"Kokstad"}
+{"label":"GPE","pattern":"Koster"}
+{"label":"GPE","pattern":"Vusimuzi"}
+{"label":"GPE","pattern":"Ntambanana"}
+{"label":"GPE","pattern":"Ensimbini"}
+{"label":"GPE","pattern":"Leslie"}
+{"label":"GPE","pattern":"Mqanduli"}
+{"label":"GPE","pattern":"Cambridge"}
+{"label":"GPE","pattern":"Burgersfort"}
+{"label":"GPE","pattern":"KwaMondi"}
+{"label":"GPE","pattern":"Port Alfred"}
+{"label":"GPE","pattern":"Murraysburg"}
+{"label":"GPE","pattern":"Brighton Beach"}
+{"label":"GPE","pattern":"Dudu"}
+{"label":"GPE","pattern":"Nietverdiend"}
+{"label":"GPE","pattern":"Plettenberg Bay"}
+{"label":"GPE","pattern":"Moteti"}
+{"label":"GPE","pattern":"Amavaravara"}
+{"label":"GPE","pattern":"Humansdorp"}
+{"label":"GPE","pattern":"Mafikeng"}
+{"label":"GPE","pattern":"Ginsberg"}
+{"label":"GPE","pattern":"Verkeerdevlei"}
+{"label":"GPE","pattern":"Victoria West"}
+{"label":"GPE","pattern":"Khutsong"}
+{"label":"GPE","pattern":"Khuma"}
+{"label":"GPE","pattern":"Hartbeesfontein"}
+{"label":"GPE","pattern":"Verwoerdburg"}
+{"label":"GPE","pattern":"Ezimbokodweni"}
+{"label":"GPE","pattern":"Rooigrond"}
+{"label":"GPE","pattern":"Ntokozweni"}
+{"label":"GPE","pattern":"Seven"}
+{"label":"GPE","pattern":"Duma"}
+{"label":"GPE","pattern":"Hanover"}
+{"label":"GPE","pattern":"KwaNqolothi"}
+{"label":"GPE","pattern":"Embabe"}
+{"label":"GPE","pattern":"Swayimane"}
+{"label":"GPE","pattern":"Pudimoe"}
+{"label":"GPE","pattern":"KwaDweshula"}
+{"label":"GPE","pattern":"Palm Beach"}
+{"label":"GPE","pattern":"Thafamasi"}
+{"label":"GPE","pattern":"Zwide"}
+{"label":"GPE","pattern":"Aberdeen"}
+{"label":"GPE","pattern":"Boitumelong"}
+{"label":"GPE","pattern":"Boksburg"}
+{"label":"GPE","pattern":"Ngonyameni"}
+{"label":"GPE","pattern":"Mantunzweni"}
+{"label":"GPE","pattern":"KwaMagoda"}
+{"label":"GPE","pattern":"Golokodo"}
+{"label":"GPE","pattern":"Butterworth"}
+{"label":"GPE","pattern":"Ngquza Hill"}
+{"label":"GPE","pattern":"Durnacol"}
+{"label":"GPE","pattern":"Phatheni"}
+{"label":"GPE","pattern":"Postmasburg"}
+{"label":"GPE","pattern":"Phomolong"}
+{"label":"GPE","pattern":"Dobsonville"}
+{"label":"GPE","pattern":"Potgietersrus"}
+{"label":"GPE","pattern":"Kareedouw"}
+{"label":"GPE","pattern":"Kekana"}
+{"label":"GPE","pattern":"Hosiyana"}
+{"label":"GPE","pattern":"Bhekuzulu"}
+{"label":"GPE","pattern":"Hadebe"}
+{"label":"GPE","pattern":"Mahwaqa"}
+{"label":"GPE","pattern":"Mbomboshana"}
+{"label":"GPE","pattern":"Stilfontein"}
+{"label":"GPE","pattern":"Greenlands"}
+{"label":"GPE","pattern":"Bulembu"}
+{"label":"GPE","pattern":"Lekubu"}
+{"label":"GPE","pattern":"Taylors Halt"}
+{"label":"GPE","pattern":"Brakpan"}
+{"label":"GPE","pattern":"Bothaville"}
+{"label":"GPE","pattern":"Tshing"}
+{"label":"GPE","pattern":"Jones"}
+{"label":"GPE","pattern":"Rouxville"}
+{"label":"GPE","pattern":"Bumbane"}
+{"label":"GPE","pattern":"Mputi"}
+{"label":"GPE","pattern":"Bongweni"}
+{"label":"GPE","pattern":"Tsolo"}
+{"label":"GPE","pattern":"Nigel"}
+{"label":"GPE","pattern":"Tzaneen"}
+{"label":"GPE","pattern":"Inkanyezini"}
+{"label":"GPE","pattern":"Umbgababa"}
+{"label":"GPE","pattern":"Hlobane"}
+{"label":"GPE","pattern":"Vryburg"}
+{"label":"GPE","pattern":"Marapong"}
+{"label":"GPE","pattern":"Indwe"}
+{"label":"GPE","pattern":"Balasi"}
+{"label":"GPE","pattern":"Nieu-Bethesda"}
+{"label":"GPE","pattern":"Mataleng"}
+{"label":"GPE","pattern":"Ashdown"}
+{"label":"GPE","pattern":"Phokeng"}
+{"label":"GPE","pattern":"Kraal"}
+{"label":"GPE","pattern":"Naboomspruit"}
+{"label":"GPE","pattern":"Griekwastad"}
+{"label":"GPE","pattern":"Emachobeni"}
+{"label":"GPE","pattern":"Barkly East"}
+{"label":"GPE","pattern":"Vanderbijlpark"}
+{"label":"GPE","pattern":"Dumbe"}
+{"label":"GPE","pattern":"Giyane"}
+{"label":"GPE","pattern":"Mabhuyeni"}
+{"label":"GPE","pattern":"Emabhuyeni"}
+{"label":"GPE","pattern":"Emathunzi"}
+{"label":"GPE","pattern":"Nsimbini"}
+{"label":"GPE","pattern":"Braamfontein"}
+{"label":"GPE","pattern":"Majaneng"}
+{"label":"GPE","pattern":"GaKgapane"}
+{"label":"GPE","pattern":"River"}
+{"label":"GPE","pattern":"Siyathemba"}
+{"label":"GPE","pattern":"Hazyview"}
+{"label":"GPE","pattern":"Sabie"}
+{"label":"GPE","pattern":"Umbogintwini"}
+{"label":"GPE","pattern":"Wesselton"}
+{"label":"GPE","pattern":"Emakhulisent"}
+{"label":"GPE","pattern":"Thenjani"}
+{"label":"GPE","pattern":"Botshabelo"}
+{"label":"GPE","pattern":"Luganda"}
+{"label":"GPE","pattern":"Lulekani"}
+{"label":"GPE","pattern":"Seymour"}
+{"label":"GPE","pattern":"Mapumulo"}
+{"label":"GPE","pattern":"Qumbu"}
+{"label":"GPE","pattern":"Eikenhof"}
+{"label":"GPE","pattern":"Parys"}
+{"label":"GPE","pattern":"Chimora"}
+{"label":"GPE","pattern":"Manzini"}
+{"label":"GPE","pattern":"Sinathing"}
+{"label":"GPE","pattern":"Kei River Bridge"}
+{"label":"GPE","pattern":"Paulpietersburg"}
+{"label":"GPE","pattern":"Maphumulo"}
+{"label":"GPE","pattern":"Nqutu"}
+{"label":"GPE","pattern":"Mkhazeni"}
+{"label":"GPE","pattern":"Tsakane"}
+{"label":"GPE","pattern":"Seshego"}
+{"label":"GPE","pattern":"Mdlazi"}
+{"label":"GPE","pattern":"Spongo"}
+{"label":"GPE","pattern":"Hertzogville"}
+{"label":"GPE","pattern":"Leeuwfontein"}
+{"label":"GPE","pattern":"Moutse"}
+{"label":"GPE","pattern":"Dongwe"}
+{"label":"GPE","pattern":"Tigane"}
+{"label":"GPE","pattern":"Jeffreys Bay"}
+{"label":"GPE","pattern":"Embalenhle"}
+{"label":"GPE","pattern":"Ondondolo"}
+{"label":"GPE","pattern":"Volksrust"}
+{"label":"GPE","pattern":"Meadowlands"}
+{"label":"GPE","pattern":"Bethelsdorp"}
+{"label":"GPE","pattern":"Dundee"}
+{"label":"GPE","pattern":"Pimville"}
+{"label":"GPE","pattern":"Nkandla"}
+{"label":"GPE","pattern":"Venterstad"}
+{"label":"GPE","pattern":"Mookgophong"}
+{"label":"GPE","pattern":"Umagababa"}
+{"label":"GPE","pattern":"Molale"}
+{"label":"GPE","pattern":"Louis Trichardt"}
+{"label":"GPE","pattern":"Sinating"}
+{"label":"GPE","pattern":"Mamafubedu"}
+{"label":"GPE","pattern":"KwaHlaza"}
+{"label":"GPE","pattern":"Dambuza"}
+{"label":"GPE","pattern":"Emangabazini"}
+{"label":"GPE","pattern":"Port St Johns"}
+{"label":"GPE","pattern":"Malelane"}
+{"label":"GPE","pattern":"KwaMtethwa"}
+{"label":"GPE","pattern":"Ga-Rankuwa"}
+{"label":"GPE","pattern":"Galeshewe"}
+{"label":"GPE","pattern":"Khujwana"}
+{"label":"GPE","pattern":"Nkowankowa"}
+{"label":"GPE","pattern":"Tshino"}
+{"label":"GPE","pattern":"Marburg"}
+{"label":"GPE","pattern":"Ventersburg"}
+{"label":"GPE","pattern":"Klaarwater"}
+{"label":"GPE","pattern":"Winterveldt"}
+{"label":"GPE","pattern":"Phuthaditjhaba"}
+{"label":"GPE","pattern":"Hoopstad"}
+{"label":"GPE","pattern":"Lehurutshe"}
+{"label":"GPE","pattern":"Dludlu"}
+{"label":"GPE","pattern":"Mutale River"}
+{"label":"GPE","pattern":"Nkqubela"}
+{"label":"GPE","pattern":"Orange Farm"}
+{"label":"GPE","pattern":"Maake"}
+{"label":"GPE","pattern":"Malamulele"}
+{"label":"GPE","pattern":"Crown"}
+{"label":"GPE","pattern":"KwaNxamalal"}
+{"label":"GPE","pattern":"Braklaagte"}
+{"label":"GPE","pattern":"Mvumelwano"}
+{"label":"GPE","pattern":"Delmas"}
+{"label":"GPE","pattern":"Masha"}
+{"label":"GPE","pattern":"Vleifontein"}
+{"label":"GPE","pattern":"Ndofela"}
+{"label":"GPE","pattern":"Saulsville"}
+{"label":"GPE","pattern":"Molopo"}
+{"label":"GPE","pattern":"Eersterus"}
+{"label":"GPE","pattern":"Zwelimbomvu"}
+{"label":"GPE","pattern":"Etholeni"}
+{"label":"GPE","pattern":"Bosfontein"}
+{"label":"GPE","pattern":"Goedemoed"}
+{"label":"GPE","pattern":"Breyten"}
+{"label":"GPE","pattern":"Jane Furse"}
+{"label":"GPE","pattern":"Elsburg"}
+{"label":"GPE","pattern":"Mountain Rise"}
+{"label":"GPE","pattern":"Itsoseng"}
+{"label":"GPE","pattern":"Tweespruit"}
+{"label":"GPE","pattern":"Aliwal North"}
+{"label":"GPE","pattern":"Ezibomvini"}
+{"label":"GPE","pattern":"Smithfield"}
+{"label":"GPE","pattern":"KwaSokhulu"}
+{"label":"GPE","pattern":"Josini Dam"}
+{"label":"GPE","pattern":"Wasbank"}
+{"label":"GPE","pattern":"KwaPata"}
+{"label":"GPE","pattern":"Naas"}
+{"label":"GPE","pattern":"Impumelelo"}
+{"label":"GPE","pattern":"Thabamoopo"}
+{"label":"GPE","pattern":"Inati"}
+{"label":"GPE","pattern":"Mobeni"}
+{"label":"GPE","pattern":"Ventersdorp"}
+{"label":"GPE","pattern":"Rust de Winter"}
+{"label":"GPE","pattern":"Phakamisa"}
+{"label":"GPE","pattern":"Vaalbank"}
+{"label":"GPE","pattern":"Katsibane"}
+{"label":"GPE","pattern":"Smero"}
+{"label":"GPE","pattern":"Nhlalakahle"}
+{"label":"GPE","pattern":"Jack"}
+{"label":"GPE","pattern":"Mahlaba"}
+{"label":"GPE","pattern":"Esigisini"}
+{"label":"GPE","pattern":"Weltevrede"}
+{"label":"GPE","pattern":"Mhluzi"}
+{"label":"GPE","pattern":"Mamani"}
+{"label":"GPE","pattern":"Tlhabane"}
+{"label":"GPE","pattern":"Ga-Kgapane"}
+{"label":"GPE","pattern":"Bramley"}
+{"label":"GPE","pattern":"Secunda"}
+{"label":"GPE","pattern":"Manamela"}
+{"label":"GPE","pattern":"Morgenzon"}
+{"label":"GPE","pattern":"Mngqesha"}
+{"label":"GPE","pattern":"Emagadini"}
+{"label":"GPE","pattern":"Utrecht"}
+{"label":"GPE","pattern":"Ebuhleni"}
+{"label":"GPE","pattern":"Majola"}
+{"label":"GPE","pattern":"Lindelani"}
+{"label":"GPE","pattern":"Batho"}
+{"label":"GPE","pattern":"Barkly-West"}
+{"label":"GPE","pattern":"Malgas"}
+{"label":"GPE","pattern":"Sekhukhuneland"}
+{"label":"GPE","pattern":"Cala"}
+{"label":"GPE","pattern":"Phalaborwa"}
+{"label":"GPE","pattern":"Sibasa"}
+{"label":"GPE","pattern":"Mapetla"}
+{"label":"GPE","pattern":"Namakgale"}
+{"label":"GPE","pattern":"Tweefontein"}
+{"label":"GPE","pattern":"Mofolo"}
+{"label":"GPE","pattern":"Lingelethu"}
+{"label":"GPE","pattern":"Malele"}
+{"label":"GPE","pattern":"Heilbron"}
+{"label":"GPE","pattern":"Emmanuel"}
+{"label":"GPE","pattern":"Snathing"}
+{"label":"GPE","pattern":"Oukasie"}
+{"label":"GPE","pattern":"Ntwane"}
+{"label":"GPE","pattern":"Actonville"}
+{"label":"GPE","pattern":"Kgakala"}
+{"label":"GPE","pattern":"Qamyana"}
+{"label":"GPE","pattern":"Ngangelizwe"}
+{"label":"GPE","pattern":"Sweetwaters"}
+{"label":"GPE","pattern":"Forest Hill"}
+{"label":"GPE","pattern":"Ethandakukhanya"}
+{"label":"GPE","pattern":"Ndakana"}
+{"label":"GPE","pattern":"Mbashe"}
+{"label":"GPE","pattern":"Esimbokodweni"}
+{"label":"GPE","pattern":"Magwababeni"}
+{"label":"GPE","pattern":"Sabeka"}
+{"label":"GPE","pattern":"Wombane"}
+{"label":"GPE","pattern":"Ethethe"}
+{"label":"GPE","pattern":"Makhado"}
+{"label":"GPE","pattern":"Quzini"}
+{"label":"GPE","pattern":"Dwarsloop"}
+{"label":"GPE","pattern":"Alicedale"}
+{"label":"GPE","pattern":"Mzimhlophe"}
+{"label":"GPE","pattern":"Aloevale"}
+{"label":"GPE","pattern":"Kgobokwane"}
+{"label":"GPE","pattern":"Ivory Park"}
+{"label":"GPE","pattern":"Cabhane"}
+{"label":"GPE","pattern":"Camp"}
+{"label":"GPE","pattern":"Kwarrielaagte"}
+{"label":"GPE","pattern":"Makgoba"}
+{"label":"GPE","pattern":"Machibini"}
+{"label":"GPE","pattern":"Kwaggafontein"}
+{"label":"GPE","pattern":"Bronkhorstspruit"}
+{"label":"GPE","pattern":"Bethal"}
+{"label":"GPE","pattern":"Mahlangu"}
+{"label":"GPE","pattern":"Weltevreden"}
+{"label":"GPE","pattern":"Kalkfontein"}
+{"label":"GPE","pattern":"Wolwekraal"}
+{"label":"GPE","pattern":"Dindela"}
+{"label":"GPE","pattern":"Enkanini"}
+{"label":"GPE","pattern":"Tarkastad"}
+{"label":"GPE","pattern":"Vrede"}
+{"label":"GPE","pattern":"Illfracombe"}
+{"label":"GPE","pattern":"Emthonjeni"}
+{"label":"GPE","pattern":"Edenville"}
+{"label":"GPE","pattern":"Hillcrest"}
+{"label":"GPE","pattern":"Obanjeni"}
+{"label":"GPE","pattern":"Sun City"}
+{"label":"GPE","pattern":"Isipingo"}
+{"label":"GPE","pattern":"Virginia"}
+{"label":"GPE","pattern":"Gelukwaarts"}
+{"label":"GPE","pattern":"Ilinge"}
+{"label":"GPE","pattern":"Sibongile"}
+{"label":"GPE","pattern":"Amsterdam"}
+{"label":"GPE","pattern":"Adams"}
+{"label":"GPE","pattern":"Qinabout"}
+{"label":"GPE","pattern":"Ga-Kibi"}
+{"label":"GPE","pattern":"Gatyane"}
+{"label":"GPE","pattern":"Sonmopho"}
+{"label":"GPE","pattern":"Bikizana"}
+{"label":"GPE","pattern":"Leeudoringstad"}
+{"label":"GPE","pattern":"Bhekizitha"}
+{"label":"GPE","pattern":"Kliprivier"}
+{"label":"GPE","pattern":"Macekane"}
+{"label":"GPE","pattern":"Somopho"}
+{"label":"GPE","pattern":"Elandskraal"}
+{"label":"GPE","pattern":"Koffiefontein"}
+{"label":"GPE","pattern":"Dannhauser"}
+{"label":"GPE","pattern":"Bethanie"}
+{"label":"GPE","pattern":"Nkomazi-West"}
+{"label":"GPE","pattern":"Nietveriend"}
+{"label":"GPE","pattern":"Senaoane"}
+{"label":"GPE","pattern":"Mkhambathini"}
+{"label":"GPE","pattern":"Maphanga"}
+{"label":"GPE","pattern":"Moloto"}
+{"label":"GPE","pattern":"Matwabeng"}
+{"label":"GPE","pattern":"Endlovini"}
+{"label":"GPE","pattern":"Mutale"}
+{"label":"GPE","pattern":"Mlozane"}
+{"label":"GPE","pattern":"Vulindlela"}
+{"label":"GPE","pattern":"Hibberdene"}
+{"label":"GPE","pattern":"Jabavu"}
+{"label":"GPE","pattern":"Likazi"}
+{"label":"GPE","pattern":"Driekoppies"}
+{"label":"GPE","pattern":"Isando"}
+{"label":"GPE","pattern":"Ackerville"}
+{"label":"GPE","pattern":"Phatsima"}
+{"label":"GPE","pattern":"Hoedspruit"}
+{"label":"GPE","pattern":"Naledi"}
+{"label":"GPE","pattern":"Mavuso"}
+{"label":"GPE","pattern":"Bottlebrush"}
+{"label":"GPE","pattern":"Umnini"}
+{"label":"GPE","pattern":"Cingi"}
+{"label":"GPE","pattern":"Vredefort"}
+{"label":"GPE","pattern":"Mangamazini"}
+{"label":"GPE","pattern":"Elukwatini"}
+{"label":"GPE","pattern":"Mathelanjeni"}
+{"label":"GPE","pattern":"Uvongo"}
+{"label":"GPE","pattern":"Komga"}
+{"label":"GPE","pattern":"Bhongweni"}
+{"label":"GPE","pattern":"Nsangwini"}
+{"label":"GPE","pattern":"Matanzima"}
+{"label":"GPE","pattern":"Mqeni"}
+{"label":"GPE","pattern":"Dokodweni"}
+{"label":"GPE","pattern":"Lebohang"}
+{"label":"GPE","pattern":"Bend"}
+{"label":"GPE","pattern":"Haladu"}
+{"label":"GPE","pattern":"Lenasia"}
+{"label":"GPE","pattern":"Emanjeni"}
+{"label":"GPE","pattern":"Nhlabane"}
+{"label":"GPE","pattern":"Enkonjeni"}
+{"label":"GPE","pattern":"mahwaqa"}
+{"label":"GPE","pattern":"KwaMpande"}
+{"label":"GPE","pattern":"Osindisweni"}
+{"label":"GPE","pattern":"Ntshidi"}
+{"label":"GPE","pattern":"Odondolo"}
+{"label":"GPE","pattern":"Vuklisaka"}
+{"label":"GPE","pattern":"Nsingweni"}
+{"label":"GPE","pattern":"Illovo"}
+{"label":"GPE","pattern":"Bhekezulu"}
+{"label":"GPE","pattern":"Nkosana"}
+{"label":"GPE","pattern":"Guguletu"}
+{"label":"GPE","pattern":"Nkobongo"}
+{"label":"GPE","pattern":"Ntshangweni"}
+{"label":"GPE","pattern":"Ntiyahe"}
+{"label":"GPE","pattern":"Berea"}
+{"label":"GPE","pattern":"Enkunzini"}
+{"label":"GPE","pattern":"Makeng"}
+{"label":"GPE","pattern":"Maghabeni"}
+{"label":"GPE","pattern":"Ulazi"}
+{"label":"GPE","pattern":"Ramotswe"}
+{"label":"GPE","pattern":"Mhlanga"}
+{"label":"GPE","pattern":"KwaThema"}
+{"label":"GPE","pattern":"Mophela"}
+{"label":"GPE","pattern":"Bomvini"}
+{"label":"GPE","pattern":"Power Park"}
+{"label":"GPE","pattern":"Mafakathini"}
+{"label":"GPE","pattern":"Bethany"}
+{"label":"GPE","pattern":"Centerton"}
+{"label":"GPE","pattern":"Vezunyawo"}
+{"label":"GPE","pattern":"Ekuphumleni"}
+{"label":"GPE","pattern":"Enteneshana"}
+{"label":"GPE","pattern":"Bultfontein"}
+{"label":"GPE","pattern":"Entoweni"}
+{"label":"GPE","pattern":"Sihuzu"}
+{"label":"GPE","pattern":"Cato Ridge"}
+{"label":"GPE","pattern":"Bhukhanana"}
+{"label":"GPE","pattern":"Esigcakeni"}
+{"label":"GPE","pattern":"Nqutshini"}
+{"label":"GPE","pattern":"Vulisaka"}
+{"label":"GPE","pattern":"Sbululwane"}
+{"label":"GPE","pattern":"Hankey"}
+{"label":"GPE","pattern":"Jozini Dam"}
+{"label":"GPE","pattern":"Boschfontein"}
+{"label":"GPE","pattern":"Witrivier"}
+{"label":"GPE","pattern":"Trust Feeds"}
+{"label":"GPE","pattern":"Harding"}
+{"label":"GPE","pattern":"Gamkulu"}
+{"label":"GPE","pattern":"Mubhuyeni"}
+{"label":"GPE","pattern":"KwaSomopho"}
+{"label":"GPE","pattern":"Nondweni"}
+{"label":"GPE","pattern":"Bedworth Park"}
+{"label":"GPE","pattern":"KwaXimba"}
+{"label":"GPE","pattern":"Reitz"}
+{"label":"GPE","pattern":"Makhempini"}
+{"label":"GPE","pattern":"Mngadi"}
+{"label":"GPE","pattern":"Jozini"}
+{"label":"GPE","pattern":"Ingwavuma"}
+{"label":"GPE","pattern":"Sikhupheni"}
+{"label":"GPE","pattern":"Mkhomo"}
+{"label":"GPE","pattern":"Mkhwanazi"}
+{"label":"GPE","pattern":"Allanridge"}
+{"label":"GPE","pattern":"Gezina"}
+{"label":"GPE","pattern":"Petrus Steyn"}
+{"label":"GPE","pattern":"Isandlwana"}
+{"label":"GPE","pattern":"Emndeni"}
+{"label":"GPE","pattern":"Mogashoa"}
+{"label":"GPE","pattern":"Maokeng"}
+{"label":"GPE","pattern":"Ga-Phasha"}
+{"label":"GPE","pattern":"Ekangala"}
+{"label":"GPE","pattern":"Egoli"}
+{"label":"GPE","pattern":"Engotsheni"}
+{"label":"GPE","pattern":"Mapela"}
+{"label":"GPE","pattern":"Potchefstroom"}
+{"label":"GPE","pattern":"Welbedacht"}
+{"label":"GPE","pattern":"Motswedi"}
+{"label":"GPE","pattern":"Khayamnandi"}
+{"label":"GPE","pattern":"Zamdela"}
+{"label":"GPE","pattern":"Komati"}
+{"label":"GPE","pattern":"Kamaqhekeza"}
+{"label":"GPE","pattern":"Graspan"}
+{"label":"GPE","pattern":"Mankweng"}
+{"label":"GPE","pattern":"Makwassie"}
+{"label":"GPE","pattern":"Bafokeng"}
+{"label":"GPE","pattern":"Emlathuze"}
+{"label":"GPE","pattern":"ndwedwe"}
+{"label":"GPE","pattern":"Verena"}
+{"label":"GPE","pattern":"Ensigisini"}
+{"label":"GPE","pattern":"Tabankulu"}
+{"label":"GPE","pattern":"Witsieshoek"}
+{"label":"GPE","pattern":"Ga-Mothapo"}
+{"label":"GPE","pattern":"Phahameng"}
+{"label":"GPE","pattern":"Vierfontein"}
+{"label":"GPE","pattern":"Diepgezet"}
+{"label":"GPE","pattern":"Motsamai"}
+{"label":"GPE","pattern":"Emkhonjeni"}
+{"label":"GPE","pattern":"Letaba"}
+{"label":"GPE","pattern":"Molapo"}
+{"label":"GPE","pattern":"Nyoni"}
+{"label":"GPE","pattern":"Petrusville"}
+{"label":"GPE","pattern":"Emkhonjane"}
+{"label":"GPE","pattern":"KwaSithebe"}
+{"label":"GPE","pattern":"Mbuzini"}
+{"label":"GPE","pattern":"Lobatse"}
+{"label":"GPE","pattern":"Mphahlele"}
+{"label":"GPE","pattern":"Bolata"}
+{"label":"GPE","pattern":"Northdale"}
+{"label":"GPE","pattern":"Ikwezi"}
+{"label":"GPE","pattern":"Houtkop"}
+{"label":"GPE","pattern":"Petsana"}
+{"label":"GPE","pattern":"Lichtenburg"}
+{"label":"GPE","pattern":"Rockville"}
+{"label":"GPE","pattern":"taung"}
+{"label":"GPE","pattern":"Hartebeesfontein"}
+{"label":"GPE","pattern":"Kestell"}
+{"label":"GPE","pattern":"Fochville"}
+{"label":"GPE","pattern":"Winburg"}
+{"label":"GPE","pattern":"Lebuku"}
+{"label":"GPE","pattern":"Mafekeng"}
+{"label":"GPE","pattern":"Harrismith"}
+{"label":"GPE","pattern":"Ntiyane"}
+{"label":"GPE","pattern":"Ha-Mpofu"}
+{"label":"GPE","pattern":"Oberholzer"}
+{"label":"GPE","pattern":"Mashana"}
+{"label":"GPE","pattern":"Ntamtengayo"}
+{"label":"GPE","pattern":"Mangezi"}
+{"label":"GPE","pattern":"Mtamtengane"}
+{"label":"GPE","pattern":"Mpevu"}
+{"label":"GPE","pattern":"Ndodwane"}
+{"label":"GPE","pattern":"Esperanza"}
+{"label":"GPE","pattern":"Sakhotshe"}
+{"label":"GPE","pattern":"Mission"}
+{"label":"GPE","pattern":"Georgedale"}
+{"label":"GPE","pattern":"Masomonco"}
+{"label":"GPE","pattern":"Mangwe"}
+{"label":"GPE","pattern":"Ntlize"}
+{"label":"GPE","pattern":"Mbhuyeni"}
+{"label":"GPE","pattern":"Entowini"}
+{"label":"GPE","pattern":"KwaMpevu"}
+{"label":"GPE","pattern":"Ndlovuangena"}
+{"label":"GPE","pattern":"Mopophomeni"}
+{"label":"GPE","pattern":"Langlaagte"}
+{"label":"GPE","pattern":"Sthembile"}
+{"label":"GPE","pattern":"Scottburgh"}
+{"label":"GPE","pattern":"KwaDabeka"}
+{"label":"GPE","pattern":"Rhodesia"}
+{"label":"GPE","pattern":"Kwadela"}
+{"label":"GPE","pattern":"Peelton"}
+{"label":"GPE","pattern":"Dysselsdorp"}
+{"label":"GPE","pattern":"Gardens"}
+{"label":"GPE","pattern":"Ntenjana"}
+{"label":"GPE","pattern":"Patensie"}
+{"label":"GPE","pattern":"Enwabi"}
+{"label":"GPE","pattern":"Bolotwa"}
+{"label":"GPE","pattern":"Ncekwane"}
+{"label":"GPE","pattern":"Mangweni"}
+{"label":"GPE","pattern":"Nqolothi"}
+{"label":"GPE","pattern":"Qhibukhowe"}
+{"label":"GPE","pattern":"Ozwathini"}
+{"label":"GPE","pattern":"Ramsgate"}
+{"label":"GPE","pattern":"Middledrift"}
+{"label":"GPE","pattern":"Mbotsha"}
+{"label":"GPE","pattern":"Marina Beach"}
+{"label":"GPE","pattern":"Ogies"}
+{"label":"GPE","pattern":"Onverwacht"}
+{"label":"GPE","pattern":"KwaNobuhle"}
+{"label":"GPE","pattern":"Ntshonweni"}
+{"label":"GPE","pattern":"Malakazi"}
+{"label":"GPE","pattern":"Mpandweni"}
+{"label":"GPE","pattern":"gobandlovu"}
+{"label":"GPE","pattern":"Tshelimnyama"}
+{"label":"GPE","pattern":"Steadville"}
+{"label":"GPE","pattern":"Magcino"}
+{"label":"GPE","pattern":"Nzhelele"}
+{"label":"GPE","pattern":"Fort Jackson"}
+{"label":"GPE","pattern":"Nancefield"}
+{"label":"GPE","pattern":"Matshaheni"}
+{"label":"GPE","pattern":"KwaShozi"}
+{"label":"GPE","pattern":"Sigisi"}
+{"label":"GPE","pattern":"Debe Nek"}
+{"label":"GPE","pattern":"Embonisweni"}
+{"label":"GPE","pattern":"Zamani"}
+{"label":"GPE","pattern":"Ekwandeni"}
+{"label":"GPE","pattern":"Mpolweni"}
+{"label":"GPE","pattern":"Hluhluwe"}
+{"label":"GPE","pattern":"Entshawinini"}
+{"label":"GPE","pattern":"Mgwagwa"}
+{"label":"GPE","pattern":"Mashaheni"}
+{"label":"GPE","pattern":"Inadi"}
+{"label":"GPE","pattern":"Utlwanang"}
+{"label":"GPE","pattern":"Mfume"}
+{"label":"GPE","pattern":"Mgendwa"}
+{"label":"GPE","pattern":"Mapumolo"}
+{"label":"GPE","pattern":"Gobozana"}
+{"label":"GPE","pattern":"Esigandeni"}
+{"label":"GPE","pattern":"KwaMthehtwa"}
+{"label":"GPE","pattern":"Roma"}
+{"label":"GPE","pattern":"Ilfracombe"}
+{"label":"GPE","pattern":"Malulazi"}
+{"label":"GPE","pattern":"Grabouw"}
+{"label":"GPE","pattern":"Nogobhoza"}
+{"label":"GPE","pattern":"Makhehla"}
+{"label":"GPE","pattern":"Swela"}
+{"label":"GPE","pattern":"Taylors"}
+{"label":"GPE","pattern":"Enhlalakahle"}
+{"label":"GPE","pattern":"Nkonyeni"}
+{"label":"GPE","pattern":"Emangweni"}
+{"label":"GPE","pattern":"Nkoyeni"}
+{"label":"GPE","pattern":"Lebaleng"}
+{"label":"GPE","pattern":"Mazambane"}
+{"label":"GPE","pattern":"Warden"}
+{"label":"GPE","pattern":"Ekwazini"}
+{"label":"GPE","pattern":"Maqongqo"}
+{"label":"GPE","pattern":"Zola"}
+{"label":"GPE","pattern":"Hermanus"}
+{"label":"GPE","pattern":"Cebekhulu"}
+{"label":"GPE","pattern":"Uvondlo"}
+{"label":"GPE","pattern":"Louwsburg"}
+{"label":"GPE","pattern":"Gwagwa"}
+{"label":"GPE","pattern":"Maidstone"}
+{"label":"GPE","pattern":"Ceres"}
+{"label":"GPE","pattern":"Babelegi"}
+{"label":"GPE","pattern":"Mtubatuba"}
+{"label":"GPE","pattern":"Isigisi"}
+{"label":"GPE","pattern":"Atamelang"}
+{"label":"GPE","pattern":"Delareyville"}
+{"label":"GPE","pattern":"Ga-Moloi"}
+{"label":"GPE","pattern":"Hlankomo"}
+{"label":"GPE","pattern":"KwaDlamu"}
+{"label":"GPE","pattern":"Makouspan"}
+{"label":"GPE","pattern":"Nqabeni"}
+{"label":"GPE","pattern":"Gomopho"}
+{"label":"GPE","pattern":"Ngwemabalala"}
+{"label":"GPE","pattern":"Ntshangase"}
+{"label":"GPE","pattern":"Mooiplaas"}
+{"label":"GPE","pattern":"Sownajane"}
+{"label":"GPE","pattern":"Buffelspruit"}
+{"label":"GPE","pattern":"Driekop"}
+{"label":"GPE","pattern":"Emalahleni"}
+{"label":"GPE","pattern":"Zikhali"}
+{"label":"GPE","pattern":"Kranskop"}
+{"label":"GPE","pattern":"Kabokwane"}
+{"label":"GPE","pattern":"KwaMafunza"}
+{"label":"GPE","pattern":"Nkanyisweni"}
+{"label":"GPE","pattern":"Ntuthuka"}
+{"label":"GPE","pattern":"Embokodweni"}
+{"label":"GPE","pattern":"Madakane"}
+{"label":"GPE","pattern":"Gwadu"}
+{"label":"GPE","pattern":"Mgwali"}
+{"label":"GPE","pattern":"Sunduzwayo"}
+{"label":"GPE","pattern":"Emahedi"}
+{"label":"GPE","pattern":"Laudium"}
+{"label":"GPE","pattern":"Dzanani"}
+{"label":"GPE","pattern":"Chatsworth"}
+{"label":"GPE","pattern":"Vredenburg"}
+{"label":"GPE","pattern":"Phayipheni"}
+{"label":"GPE","pattern":"Phungula"}
+{"label":"GPE","pattern":"Radebe"}
+{"label":"GPE","pattern":"Douglas"}
+{"label":"GPE","pattern":"Masele"}
+{"label":"GPE","pattern":"Mauluma"}
+{"label":"GPE","pattern":"Harrison"}
+{"label":"GPE","pattern":"Pienaarsrivier"}
+{"label":"GPE","pattern":"Dwaalboom"}
+{"label":"GPE","pattern":"Rhodes"}
+{"label":"GPE","pattern":"Glencoe"}
+{"label":"GPE","pattern":"Ravensmead"}
+{"label":"GPE","pattern":"Eldorado"}
+{"label":"GPE","pattern":"Assagay"}
+{"label":"GPE","pattern":"Ga-Dikgale"}
+{"label":"GPE","pattern":"Tyoksville"}
+{"label":"GPE","pattern":"Bhele"}
+{"label":"GPE","pattern":"Sangweni"}
+{"label":"GPE","pattern":"Nhlazatshe"}
+{"label":"GPE","pattern":"Ga-Matlala"}
+{"label":"GPE","pattern":"Zweletemba"}
+{"label":"GPE","pattern":"Volkrust"}
+{"label":"GPE","pattern":"Umkomazi"}
+{"label":"GPE","pattern":"Oganjeni"}
+{"label":"GPE","pattern":"Mphelandaba"}
+{"label":"GPE","pattern":"Mangageni"}
+{"label":"GPE","pattern":"Ndundumeni"}
+{"label":"GPE","pattern":"Osuthu"}
+{"label":"GPE","pattern":"Mafunza"}
+{"label":"GPE","pattern":"Calitzdorp"}
+{"label":"GPE","pattern":"Talane"}
+{"label":"GPE","pattern":"Nkothaneni"}
+{"label":"GPE","pattern":"Mathulini"}
+{"label":"GPE","pattern":"Rosmead"}
+{"label":"GPE","pattern":"Nzimakwe"}
+{"label":"GPE","pattern":"Mawoti"}
+{"label":"GPE","pattern":"Ngodini"}
+{"label":"GPE","pattern":"HaMaila"}
+{"label":"GPE","pattern":"Mdlankomo"}
+{"label":"GPE","pattern":"Solani"}
+{"label":"GPE","pattern":"Sidlamafa"}
+{"label":"GPE","pattern":"Sosibo"}
+{"label":"GPE","pattern":"KwaMakutha"}
+{"label":"GPE","pattern":"Nongoma"}
+{"label":"GPE","pattern":"KwaNgwanase"}
+{"label":"GPE","pattern":"Roodewal"}
+{"label":"GPE","pattern":"Shongwe"}
+{"label":"GPE","pattern":"Lydenburg"}
+{"label":"GPE","pattern":"Embo"}
+{"label":"GPE","pattern":"Mtsheketsheni"}
+{"label":"GPE","pattern":"Qunu"}
+{"label":"GPE","pattern":"Mabuya"}
+{"label":"GPE","pattern":"KwaZayeka"}
+{"label":"GPE","pattern":"Esigodlweni"}
+{"label":"GPE","pattern":"Mafeking"}
+{"label":"GPE","pattern":"Madibogo"}
+{"label":"GPE","pattern":"Makwarela"}
+{"label":"GPE","pattern":"Libode"}
+{"label":"GPE","pattern":"Emabheceni"}
+{"label":"GPE","pattern":"Casteel"}
+{"label":"GPE","pattern":"Madikwe"}
+{"label":"GPE","pattern":"Elliotdale"}
+{"label":"GPE","pattern":"Jolivet"}
+{"label":"GPE","pattern":"Lynnville"}
+{"label":"GPE","pattern":"Empuluzi"}
+{"label":"GPE","pattern":"Tora"}
+{"label":"GPE","pattern":"Dlepu"}
+{"label":"GPE","pattern":"Bosmont"}
+{"label":"GPE","pattern":"Villiers"}
+{"label":"GPE","pattern":"Devon"}
+{"label":"GPE","pattern":"Korsten"}
+{"label":"GPE","pattern":"Riversdale"}
+{"label":"GPE","pattern":"Van Wyk"}
+{"label":"GPE","pattern":"Tafelkop"}
+{"label":"GPE","pattern":"Nokweja"}
+{"label":"GPE","pattern":"umgababa"}
+{"label":"GPE","pattern":"Gomane"}
+{"label":"GPE","pattern":"KwaMakthutha"}
+{"label":"GPE","pattern":"Mqolombeni"}
+{"label":"GPE","pattern":"KwaMfana"}
+{"label":"GPE","pattern":"Sinyabusi"}
+{"label":"GPE","pattern":"Mbabe"}
+{"label":"GPE","pattern":"Mahashini"}
+{"label":"GPE","pattern":"Impendle"}
+{"label":"GPE","pattern":"Umlalazi"}
+{"label":"GPE","pattern":"Esimbini"}
+{"label":"GPE","pattern":"Nqamakwe"}
