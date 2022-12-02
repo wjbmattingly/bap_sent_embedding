@@ -17,4 +17,4 @@ leafmap
 geopandas
 streamlit_timeline
 spacy
-streamlit-spacy
+spacy-streamlit

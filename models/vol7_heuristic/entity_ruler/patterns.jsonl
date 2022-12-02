@@ -23,6 +23,8 @@
 {"label":"EVENT","pattern":[{"LEMMA":"Trojan"},{"LEMMA":"Horse"},{"LEMMA":"Incident"}]}
 {"label":"EVENT","pattern":[{"LEMMA":"Church"},{"LEMMA":"Street"},{"LEMMA":"Bombing"}]}
 {"label":"EVENT","pattern":[{"LEMMA":"1985"},{"LEMMA":"school"},{"LEMMA":"boycotts"}]}
+{"label":"EVENT","pattern":[{"LEMMA":"Trojan"},{"LEMMA":"Horse"},{"LEMMA":"incident"}]}
+{"label":"HRV","pattern":[{"LEMMA":"burn"},{"LEMMA":"to"},{"LEMMA":"death"}]}
 {"label":"HRV","pattern":[{"LEMMA":"kill"}]}
 {"label":"HRV","pattern":[{"LEMMA":"rape"}]}
 {"label":"HRV","pattern":[{"LEMMA":"petrol"},{"LEMMA":"bomb"}]}
@@ -30,6 +32,7 @@
 {"label":"HRV","pattern":[{"LEMMA":"kick"}]}
 {"label":"HRV","pattern":[{"LEMMA":"shoot"},{"LEMMA":"dead"}]}
 {"label":"HRV","pattern":[{"LEMMA":"stab"},{"LEMMA":"to"},{"LEMMA":"death"}]}
+{"label":"HRV","pattern":[{"LEMMA":"murder"}]}
 {"label":"HRV","pattern":[{"LEMMA":"shoot"}]}
 {"label":"HRV","pattern":[{"LEMMA":"injure"}]}
 {"label":"HRV","pattern":[{"LEMMA":"beat"}]}
@@ -43,6 +46,7 @@
 {"label":"HRV","pattern":[{"LEMMA":"assault"}]}
 {"label":"HRV","pattern":[{"LEMMA":"torture"}]}
 {"label":"HRV","pattern":[{"LEMMA":"arrest"}]}
+{"label":"HRV","pattern":[{"LEMMA":"convict"}]}
 {"label":"HRV","pattern":[{"LEMMA":"necklace"}]}
 {"label":"HRV","pattern":[{"LEMMA":"steal"}]}
 {"label":"HRV","pattern":[{"LEMMA":"imprison"}]}
@@ -374,6 +378,7 @@
 {"label":"ORG","pattern":"Impumelelo Combined School"}
 {"label":"ORG","pattern":"Inala School"}
 {"label":"ORG","pattern":"Independent Board of Enquiry"}
+{"label":"ORG","pattern":"Inkatha"}
 {"label":"ORG","pattern":"Inkatha Freedom Party"}
 {"label":"ORG","pattern":"Inkatha IFP"}
 {"label":"ORG","pattern":"Inkatha Youth Brigade"}
