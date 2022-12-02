@@ -7,13 +7,6 @@ from spacy.tokens import Span
 from spacy_streamlit import visualize_ner
 from spacy.util import filter_spans
 
-import sys
-import subprocess
-
-# implement pip as a subprocess:
-subprocess.check_call([sys.executable, '-m', 'pip', 'install',
-'spacy'])
-
 @Language.component("keep_dates")
 def keep_dates(doc):
     ents = []
