@@ -128,8 +128,8 @@ if model_type == "Testimonies":
 
     elif style== "Search by Keywords":
         columns = st.columns(2)
-        keywords = columns[0].text_input("Which Statements would you like to search? (Use the Victim Index Numbers)", "burn")
-        num_docs = columns[1].number_input("How many socuments do you want to see from this topic?", 5)
+        keywords = columns[0].text_input("Which Statements would you like to search?", "burn")
+        num_docs = columns[1].number_input("How many documents do you want to see from this topic?", 5)
         document_keywords = [k.strip() for k in keywords.split(",")]
         files_expander = st.expander("files_data")
         # get_data("dbk", keywords=document_keywords, num_docs=num_docs)
